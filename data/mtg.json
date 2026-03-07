@@ -1,6 +1,15 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "",
-  "entries": []
+  "summary": "Marjorie Taylor Greene's campaign, Greene For Congress, Inc., has been taken to court by Equity Prime Mortgage, LLC. This lawsuit indicates that Greene's organization has had issues with financial obligations. The facts show that Greene's campaign has been involved in a legal dispute related to financial matters. Greene's pattern of behavior suggests a lack of accountability in her financial dealings. The court case against her campaign underscores this lack of accountability.",
+  "entries": [
+    {
+      "id": 1,
+      "figure": "mtg",
+      "date": "2024-10-31",
+      "fact": "A court case was filed as EQUITY PRIME MORTGAGE, LLC v. GREENE FOR CONGRESS, INC.",
+      "source": "CourtListener",
+      "url": "https://www.courtlistener.com/opinion/10171841/equity-prime-mortgage-llc-v-greene-for-congress-inc/"
+    }
+  ]
 }
