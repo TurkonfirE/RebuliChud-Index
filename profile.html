@@ -34,39 +34,29 @@
         return;
       }
 
-      // Load figures config to get display name
       let figureMeta;
       try {
         const figures = await fetch('figures.json').then(r => r.json());
         figureMeta = figures.find(f => f.slug === slug);
-      } catch {
-        figureMeta = null;
-      }
+      } catch { figureMeta = null; }
 
-      // Load figure data
       let data;
       try {
         data = await fetch(`data/${slug}.json`).then(r => r.json());
-      } catch {
-        data = null;
-      }
+      } catch { data = null; }
 
       const name = data?.name || figureMeta?.name || slug;
-      document.title = `${name} — RepubliChud Index`;
+      document.title = `${escapeHtml(name)} — RepubliChud Index`;
 
-      // Build profile header
       let html = `<div class="profile-header"><h2>${escapeHtml(name)}</h2></div>`;
 
-      // Summary
       if (data?.summary) {
         html += `<div class="profile-summary">${escapeHtml(data.summary)}</div>`;
       } else {
         html += `<div class="profile-summary empty">Data is being compiled. Check back shortly.</div>`;
       }
 
-      // Entries
       if (data?.entries && data.entries.length > 0) {
-        // Sort newest first
         const sorted = [...data.entries].sort((a, b) => new Date(b.date) - new Date(a.date));
 
         html += `<div class="entries-label">Reprehensible Activity</div>`;
@@ -74,15 +64,22 @@
 
         sorted.forEach(entry => {
           const dateStr = formatDate(entry.date);
-          const sourceLabel = shortenSource(entry.source);
+
+          // Handle both legacy (single source/url) and new (sources array) formats
+          let sourcesHtml = '';
+          if (entry.sources && Array.isArray(entry.sources) && entry.sources.length > 0) {
+            sourcesHtml = entry.sources
+              .map(s => `<a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">${escapeHtml(shortenSource(s.name))}</a>`)
+              .join(' · ');
+          } else if (entry.url) {
+            sourcesHtml = `<a href="${escapeHtml(entry.url)}" target="_blank" rel="noopener">${escapeHtml(shortenSource(entry.source || 'Source'))}</a>`;
+          }
 
           html += `
             <div class="entry-row">
               <div class="entry-date">${escapeHtml(dateStr)}</div>
               <div class="entry-fact">${escapeHtml(entry.fact)}</div>
-              <div class="entry-source">
-                <a href="${escapeHtml(entry.url)}" target="_blank" rel="noopener">${escapeHtml(sourceLabel)}</a>
-              </div>
+              <div class="entry-sources">${sourcesHtml}</div>
             </div>`;
         });
 
@@ -94,8 +91,6 @@
       }
 
       container.innerHTML = html;
-
-      // ---- Helpers ----
 
       function escapeHtml(str) {
         const div = document.createElement('div');
@@ -110,28 +105,29 @@
 
       function shortenSource(source) {
         const map = {
-          'new york times': 'NYT',
-          'nytimes': 'NYT',
-          'washington post': 'WaPo',
-          'associated press': 'AP',
-          'reuters': 'Reuters',
-          'c-span': 'C-SPAN',
-          'cnn': 'CNN',
-          'politico': 'Politico',
-          'the guardian': 'Guardian',
-          'bbc': 'BBC',
-          'npr': 'NPR',
-          'congress.gov': 'Congress',
-          'courtlistener': 'Court Record',
-          'fec': 'FEC',
+          'new york times': 'NYT', 'nytimes': 'NYT', 'the new york times': 'NYT',
+          'washington post': 'WaPo', 'the washington post': 'WaPo',
+          'associated press': 'AP', 'ap news': 'AP',
+          'reuters': 'Reuters', 'c-span': 'C-SPAN', 'cnn': 'CNN',
+          'politico': 'Politico', 'the guardian': 'Guardian', 'bbc': 'BBC',
+          'npr': 'NPR', 'npr news': 'NPR',
+          'congress.gov': 'Congress', 'courtlistener': 'Court Record',
+          'fec': 'FEC', 'pbs newshour': 'PBS', 'the hill': 'The Hill',
+          'abc news': 'ABC', 'nbc news': 'NBC', 'cbs news': 'CBS',
+          'usa today': 'USA Today', 'huffpost': 'HuffPost',
+          'the atlantic': 'Atlantic', 'vox': 'Vox', 'axios': 'Axios',
+          'time': 'Time', 'fortune': 'Fortune', 'forbes': 'Forbes',
+          'the new yorker': 'New Yorker', 'the economist': 'Economist',
+          'the daily beast': 'Daily Beast', 'business insider': 'Insider',
+          'wikipedia': 'Wikipedia', 'salon': 'Salon',
+          'pew research center': 'Pew', 'brookings institution': 'Brookings',
         };
         const lower = source.toLowerCase();
         for (const [key, val] of Object.entries(map)) {
           if (lower.includes(key)) return val;
         }
-        // Shorten to first two words max
         const words = source.split(' ');
-        return words.length > 2 ? words.slice(0, 2).join(' ') : source;
+        return words.length > 3 ? words.slice(0, 2).join(' ') : source;
       }
     })();
   </script>

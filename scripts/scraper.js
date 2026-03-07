@@ -1,31 +1,24 @@
 /**
- * RepubliChud Index — Scraper
+ * RepubliChud Index — Scraper v3
  *
- * Sources (all used for both historical sweep and ongoing):
- *   - GDELT Project (news articles indexed globally)
- *   - CourtListener (federal court documents)
- *   - Congress.gov API (votes, bills, actions)
- *   - AP Politics RSS
- *   - Reuters Politics RSS
- *   - C-SPAN RSS
+ * Pipeline:
+ *   1. INIT (once per figure): Wikipedia HTML → parse sections + reference URLs → Groq extract
+ *   2. ONGOING (every 6h): GDELT + CourtListener + Congress.gov + RSS → Groq extract
+ *   3. Within-batch consolidation: Groq merges duplicate events into single entries w/ multiple sources
+ *   4. 5-day window consolidation: Groq compares new entries against last 5 days of existing entries
+ *   5. String dedup: free safety net against ALL existing entries
+ *   6. Per-figure git commit
  *
- * Flow:
- *   1. Read figures.json
- *   2. For each figure: if no data file → historical sweep, else → recent scrape
- *   3. All raw articles/documents → Groq extraction
- *   4. Deduplicate against existing entries
- *   5. Append new entries to data/{slug}.json
- *   6. Regenerate summary via summarize.js
- *   7. Commit changes via git
+ * Data format:
+ *   { date, fact, sources: [{ name, url }] }
  *
- * Environment:
- *   GROQ_API_KEY — required
- *   Runs in GitHub Actions (Node.js 20+)
+ * Environment: GROQ_API_KEY (required), runs in GitHub Actions (Node 20+)
  */
 
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const http = require('http');
 const { execSync } = require('child_process');
 
 // ============================================================
@@ -35,44 +28,84 @@ const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const GROQ_MODEL = 'llama-3.3-70b-versatile';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const FIGURES_PATH = path.join(__dirname, '..', 'figures.json');
-const SUMMARIZE_PATH = path.join(__dirname, 'summarize.js');
-
-// Rate limiting for Groq
-const GROQ_DELAY_MS = 1500;
 
 // ============================================================
-// HTTP HELPERS
+// UTILITIES
+// ============================================================
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// ============================================================
+// RATE LIMITER
+// ============================================================
+class RateLimiter {
+  constructor() {
+    this.lastCall = {};
+    this.delays = {
+      gdelt: 6000,       // GDELT: "one request every 5 seconds"
+      courtlistener: 1000,
+      congress: 500,
+      rss: 300,
+      groq: 6000,        // 12k TPM / ~1100 tok per call = ~10.9 calls/min. 6s = 10 calls/min
+      wikipedia: 1000,
+    };
+  }
+  async wait(source) {
+    const minDelay = this.delays[source] || 1000;
+    const elapsed = Date.now() - (this.lastCall[source] || 0);
+    if (elapsed < minDelay) await sleep(minDelay - elapsed);
+    this.lastCall[source] = Date.now();
+  }
+}
+const limiter = new RateLimiter();
+
+// ============================================================
+// RETRY: 429s retry until 120s timeout. Other errors fail immediately.
+// 120s = 2 × Groq's 60s rate limit window.
+// ============================================================
+const RETRY_TIMEOUT_MS = 120_000;
+
+async function withRetry(fn, { label = '' } = {}) {
+  const deadline = Date.now() + RETRY_TIMEOUT_MS;
+  while (true) {
+    try {
+      return await fn();
+    } catch (err) {
+      const is429 = err.message.includes('429') || err.message.includes('rate_limit');
+      if (!is429) throw err;
+      if (Date.now() >= deadline) throw err;
+      let waitMs = 5000;
+      const match = err.message.match(/try again in ([\d.]+)s/);
+      if (match) waitMs = Math.ceil(parseFloat(match[1]) * 1000) + 500;
+      const remaining = deadline - Date.now();
+      if (waitMs > remaining) waitMs = remaining;
+      console.log(`    [retry] ${label} — waiting ${(waitMs / 1000).toFixed(1)}s (${(remaining / 1000).toFixed(0)}s left)`);
+      await sleep(waitMs);
+    }
+  }
+}
+
+// ============================================================
+// HTTP
 // ============================================================
 function httpGet(url, headers = {}) {
   return new Promise((resolve, reject) => {
-    const parsedUrl = new URL(url);
-    const options = {
-      hostname: parsedUrl.hostname,
-      path: parsedUrl.pathname + parsedUrl.search,
+    const mod = url.startsWith('https') ? https : http;
+    const parsed = new URL(url);
+    const req = mod.request({
+      hostname: parsed.hostname,
+      path: parsed.pathname + parsed.search,
       method: 'GET',
-      headers: {
-        'User-Agent': 'RepubliChudIndex/1.0',
-        ...headers,
-      },
-    };
-
-    const req = https.request(options, (res) => {
+      headers: { 'User-Agent': 'RepubliChudIndex/3.0 (github.com)', ...headers },
+    }, (res) => {
       let body = '';
-      res.on('data', (chunk) => (body += chunk));
+      res.on('data', c => body += c);
       res.on('end', () => {
-        if (res.statusCode >= 200 && res.statusCode < 300) {
-          resolve(body);
-        } else {
-          reject(new Error(`HTTP ${res.statusCode}: ${url}\n${body.slice(0, 300)}`));
-        }
+        if (res.statusCode >= 200 && res.statusCode < 300) resolve(body);
+        else reject(new Error(`HTTP ${res.statusCode}: ${url}\n${body.slice(0, 300)}`));
       });
     });
-
     req.on('error', reject);
-    req.setTimeout(30000, () => {
-      req.destroy();
-      reject(new Error(`Timeout: ${url}`));
-    });
+    req.setTimeout(30000, () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
     req.end();
   });
 }
@@ -80,477 +113,704 @@ function httpGet(url, headers = {}) {
 function httpPost(url, data, headers = {}) {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify(data);
-    const parsedUrl = new URL(url);
-    const options = {
-      hostname: parsedUrl.hostname,
-      path: parsedUrl.pathname + parsedUrl.search,
+    const parsed = new URL(url);
+    const req = https.request({
+      hostname: parsed.hostname,
+      path: parsed.pathname + parsed.search,
       method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(body),
-        ...headers,
-      },
-    };
-
-    const req = https.request(options, (res) => {
+      headers: { 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body), ...headers },
+    }, (res) => {
       let responseBody = '';
-      res.on('data', (chunk) => (responseBody += chunk));
+      res.on('data', c => responseBody += c);
       res.on('end', () => {
-        if (res.statusCode >= 200 && res.statusCode < 300) {
-          resolve(responseBody);
-        } else {
-          reject(new Error(`HTTP ${res.statusCode}: ${url}\n${responseBody.slice(0, 500)}`));
-        }
+        if (res.statusCode >= 200 && res.statusCode < 300) resolve(responseBody);
+        else reject(new Error(`HTTP ${res.statusCode}: ${url}\n${responseBody.slice(0, 500)}`));
       });
     });
-
     req.on('error', reject);
-    req.setTimeout(60000, () => {
-      req.destroy();
-      reject(new Error(`Timeout: ${url}`));
-    });
+    req.setTimeout(60000, () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
     req.write(body);
     req.end();
   });
 }
 
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
+// ============================================================
+// GROQ CALLER (rate limited + retry)
+// ============================================================
+async function callGroq(prompt, maxTokens = 4000) {
+  await limiter.wait('groq');
+  const raw = await withRetry(
+    () => httpPost(
+      'https://api.groq.com/openai/v1/chat/completions',
+      { model: GROQ_MODEL, messages: [{ role: 'user', content: prompt }], temperature: 0.1, max_tokens: maxTokens },
+      { Authorization: `Bearer ${GROQ_API_KEY}` }
+    ),
+    { label: 'Groq' }
+  );
+  const result = JSON.parse(raw);
+  return result.choices?.[0]?.message?.content?.trim() || '';
+}
+
+function parseGroqJson(content) {
+  if (!content) return [];
+  const cleaned = content.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+  try {
+    const parsed = JSON.parse(cleaned);
+    return Array.isArray(parsed) ? parsed : [parsed];
+  } catch {
+    return [];
+  }
 }
 
 // ============================================================
-// XML/RSS PARSER (minimal, no dependencies)
+// XML/RSS PARSER
 // ============================================================
 function parseRssItems(xml) {
   const items = [];
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  let match;
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const block = match[1];
-    const title = extractTag(block, 'title');
-    const link = extractTag(block, 'link');
-    const description = extractTag(block, 'description');
-    const pubDate = extractTag(block, 'pubDate');
-    items.push({ title, link, description, pubDate });
+  const re = /<item>([\s\S]*?)<\/item>/g;
+  let m;
+  while ((m = re.exec(xml)) !== null) {
+    const b = m[1];
+    items.push({
+      title: tag(b, 'title'), link: tag(b, 'link'),
+      description: tag(b, 'description'), pubDate: tag(b, 'pubDate'),
+    });
   }
   return items;
 }
+function tag(xml, name) {
+  const re = new RegExp(`<${name}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${name}>|<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`);
+  const m = re.exec(xml);
+  return m ? (m[1] || m[2] || '').trim() : '';
+}
 
-function extractTag(xml, tag) {
-  const regex = new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`);
-  const m = regex.exec(xml);
-  if (!m) return '';
-  return (m[1] || m[2] || '').trim();
+// ============================================================
+// SOURCE: WIKIPEDIA (initialization)
+// Fetches HTML with references, parses into sections, extracts via Groq.
+// ============================================================
+async function fetchWikipediaHtml(articleSlug) {
+  await limiter.wait('wikipedia');
+  const url = `https://en.wikipedia.org/w/api.php?action=parse&page=${articleSlug}&prop=text|sections&format=json&disabletoc=true`;
+  try {
+    const raw = await httpGet(url);
+    const data = JSON.parse(raw);
+    return data.parse?.text?.['*'] || '';
+  } catch (err) {
+    console.error(`  [Wikipedia] ${err.message.split('\n')[0]}`);
+    return '';
+  }
+}
+
+function extractReferencesFromHtml(html) {
+  // Build a map: ref number → URL
+  const refs = {};
+  // Match reference list items: <li id="cite_note-123">...<a href="https://...">...</a>...</li>
+  const refRegex = /<li id="cite_note-([^"]*)"[^>]*>([\s\S]*?)<\/li>/g;
+  let m;
+  while ((m = refRegex.exec(html)) !== null) {
+    const refId = m[1];
+    const refContent = m[2];
+    // Find external URLs in the reference
+    const urlRegex = /href="(https?:\/\/[^"]+)"/g;
+    let urlMatch;
+    const urls = [];
+    while ((urlMatch = urlRegex.exec(refContent)) !== null) {
+      const u = urlMatch[1];
+      // Skip Wikipedia internal links and archive links
+      if (!u.includes('wikipedia.org') && !u.includes('web.archive.org/web/')) {
+        urls.push(u);
+      }
+    }
+    if (urls.length > 0) refs[refId] = urls[0]; // First external URL is the source
+  }
+  return refs;
+}
+
+function stripHtml(html) {
+  return html
+    .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+    .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+    .replace(/<sup[^>]*class="reference"[^>]*>[\s\S]*?<\/sup>/gi, (match) => {
+      // Preserve reference markers for mapping
+      const idMatch = match.match(/cite_note-([^"]*)/);
+      return idMatch ? ` [REF:${idMatch[1]}] ` : '';
+    })
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&nbsp;/g, ' ').replace(/&#\d+;/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function chunkText(text, maxChars = 6000) {
+  const chunks = [];
+  const sentences = text.split(/(?<=\.\s)/);
+  let current = '';
+  for (const s of sentences) {
+    if (current.length + s.length > maxChars && current.length > 0) {
+      chunks.push(current.trim());
+      current = '';
+    }
+    current += s;
+  }
+  if (current.trim()) chunks.push(current.trim());
+  return chunks;
+}
+
+async function extractFromWikipedia(articleSlugs, figureName, figureSlug) {
+  const allEntries = [];
+
+  for (const slug of articleSlugs) {
+    console.log(`    Fetching Wikipedia: ${slug}`);
+    const html = await fetchWikipediaHtml(slug);
+    if (!html) continue;
+
+    // Extract reference URLs
+    const refs = extractReferencesFromHtml(html);
+    console.log(`    → ${Object.keys(refs).length} references found`);
+
+    // Strip HTML but keep reference markers
+    const text = stripHtml(html);
+
+    // Build reference context for Groq
+    const refContext = Object.entries(refs)
+      .map(([id, url]) => `REF:${id} → ${url}`)
+      .join('\n');
+
+    // Chunk the text
+    const chunks = chunkText(text, 5000);
+    console.log(`    → ${chunks.length} chunks to process`);
+
+    for (let i = 0; i < chunks.length; i++) {
+      process.stdout.write(`    chunk ${i + 1}/${chunks.length}...`);
+
+      const prompt = `You are extracting entries for a political accountability database about ${figureName}.
+
+Read this Wikipedia section. For each clear, documented negative action, legal outcome, policy decision, controversy, or misconduct, extract an entry.
+
+The text contains [REF:id] markers. Use the reference map below to find the source URL for each fact.
+
+Return a JSON array. Each entry:
+{"date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication name","url":"source URL from reference map"}]}
+
+For dates: use exact dates when given (e.g. "On January 6, 2021" → "2021-01-06"). If only month/year, use the 1st (e.g. "In March 2019" → "2019-03-01"). If only year, use Jan 1 (e.g. "In 2005" → "2005-01-01").
+
+For sources: match [REF:id] markers to the reference map. If no matching ref, use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"}.
+
+Return [] if nothing relevant. Return ONLY valid JSON.
+
+Reference map:
+${refContext.slice(0, 3000)}
+
+Text:
+${chunks[i]}`;
+
+      try {
+        const content = await callGroq(prompt);
+        const entries = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+        allEntries.push(...entries);
+        console.log(` ${entries.length} entries`);
+      } catch (err) {
+        console.log(` FAILED: ${err.message.split('\n')[0].slice(0, 80)}`);
+      }
+    }
+  }
+
+  return allEntries;
 }
 
 // ============================================================
 // SOURCE: GDELT
 // ============================================================
-async function fetchGdelt(figureName, historical = false) {
-  const articles = [];
+async function fetchGdelt(figureName, isHistorical) {
+  await limiter.wait('gdelt');
   const query = encodeURIComponent(`"${figureName}"`);
-  const mode = historical ? 'artlist' : 'artlist';
-  // GDELT DOC API: max 250 articles per request
-  const timespan = historical ? '' : '&timespan=6h';
-  const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${query}+sourcelang:english&mode=${mode}&maxrecords=250&format=json${timespan}`;
-
+  const timespan = isHistorical ? '' : '&timespan=6h';
+  const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=${query}+sourcelang:english&mode=artlist&maxrecords=250&format=json${timespan}`;
   try {
-    const raw = await httpGet(url);
+    const raw = await withRetry(() => httpGet(url), { label: 'GDELT' });
     const data = JSON.parse(raw);
-    if (data.articles) {
-      for (const art of data.articles) {
-        articles.push({
-          title: art.title || '',
-          url: art.url || '',
-          source: art.domain || art.source || 'GDELT',
-          date: art.seendate ? art.seendate.slice(0, 8) : '',
-          snippet: art.title || '',
-        });
-      }
-    }
+    return (data.articles || []).map(a => ({
+      title: a.title || '', url: a.url || '',
+      source: a.domain || a.source || 'GDELT',
+      date: a.seendate ? a.seendate.slice(0, 8) : '',
+      snippet: a.title || '',
+    }));
   } catch (err) {
-    console.error(`  [GDELT] Error for ${figureName}: ${err.message}`);
+    console.error(`  [GDELT] ${err.message.split('\n')[0]}`);
+    return [];
   }
-
-  return articles;
 }
 
 // ============================================================
 // SOURCE: COURTLISTENER
 // ============================================================
-async function fetchCourtListener(figureName, historical = false) {
-  const results = [];
-  const query = encodeURIComponent(figureName);
-  // CourtListener search API (free, no key needed for basic search)
-  const url = `https://www.courtlistener.com/api/rest/v4/search/?q=${query}&type=o&format=json&order_by=dateFiled+desc&page_size=50`;
-
+async function fetchCourtListener(figureName) {
+  await limiter.wait('courtlistener');
+  const url = `https://www.courtlistener.com/api/rest/v4/search/?q=${encodeURIComponent(figureName)}&type=o&format=json&order_by=dateFiled+desc&page_size=50`;
   try {
     const raw = await httpGet(url);
     const data = JSON.parse(raw);
-    if (data.results) {
-      for (const r of data.results) {
-        results.push({
-          title: r.caseName || r.case_name || '',
-          url: r.absolute_url ? `https://www.courtlistener.com${r.absolute_url}` : '',
-          source: 'CourtListener',
-          date: r.dateFiled || r.date_filed || '',
-          snippet: r.snippet || r.caseName || r.case_name || '',
-        });
-      }
-    }
+    return (data.results || []).map(r => ({
+      title: r.caseName || r.case_name || '',
+      url: r.absolute_url ? `https://www.courtlistener.com${r.absolute_url}` : '',
+      source: 'CourtListener',
+      date: r.dateFiled || r.date_filed || '',
+      snippet: r.snippet || r.caseName || r.case_name || '',
+    }));
   } catch (err) {
-    console.error(`  [CourtListener] Error for ${figureName}: ${err.message}`);
+    console.error(`  [CourtListener] ${err.message.split('\n')[0]}`);
+    return [];
   }
-
-  return results;
 }
 
 // ============================================================
 // SOURCE: CONGRESS.GOV
 // ============================================================
-async function fetchCongress(figureName, historical = false) {
-  const results = [];
-  const query = encodeURIComponent(figureName);
-  const url = `https://api.congress.gov/v3/bill?query=${query}&limit=50&format=json&api_key=DEMO_KEY`;
-
+async function fetchCongress(figureName) {
+  await limiter.wait('congress');
+  const url = `https://api.congress.gov/v3/bill?query=${encodeURIComponent(figureName)}&limit=50&format=json&api_key=DEMO_KEY`;
   try {
     const raw = await httpGet(url);
     const data = JSON.parse(raw);
-    if (data.bills) {
-      for (const bill of data.bills) {
-        results.push({
-          title: bill.title || '',
-          url: bill.url || `https://congress.gov/bill/${bill.congress}th-congress/${bill.type?.toLowerCase()}/${bill.number}`,
-          source: 'Congress.gov',
-          date: bill.latestAction?.actionDate || bill.updateDate || '',
-          snippet: `${bill.title || ''} — ${bill.latestAction?.text || ''}`,
-        });
-      }
-    }
+    return (data.bills || []).map(b => ({
+      title: b.title || '',
+      url: b.url || `https://congress.gov/bill/${b.congress}th-congress/${b.type?.toLowerCase()}/${b.number}`,
+      source: 'Congress.gov',
+      date: b.latestAction?.actionDate || b.updateDate || '',
+      snippet: `${b.title || ''} — ${b.latestAction?.text || ''}`,
+    }));
   } catch (err) {
-    console.error(`  [Congress] Error for ${figureName}: ${err.message}`);
+    console.error(`  [Congress] ${err.message.split('\n')[0]}`);
+    return [];
   }
-
-  return results;
 }
 
 // ============================================================
-// SOURCE: RSS FEEDS (AP, Reuters, C-SPAN)
+// SOURCE: RSS FEEDS
 // ============================================================
 const RSS_FEEDS = [
   { name: 'AP News', url: 'https://feedx.net/rss/ap.xml' },
-  { name: 'Reuters', url: 'https://feedx.net/rss/reuters.xml' },
   { name: 'NPR Politics', url: 'https://feeds.npr.org/1014/rss.xml' },
   { name: 'PBS NewsHour', url: 'https://www.pbs.org/newshour/feeds/rss/politics' },
+  { name: 'The Hill', url: 'https://thehill.com/feed/' },
 ];
 
 async function fetchRssForFigure(figureName) {
   const results = [];
   const nameLower = figureName.toLowerCase();
-  // Also match last name
   const lastName = figureName.split(' ').pop().toLowerCase();
-
   for (const feed of RSS_FEEDS) {
+    await limiter.wait('rss');
     try {
       const xml = await httpGet(feed.url);
-      const items = parseRssItems(xml);
-
-      for (const item of items) {
+      for (const item of parseRssItems(xml)) {
         const text = `${item.title} ${item.description}`.toLowerCase();
         if (text.includes(nameLower) || text.includes(lastName)) {
           results.push({
-            title: item.title,
-            url: item.link,
-            source: feed.name,
+            title: item.title, url: item.link, source: feed.name,
             date: item.pubDate ? new Date(item.pubDate).toISOString().slice(0, 10) : '',
             snippet: `${item.title}. ${item.description}`.slice(0, 500),
           });
         }
       }
     } catch (err) {
-      console.error(`  [RSS/${feed.name}] Error: ${err.message}`);
+      console.error(`  [RSS/${feed.name}] ${err.message.split('\n')[0]}`);
     }
   }
-
   return results;
 }
 
 // ============================================================
-// GROQ EXTRACTION
+// GROQ: EXTRACT from news/court/congress articles
+// Returns { entries: [...], failedBatches, totalBatches }
 // ============================================================
-const FIGURE_SLUGS = {}; // populated at runtime from figures.json
+const FIGURE_SLUGS = {};
 
-function buildFigureNameList() {
-  return Object.entries(FIGURE_SLUGS)
-    .map(([name, slug]) => name)
-    .join(', ');
-}
-
-async function extractWithGroq(articles, figureSlugs) {
+async function extractFromArticles(articles) {
   const entries = [];
-
-  // Batch articles into chunks to avoid overwhelming Groq
-  const BATCH_SIZE = 5;
+  let failedBatches = 0;
+  const BATCH_SIZE = 3;
+  const totalBatches = Math.ceil(articles.length / BATCH_SIZE);
 
   for (let i = 0; i < articles.length; i += BATCH_SIZE) {
     const batch = articles.slice(i, i + BATCH_SIZE);
+    const batchNum = Math.floor(i / BATCH_SIZE) + 1;
+
     const articlesText = batch
-      .map((a, idx) => `[Article ${idx + 1}]\nTitle: ${a.title}\nSource: ${a.source}\nDate: ${a.date}\nURL: ${a.url}\nSnippet: ${a.snippet}`)
+      .map((a, idx) => `[${idx + 1}] ${a.title} | ${a.source} | ${a.date} | ${a.url}\n${a.snippet}`)
       .join('\n\n');
 
-    const prompt = `You are extracting factual entries for a political accountability database.
+    const figureList = Object.entries(FIGURE_SLUGS).map(([name, slug]) => `${name}`).join(', ');
 
-Read these articles/documents. For each one that contains a clear, objective, documented negative action, quote, vote, or legal outcome for any of these figures:
-${buildFigureNameList()}
+    const prompt = `You are extracting entries for a political accountability database.
 
-Return a JSON array of entries. Each entry must be:
-{
-  "figure": "<slug>",
-  "date": "YYYY-MM-DD",
-  "fact": "one sentence, objective, specific, no editorializing",
-  "source": "publication name",
-  "url": "article URL"
-}
+For each article containing a clear, documented negative action, quote, vote, or legal outcome for: ${figureList}
 
-Valid slugs: ${Object.values(figureSlugs).join(', ')}
+Return a JSON array. Each entry:
+{"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication","url":"article URL"}]}
 
-If nothing relevant or clearly documented, return an empty array [].
-Return ONLY valid JSON — no markdown, no explanation.
+Valid slugs: ${Object.values(FIGURE_SLUGS).join(', ')}
+If nothing relevant, return []. Return ONLY valid JSON.
 
-Articles:
 ${articlesText}`;
 
     try {
-      const response = await httpPost(
-        'https://api.groq.com/openai/v1/chat/completions',
-        {
-          model: GROQ_MODEL,
-          messages: [{ role: 'user', content: prompt }],
-          temperature: 0.1,
-          max_tokens: 4000,
-        },
-        {
-          Authorization: `Bearer ${GROQ_API_KEY}`,
-        }
-      );
-
-      const result = JSON.parse(response);
-      const content = result.choices?.[0]?.message?.content?.trim();
-
-      if (content) {
-        // Try to parse JSON — handle potential markdown fences
-        const cleaned = content.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-        const parsed = JSON.parse(cleaned);
-
-        if (Array.isArray(parsed)) {
-          entries.push(...parsed.filter(e => e.figure && e.date && e.fact && e.url));
-        } else if (parsed.figure) {
-          entries.push(parsed);
-        }
-      }
+      process.stdout.write(`    batch ${batchNum}/${totalBatches}...`);
+      const content = await callGroq(prompt);
+      const valid = parseGroqJson(content).filter(e => e.figure && e.date && e.fact && e.sources);
+      entries.push(...valid);
+      console.log(` ${valid.length} entries`);
     } catch (err) {
-      console.error(`  [Groq] Extraction error: ${err.message}`);
+      failedBatches++;
+      console.log(` FAILED: ${err.message.split('\n')[0].slice(0, 80)}`);
     }
-
-    await sleep(GROQ_DELAY_MS);
   }
 
-  return entries;
+  return { entries, failedBatches, totalBatches };
 }
 
 // ============================================================
-// DEDUPLICATION
+// CONSOLIDATION
+// Within-batch: merge duplicate events into single entries w/ multiple sources.
+// 5-day window: compare new entries against recent existing entries.
 // ============================================================
-function deduplicateEntries(existing, newEntries) {
-  const existingKeys = new Set(
-    existing.map((e) => `${e.date}|${e.fact.toLowerCase().slice(0, 60)}`)
-  );
+async function consolidateEntries(entries) {
+  if (entries.length <= 1) return entries;
 
-  return newEntries.filter((e) => {
-    const key = `${e.date}|${e.fact.toLowerCase().slice(0, 60)}`;
-    if (existingKeys.has(key)) return false;
-    existingKeys.add(key);
+  // Process in chunks to keep prompts manageable
+  const CHUNK = 30;
+  let consolidated = [];
+
+  for (let i = 0; i < entries.length; i += CHUNK) {
+    const chunk = entries.slice(i, i + CHUNK);
+    const entriesJson = JSON.stringify(chunk);
+
+    const prompt = `You are consolidating entries for a political accountability database.
+
+Multiple entries may describe the same event from different sources. Merge them:
+- Same event → one entry, combine all sources into the sources array, use the earliest date
+- Different events → keep separate
+
+Return a JSON array of consolidated entries. Each:
+{"date":"YYYY-MM-DD","fact":"one clean sentence","sources":[{"name":"pub","url":"url"},...]}
+
+Return ONLY valid JSON.
+
+Entries:
+${entriesJson}`;
+
+    try {
+      const content = await callGroq(prompt);
+      const result = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+      consolidated.push(...(result.length > 0 ? result : chunk));
+    } catch (err) {
+      console.error(`    [Consolidate] ${err.message.split('\n')[0].slice(0, 80)}`);
+      consolidated.push(...chunk); // On failure, keep originals
+    }
+  }
+
+  return consolidated;
+}
+
+async function consolidateAgainstRecent(newEntries, existingEntries) {
+  if (newEntries.length === 0) return newEntries;
+
+  // 5-day window: only compare against entries from the last 5 days
+  const fiveDaysAgo = new Date();
+  fiveDaysAgo.setDate(fiveDaysAgo.getDate() - 5);
+  const cutoff = fiveDaysAgo.toISOString().slice(0, 10);
+
+  const recentExisting = existingEntries.filter(e => e.date >= cutoff);
+
+  if (recentExisting.length === 0) return newEntries;
+
+  const prompt = `You are deduplicating entries for a political accountability database.
+
+EXISTING entries (last 5 days):
+${JSON.stringify(recentExisting.map(e => ({ date: e.date, fact: e.fact })))}
+
+NEW entries to check:
+${JSON.stringify(newEntries)}
+
+For each NEW entry:
+- If it describes the same event as an EXISTING entry, mark it with "merge_with_date" and "merge_with_fact" of the existing entry, and include the new sources.
+- If it's a new event, keep it as-is.
+
+Return a JSON array. Each entry:
+{"date":"YYYY-MM-DD","fact":"sentence","sources":[...],"merge_with_date":"existing date or null","merge_with_fact":"first 60 chars of existing fact or null"}
+
+Return ONLY valid JSON.`;
+
+  try {
+    const content = await callGroq(prompt);
+    const results = parseGroqJson(content);
+
+    const toInsert = [];
+    const toMerge = [];
+
+    for (const r of results) {
+      if (r.merge_with_date && r.merge_with_fact) {
+        toMerge.push(r);
+      } else {
+        toInsert.push({ date: r.date, fact: r.fact, sources: r.sources || [] });
+      }
+    }
+
+    // Apply merges: add new sources to existing entries
+    for (const m of toMerge) {
+      const existing = existingEntries.find(e =>
+        e.date === m.merge_with_date &&
+        e.fact.toLowerCase().slice(0, 60) === (m.merge_with_fact || '').toLowerCase().slice(0, 60)
+      );
+      if (existing && m.sources) {
+        const existingUrls = new Set((existing.sources || []).map(s => s.url));
+        for (const src of m.sources) {
+          if (!existingUrls.has(src.url)) {
+            existing.sources = existing.sources || [];
+            existing.sources.push(src);
+          }
+        }
+      }
+    }
+
+    return toInsert;
+  } catch (err) {
+    console.error(`    [5-day consolidate] ${err.message.split('\n')[0].slice(0, 80)}`);
+    return newEntries; // On failure, treat all as new
+  }
+}
+
+// ============================================================
+// STRING DEDUP: free safety net against all existing entries
+// ============================================================
+function stringDedup(existing, incoming) {
+  const keys = new Set(existing.map(e => `${e.date}|${e.fact.toLowerCase().slice(0, 60)}`));
+  return incoming.filter(e => {
+    const k = `${e.date}|${e.fact.toLowerCase().slice(0, 60)}`;
+    if (keys.has(k)) return false;
+    keys.add(k);
     return true;
   });
+}
+
+// ============================================================
+// SUMMARY GENERATION
+// ============================================================
+async function generateSummary(entries, figureName) {
+  if (!entries || entries.length === 0) return '';
+  const entriesText = entries
+    .slice(0, 100) // Cap at 100 entries to stay within token limits
+    .map(e => `- [${e.date}] ${e.fact}`)
+    .join('\n');
+
+  return await callGroq(
+    `You are writing a character summary for a political accountability database.
+
+Based only on these documented entries, write 3-5 sentences about ${figureName}'s character and pattern of behavior. Be direct and fierce. State what the facts show. Do not editorialize beyond what the entries support. Do not use hedging language.
+
+Entries:
+${entriesText}
+
+Return only the summary text, nothing else.`, 500
+  );
 }
 
 // ============================================================
 // DATA I/O
 // ============================================================
 function loadFigureData(slug) {
-  const filePath = path.join(DATA_DIR, `${slug}.json`);
-  if (fs.existsSync(filePath)) {
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-  }
-  return null;
+  const p = path.join(DATA_DIR, `${slug}.json`);
+  return fs.existsSync(p) ? JSON.parse(fs.readFileSync(p, 'utf-8')) : null;
 }
 
 function saveFigureData(slug, data) {
-  const filePath = path.join(DATA_DIR, `${slug}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
-}
-
-function assignIds(entries, startId = 1) {
-  return entries.map((e, i) => ({ id: startId + i, ...e }));
+  fs.writeFileSync(path.join(DATA_DIR, `${slug}.json`), JSON.stringify(data, null, 2), 'utf-8');
 }
 
 // ============================================================
-// GIT HELPERS
+// GIT
 // ============================================================
-function gitCommit(message) {
+function gitCommit(msg) {
   try {
     execSync('git config user.name "RCI Scraper"');
-    execSync('git config user.email "scraper@republichu.dindex"');
+    execSync('git config user.email "scraper@rci.bot"');
     execSync('git add -A');
-    execSync(`git commit -m "${message}" --allow-empty`);
+    execSync(`git commit -m "${msg}" --allow-empty`);
     execSync('git push');
-    console.log(`  [Git] Committed: ${message}`);
+    console.log(`  [Git] ${msg}`);
   } catch (err) {
-    console.error(`  [Git] Commit error: ${err.message}`);
+    console.error(`  [Git] ${err.message.split('\n')[0]}`);
   }
+}
+
+// ============================================================
+// NORMALIZE: ensure all entries have sources array (handle legacy format)
+// ============================================================
+function normalizeEntry(entry) {
+  if (entry.sources && Array.isArray(entry.sources)) return entry;
+  // Legacy: single source/url → convert to sources array
+  const sources = [];
+  if (entry.url) {
+    sources.push({ name: entry.source || 'Unknown', url: entry.url });
+  }
+  return {
+    id: entry.id,
+    date: entry.date,
+    fact: entry.fact,
+    sources,
+  };
 }
 
 // ============================================================
 // MAIN
 // ============================================================
 async function main() {
-  console.log('=== RepubliChud Index Scraper ===\n');
+  console.log('=== RepubliChud Index Scraper v3 ===\n');
 
-  if (!GROQ_API_KEY) {
-    console.error('ERROR: GROQ_API_KEY not set');
-    process.exit(1);
-  }
+  if (!GROQ_API_KEY) { console.error('ERROR: GROQ_API_KEY not set'); process.exit(1); }
+  if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-  // Ensure data directory exists
-  if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
-  }
-
-  // Load figures
   const figures = JSON.parse(fs.readFileSync(FIGURES_PATH, 'utf-8'));
   console.log(`Loaded ${figures.length} figures\n`);
+  for (const fig of figures) FIGURE_SLUGS[fig.name] = fig.slug;
 
-  // Build slug lookup
-  for (const fig of figures) {
-    FIGURE_SLUGS[fig.name] = fig.slug;
-  }
-
-  let totalNewEntries = 0;
+  let totalNew = 0;
 
   for (const fig of figures) {
-    console.log(`\n--- ${fig.name} (${fig.slug}) ---`);
+    console.log(`\n========================================`);
+    console.log(`  ${fig.name} (${fig.slug})`);
+    console.log(`========================================`);
 
     const existing = loadFigureData(fig.slug);
-    const isHistorical = !existing;
+    let existingEntries = (existing?.entries || []).map(normalizeEntry);
+    const isInitialized = existing?.initialized === true;
 
-    if (isHistorical) {
-      console.log('  Mode: HISTORICAL SWEEP (first run)');
-    } else {
-      console.log(`  Mode: ONGOING (${existing.entries?.length || 0} existing entries)`);
+    // ---- STEP 1: Wikipedia init (if not initialized) ----
+    let wikiEntries = [];
+    if (!isInitialized && fig.wikipedia && fig.wikipedia.length > 0) {
+      console.log('\n  [STEP 1] Wikipedia initialization...');
+      wikiEntries = await extractFromWikipedia(fig.wikipedia, fig.name, fig.slug);
+      console.log(`    → ${wikiEntries.length} raw entries from Wikipedia`);
+
+      if (wikiEntries.length > 0) {
+        console.log('    Consolidating Wikipedia entries...');
+        wikiEntries = await consolidateEntries(wikiEntries);
+        console.log(`    → ${wikiEntries.length} after consolidation`);
+      }
+    } else if (isInitialized) {
+      console.log('\n  [STEP 1] Already initialized, skipping Wikipedia');
     }
 
-    // Collect from all sources
+    // ---- STEP 2: Ongoing sources ----
+    console.log('\n  [STEP 2] Ongoing sources...');
+
     console.log('  Fetching GDELT...');
-    const gdeltArticles = await fetchGdelt(fig.name, isHistorical);
-    console.log(`    → ${gdeltArticles.length} articles`);
+    const gdelt = await fetchGdelt(fig.name, !isInitialized);
+    console.log(`    → ${gdelt.length} articles`);
 
     console.log('  Fetching CourtListener...');
-    const courtArticles = await fetchCourtListener(fig.name, isHistorical);
-    console.log(`    → ${courtArticles.length} results`);
+    const court = await fetchCourtListener(fig.name);
+    console.log(`    → ${court.length} results`);
 
     console.log('  Fetching Congress.gov...');
-    const congressArticles = await fetchCongress(fig.name, isHistorical);
-    console.log(`    → ${congressArticles.length} results`);
+    const congress = await fetchCongress(fig.name);
+    console.log(`    → ${congress.length} results`);
 
-    console.log('  Fetching RSS feeds...');
-    const rssArticles = await fetchRssForFigure(fig.name);
-    console.log(`    → ${rssArticles.length} articles`);
+    console.log('  Fetching RSS...');
+    const rss = await fetchRssForFigure(fig.name);
+    console.log(`    → ${rss.length} articles`);
 
-    const allArticles = [...gdeltArticles, ...courtArticles, ...congressArticles, ...rssArticles];
-    console.log(`  Total raw sources: ${allArticles.length}`);
+    const allArticles = [...gdelt, ...court, ...congress, ...rss];
+    console.log(`  Total: ${allArticles.length} raw sources`);
 
-    if (allArticles.length === 0) {
-      console.log('  No articles found, skipping extraction');
-      // Still create empty data file if it doesn't exist
-      if (!existing) {
-        saveFigureData(fig.slug, {
-          name: fig.name,
-          slug: fig.slug,
-          summary: '',
-          entries: [],
-        });
-      }
-      continue;
+    let ongoingEntries = [];
+    let failedBatches = 0;
+    let totalBatches = 0;
+
+    if (allArticles.length > 0) {
+      console.log('\n  [STEP 2b] Extracting from articles...');
+      const result = await extractFromArticles(allArticles);
+      // Filter to this figure only
+      ongoingEntries = result.entries
+        .filter(e => e.figure === fig.slug)
+        .map(e => ({ date: e.date, fact: e.fact, sources: e.sources }));
+      failedBatches = result.failedBatches;
+      totalBatches = result.totalBatches;
+      console.log(`    → ${ongoingEntries.length} entries for ${fig.slug}, ${failedBatches}/${totalBatches} failed`);
     }
 
-    // Extract via Groq
-    console.log('  Extracting entries via Groq...');
-    const extracted = await extractWithGroq(allArticles, FIGURE_SLUGS);
-    console.log(`    → ${extracted.length} entries extracted`);
+    // ---- STEP 3: Within-batch consolidation ----
+    let newEntries = [...wikiEntries, ...ongoingEntries];
 
-    // Filter to this figure only
-    const figureEntries = extracted.filter((e) => e.figure === fig.slug);
+    if (newEntries.length > 1) {
+      console.log(`\n  [STEP 3] Consolidating ${newEntries.length} new entries...`);
+      newEntries = await consolidateEntries(newEntries);
+      console.log(`    → ${newEntries.length} after consolidation`);
+    }
 
-    // Deduplicate
-    const existingEntries = existing?.entries || [];
-    const newEntries = deduplicateEntries(existingEntries, figureEntries);
-    console.log(`    → ${newEntries.length} new (after dedup)`);
+    // ---- STEP 4: 5-day window consolidation ----
+    if (newEntries.length > 0 && existingEntries.length > 0) {
+      console.log(`\n  [STEP 4] 5-day window consolidation...`);
+      newEntries = await consolidateAgainstRecent(newEntries, existingEntries);
+      console.log(`    → ${newEntries.length} genuinely new entries`);
+    }
 
-    if (newEntries.length > 0 || !existing) {
-      const maxId = existingEntries.reduce((max, e) => Math.max(max, e.id || 0), 0);
-      const withIds = assignIds(newEntries, maxId + 1);
-      const allEntries = [...existingEntries, ...withIds];
+    // ---- STEP 5: String dedup ----
+    if (newEntries.length > 0) {
+      console.log(`\n  [STEP 5] String dedup...`);
+      newEntries = stringDedup(existingEntries, newEntries);
+      console.log(`    → ${newEntries.length} after string dedup`);
+    }
 
-      const data = {
-        name: fig.name,
-        slug: fig.slug,
-        summary: existing?.summary || '',
-        entries: allEntries,
-      };
+    // ---- STEP 6: Save + commit ----
+    const maxId = existingEntries.reduce((max, e) => Math.max(max, e.id || 0), 0);
+    const withIds = newEntries.map((e, i) => ({ id: maxId + 1 + i, ...e }));
+    const allEntries = [...existingEntries, ...withIds];
 
-      saveFigureData(fig.slug, data);
-      totalNewEntries += newEntries.length;
+    // Determine initialization status
+    const wikiWorked = wikiEntries.length > 0 || (fig.wikipedia || []).length === 0;
+    const ongoingWorked = totalBatches === 0 || failedBatches === 0;
+    const sweepComplete = !isInitialized && wikiWorked && ongoingWorked;
+    const markInitialized = (sweepComplete) || isInitialized;
 
-      // Regenerate summary
-      if (allEntries.length > 0) {
-        console.log('  Regenerating summary...');
-        try {
-          const { generateSummary } = require('./summarize.js');
-          const summary = await generateSummary(allEntries, fig.name);
-          if (summary) {
-            data.summary = summary;
-            saveFigureData(fig.slug, data);
-            console.log('    → Summary updated');
-          }
-        } catch (err) {
-          console.error(`    → Summary error: ${err.message}`);
-        }
+    const data = {
+      name: fig.name,
+      slug: fig.slug,
+      summary: existing?.summary || '',
+      initialized: markInitialized,
+      entries: allEntries,
+    };
+
+    if (sweepComplete && !isInitialized) {
+      console.log('\n  ✓ Sweep complete — marking initialized');
+    } else if (!isInitialized && !sweepComplete) {
+      console.log(`\n  ✗ Sweep incomplete — will retry full sweep next run`);
+    }
+
+    // Generate summary
+    if (allEntries.length > 0 && (newEntries.length > 0 || !existing?.summary)) {
+      console.log('  Generating summary...');
+      try {
+        const summary = await generateSummary(allEntries, fig.name);
+        if (summary) { data.summary = summary; console.log('    → Done'); }
+      } catch (err) {
+        console.error(`    → Failed: ${err.message.split('\n')[0].slice(0, 80)}`);
       }
     }
 
-    // Respect GDELT's 5-second rate limit between figures
-    await sleep(6000);
+    saveFigureData(fig.slug, data);
+    totalNew += newEntries.length;
+
+    // Per-figure commit
+    if (newEntries.length > 0 || !isInitialized) {
+      gitCommit(`scraper: ${fig.slug} +${newEntries.length} entries [${new Date().toISOString()}]`);
+    }
+
+    console.log(`\n  → ${fig.name}: +${newEntries.length} new entries (${allEntries.length} total)`);
   }
 
-  // Commit if anything changed
-  if (totalNewEntries > 0) {
-    console.log(`\n=== Committing ${totalNewEntries} new entries ===`);
-    gitCommit(`scraper: +${totalNewEntries} entries [${new Date().toISOString()}]`);
-  } else {
-    console.log('\nNo new entries. Nothing to commit.');
-    // Still commit data files for newly initialized figures
-    try {
-      const status = execSync('git status --porcelain').toString().trim();
-      if (status) {
-        gitCommit(`scraper: initialize new figures [${new Date().toISOString()}]`);
-      }
-    } catch {}
-  }
-
-  console.log('\nDone.');
+  console.log(`\n=== Done. ${totalNew} new entries total. ===`);
 }
 
-main().catch((err) => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+main().catch(err => { console.error('Fatal:', err); process.exit(1); });
