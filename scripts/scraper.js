@@ -32,7 +32,7 @@ const { execSync } = require('child_process');
 // CONFIG
 // ============================================================
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const GROQ_MODEL = 'llama3-70b-8192';
+const GROQ_MODEL = 'llama-3.3-70b-versatile';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const FIGURES_PATH = path.join(__dirname, '..', 'figures.json');
 const SUMMARIZE_PATH = path.join(__dirname, 'summarize.js');
@@ -238,9 +238,10 @@ async function fetchCongress(figureName, historical = false) {
 // SOURCE: RSS FEEDS (AP, Reuters, C-SPAN)
 // ============================================================
 const RSS_FEEDS = [
-  { name: 'AP Politics', url: 'https://rsshub.app/apnews/topics/politics' },
-  { name: 'Reuters Politics', url: 'https://rsshub.app/reuters/world/us' },
-  { name: 'C-SPAN', url: 'https://www.c-span.org/feeds/podcast' },
+  { name: 'AP News', url: 'https://feedx.net/rss/ap.xml' },
+  { name: 'Reuters', url: 'https://feedx.net/rss/reuters.xml' },
+  { name: 'NPR Politics', url: 'https://feeds.npr.org/1014/rss.xml' },
+  { name: 'PBS NewsHour', url: 'https://www.pbs.org/newshour/feeds/rss/politics' },
 ];
 
 async function fetchRssForFigure(figureName) {
@@ -527,8 +528,8 @@ async function main() {
       }
     }
 
-    // Small delay between figures
-    await sleep(2000);
+    // Respect GDELT's 5-second rate limit between figures
+    await sleep(6000);
   }
 
   // Commit if anything changed

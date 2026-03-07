@@ -13,7 +13,7 @@ const path = require('path');
 const https = require('https');
 
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const GROQ_MODEL = 'llama3-70b-8192';
+const GROQ_MODEL = 'llama-3.3-70b-versatile';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 
 function httpPost(url, data, headers = {}) {
