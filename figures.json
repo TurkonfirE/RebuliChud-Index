@@ -2,26 +2,26 @@
   {
     "name": "Donald Trump",
     "slug": "trump",
-    "photo": "images/trump.jpg"
+    "photo": "images/trump.png"
   },
   {
     "name": "Charlie Kirk",
     "slug": "kirk",
-    "photo": "images/kirk.jpg"
+    "photo": "images/kirk.png"
   },
   {
     "name": "Marjorie Taylor Greene",
     "slug": "mtg",
-    "photo": "images/mtg.jpg"
+    "photo": "images/mtg.png"
   },
   {
     "name": "Ron DeSantis",
     "slug": "desantis",
-    "photo": "images/desantis.jpg"
+    "photo": "images/desantis.png"
   },
   {
     "name": "JD Vance",
     "slug": "vance",
-    "photo": "images/vance.jpg"
+    "photo": "images/vance.png"
   }
 ]
