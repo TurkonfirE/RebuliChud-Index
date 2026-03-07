@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile — RepubliChud Index</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1><a href="index.html">RepubliChud Index</a></h1>
+    <p class="tagline">Documented. Sourced. Unedited.</p>
+  </header>
+
+  <a href="index.html" class="back-link">← All figures</a>
+
+  <div id="profile-content">
+    <div class="loading">Loading...</div>
+  </div>
+
+  <footer class="site-footer">
+    All entries sourced from court records, congressional records, and wire services.
+  </footer>
+
+  <script>
+    (async function () {
+      const container = document.getElementById('profile-content');
+      const params = new URLSearchParams(window.location.search);
+      const slug = params.get('slug');
+
+      if (!slug) {
+        container.innerHTML = '<div class="no-entries">No figure specified.</div>';
+        return;
+      }
+
+      // Load figures config to get display name
+      let figureMeta;
+      try {
+        const figures = await fetch('figures.json').then(r => r.json());
+        figureMeta = figures.find(f => f.slug === slug);
+      } catch {
+        figureMeta = null;
+      }
+
+      // Load figure data
+      let data;
+      try {
+        data = await fetch(`data/${slug}.json`).then(r => r.json());
+      } catch {
+        data = null;
+      }
+
+      const name = data?.name || figureMeta?.name || slug;
+      document.title = `${name} — RepubliChud Index`;
+
+      // Build profile header
+      let html = `<div class="profile-header"><h2>${escapeHtml(name)}</h2></div>`;
+
+      // Summary
+      if (data?.summary) {
+        html += `<div class="profile-summary">${escapeHtml(data.summary)}</div>`;
+      } else {
+        html += `<div class="profile-summary empty">Data is being compiled. Check back shortly.</div>`;
+      }
+
+      // Entries
+      if (data?.entries && data.entries.length > 0) {
+        // Sort newest first
+        const sorted = [...data.entries].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        html += `<div class="entries-label">Reprehensible Activity</div>`;
+        html += `<div class="entries-list">`;
+
+        sorted.forEach(entry => {
+          const dateStr = formatDate(entry.date);
+          const sourceLabel = shortenSource(entry.source);
+
+          html += `
+            <div class="entry-row">
+              <div class="entry-date">${escapeHtml(dateStr)}</div>
+              <div class="entry-fact">${escapeHtml(entry.fact)}</div>
+              <div class="entry-source">
+                <a href="${escapeHtml(entry.url)}" target="_blank" rel="noopener">${escapeHtml(sourceLabel)}</a>
+              </div>
+            </div>`;
+        });
+
+        html += `</div>`;
+      } else if (!data) {
+        html += `<div class="no-entries">No data file found. The scraper will initialize this profile automatically.</div>`;
+      } else {
+        html += `<div class="no-entries">No entries yet. Data is being compiled.</div>`;
+      }
+
+      container.innerHTML = html;
+
+      // ---- Helpers ----
+
+      function escapeHtml(str) {
+        const div = document.createElement('div');
+        div.textContent = str;
+        return div.innerHTML;
+      }
+
+      function formatDate(dateStr) {
+        const d = new Date(dateStr + 'T00:00:00');
+        return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+      }
+
+      function shortenSource(source) {
+        const map = {
+          'new york times': 'NYT',
+          'nytimes': 'NYT',
+          'washington post': 'WaPo',
+          'associated press': 'AP',
+          'reuters': 'Reuters',
+          'c-span': 'C-SPAN',
+          'cnn': 'CNN',
+          'politico': 'Politico',
+          'the guardian': 'Guardian',
+          'bbc': 'BBC',
+          'npr': 'NPR',
+          'congress.gov': 'Congress',
+          'courtlistener': 'Court Record',
+          'fec': 'FEC',
+        };
+        const lower = source.toLowerCase();
+        for (const [key, val] of Object.entries(map)) {
+          if (lower.includes(key)) return val;
+        }
+        // Shorten to first two words max
+        const words = source.split(' ');
+        return words.length > 2 ? words.slice(0, 2).join(' ') : source;
+      }
+    })();
+  </script>
+
+</body>
+</html>

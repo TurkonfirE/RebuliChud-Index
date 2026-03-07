@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Donald Trump",
+    "slug": "trump",
+    "photo": "images/trump.jpg"
+  },
+  {
+    "name": "Charlie Kirk",
+    "slug": "kirk",
+    "photo": "images/kirk.jpg"
+  },
+  {
+    "name": "Marjorie Taylor Greene",
+    "slug": "mtg",
+    "photo": "images/mtg.jpg"
+  },
+  {
+    "name": "Ron DeSantis",
+    "slug": "desantis",
+    "photo": "images/desantis.jpg"
+  },
+  {
+    "name": "JD Vance",
+    "slug": "vance",
+    "photo": "images/vance.jpg"
+  }
+]

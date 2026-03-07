@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RepubliChud Index</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h1><a href="index.html">RepubliChud Index</a></h1>
+    <p class="tagline">Documented. Sourced. Unedited.</p>
+  </header>
+
+  <div class="search-container">
+    <input type="text" id="search" placeholder="Search by name..." autocomplete="off">
+  </div>
+
+  <div class="portrait-grid" id="portrait-grid">
+    <!-- Populated by JS -->
+  </div>
+
+  <footer class="site-footer">
+    All entries sourced from court records, congressional records, and wire services.
+  </footer>
+
+  <script>
+    (async function () {
+      const grid = document.getElementById('portrait-grid');
+      const search = document.getElementById('search');
+
+      // Load figures config
+      const figures = await fetch('figures.json').then(r => r.json());
+
+      // Sort alphabetically
+      figures.sort((a, b) => a.name.localeCompare(b.name));
+
+      // For each figure, try to load their data to get entry count
+      const figureData = await Promise.all(figures.map(async (fig) => {
+        try {
+          const data = await fetch(`data/${fig.slug}.json`).then(r => r.json());
+          return { ...fig, entries: data.entries ? data.entries.length : 0 };
+        } catch {
+          return { ...fig, entries: 0 };
+        }
+      }));
+
+      // Render
+      figureData.forEach(fig => {
+        const item = document.createElement('a');
+        item.href = `profile.html?slug=${fig.slug}`;
+        item.className = 'portrait-item';
+        item.dataset.name = fig.name.toLowerCase();
+
+        const img = document.createElement('img');
+        img.src = fig.photo;
+        img.alt = fig.name;
+        img.loading = 'lazy';
+
+        const info = document.createElement('div');
+        const name = document.createElement('div');
+        name.className = 'figure-name';
+        name.textContent = fig.name;
+
+        const count = document.createElement('div');
+        count.className = 'entry-count';
+        count.textContent = fig.entries > 0
+          ? `${fig.entries} documented entr${fig.entries === 1 ? 'y' : 'ies'}`
+          : 'Initializing...';
+
+        info.appendChild(name);
+        info.appendChild(count);
+        item.appendChild(img);
+        item.appendChild(info);
+        grid.appendChild(item);
+      });
+
+      // Search filter
+      search.addEventListener('input', () => {
+        const q = search.value.toLowerCase().trim();
+        document.querySelectorAll('.portrait-item').forEach(item => {
+          item.classList.toggle('hidden', q && !item.dataset.name.includes(q));
+        });
+      });
+    })();
+  </script>
+
+</body>
+</html>
