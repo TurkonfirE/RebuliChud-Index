@@ -1,0 +1,784 @@
+{
+  "name": "Ron DeSantis",
+  "slug": "desantis",
+  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that shows he is opposed to social and economic progressive policies, as evidenced by his repeated attempts to restrict access to abortion, limit voting rights, and ban discussions of sexual orientation and gender identity in schools. He has also shown a willingness to use his executive power to advance his agenda, such as signing bills that restrict the rights of marginalized groups and vetoing bills that would have protected the environment. DeSantis's actions have been marked by a strong partisan ideology, as seen in his support for legislation that targets big tech companies and his efforts to restrict the teaching of critical race theory in schools. Additionally, his administration has been accused of unethical behavior, including allegations of money laundering and wire fraud related to the Hope Florida Foundation, which was directed by his chief of staff. Overall, DeSantis's character and pattern of behavior suggest a strong commitment to conservative ideology and a willingness to use his power to advance his agenda, even if it means restricting the rights of others.",
+  "initialized": true,
+  "entries": [
+    {
+      "id": 1,
+      "date": "2013-01-01",
+      "fact": "DeSantis voted in favor of H.R. 45, which would have repealed the Affordable Care Act.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2014-01-01",
+      "fact": "DeSantis introduced a bill that would have required the Justice Department to report to Congress whenever any federal agency refrained from enforcing laws.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2015-01-01",
+      "fact": "DeSantis co-sponsored Kate's Law, which would have increased penalties for aliens who unlawfully reenter the U.S. after being removed.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2016-01-01",
+      "fact": "DeSantis received a '0' rating from the Human Rights Campaign on LGBT-related legislation.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2017-06-01",
+      "fact": "DeSantis was present before the congressional baseball shooting and the perpetrator asked him whether the players were Republicans.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2017-11-01",
+      "fact": "DeSantis proposed legislation that would have ended funding for the Mueller investigation of President Trump.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2017-12-19",
+      "fact": "DeSantis voted for the 2017 Trump tax cuts.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html",
+          "name": "nytimes.com"
+        },
+        {
+          "url": "http://www.wokv.com/news/local/northeast-florida-lawmakers-divided-impact-gop-tax-reform-plan/vyBF5BQ8kPldHOvKT0JGdK/",
+          "name": "wokv.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2018-08-29",
+      "fact": "DeSantis said, 'The last thing we need to do is to monkey this up by trying to embrace a socialist agenda with huge tax increases and bankrupting the state,' in a televised Fox News interview, which was interpreted by some as a racist dog whistle alluding to the Democratic gubernatorial nominee, Andrew Gillum, who is African-American.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/politics-news/desantis-under-fire-saying-florida-should-t-monkey-electing-gillum-n904746",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.rollcall.com/2018/08/30/floridas-ron-desantis-doubles-down-on-monkey-this-up-comment/",
+          "name": "rollcall.com"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2018/aug/29/ron-desantis-racism-monkey-up-andrew-gillum-florida-governor-election",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2018-09-05",
+      "fact": "Ron DeSantis announced state representative Jeanette Núñez as his running mate",
+      "sources": [
+        {
+          "url": "https://www.politico.com/story/2018/09/05/desantis-nunez-florida-running-mate-808694",
+          "name": "politico.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2018-09-10",
+      "fact": "Ron DeSantis resigned his House seat to focus on his gubernatorial campaign",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/congress/rep-ron-desantis-resigns-congress-n908146",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2019-01-11",
+      "fact": "DeSantis posthumously pardoned the Groveland Four, a group of black men falsely convicted of rape in 1949.",
+      "sources": [
+        {
+          "url": "https://www.wftv.com/news/local/clemency-board-hosting-meeting-to-discuss-groveland-four-case/902817860",
+          "name": "wftv.com"
+        },
+        {
+          "url": "https://reason.com/blog/2019/01/11/groveland-four-pardoned-after-70-years",
+          "name": "reason.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2019-01-11",
+      "fact": "DeSantis officially suspended Broward County sheriff Scott Israel, ostensibly for his responses to the mass shootings at the Marjory Stoneman Douglas High School, appointing Gregory Tony to replace him.",
+      "sources": [
+        {
+          "url": "https://www.miamiherald.com/news/local/article224144775.html",
+          "name": "miamiherald.com"
+        },
+        {
+          "url": "https://www.flgov.com/wp-content/uploads/2019/01/EO-19-14.pdf",
+          "name": "flgov.com"
+        },
+        {
+          "url": "https://www.flsenate.gov/usercontent/session/executivesuspensions/Israel_Scott/20190924EO19-14ReportandRecommendationofSpecialMasterGoodlette.pdf",
+          "name": "flsenate.gov"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "2019-06-01",
+      "fact": "DeSantis signed a $91.1 billion budget, the largest in state history at the time, though he cut $131 million in appropriations.",
+      "sources": [
+        {
+          "url": "https://floridapolitics.com/archives/299366-ron-desantis-signs-2019-20-budget-issues-131-million-in-line-item-vetoes/",
+          "name": "floridapolitics.com"
+        },
+        {
+          "url": "https://www.wfla.com/news/gov-desantis-signs-91-billion-state-budget/",
+          "name": "wfla.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2019-06-01",
+      "fact": "DeSantis signed a measure that would make it harder to launch successful ballot initiatives",
+      "sources": [
+        {
+          "url": "https://www.tampabay.com/florida-politics/buzz/2019/06/07/ron-desantis-signs-crack-down-on-constitutional-amendments-solidifying-republican-control-in-florida/",
+          "name": "tampabay.com"
+        },
+        {
+          "url": "https://www.orlandoweekly.com/news/gov-desantis-signs-hb5-eviscerating-the-democratic-process-in-florida-25447588",
+          "name": "orlandoweekly.com"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2020-12-30",
+      "fact": "DeSantis ordered the Florida Department of Economic Opportunity to extend unemployment waivers until February 27, 2021.",
+      "sources": [
+        {
+          "url": "https://winknews.com/2020/12/30/gov-desantis-extends-unemployment-waivers-until-feb-27/",
+          "name": "winknews.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "date": "2021-02-01",
+      "fact": "DeSantis announced his support for eliminating ballot drop boxes and limiting voting by mail by requiring that voters re-register every year to vote by mail and that signatures on mail-in ballots 'match the most recent signature on file'",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/donald-trump-ron-desantis-legislation-florida-elections-a9737fcc3eab5aedc572fbcc7c19b984",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.tampabay.com/news/florida-politics/2021/04/13/desantis-wants-voters-signatures-to-match-would-his-pass-the-test/",
+          "name": "tampabay.com"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "date": "2021-02-02",
+      "fact": "Ron DeSantis announced support for legislation to hold tech companies accountable to prevent alleged political censorship.",
+      "sources": [
+        {
+          "url": "https://www.wtxl.com/news/local-news/gov-desantis-announces-legislation-to-crack-down-on-big-tech-online-censorship",
+          "name": "wtxl.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "date": "2021-06-02",
+      "fact": "DeSantis signed a $101.5 billion budget, using his line-item veto to veto $1.5 billion, including $1 billion in federal American Rescue Plan Act money for an emergency response fund.",
+      "sources": [
+        {
+          "url": "https://www.news4jax.com/news/local/2021/06/02/gov-desantis-signs-record-1015-billion-budget-for-21-22/",
+          "name": "news4jax.com"
+        },
+        {
+          "url": "https://apnews.com/article/fl-state-wire-florida-business-health-coronavirus-pandemic-a4e9b3e004c5d77edfe68922836b374f",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "date": "2021-06-10",
+      "fact": "DeSantis led an effort to ban the teaching of critical race theory in Florida public schools, describing it as 'teaching kids to hate their country'",
+      "sources": [
+        {
+          "url": "https://www.orlandosentinel.com/news/education/os-ne-critical-race-state-board-20210610-7pzv23n7rjeixi3a4veffugalq-story.html",
+          "name": "orlandosentinel.com"
+        },
+        {
+          "url": "https://www.nbcnews.com/news/us-news/florida-board-education-passes-rule-banning-critical-race-theory-classrooms-n1270363",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2021-09-01",
+      "fact": "Ron DeSantis announced he would run for reelection as Governor of Florida",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2021/11/08/politics/ron-desantis-2022/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2021-09-14",
+      "fact": "DeSantis announced that Florida would replace the Florida Standards Assessment (FSA) test with a system of three smaller tests throughout the school year",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/education/572205-desantis-calls-for-end-to-standardized-testing-in-florida/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "date": "2021-11-22",
+      "fact": "DeSantis announced that he would temporarily waive Florida's gasoline tax in the next legislative session, in 2022, due to a significant increase in gasoline prices.",
+      "sources": [
+        {
+          "url": "https://www.news-journalonline.com/story/news/2021/11/22/desantis-daytona-announces-proposal-waive-floridas-gas-tax/8717262002/",
+          "name": "news-journalonline.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "date": "2021-12-15",
+      "fact": "DeSantis announced a new bill, the Stop Wrongs to Our Kids and Employees Act, which would allow parents to sue school districts that teach critical race theory",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/politics-news/desantis-pushes-bill-targeting-critical-race-theory-schools-n1286049",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.marketwatch.com/story/floridas-desantis-pitches-stop-woke-act-as-in-wrongs-to-our-kids-and-employees-to-banish-perceived-influence-of-critical-race-theory-from-schools-and-workplaces-01639702482",
+          "name": "marketwatch.com"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "date": "2022-04-14",
+      "fact": "Ron DeSantis signed into law a bill that bans abortions after 15 weeks of pregnancy, with exceptions for serious risk to the pregnant woman's physical health or fatal fetal abnormality, but makes no exceptions for rape, human trafficking, incest, or mental health.",
+      "sources": [
+        {
+          "url": "https://www.miamiherald.com/news/politics-government/article263191088.html",
+          "name": "miamiherald.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "date": "2022-08-18",
+      "fact": "Federal judge Mark E. Walker blocked enforcement of the Stop WOKE Act as applied to businesses, ruling that it violated the First Amendment and was impermissibly vague",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/judge-blocks-floridas-stop-woke-act-pushed-gov-desantis-rcna43908",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2022-10-23",
+      "fact": "Ron DeSantis called Charlie Crist a 'worn-out old donkey' during a gubernatorial debate",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/3702986-desantis-slams-crist-as-a-worn-out-old-donkey-in-florida-governors-debate/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "date": "2022-11-07",
+      "fact": "Ron DeSantis filed paperwork to officially enter the gubernatorial race",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/580546-desantis-officially-files-paperwork-for-reelection-bid/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2022-11-08",
+      "fact": "Ron DeSantis won the Florida gubernatorial election with 59.4 percent of the vote",
+      "sources": [
+        {
+          "url": "https://www.tallahassee.com/story/news/politics/elections/2022/11/08/fl-governor-race-results-ron-desantis-charlie-crist-florida-election/10615398002/",
+          "name": "tallahassee.com"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2023-04-14",
+      "fact": "Ron DeSantis signed a six-week abortion ban, which contains exceptions allowing abortion up to 15 weeks in cases of rape, incest, or human trafficking, but requires the woman to provide proof of a crime before being permitted an abortion under any of those exceptions.",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/news/local/state/2023/04/14/gov-ron-desantis-signs-6-week-abortion-ban-hours-after-legislature-passage-heartbeat-protection-act/70113986007/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "date": "2023-05-31",
+      "fact": "DeSantis signed legislation to streamline economic development in Florida, reestablishing the Florida Department of Commerce and consolidating Visit Florida, Enterprise Florida, and the Florida Department of Economic Opportunity.",
+      "sources": [
+        {
+          "url": "https://www.floridajobs.org/news-center/DEO-Press/2023/05/31/governor-desantis-signs-legislation-to-streamline-economic-development-in-florida#:~:text=May%2031%2C%202023",
+          "name": "floridajobs.org"
+        },
+        {
+          "url": "https://www.flsenate.gov/UserContent/Session/2011/Publications/InterimReports/pdf/2011-107cm.pdf",
+          "name": "flsenate.gov"
+        },
+        {
+          "url": "https://www.flgov.com/eog/news/press/2023/governor-desantis-signs-legislation-streamline-economic-development-florida",
+          "name": "flgov.com"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "date": "2019-06-01",
+      "fact": "DeSantis signed an anti-'sanctuary city' bill into law, requiring local governments to aid federal immigration-enforcement efforts.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/advocates-say-florida-governor-sanctuary-bill-politically-motivated-n1017976",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.huffpost.com/entry/ron-desantis-florida-sanctuary-immigration_n_5d03e0aae4b0985c419d439f",
+          "name": "huffpost.com"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "date": "2020-06-01",
+      "fact": "DeSantis signed a bill requiring government employers and contractors to use E-Verify.",
+      "sources": [
+        {
+          "url": "https://www.foxcarolina.com/florida-becomes-th-state-to-ban-sanctuary-cities/article_a7382e03-4b84-5a79-a04b-f583959f7b5a.html",
+          "name": "foxcarolina.com"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2021-02-02",
+      "fact": "DeSantis announced legislation to crack down on big tech and online censorship",
+      "sources": [
+        {
+          "url": "https://www.wtxl.com/news/gov-desantis-announces-legislation-to-crack-down-on-big-tech-online-censorship",
+          "name": "wtxl.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "date": "2021-04-01",
+      "fact": "DeSantis signed the Combating Public Disorder Act into law, which forbids intimidation by mobs and penalizes damage to historic properties or memorials.",
+      "sources": [
+        {
+          "url": "https://www.miaminewtimes.com/news/whats-in-floridas-anti-riot-bill-hb-1-12147768",
+          "name": "miaminewtimes.com"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "date": "2021-04-19",
+      "fact": "Ron DeSantis signed Florida's anti-riot bill",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/ron-desantis-florida-anti-riot-bill-signed-346f934f2f2e4149befe5f2f2f2f2f2",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "date": "2021-04-30",
+      "fact": "Florida is set to ban 'deplatforming' on social media",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/tech/tech-news/florida-set-ban-deplatforming-social-media-n1265731",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "date": "2021-06-01",
+      "fact": "Ron DeSantis signed the Fairness in Women's Sports Act, which bans transgender girls and women from participating and competing in middle-school and high-school girls' and college women's sports competitions.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        },
+        {
+          "url": "https://www.reuters.com/article/us-florida-transgender-sports/update-1-florida-joins-states-to-ban-transgender-girls-from-sports-idUSKBN2BM2OC",
+          "name": "reuters.com"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "date": "2021-07-01",
+      "fact": "A federal judge blocked Florida's law targeting social media platforms",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2021/07/01/tech/florida-social-media-law-blocked/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "date": "2022-02-01",
+      "fact": "DeSantis voiced support for the Florida Parental Rights in Education Act, which prohibits discussion of sexual orientation or gender identity in school classrooms from kindergarten to grade 3.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/article/usa-lgbtq-florida/update-1-florida-joins-states-to-ban-transgender-girls-from-sports-idUSL2N2NJ1W7",
+          "name": "reuters.com"
+        },
+        {
+          "url": "https://www.cnn.com/2022/02/07/politics/ron-desantis-dont-say-gay-bill/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "date": "2022-02-07",
+      "fact": "Ron DeSantis signaled support for the 'Don't Say Gay' bill",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2022/02/07/politics/ron-desantis-dont-say-gay-bill/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "date": "2022-03-01",
+      "fact": "DeSantis signed the Florida Parental Rights in Education Act into law, which took effect on July 1, 2022.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2022/03/28/1089221657/dont-say-gay-florida-desantis",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://abcnews.go.com/Politics/florida-house-passes-controversial-dont-gay-bill/story?id=83090590",
+          "name": "abcnews.go.com"
+        },
+        {
+          "url": "https://www.cnn.com/2022/02/07/politics/ron-desantis-florida-classrooms-sexual-orientation-gender-identity/index.html",
+          "name": "cnn.com"
+        },
+        {
+          "url": "https://www.huffpost.com/entry/ron-desantis-signs-dont-say-gay-bill-florida_n_6227adfbe4b004a43c10cb11",
+          "name": "huffpost.com"
+        },
+        {
+          "url": "https://www.npr.org/2022/03/28/1089223191/florida-dont-say-gay-bill",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.huffpost.com/entry/ron-desantis-dont-say-gay-bill-florida_n_6238f2eae4b0b5590f7c4f2a",
+          "name": "huffpost.com"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2022-03-28",
+      "fact": "Florida's governor signed the 'Don't Say Gay' bill into law",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2022/03/28/1089223191/florida-dont-say-gay-bill",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.huffpost.com/entry/ron-desantis-dont-say-gay-bill-florida_n_6238f2eae4b0b5590f7c4f2a",
+          "name": "huffpost.com"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "date": "2022-04-01",
+      "fact": "DeSantis signed a bill eliminating Disney's special independent district act and replacing its Disney-appointed board of overseers.",
+      "sources": [
+        {
+          "url": "https://www.forbes.com/sites/alisondurkee/2022/03/28/disney-says-striking-down-dont-say-gay-law-is-companys-goal-after-desantis-signs-bill/",
+          "name": "forbes.com"
+        },
+        {
+          "url": "https://www.orlandosentinel.com/news/os-ne-disney-reedy-creek-bill-signed-20220422-3ijuuhs5wra6vcbmy4qhpqp6gy-story.html",
+          "name": "orlandosentinel.com"
+        },
+        {
+          "url": "https://www.orlandosentinel.com/news/os-ne-disney-reedy-creek-district-eliminated-20220422-4yqfz2nqjvfq5pt7qzrjxh4nxa-story.html",
+          "name": "orlandosentinel.com"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "date": "2022-04-14",
+      "fact": "Ron DeSantis signed a bill banning abortions after 15 weeks into law",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2022/04/14/politics/ron-desantis-florida-abortion-ban/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "date": "2022-04-22",
+      "fact": "Ron DeSantis signed a bill eliminating Walt Disney World's Reedy Creek district",
+      "sources": [
+        {
+          "url": "https://www.orlandosentinel.com/news/os-ne-disney-reedy-creek-district-eliminated-20220422-4yqfz2nqjvfq5pt7qzrjxh4nxa-story.html",
+          "name": "orlandosentinel.com"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "date": "2022-08-19",
+      "fact": "A judge blocked Florida's 'Stop WOKE Act' pushed by Gov. DeSantis",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/judge-blocks-floridas-stop-woke-act-pushed-gov-desantis-rcna43531",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "date": "2022-09-01",
+      "fact": "DeSantis's administration recruited 50 newly arrived asylum seekers, mostly from Venezuela, and flew them to Martha's Vineyard, Massachusetts.",
+      "sources": [
+        {
+          "url": "https://www.forbes.com/sites/carlieporterfield/2022/09/20/venezuelan-migrants-sue-desantis-for-flying-them-to-marthas-vineyard/?sh=b512160699dd",
+          "name": "forbes.com"
+        },
+        {
+          "url": "https://www.tampabay.com/news/florida-politics/2022/09/15/desantismarthas-vineyardvenezuelansundocumented-immigrantsfloridatampaimmigration/",
+          "name": "tampabay.com"
+        },
+        {
+          "url": "https://www.nytimes.com/2022/10/02/us/migrants-marthas-vineyard-desantis-texas.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "date": "2023-03-22",
+      "fact": "Ron DeSantis announced plans to expand the 'Don't Say Gay' law to all grades",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/ron-desantis-dont-say-gay-law-expansion-22f2c bee95f4e8a619f2d9f",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "date": "2023-04-14",
+      "fact": "Ron DeSantis signed a six-week abortion ban into law in a private late-night ceremony",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/news/politics/2023/04/14/desantis-signs-six-week-abortion-ban-into-law/70288281007/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "date": "2023-04-19",
+      "fact": "Florida expanded the 'Don't Say Gay' rules to grades 4-12",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/ron-desantis-dont-say-gay-law-expansion-22f2c bee95f4e8a619f2d9f",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "date": "2023-05-01",
+      "fact": "DeSantis announced plans to send over 1,000 personnel to Texas, including National Guard troops, to help Texas stem the influx of illegal immigration across the southern border.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/florida-texas-national-guard-desantis-986db9ff82c92e49890173ab4ba9da12",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "date": "2023-08-30",
+      "fact": "DeSantis refused to accept $346 million from the Inflation Reduction Act for rebates to homeowners who want to retrofit their houses and make them more energy efficient.",
+      "sources": [
+        {
+          "url": "https://www.politico.com/news/2023/08/30/desantis-refuses-biden-climate-ira-money-00113397",
+          "name": "politico.com"
+        },
+        {
+          "url": "https://www.bnnbloomberg.ca/desantis-says-no-thanks-to-377-million-in-federal-energy-funds-1.1944205",
+          "name": "bnnbloomberg.ca"
+        },
+        {
+          "url": "https://www.theinvadingsea.com/2023/08/21/inflation-reduction-act-florida-desantis-veto-energy-rebates/",
+          "name": "theinvadingsea.com"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "date": "2024-01-01",
+      "fact": "Ron DeSantis signed into law a bill that requires social media platforms to prohibit people under 16 years old from making accounts.",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/miami/news/group-urges-veto-of-florida-social-media-bill/",
+          "name": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "date": "2024-03-12",
+      "fact": "A court overturned a large part of Florida's 'don't say gay' law",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2024/03/12/1162437869/florida-dont-say-gay-law-overturned",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "date": "2024-06-01",
+      "fact": "DeSantis vetoed a bill passed by the State House that would have created a statewide process managed by the Department of Health to issue closures and send warnings if the bacteria in waterways reached unsafe levels.",
+      "sources": [
+        {
+          "url": "https://www.wesh.com/article/biden-desantis-response-hurricane-ian/41537029",
+          "name": "wesh.com"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "date": "2025-05-20",
+      "fact": "State Attorney Jack Campbell opened a criminal investigation into allegations of money laundering and wire fraud related to the Hope Florida Foundation, which was directed by DeSantis's chief of staff, Uthmeier.",
+      "sources": [
+        {
+          "url": "https://www.tampabay.com/news/florida-politics/2025/05/20/hope-florida-foundation-desantis-jack-campbell-state-attorney-investigation-medicaid/",
+          "name": "tampabay.com"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "date": "2025-05-20",
+      "fact": "Legislators accused Uthmeier of money laundering and wire fraud for his role in directing the Medicaid settlement as DeSantis's chief of staff, then soliciting the applicants who requested the money from the Hope Florida Foundation, both of which immediately transferred it to a bank account under his control.",
+      "sources": [
+        {
+          "url": "https://www.tampabay.com/news/florida-politics/2025/05/20/hope-florida-foundation-desantis-jack-campbell-state-attorney-investigation-medicaid/",
+          "name": "tampabay.com"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "date": "2025-09-26",
+      "fact": "A court ruled on McGraw v. DeSantis, a case involving Ron DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10678441/mcgraw-v-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "date": "2025-09-24",
+      "fact": "A court ruled on Victor Tony Jones v. State of Florida & Victor Tony Jones v. Secretary, Department of Corrections, a case involving the State of Florida under Ron DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10676989/victor-tony-jones-v-state-of-florida-victor-tony-jones-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "date": "2025-08-12",
+      "fact": "A court ruled on Kayle B. Bates v. State of Florida & Kayle B. Bates v. Secretary, Department of Corrections, a case involving the State of Florida under Ron DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10652409/kayle-b-bates-v-state-of-florida-kayle-b-bates-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    }
+  ]
+}
