@@ -211,17 +211,23 @@ function extractReferencesFromHtml(html) {
   const refs = {};
 
   // Quick sanity check before running the full regex
-  if (!html.includes('cite_note-')) return refs;
-  if (!html.includes('id="cite_note-')) return refs;
+  // Wikipedia HTML-encodes underscores in id attributes as &#95; (e.g. cite&#95;note-)
+  // but uses literal underscores in href attributes
+  if (!html.includes('cite_note-') && !html.includes('cite&#95;note-')) return refs;
 
-  // Match reference list items. Wikipedia always puts id first: <li id="cite_note-X">
-  // Use [^<]* instead of [\s\S]*? to avoid catastrophic backtracking on large HTML.
+  // Match reference list items. Wikipedia encodes underscores in id as &#95;
+  // e.g. <li id="cite&#95;note-3"> or <li class="..." id="cite&#95;note-...">
   // We split on </li> and process each chunk individually.
   const parts = html.split('</li>');
   for (const part of parts) {
-    const liMatch = part.match(/<li\b[^>]*\bid="cite_note-([^"]*)"[^>]*>([\s\S]*)/);
+    const liMatch = part.match(/<li\b[^>]*\bid="(cite(?:_|&#95;)note-[^"]*)"[^>]*>([\s\S]*)/);
     if (!liMatch) continue;
-    const refId = liMatch[1];
+    // Decode HTML entities in id to match the literal-underscore refs extracted from hrefs in body text
+    const refId = liMatch[1]
+      .replace(/^cite(?:_|&#95;)note-/, '')
+      .replace(/&#95;/g, '_')
+      .replace(/&#44;/g, ',')
+      .replace(/&amp;/g, '&');
     const refContent = liMatch[2];
     // Find external URLs (https:// or protocol-relative //)
     const urlRegex = /href="((?:https?:)?\/\/[^"]+)"/g;
