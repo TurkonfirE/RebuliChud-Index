@@ -35,17 +35,6 @@
       ]
     },
     {
-      "id": 3,
-      "date": "2020-01-01",
-      "fact": "Marjorie Taylor Greene supported calls to execute prominent Democratic Party politicians, including Hillary Clinton and Barack Obama.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 4,
       "date": "2020-01-01",
       "fact": "Marjorie Taylor Greene promoted Islamophobic, antisemitic, and white supremacist views, including the white genocide conspiracy theory.",
@@ -53,17 +42,6 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/us-news/2020/sep/18/republican-qanon-congress-marjorie-taylor-greene"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "date": "2020-01-01",
-      "fact": "Marjorie Taylor Greene amplified conspiracy theories that allege government involvement in mass shootings in the United States, implicate the Clinton family in murder, and suggest the attacks of 9/11 were a hoax.",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
         }
       ]
     },
@@ -263,17 +241,6 @@
       ]
     },
     {
-      "id": 23,
-      "date": "2021-02-04",
-      "fact": "The U.S. House of Representatives voted to remove Marjorie Taylor Greene from all committee roles in response to her endorsements of political violence.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 24,
       "date": "2021-04-01",
       "fact": "Marjorie Taylor Greene faced a legal challenge to her eligibility based on her alleged involvement in organizing and promoting the 2021 United States Capitol attack",
@@ -296,17 +263,6 @@
       ]
     },
     {
-      "id": 26,
-      "date": "2022-01-01",
-      "fact": "Marjorie Taylor Greene promoted Russian propaganda and praised its president Vladimir Putin during the Russian invasion of Ukraine.",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://www.ft.com/"
-        }
-      ]
-    },
-    {
       "id": 27,
       "date": "2023-01-01",
       "fact": "Marjorie Taylor Greene was appointed to new committee roles.",
@@ -325,32 +281,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "date": "2024-05-08",
-      "fact": "Marjorie Taylor Greene unsuccessfully attempted to oust Mike Johnson from his role as Speaker of the House of Representatives.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "date": "2026-01-05",
-      "fact": "Marjorie Taylor Greene announced her resignation from Congress effective January 5, 2026, stating that she did not want her district to endure a 'hurtful and hateful primary'.",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        },
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
         }
       ]
     },
@@ -524,10 +454,6 @@
       "date": "2021-05-01",
       "fact": "Marjorie Taylor Greene aggressively confronted Ocasio-Cortez outside the House chamber, loudly asking why she supported antifa and Black Lives Matter, which Greene falsely characterized as terrorists.",
       "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        },
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
@@ -1019,21 +945,6 @@
       ]
     },
     {
-      "id": 91,
-      "date": "2017-01-01",
-      "fact": "Marjorie Taylor Greene speculated that the Pizzagate conspiracy theory is real and suggested John F. Kennedy Jr.'s death in a plane crash in 1999 was a 'Clinton murder'.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "NBC",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
       "id": 92,
       "date": "2017-01-01",
       "fact": "Marjorie Taylor Greene expressed doubt that the perpetrator of the 2017 Las Vegas shooting acted alone, suggesting it was an attack on the right to bear arms.",
@@ -1089,50 +1000,6 @@
       ]
     },
     {
-      "id": 97,
-      "date": "2021-01-01",
-      "fact": "Marjorie Taylor Greene called the Squad supporters of terrorism and Hamas who don't belong in Congress and referred to them as the Jihad Squad",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 98,
-      "date": "2021-01-01",
-      "fact": "Marjorie Taylor Greene said she would love to trade Katie Hopkins for some of our white people here that have no appreciation for our country",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 99,
-      "date": "2021-01-01",
-      "fact": "Marjorie Taylor Greene falsely claimed that the verdict in the Derek Chauvin trial was a result of jury intimidation by Black Lives Matter",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 100,
-      "date": "2021-01-01",
-      "fact": "Marjorie Taylor Greene denounced the George Floyd Justice in Policing Act as an Anti-Police bill and erroneously claimed it would bar law enforcement from using facial recognition",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
       "id": 101,
       "date": "2021-01-01",
       "fact": "Marjorie Taylor Greene rejected the scientific consensus that climate change is caused primarily by human activity, saying 'maybe perhaps we live on a ball that rotates around the sun, that flies through the universe, and maybe our climate just changes'.",
@@ -1140,17 +1007,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 102,
-      "date": "2021-01-29",
-      "fact": "Marjorie Taylor Greene was found to have past ties with extremist militia groups, including the Three Percenters and the Oath Keepers, which had members participate in the 2021 attack on the U.S. Capitol.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -1221,17 +1077,6 @@
       ]
     },
     {
-      "id": 109,
-      "date": "2021-04-01",
-      "fact": "Marjorie Taylor Greene was involved in launching an America First Caucus, which believes that America is a nation with a border, and a culture, strengthened by a common respect for uniquely Anglo-Saxon political traditions",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
       "id": 110,
       "date": "2021-06-01",
       "fact": "Marjorie Taylor Greene called transgender women men playing dress up and having an identity crisis, saying they will never be women.",
@@ -1276,17 +1121,6 @@
       ]
     },
     {
-      "id": 114,
-      "date": "2022-01-01",
-      "fact": "Marjorie Taylor Greene falsely claimed that the perpetrator of the 2022 Robb Elementary School shooting in Texas was transgender",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
       "id": 115,
       "date": "2022-04-01",
       "fact": "Marjorie Taylor Greene criticized Ketanji Brown Jackson for not answering Senator Marsha Blackburn's question what is a woman?, and said that women came from Adam's rib and were created by God.",
@@ -1309,50 +1143,6 @@
       ]
     },
     {
-      "id": 117,
-      "date": "2022-06-01",
-      "fact": "Marjorie Taylor Greene said that an entire pride month celebrating LGBT people needs to end",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 118,
-      "date": "2022-08-19",
-      "fact": "Marjorie Taylor Greene introduced the Protect Children's Innocence Act, which would make giving gender-affirming care to transgender youth a felony punishable by up to 25 years in prison",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 119,
-      "date": "2022-11-01",
-      "fact": "Marjorie Taylor Greene responded to California state senator Scott Wiener by saying the Protect Children's Innocence Act would stop communist groomers such as Wiener",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 120,
-      "date": "2025-12-17",
-      "fact": "An updated version of Marjorie Taylor Greene's Protect Children's Innocence Act passed the House by a vote of 216-211",
-      "sources": [
-        {
-          "name": "Unknown",
-          "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
       "id": 121,
       "date": "2017-01-01",
       "fact": "Marjorie Taylor Greene claimed that the August 2017 Charlottesville white nationalist rally was an 'inside job'.",
@@ -1360,28 +1150,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 122,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene expressed support for the execution of leading Democrats, including Pelosi, Barack Obama, and Hillary Clinton, as well as support for the execution of FBI agents.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene's Facebook account responded to a post asking about hanging Democrats, saying 'Stage is being set. Players are being put in place. We must be patient. This must be done perfectly or liberal judges would let them off.'",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -1452,17 +1220,6 @@
       ]
     },
     {
-      "id": 130,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene shared a conspiracy theory about the Camp Fire, a deadly Californian wildfire, suggesting that it could have been caused by 'what looked like lasers or beams of blue light' from 'space solar generators' in a scheme involving California governor Jerry Brown, companies PG&E, Rothschild & Co, and Solaren.",
-      "sources": [
-        {
-          "name": "Ting",
-          "url": "https://www.theguardian.com/world/2020/sep/10/oregon-fires-cause-rumors-activists-social-media"
-        }
-      ]
-    },
-    {
       "id": 131,
       "date": "2019-02-01",
       "fact": "Marjorie Taylor Greene suggested that Supreme Court Justice Ruth Bader Ginsburg had been replaced in public appearances by a body double.",
@@ -1485,39 +1242,6 @@
       ]
     },
     {
-      "id": 133,
-      "date": "2020-01-01",
-      "fact": "Marjorie Taylor Greene promoted multiple conspiracy theories, including the claim that Hillary Clinton is responsible for a series of murders, that Democratic Party elites are responsible for a satanic child sex trafficking ring, and that the government orchestrated the 2017 Las Vegas shooting.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 134,
-      "date": "2020-01-01",
-      "fact": "Marjorie Taylor Greene expressed racist, antisemitic, and Islamophobic views in videos published before the Republican primary runoff election.",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 135,
-      "date": "2020-06-01",
-      "fact": "Marjorie Taylor Greene expressed racist, antisemitic, and Islamophobic views in videos published before the Republican primary runoff election.",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
       "id": 136,
       "date": "2020-08-01",
       "fact": "Marjorie Taylor Greene wrote on Twitter that she now knows it's not correct that a missile hit the Pentagon, after previously expressing doubts about the 9/11 attacks.",
@@ -1536,17 +1260,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 138,
-      "date": "2021-01-01",
-      "fact": "Marjorie Taylor Greene agreed with a conspiracy theory known as Frazzledrip, which asserts that there is a video of Hillary Clinton and her assistant Huma Abedin murdering a child in a satanic ritual.",
-      "sources": [
-        {
-          "name": "Media Matters",
-          "url": "https://www.mediamatters.org/"
         }
       ]
     },
@@ -1595,17 +1308,6 @@
       ]
     },
     {
-      "id": 143,
-      "date": "2022-05-01",
-      "fact": "Marjorie Taylor Greene promoted the conspiracy theory that the U.S. government is planning to force Americans to eat fake meat grown in a 'peach tree dish' by Bill Gates.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 144,
       "date": "2022-05-01",
       "fact": "Marjorie Taylor Greene said that the Robb Elementary School shooter had engaged in cross-dressing, echoing similar claims by right-wing politicians and media figures that the shooter was transgender.",
@@ -1613,28 +1315,6 @@
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/politics/politics-news/marjorie-taylor-greene-questions-trump-america-first-foreign-trips-rcna243323"
-        }
-      ]
-    },
-    {
-      "id": 145,
-      "date": "2022-08-01",
-      "fact": "Marjorie Taylor Greene said 'People die in the cold. This Earth warming, and carbon, is actually healthy for us. It helps us to feed people, it keeps people alive. ... We need to hold Democrats accountable and defund all of their climate garbage' in an interview.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 146,
-      "date": "2022-08-01",
-      "fact": "Marjorie Taylor Greene said that Democrats had designed the killing of Ayman al-Zawahiri to boost Biden in the midterms because the Russian invasion of Ukraine had not achieved this.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -1991,25 +1671,6 @@
       ]
     },
     {
-      "id": 179,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene indicated support for executing prominent Democrats",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 180,
       "date": "2019-06-04",
       "fact": "Marjorie Taylor Greene entered the 6th District GOP race with a pledge to cut spending, which may be considered a policy that could cause harm to vulnerable groups if implemented.",
@@ -2043,21 +1704,6 @@
       ]
     },
     {
-      "id": 183,
-      "date": "2020-06-11",
-      "fact": "Marjorie Taylor Greene spread conspiracies about Charlottesville and 'Pizzagate'",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 184,
       "date": "2020-06-15",
       "fact": "Marjorie Taylor Greene posed with a neo-Nazi and peddled antisemitic and QAnon conspiracy theories.",
@@ -2065,39 +1711,6 @@
         {
           "name": "Haaretz",
           "url": "https://www.haaretz.com/us-news/2020-06-15/ty-article/trump-boosts-georgia-candidate-who-peddles-antisemitic-qanon-conspiracy-theories/0000017f-f7e4-df05-a57f-ffecbafa0000"
-        }
-      ]
-    },
-    {
-      "id": 185,
-      "date": "2020-06-18",
-      "fact": "House Republican leaders condemned Marjorie Taylor Greene for making racist videos",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 186,
-      "date": "2020-08-25",
-      "fact": "Marjorie Taylor Greene spread conspiracies about Charlottesville and 'Pizzagate'",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 187,
-      "date": "2020-08-27",
-      "fact": "Marjorie Taylor Greene shared antisemitic and Islamophobic video",
-      "sources": [
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/"
         }
       ]
     },
@@ -2117,105 +1730,6 @@
       ]
     },
     {
-      "id": 189,
-      "date": "2021-01-03",
-      "fact": "Marjorie Taylor Greene released a video statement from the White House on Jan. 6 electoral objection",
-      "sources": [
-        {
-          "name": "Marjorie Taylor Greene's official website",
-          "url": "https://greene.house.gov/"
-        }
-      ]
-    },
-    {
-      "id": 190,
-      "date": "2021-01-04",
-      "fact": "Marjorie Taylor Greene stated that 'our elections should be decertified', promoting election fraud conspiracy theories",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 191,
-      "date": "2021-01-07",
-      "fact": "Marjorie Taylor Greene voted to overturn election results, one of 147 Republicans to do so",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 192,
-      "date": "2021-01-18",
-      "fact": "Marjorie Taylor Greene referred to the Parkland school shooting as a 'false flag' event on Facebook",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 193,
-      "date": "2021-01-26",
-      "fact": "Marjorie Taylor Greene indicated support for executing prominent Democrats in 2018 and 2019",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 194,
-      "date": "2021-01-29",
-      "fact": "Marjorie Taylor Greene was an active far-right conspiracy theorist before her election",
-      "sources": [
-        {
-          "name": "Global News",
-          "url": "https://globalnews.ca/"
-        }
-      ]
-    },
-    {
-      "id": 195,
-      "date": "2021-01-30",
-      "fact": "Marjorie Taylor Greene's controversies were piling up, but Republicans remained quiet",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 196,
-      "date": "2021-01-31",
-      "fact": "Marjorie Taylor Greene encouraged figures to subvert the election, according to The New York Times.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 197,
-      "date": "2021-02-01",
-      "fact": "Marjorie Taylor Greene was building a brand on a web of dangerous conspiracy theories",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 198,
       "date": "2021-02-02",
       "fact": "Marjorie Taylor Greene faced expulsion threat due to her incendiary social media posts",
@@ -2223,32 +1737,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.com/news"
-        }
-      ]
-    },
-    {
-      "id": 199,
-      "date": "2021-02-04",
-      "fact": "The House voted to remove Marjorie Taylor Greene from committee assignments due to her controversial statements and actions",
-      "sources": [
-        {
-          "name": "Chicago Tribune",
-          "url": "https://www.chicagotribune.com"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 200,
-      "date": "2021-04-17",
-      "fact": "Marjorie Taylor Greene launched a new 'America First' caucus, pushing for 'Anglo-Saxon political tradition'.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -2264,28 +1752,6 @@
       ]
     },
     {
-      "id": 202,
-      "date": "2021-05-23",
-      "fact": "Marjorie Taylor Greene compared vaccine rules to the Holocaust, prompting criticism from GOP lawmakers",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 203,
-      "date": "2021-05-28",
-      "fact": "Marjorie Taylor Greene compared Democrats to Nazis, saying Nazis were the 'National Socialist party' of their time",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
       "id": 204,
       "date": "2021-06-01",
       "fact": "Marjorie Taylor Greene voted against rewarding the Capitol Police with the Congressional Gold Medal for defending the Capitol Building during the 2021 United States Capitol attack.",
@@ -2293,28 +1759,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene"
-        }
-      ]
-    },
-    {
-      "id": 205,
-      "date": "2021-06-14",
-      "fact": "Marjorie Taylor Greene apologized for comparing vaccine rules to the Holocaust",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 206,
-      "date": "2022-07-27",
-      "fact": "Marjorie Taylor Greene expressed support for Christian nationalism, stating 'we should be Christian nationalists'",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -2400,17 +1844,6 @@
       ]
     },
     {
-      "id": 214,
-      "date": "2020-09-08",
-      "fact": "Marjorie Taylor Greene said 'children should not wear masks', bucking the CDC's recommendation.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 215,
       "date": "2020-09-23",
       "fact": "Marjorie Taylor Greene's apparent ascent to Congress could be a 'bellwether' for QAnon.",
@@ -2466,17 +1899,6 @@
       ]
     },
     {
-      "id": 220,
-      "date": "2021-01-28",
-      "fact": "Marjorie Taylor Greene confronted Parkland shooting survivor with baseless claims",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 221,
       "date": "2021-01-28",
       "fact": "Marjorie Taylor Greene's remarks were condemned by House Speaker Nancy Pelosi, who stated that 'the enemy is within' the House of Representatives, referring to Greene's behavior and rhetoric.",
@@ -2495,17 +1917,6 @@
         {
           "name": "Congress.gov Library of Congress",
           "url": "https://www.congress.gov/bill/117th-congress/house-resolution/83"
-        }
-      ]
-    },
-    {
-      "id": 223,
-      "date": "2021-02-04",
-      "fact": "Marjorie Taylor Greene backed a bill to ban Pride flags at U.S. embassies",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
         }
       ]
     },
@@ -2565,17 +1976,6 @@
       ]
     },
     {
-      "id": 229,
-      "date": "2021-04-16",
-      "fact": "Marjorie Taylor Greene and Lauren Boebert were the only lawmakers who voted against reauthorizing a bill to help Leukemia patients.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 230,
       "date": "2021-05-12",
       "fact": "Marjorie Taylor Greene aggressively confronted Representative Ocasio-Cortez, causing security concerns.",
@@ -2620,17 +2020,6 @@
       ]
     },
     {
-      "id": 234,
-      "date": "2021-06-24",
-      "fact": "Marjorie Taylor Greene told trans women to 'stay out of our rape crisis centers'.",
-      "sources": [
-        {
-          "name": "LGBTQ Nation",
-          "url": "https://www.lgbtqnation.com/"
-        }
-      ]
-    },
-    {
       "id": 235,
       "date": "2022-02-28",
       "fact": "Marjorie Taylor Greene spoke at a conference founded by white nationalist Nick Fuentes, downplaying the event's extremist ties.",
@@ -2660,17 +2049,6 @@
         {
           "name": "Law Enforcement Today",
           "url": "https://www.lawenforcementtoday.com/author/marjorie-greene/"
-        }
-      ]
-    },
-    {
-      "id": 238,
-      "date": "2020-05-28",
-      "fact": "Marjorie Taylor Greene posted a video about the death of George Floyd, spreading conspiracies about the incident",
-      "sources": [
-        {
-          "name": "Facebook",
-          "url": "https://www.facebook.com"
         }
       ]
     },
@@ -2715,28 +2093,6 @@
         {
           "name": "The Hill",
           "url": "https://thehill.com/homenews/administration/5601027-marjorie-greene-trump-divide/"
-        }
-      ]
-    },
-    {
-      "id": 243,
-      "date": "2021-05-19",
-      "fact": "Marjorie Taylor Greene was fined $500 for repeatedly going maskless on the House floor",
-      "sources": [
-        {
-          "name": "Forbes",
-          "url": "https://www.forbes.com/"
-        }
-      ]
-    },
-    {
-      "id": 244,
-      "date": "2021-05-20",
-      "fact": "Marjorie Taylor Greene called Nancy Pelosi 'mentally ill'",
-      "sources": [
-        {
-          "name": "The Water Cooler",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-omar-tlaib-bible-b1793806.html"
         }
       ]
     },
@@ -2800,17 +2156,6 @@
       ]
     },
     {
-      "id": 250,
-      "date": "2021-07-07",
-      "fact": "Marjorie Taylor Greene revealed she learned nothing from her Holocaust museum visit",
-      "sources": [
-        {
-          "name": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/"
-        }
-      ]
-    },
-    {
       "id": 251,
       "date": "2021-07-21",
       "fact": "Marjorie Taylor Greene laughed off a question about children dying of Covid.",
@@ -2818,17 +2163,6 @@
         {
           "name": "The Independent",
           "url": "https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-omar-tlaib-bible-b1793806.html"
-        }
-      ]
-    },
-    {
-      "id": 252,
-      "date": "2021-07-23",
-      "fact": "Marjorie Taylor Greene stated that she would deport Chinese people if she could, in relation to the COVID-19 pandemic.",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "url": "https://www.huffpost.com/"
         }
       ]
     },
@@ -2855,17 +2189,6 @@
       ]
     },
     {
-      "id": 255,
-      "date": "2021-08-17",
-      "fact": "Marjorie Taylor Greene voted against speeding up visas for Afghans fleeing the Taliban.",
-      "sources": [
-        {
-          "name": "USA Today",
-          "url": "https://www.usatoday.com/"
-        }
-      ]
-    },
-    {
       "id": 256,
       "date": "2021-11-01",
       "fact": "Marjorie Taylor Greene accrued at least $48,000 in fines for ignoring the House mask mandate",
@@ -2877,566 +2200,10 @@
       ]
     },
     {
-      "id": 257,
-      "date": "2021-12-17",
-      "fact": "Marjorie Taylor Greene owns stock in three vaccine manufacturers",
-      "sources": [
-        {
-          "name": "Chattanooga Times Free Press",
-          "url": "https://www.timesfreepress.com/"
-        }
-      ]
-    },
-    {
-      "id": 258,
-      "date": "2022-03-22",
-      "fact": "Marjorie Taylor Greene suggested that Ukraine instigated the Russian invasion.",
-      "sources": [
-        {
-          "name": "Forbes",
-          "url": "https://www.forbes.com/"
-        }
-      ]
-    },
-    {
-      "id": 259,
-      "date": "2022-07-19",
-      "fact": "Marjorie Taylor Greene voted against a resolution to support Finland and Sweden joining NATO.",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 260,
-      "date": "2023-03-08",
-      "fact": "Marjorie Taylor Greene voted against a bill directing the removal of troops from Syria.",
-      "sources": [
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 261,
-      "date": "2023-03-16",
-      "fact": "Marjorie Taylor Greene claimed that reports of Putin wanting to extend invasion further into Europe are 'lies'.",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
-        }
-      ]
-    },
-    {
-      "id": 262,
-      "date": "2024-04-18",
-      "fact": "Marjorie Taylor Greene was accused of 'recycling direct Russian propaganda' by Raskin.",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 263,
-      "date": "2024-04-18",
-      "fact": "Marjorie Taylor Greene nodded to her infamous 'Jewish space laser' theory in an amendment meant to mess up sending aid to Israel.",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
-      "id": 264,
-      "date": "2025-07-18",
-      "fact": "Marjorie Taylor Greene voted to cut US funding for Israel.",
-      "sources": [
-        {
-          "name": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/"
-        }
-      ]
-    },
-    {
-      "id": 265,
-      "date": "2025-07-29",
-      "fact": "Marjorie Taylor Greene called the Gaza crisis a 'genocide', hinting at a rift on the right over Israel.",
-      "sources": [
-        {
-          "name": "The Seattle Times",
-          "url": "https://www.seattletimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 266,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene endorsed conspiracy theories that 9/11 was an inside job and that Sandy Hook was staged on Facebook.",
-      "sources": [
-        {
-          "name": "Media Matters for America",
-          "url": "https://www.mediamatters.org/"
-        }
-      ]
-    },
-    {
-      "id": 267,
-      "date": "2018-01-01",
-      "fact": "Marjorie Taylor Greene suggested on Facebook that the Parkland school shooting was a false flag planned event.",
-      "sources": [
-        {
-          "name": "Media Matters for America",
-          "url": "https://www.mediamatters.org/"
-        }
-      ]
-    },
-    {
-      "id": 268,
-      "date": "2019-01-01",
-      "fact": "Marjorie Taylor Greene searched for Rep. Alexandria Ocasio-Cortez in the Capitol office building.",
-      "sources": [
-        {
-          "name": "The Wrap",
-          "url": "https://www.thewrap.com/"
-        }
-      ]
-    },
-    {
-      "id": 269,
-      "date": "2020-08-08",
-      "fact": "Marjorie Taylor Greene made videos containing bigoted and violent content",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 270,
-      "date": "2021-01-29",
-      "fact": "Marjorie Taylor Greene wanted Muslim congresswomen to retake oaths on Bible",
-      "sources": [
-        {
-          "name": "The Daily Dot",
-          "url": "https://www.dailydot.com"
-        }
-      ]
-    },
-    {
-      "id": 271,
-      "date": "2021-01-29",
-      "fact": "Marjorie Taylor Greene endorsed political violence in a video just before Election Day",
-      "sources": [
-        {
-          "name": "Mother Jones",
-          "url": "https://www.motherjones.com/"
-        }
-      ]
-    },
-    {
-      "id": 272,
-      "date": "2021-02-05",
-      "fact": "Marjorie Taylor Greene defended herself with transphobic comments",
-      "sources": [
-        {
-          "name": "LGBTQ Nation",
-          "url": "https://www.lgbtqnation.com/"
-        }
-      ]
-    },
-    {
-      "id": 273,
-      "date": "2021-02-25",
-      "fact": "Marjorie Taylor Greene displayed a transphobic sign in Congress",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 274,
-      "date": "2021-03-27",
-      "fact": "Marjorie Taylor Greene questioned the concept of climate change, asking how people in the ice age spent money to warm up the earth",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 275,
-      "date": "2021-04-15",
-      "fact": "Marjorie Taylor Greene described climate change as a 'scam' and praised fossil fuels as 'amazing'",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
-      "id": 276,
-      "date": "2021-04-21",
-      "fact": "Marjorie Taylor Greene compared Black Lives Matter protests to Ku Klux Klan tactics",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com"
-        }
-      ]
-    },
-    {
-      "id": 277,
-      "date": "2021-04-21",
-      "fact": "Marjorie Taylor Greene questioned the jury verdict in the Derek Chauvin murder trial",
-      "sources": [
-        {
-          "name": "Vanity Fair",
-          "url": "https://www.vanityfair.com"
-        }
-      ]
-    },
-    {
-      "id": 278,
-      "date": "2021-05-12",
-      "fact": "Marjorie Taylor Greene called the Squad the 'Jihad Squad' and said they should be removed from Congress",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk"
-        }
-      ]
-    },
-    {
-      "id": 279,
-      "date": "2021-05-24",
-      "fact": "Marjorie Taylor Greene stated that the Earth's climate has always changed and that government cannot change it, also referring to the Green New Deal as a 'communist manifesto'",
-      "sources": [
-        {
-          "name": "Twitter",
-          "url": "https://twitter.com/"
-        }
-      ]
-    },
-    {
-      "id": 280,
-      "date": "2021-05-25",
-      "fact": "Marjorie Taylor Greene compared COVID vaccine to Holocaust",
-      "sources": [
-        {
-          "name": "New York Daily News",
-          "url": "https://www.nydailynews.com"
-        }
-      ]
-    },
-    {
-      "id": 281,
-      "date": "2021-06-09",
-      "fact": "Marjorie Taylor Greene stated she does not believe in evolution, referring to it as 'so-called science'",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "url": "https://www.huffpost.com/"
-        },
-        {
-          "name": "Snopes",
-          "url": "https://www.snopes.com/"
-        }
-      ]
-    },
-    {
-      "id": 282,
-      "date": "2021-06-17",
-      "fact": "Marjorie Taylor Greene introduced a bill to abolish the ATF and auction off confiscated firearms",
-      "sources": [
-        {
-          "name": "The Washington Examiner",
-          "url": "https://www.washingtonexaminer.com/"
-        }
-      ]
-    },
-    {
-      "id": 283,
-      "date": "2022-06-01",
-      "fact": "Marjorie Taylor Greene claimed that teaching about gay people is 'emotional child abuse' and that straight people face extinction within 150 years because of LGBTQ+ education",
-      "sources": [
-        {
-          "name": "LGBTQ Nation",
-          "url": "https://www.lgbtqnation.com/"
-        },
-        {
-          "name": "PinkNews",
-          "url": "https://www.pinknews.co.uk/"
-        },
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
-      "id": 284,
-      "date": "2022-06-01",
-      "fact": "Marjorie Taylor Greene suggested that Pride Month 'needs to end'",
-      "sources": [
-        {
-          "name": "Forbes",
-          "url": "https://www.forbes.com"
-        }
-      ]
-    },
-    {
-      "id": 285,
-      "date": "2022-07-04",
-      "fact": "Marjorie Taylor Greene blamed a July Fourth mass shooting on an LGBTQ plot to enact 'more gun control'",
-      "sources": [
-        {
-          "name": "New York Daily News",
-          "url": "https://www.nydailynews.com/"
-        }
-      ]
-    },
-    {
-      "id": 286,
-      "date": "2022-07-24",
-      "fact": "Marjorie Taylor Greene stated that the GOP should be a 'Christian Nationalists' party",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "url": "https://www.huffpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 287,
-      "date": "2022-07-26",
-      "fact": "Marjorie Taylor Greene's promotion of Christian nationalism was criticized by Rachel Maddow",
-      "sources": [
-        {
-          "name": "HuffPost",
-          "url": "https://www.huffpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 288,
-      "date": "2022-08-19",
-      "fact": "Marjorie Taylor Greene introduced a bill to make gender-affirming care for transgender youth a felony",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 289,
-      "date": "2022-11-26",
-      "fact": "Marjorie Taylor Greene hurled a homophobic slur at a Bay Area representative",
-      "sources": [
-        {
-          "name": "KRON-TV",
-          "url": "https://www.kron4.com/"
-        }
-      ]
-    },
-    {
-      "id": 290,
-      "date": "2023-02-20",
-      "fact": "Marjorie Taylor Greene's call for a 'national divorce' between Republican and Democratic states was criticized by a GOP governor as 'evil'",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 291,
-      "date": "2023-02-22",
-      "fact": "Liz Cheney blasted Marjorie Taylor Greene's call for a 'national divorce' between liberal and conservative states",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 292,
-      "date": "2023-02-22",
-      "fact": "Mitt Romney said Marjorie Taylor Greene's call for a 'national divorce' is 'insanity' and attention-seeking",
-      "sources": [
-        {
-          "name": "The Salt Lake Tribune",
-          "url": "https://www.sltrib.com/"
-        }
-      ]
-    },
-    {
-      "id": 293,
-      "date": "2024-10-04",
-      "fact": "Marjorie Taylor Greene implied that someone can control the weather, without specifying who",
-      "sources": [
-        {
-          "name": "ny1.com",
-          "url": "https://www.ny1.com/"
-        }
-      ]
-    },
-    {
-      "id": 294,
-      "date": "2024-10-04",
-      "fact": "Marjorie Taylor Greene suggested that Democrats might have caused Hurricane Helene to harm Republicans",
-      "sources": [
-        {
-          "name": "KGTV",
-          "url": "https://www.kgtv.com/"
-        }
-      ]
-    },
-    {
-      "id": 295,
-      "date": "2025-12-17",
-      "fact": "The House passed a bill criminalizing gender-affirming care for minors, which Marjorie Taylor Greene supported",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 296,
-      "date": "2020-08-12",
-      "fact": "Marjorie Taylor Greene penned a conspiracy theory that a laser beam from space started the deadly 2018 California wildfire.",
-      "sources": [
-        {
-          "name": "Media Matters for America",
-          "url": "https://www.mediamatters.org/"
-        },
-        {
-          "name": "San Francisco Chronicle",
-          "url": "https://www.sfchronicle.com/"
-        }
-      ]
-    },
-    {
-      "id": 297,
-      "date": "2021-01-17",
-      "fact": "Marjorie Taylor Greene's Twitter account was temporarily suspended for election misinformation",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 298,
-      "date": "2021-01-19",
-      "fact": "Marjorie Taylor Greene called Parkland shooting survivor David Hogg a 'coward' in an unearthed video.",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 299,
-      "date": "2021-01-26",
-      "fact": "Marjorie Taylor Greene endorsed conspiracy theories, including QAnon, and sparked calls for her resignation",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 300,
-      "date": "2021-01-27",
-      "fact": "Marjorie Taylor Greene questioned the legitimacy of the Sandy Hook shooting.",
-      "sources": [
-        {
-          "name": "The Hartford Courant",
-          "url": "https://www.courant.com/"
-        }
-      ]
-    },
-    {
-      "id": 301,
-      "date": "2021-01-28",
-      "fact": "Marjorie Taylor Greene removed social media posts amid scrutiny of her past controversial comments",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 302,
-      "date": "2021-01-30",
-      "fact": "Marjorie Taylor Greene believed in various conspiracy theories, including those related to the Camp Fire and space lasers",
-      "sources": [
-        {
-          "name": "San Francisco Chronicle",
-          "url": "https://www.sfchronicle.com/"
-        }
-      ]
-    },
-    {
-      "id": 303,
-      "date": "2021-01-30",
-      "fact": "Marjorie Taylor Greene suggested that Ruth Bader Ginsburg had been replaced by a body double.",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
-        }
-      ]
-    },
-    {
-      "id": 304,
-      "date": "2021-01-30",
-      "fact": "Marjorie Taylor Greene claimed that Obama was secretly a Muslim and that the Clintons killed JFK Jr.",
-      "sources": [
-        {
-          "name": "Chicago Tribune",
-          "url": "https://www.chicagotribune.com/"
-        }
-      ]
-    },
-    {
       "id": 305,
       "date": "2021-02-02",
       "fact": "Marjorie Taylor Greene was stripped of her committee assignments by House Democrats due to her promotion of conspiracy theories and violent rhetoric",
       "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
         {
           "name": "The Hill",
           "url": "https://thehill.com/homenews/campaign/4972962-marjorie-taylor-greene-georgia/"
@@ -3448,36 +2215,10 @@
       ]
     },
     {
-      "id": 306,
-      "date": "2021-02-02",
-      "fact": "Mitch McConnell called Marjorie Taylor Greene's views a 'cancer' for the Republican Party",
-      "sources": [
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 307,
-      "date": "2021-02-02",
-      "fact": "Mitt Romney said the GOP has no space for 'kooks' like Marjorie Taylor Greene",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
-        }
-      ]
-    },
-    {
       "id": 308,
       "date": "2021-02-03",
       "fact": "Marjorie Taylor Greene apologized to GOP colleagues for past comments",
       "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        },
         {
           "name": "The Hill",
           "url": "https://thehill.com/homenews/campaign/4972962-marjorie-taylor-greene-georgia/"
@@ -3496,21 +2237,6 @@
         {
           "name": "CBS News",
           "url": "https://www.cbsnews.com/news/marjorie-taylor-greene-resigning-from-congress/"
-        },
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 310,
-      "date": "2021-02-04",
-      "fact": "Marjorie Taylor Greene had a history of promoting dangerous conspiracy theories and comments",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -3530,80 +2256,6 @@
       ]
     },
     {
-      "id": 312,
-      "date": "2021-04-21",
-      "fact": "Marjorie Taylor Greene appeared to celebrate the death of Pope Francis, calling him 'evil' and saying he was 'defeated by the hand of God'",
-      "sources": [
-        {
-          "name": "The Daily Beast",
-          "url": "https://www.thedailybeast.com/"
-        }
-      ]
-    },
-    {
-      "id": 313,
-      "date": "2021-04-21",
-      "fact": "Marjorie Taylor Greene sparked backlash for her comments on Pope Francis' death, with many criticizing her as insensitive and hateful",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
-        }
-      ]
-    },
-    {
-      "id": 314,
-      "date": "2021-05-04",
-      "fact": "Marjorie Taylor Greene compared Democrats to Nazis",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        },
-        {
-          "name": "The Jerusalem Post",
-          "url": "https://www.jpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 315,
-      "date": "2021-05-14",
-      "fact": "Marjorie Taylor Greene filed homestead exemptions on 2 homes, violating state law",
-      "sources": [
-        {
-          "name": "WSB-TV",
-          "url": "https://www.wsbtv.com/"
-        }
-      ]
-    },
-    {
-      "id": 316,
-      "date": "2021-05-21",
-      "fact": "A FEC complaint accused Marjorie Taylor Greene of violating election law",
-      "sources": [
-        {
-          "name": "OpenSecrets",
-          "url": "https://www.opensecrets.org/"
-        },
-        {
-          "name": "ProPublica",
-          "url": "https://www.propublica.org/"
-        }
-      ]
-    },
-    {
-      "id": 317,
-      "date": "2021-06-15",
-      "fact": "Marjorie Taylor Greene made anti-mask Holocaust comparisons",
-      "sources": [
-        {
-          "name": "TheWrap",
-          "url": "https://www.thewrap.com/"
-        }
-      ]
-    },
-    {
       "id": 318,
       "date": "2021-07-20",
       "fact": "Twitter suspended Marjorie Taylor Greene's account for spreading Covid-19 misinformation",
@@ -3611,124 +2263,6 @@
         {
           "name": "BBC News",
           "url": "https://www.bbc.com/news"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 319,
-      "date": "2021-08-10",
-      "fact": "Twitter suspended Marjorie Taylor Greene's account for one week for spreading Covid-19 misinformation",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 320,
-      "date": "2022-01-02",
-      "fact": "Marjorie Taylor Greene's verified Twitter account was permanently suspended for spreading Covid-19 misinformation",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        },
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
-      "id": 321,
-      "date": "2022-01-03",
-      "fact": "Marjorie Taylor Greene was suspended from Facebook for 24 hours for Covid-19 misinformation",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 322,
-      "date": "2022-05-30",
-      "fact": "Marjorie Taylor Greene peddled a conspiracy theory about Bill Gates and meat grown in a 'peach tree dish'",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
-        }
-      ]
-    },
-    {
-      "id": 323,
-      "date": "2022-05-30",
-      "fact": "Marjorie Taylor Greene spread a false rumor that the Uvalde school massacre gunman was transgender",
-      "sources": [
-        {
-          "name": "Forbes",
-          "url": "https://www.forbes.com/"
-        }
-      ]
-    },
-    {
-      "id": 324,
-      "date": "2022-08-02",
-      "fact": "Marjorie Taylor Greene pushed a conspiracy theory about the death of an Al Qaeda leader",
-      "sources": [
-        {
-          "name": "Salon",
-          "url": "https://www.salon.com/"
-        }
-      ]
-    },
-    {
-      "id": 325,
-      "date": "2022-02-09",
-      "fact": "Marjorie Taylor Greene made a Nazi gaffe, comparing Democrats to Nazis",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 326,
-      "date": "2022-04-18",
-      "fact": "A federal judge ruled that a challenge to Marjorie Taylor Greene's candidacy can move forward due to her involvement in the January 6 US Capitol attack",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 327,
-      "date": "2022-07-19",
-      "fact": "Twitter declined to remove Marjorie Taylor Greene's anti-transgender tweets",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 328,
-      "date": "2025-01-14",
-      "fact": "Marjorie Taylor Greene referred to Sarah McBride as a 'child predator' for reading to kids",
-      "sources": [
-        {
-          "name": "LGBTQ Nation",
-          "url": "https://www.lgbtqnation.com/"
         }
       ]
     },
@@ -3740,32 +2274,6 @@
         {
           "name": "New York Post",
           "url": "https://nypost.com/2025/12/17/us-news/house-passes-marjorie-taylor-greenes-bill-to-criminalize-transgender-surgeries-on-minors/"
-        },
-        {
-          "name": "The Mary Sue",
-          "url": "https://www.themarysue.com/marjorie-taylor-greene-is-going-back-to-her-roots-she-is-excitedly-announcing-the-passing-of-a-bill-criminalising-gender-affirming-care-for-minors/"
-        }
-      ]
-    },
-    {
-      "id": 330,
-      "date": "2025-12-20",
-      "fact": "Marjorie Taylor Greene has been accused of having a heart filled with trans hate, according to a Yahoo News article",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/heart-filled-trans-hate-marjorie-150002100.html"
-        }
-      ]
-    },
-    {
-      "id": 331,
-      "date": "2025-12-27",
-      "fact": "Marjorie Taylor Greene took an exotic getaway with her new fiancé while still being on Congress payroll weeks after announcing her resignation",
-      "sources": [
-        {
-          "name": "dailymail.co.uk",
-          "url": "https://www.dailymail.co.uk/news/article-15416299/marjorie-taylor-greene-costa-rica-brian-glenn-congress-payroll.html"
         }
       ]
     },
@@ -3775,34 +2283,8 @@
       "fact": "Marjorie Taylor Greene slammed Donald Trump's foreign leader meetings, saying 'Can we just do America?'",
       "sources": [
         {
-          "name": "WN.com",
-          "url": "https://article.wn.com/view/2025/12/28/Greene_slams_Trump_foreign_leader_meetings_Can_we_just_do_Am/"
-        },
-        {
           "name": "The Daily Caller",
           "url": "https://dailycaller.com/2025/12/29/mtg-trump-christian-erika-kirk/"
-        }
-      ]
-    },
-    {
-      "id": 333,
-      "date": "2025-12-30",
-      "fact": "Marjorie Taylor Greene made shocking statements in a New York Times interview",
-      "sources": [
-        {
-          "name": "The Root",
-          "url": "https://www.theroot.com/5-most-shocking-parts-of-marjorie-taylor-greenes-bombsh-2000081521"
-        }
-      ]
-    },
-    {
-      "id": 334,
-      "date": "2025-12-31",
-      "fact": "Marjorie Taylor Greene made a 'Christ-like' pivot after Charlie Kirk's death, which was met with skepticism by Scott Jennings",
-      "sources": [
-        {
-          "name": "Meaww",
-          "url": "https://news.meaww.com/scott-jennings-is-not-buying-marjorie-taylor-greenes-christ-like-pivot-after-charlie-kirks-death"
         }
       ]
     },
@@ -3829,80 +2311,13 @@
       ]
     },
     {
-      "id": 337,
-      "date": "2026-01-05",
-      "fact": "Marjorie Taylor Greene left Congress after five years, ending her term in the nation's capital",
-      "sources": [
-        {
-          "name": "Fox Baltimore",
-          "url": "https://foxbaltimore.com/news/nation-world/georgias-marjorie-taylor-greene-leaves-congress-ending-five-years-in-nations-capital-georgia-14th-district-mtg-leaves-office-special-election-donald-trump-politics"
-        }
-      ]
-    },
-    {
-      "id": 338,
-      "date": "2026-01-06",
-      "fact": "Marjorie Taylor Greene honored Capitol rioters on the January 6 anniversary, referring to them as 'patriotic'",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/marjorie-taylor-greene-honors-patriotic-140258340.html"
-        }
-      ]
-    },
-    {
-      "id": 339,
-      "date": "2026-01-07",
-      "fact": "Marjorie Taylor Greene claimed that 'Uniparty' members are being blackmailed",
-      "sources": [
-        {
-          "name": "2paragraphs.com",
-          "url": "https://2paragraphs.com/2026/01/marjorie-taylor-greene-claims-uniparty-members-being-blackmailed-when-you-see-it-you-cant-unsee-it/"
-        },
-        {
-          "name": "wonkette.com",
-          "url": "https://www.wonkette.com/p/a-requiem-for-marjorie-taylor-greene"
-        }
-      ]
-    },
-    {
       "id": 340,
       "date": "2026-01-09",
       "fact": "The White House reportedly suspects Marjorie Taylor Greene tipped off left-wing protesters about Trump's dinner plans",
       "sources": [
         {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/white-house-reportedly-suspects-marjorie-152448678.html"
-        },
-        {
           "name": "New York Post",
           "url": "https://nypost.com/2026/01/09/us-news/white-house-told-secret-service-marjorie-taylor-greene-may-have-tipped-off-code-pink-ahead-of-trump-confrontation/"
-        }
-      ]
-    },
-    {
-      "id": 341,
-      "date": "2026-01-12",
-      "fact": "Marjorie Taylor Greene expressed happiness about Venezuela but feared the US would have to pay the price due to Donald Trump's actions",
-      "sources": [
-        {
-          "name": "The Mary Sue",
-          "url": "https://www.themarysue.com/marjorie-taylor-greene-is-happy-about-venezuela-but-fears-u-s-have-to-pay-the-price-due-to-trumps-actions/"
-        }
-      ]
-    },
-    {
-      "id": 342,
-      "date": "2026-01-28",
-      "fact": "A man from Edgewater pleaded guilty to threatening Marjorie Taylor Greene, a former U.S. representative",
-      "sources": [
-        {
-          "name": "The Baltimore Sun",
-          "url": "https://www.baltimoresun.com/2026/01/27/edgewater-man-pleads-guilty-to-threatening-marjorie-taylor-greene/"
-        },
-        {
-          "name": "blackenterprise.com",
-          "url": "https://www.blackenterprise.com/marjorie-taylor-greene-warns-of-civil-war-amid-ice-shootings/"
         }
       ]
     },
@@ -3940,43 +2355,6 @@
       ]
     },
     {
-      "id": 346,
-      "date": "2026-02-15",
-      "fact": "Marjorie Taylor Greene warned MAGA supporters that they would have difficulty attracting women voters, referring to them as 'insensitive clowns'",
-      "sources": [
-        {
-          "name": "2paragraphs.com",
-          "url": "https://2paragraphs.com/2026/02/marjorie-taylor-greene-warns-maga-on-midterms-good-luck-trying-to-get-women-you-insensitive-clowns/"
-        },
-        {
-          "name": "Alternet",
-          "url": "https://www.alternet.org/marjorie-taylor-greene-2675271103/"
-        }
-      ]
-    },
-    {
-      "id": 347,
-      "date": "2026-02-25",
-      "fact": "Marjorie Taylor Greene shaded a former colleague at the State of the Union address, saying she wasn't even thinking about her",
-      "sources": [
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/raw-investigates/mtg-2675328743/"
-        }
-      ]
-    },
-    {
-      "id": 348,
-      "date": "2026-03-01",
-      "fact": "Marjorie Taylor Greene called US servicemember deaths in Iran unnecessary and unacceptable",
-      "sources": [
-        {
-          "name": "article.wn.com",
-          "url": "https://article.wn.com/view/2026/03/01/Marjorie_Taylor_Greene_calls_US_servicemembers_deaths_in_Ira/"
-        }
-      ]
-    },
-    {
       "id": 349,
       "date": "2022-11-03",
       "fact": "Marjorie Taylor Greene's campaign, Greene For Congress, Inc., was involved in a lawsuit with Equity Prime Mortgage.",
@@ -3984,17 +2362,6 @@
         {
           "name": "CourtListener",
           "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/"
-        }
-      ]
-    },
-    {
-      "id": 350,
-      "date": "2025-12-20",
-      "fact": "Marjorie Taylor Greene continued to speak out against Donald Trump and Mike Johnson, making life miserable for them",
-      "sources": [
-        {
-          "name": "Wonkette",
-          "url": "https://www.wonkette.com/p/mtg-not-quiiiiiite-finished-making"
         }
       ]
     },

@@ -399,17 +399,6 @@
       ]
     },
     {
-      "id": 35,
-      "date": "2016-01-01",
-      "fact": "The Washington Post reported that the Donald J. Trump Foundation had committed several potential legal and ethical violations, including self-dealing and tax evasion",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com"
-        }
-      ]
-    },
-    {
       "id": 36,
       "date": "2016-01-01",
       "fact": "The New York attorney general stated that the Donald J. Trump Foundation had violated state law by soliciting donations without submitting to required annual external audits",
@@ -428,17 +417,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "date": "2016-03-01",
-      "fact": "Trump described NATO as 'obsolete' and espoused views described by The Washington Post as noninterventionist and protectionist.",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
         }
       ]
     },
@@ -498,17 +476,6 @@
       ]
     },
     {
-      "id": 44,
-      "date": "2016-03-01",
-      "fact": "Trump made 'explicitly racist and sexist appeals to win over white voters' during his 2016 presidential campaign.",
-      "sources": [
-        {
-          "name": "Political Science Quarterly",
-          "url": "https://www.politicalsciencequarterly.org/"
-        }
-      ]
-    },
-    {
       "id": 45,
       "date": "2016-03-01",
       "fact": "Trump's campaign launch speech drew criticism for claiming Mexican immigrants were 'bringing drugs, they're bringing crime, they're rapists'.",
@@ -516,17 +483,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 46,
-      "date": "2016-10-01",
-      "fact": "Portions of Donald Trump's state filings for 1995 were leaked, showing that he had declared a loss of $916 million that year, which could have let him avoid taxes for up to 18 years",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -1246,17 +1202,6 @@
       ]
     },
     {
-      "id": 112,
-      "date": "2022-01-01",
-      "fact": "The National Archives and Records Administration retrieved 15 boxes of documents Trump had taken to Mar-a-Lago after leaving the White House, some of which were classified.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://cnn.com"
-        }
-      ]
-    },
-    {
       "id": 113,
       "date": "2022-02-01",
       "fact": "Trump's Trump Media & Technology Group (TMTG) launched a pro-Trump social media platform called Truth Social.",
@@ -1264,21 +1209,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 114,
-      "date": "2022-08-08",
-      "fact": "FBI agents searched Mar-a-Lago for illegally held documents, including those in breach of the Espionage Act, collecting 11 sets of classified documents, some marked top secret.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://cnn.com"
-        },
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com"
         }
       ]
     },
@@ -1301,17 +1231,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 117,
-      "date": "2023-06-01",
-      "fact": "A federal grand jury indicted Trump on 31 counts of 'willfully retaining national defense information' under the Espionage Act, among other charges.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://cnn.com"
         }
       ]
     },
@@ -2075,17 +1994,6 @@
       ]
     },
     {
-      "id": 187,
-      "date": "2016-01-01",
-      "fact": "Donald Trump made over 30,573 false or misleading statements during his first presidency, according to The Washington Post",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
       "id": 188,
       "date": "2016-01-01",
       "fact": "Trump frequently accused the press of bias, calling it the 'fake news media' and 'the enemy of the people'.",
@@ -2438,28 +2346,6 @@
       ]
     },
     {
-      "id": 220,
-      "date": "2015-08-19",
-      "fact": "Donald Trump stated that the 14th Amendment is unconstitutional.",
-      "sources": [
-        {
-          "name": "Mother Jones",
-          "url": "https://www.motherjones.com/"
-        }
-      ]
-    },
-    {
-      "id": 221,
-      "date": "2015-08-19",
-      "fact": "Donald Trump emphasized plans to build a 'real' wall at the Mexico border.",
-      "sources": [
-        {
-          "name": "CBC News",
-          "url": "https://www.cbc.ca/"
-        }
-      ]
-    },
-    {
       "id": 222,
       "date": "2015-12-21",
       "fact": "Donald Trump was named the 'King of Whoppers' by FactCheck.org due to his frequent misstatements during his campaign",
@@ -2478,17 +2364,6 @@
         {
           "name": "PolitiFact",
           "url": "https://www.politifact.com/article/2015/dec/21/2015-lie-year-donald-trump-campaign-misstatements/"
-        }
-      ]
-    },
-    {
-      "id": 224,
-      "date": "2016-04-06",
-      "fact": "Donald Trump did not release his tax returns, breaking with recent presidential history.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -2669,39 +2544,6 @@
       ]
     },
     {
-      "id": 241,
-      "date": "2016-05-11",
-      "fact": "Donald Trump broke with recent history by not releasing his tax returns.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 242,
-      "date": "2016-10-05",
-      "fact": "Mike Pence falsely claimed that Trump 'hasn't broken' his tax return promise.",
-      "sources": [
-        {
-          "name": "PolitiFact",
-          "url": "https://www.politifact.com/"
-        }
-      ]
-    },
-    {
-      "id": 243,
-      "date": "2016-10-10",
-      "fact": "Donald Trump acknowledged not paying federal income taxes for years.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 244,
       "date": "2016-11-18",
       "fact": "Donald Trump agreed to pay $25 million in the Trump University settlement",
@@ -2794,17 +2636,6 @@
       ]
     },
     {
-      "id": 252,
-      "date": "2017-04-18",
-      "fact": "Donald Trump had potential conflicts of interest due to his business dealings.",
-      "sources": [
-        {
-          "name": "BBC News",
-          "url": "https://www.bbc.com/"
-        }
-      ]
-    },
-    {
       "id": 253,
       "date": "2017-06-27",
       "fact": "The Supreme Court partly reinstated Trump's travel ban, allowing it to go into effect for some individuals",
@@ -2823,17 +2654,6 @@
         {
           "name": "Politico",
           "url": "https://www.politico.com/story/2017/07/18/trump-obamacare-fail-240694"
-        }
-      ]
-    },
-    {
-      "id": 255,
-      "date": "2017-08-09",
-      "fact": "Trump's interests conflicted with America's, as seen in his dealings in Dubai.",
-      "sources": [
-        {
-          "name": "The Atlantic",
-          "url": "https://www.theatlantic.com/"
         }
       ]
     },
@@ -2871,17 +2691,6 @@
       ]
     },
     {
-      "id": 259,
-      "date": "2018-04-06",
-      "fact": "Donald Trump basically called Mexicans rapists again.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 260,
       "date": "2018-04-23",
       "fact": "It was reported that Donald Trump had gained over $100 million from his Mar-a-Lago resort",
@@ -2911,17 +2720,6 @@
         {
           "name": "National Geographic Society",
           "url": "https://www.nationalgeographic.org/news/trump-proposes-cuts-to-climate-and-clean-energy-programs/"
-        }
-      ]
-    },
-    {
-      "id": 263,
-      "date": "2019-07-19",
-      "fact": "Trump's businesses were booming with lobbyists, donors, and governments.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
         }
       ]
     },
@@ -2992,28 +2790,6 @@
       ]
     },
     {
-      "id": 270,
-      "date": "2021-02-22",
-      "fact": "The Supreme Court allowed the release of Trump's tax returns to a New York prosecutor",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 271,
-      "date": "2017-06-07",
-      "fact": "Comey said Trump pressured him to 'lift the cloud' of inquiry",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 272,
       "date": "2017-07-06",
       "fact": "Trump misled the public about Russian meddling in the US election, claiming that 17 intelligence agencies did not need to agree on the matter",
@@ -3021,17 +2797,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2017/07/06/us/politics/trump-russia-meddling-intelligence-agencies.html"
-        }
-      ]
-    },
-    {
-      "id": 273,
-      "date": "2017-08-10",
-      "fact": "Trump praised Putin instead of criticizing cuts to US Embassy staff in Russia",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -3058,72 +2823,6 @@
       ]
     },
     {
-      "id": 276,
-      "date": "2017-12-28",
-      "fact": "The Trump White House had the highest turnover in 40 years",
-      "sources": [
-        {
-          "name": "U.S. News & World Report",
-          "url": "https://www.usnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 277,
-      "date": "2018-04-08",
-      "fact": "Trump blamed Putin for backing 'Animal Assad'",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 278,
-      "date": "2018-06-14",
-      "fact": "Trump reportedly claimed to leaders at the G7 that Crimea is part of Russia because everyone there speaks Russian",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
-      "id": 279,
-      "date": "2018-06-15",
-      "fact": "The Trump administration implemented a 'zero tolerance' policy at the border, leading to the separation of over 5,400 children from their families",
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/"
-        }
-      ]
-    },
-    {
-      "id": 280,
-      "date": "2018-06-18",
-      "fact": "Donald Trump's family separation policy bedeviled the GOP as public outrage grew",
-      "sources": [
-        {
-          "name": "Bloomberg News",
-          "url": "https://www.bloomberg.com/"
-        }
-      ]
-    },
-    {
-      "id": 281,
-      "date": "2018-06-20",
-      "fact": "President Trump signed an executive order aimed at ending family separations, but thousands of families may remain apart",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 282,
       "date": "2018-06-26",
       "fact": "The Supreme Court upheld Trump's travel ban",
@@ -3131,28 +2830,6 @@
         {
           "name": "CNN",
           "url": "https://www.cnn.com/2018/06/26/politics/supreme-court-travel-ban/index.html"
-        }
-      ]
-    },
-    {
-      "id": 283,
-      "date": "2018-06-27",
-      "fact": "A judge ordered the US government to reunite families separated at the border within 30 days",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 284,
-      "date": "2018-10-24",
-      "fact": "Trump publicly identified as a nationalist, sparking uproar",
-      "sources": [
-        {
-          "name": "USA Today",
-          "url": "https://www.usatoday.com/"
         }
       ]
     },
@@ -3201,17 +2878,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2019/04/18/us/politics/mueller-report-trump.html"
-        }
-      ]
-    },
-    {
-      "id": 289,
-      "date": "2019-07-05",
-      "fact": "The Trump administration's trade war with China officially began",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -3337,17 +3003,6 @@
       ]
     },
     {
-      "id": 301,
-      "date": "2019-06-30",
-      "fact": "Trump stepped into North Korea and agreed with Kim Jong-un to resume talks",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 302,
       "date": "2019-09-24",
       "fact": "A whistleblower complaint alleged that Trump had abused his power by pressuring Ukraine to investigate a political rival",
@@ -3366,50 +3021,6 @@
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeached-house-abuse-power-obstruction-congress-n1104416"
-        }
-      ]
-    },
-    {
-      "id": 304,
-      "date": "2020-02-11",
-      "fact": "Trump was sicker than acknowledged with COVID-19",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 305,
-      "date": "2020-04-08",
-      "fact": "Trump halted funding to the World Health Organization",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 306,
-      "date": "2020-04-17",
-      "fact": "Trump encouraged protests against governors who had imposed virus restrictions",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 307,
-      "date": "2020-06-15",
-      "fact": "The FDA pulled emergency approval for antimalarial drugs touted by Trump as a COVID-19 treatment",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
         }
       ]
     },
@@ -3436,105 +3047,6 @@
       ]
     },
     {
-      "id": 310,
-      "date": "2020-09-12",
-      "fact": "Trump pressed for plasma therapy, prompting officials to worry about an unvetted vaccine",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 311,
-      "date": "2020-11-04",
-      "fact": "Trump declared victory in the presidential election despite results from key states being unclear",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 312,
-      "date": "2020-11-07",
-      "fact": "Trump revived baseless claims of election fraud after Biden won the presidential race",
-      "sources": [
-        {
-          "name": "USA Today",
-          "url": "https://www.usatoday.com/"
-        }
-      ]
-    },
-    {
-      "id": 313,
-      "date": "2020-12-12",
-      "fact": "Dozens of judges across the political spectrum rejected Trump's efforts to overturn the election",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 314,
-      "date": "2020-12-14",
-      "fact": "Biden's 306 Electoral College votes made his victory official, despite Trump's claims of election fraud",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 315,
-      "date": "2021-01-03",
-      "fact": "Trump pressured Georgia's secretary of state to recalculate the vote in his favor",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 316,
-      "date": "2021-01-05",
-      "fact": "Pence told Trump that he lacks the power to change the election result",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 317,
-      "date": "2021-01-06",
-      "fact": "Trump's supporters stormed the Capitol, resulting in violence and deaths",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 318,
-      "date": "2021-01-10",
-      "fact": "Trump's speech before the Capitol riot was seen as inciting the violence",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 319,
       "date": "2021-01-13",
       "fact": "Trump was impeached by the House of Representatives for inciting an insurrection at the US Capitol",
@@ -3542,208 +3054,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html"
-        }
-      ]
-    },
-    {
-      "id": 320,
-      "date": "2022-06-25",
-      "fact": "Trump took credit for the Dobbs decision, which overturned Roe v. Wade",
-      "sources": [
-        {
-          "name": "The Week",
-          "url": "https://www.theweek.com/"
-        }
-      ]
-    },
-    {
-      "id": 321,
-      "date": "2022-07-20",
-      "fact": "Trump urged a powerful legislator to overturn his 2020 defeat in Wisconsin",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 322,
-      "date": "2022-08-12",
-      "fact": "Agents at Trump's Mar-a-Lago seized 11 sets of classified documents, court filing shows",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 323,
-      "date": "2022-09-21",
-      "fact": "New York attorney general filed a civil fraud lawsuit against Trump, some of his children, and his business",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 324,
-      "date": "2022-11-04",
-      "fact": "E. Jean Carroll, who accused Trump of rape, sued him for defamation",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 325,
-      "date": "2023-05-09",
-      "fact": "A jury found Trump liable for battery and defamation in E. Jean Carroll trial",
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/"
-        }
-      ]
-    },
-    {
-      "id": 326,
-      "date": "2023-05-17",
-      "fact": "Trump said 'I was able to kill Roe v. Wade'",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 327,
-      "date": "2023-06-09",
-      "fact": "Trump was indicted on 37 federal criminal counts in the Mar-a-Lago case",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 328,
-      "date": "2023-08-15",
-      "fact": "Donald Trump and allies were indicted in Georgia over a bid to reverse the 2020 election loss",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 329,
-      "date": "2023-11-10",
-      "fact": "Trump suggested he would use the FBI to go after political rivals if elected in 2024",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        },
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 330,
-      "date": "2023-11-12",
-      "fact": "Trump called political enemies 'vermin', echoing dictators Hitler and Mussolini",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 331,
-      "date": "2024-02-17",
-      "fact": "Trump fraud trial penalty will exceed $450 million",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 332,
-      "date": "2024-04-02",
-      "fact": "Trump invoked 'blood bath' and dehumanized migrants in border remarks",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 333,
-      "date": "2024-04-03",
-      "fact": "Trump called migrants 'animals', intensifying focus on illegal immigration",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 334,
-      "date": "2024-05-30",
-      "fact": "Trump was convicted on all counts to become America's first felon president",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 335,
-      "date": "2024-10-14",
-      "fact": "Trump suggested using the military against the 'enemy from within' on Election Day",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 336,
-      "date": "2024-12-30",
-      "fact": "An appeals court upheld a $5 million award in a sexual abuse verdict against President-elect Trump",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 337,
-      "date": "2025-01-10",
-      "fact": "Trump received an unconditional discharge sentence in the hush money case",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
         }
       ]
     },
@@ -3770,17 +3080,6 @@
       ]
     },
     {
-      "id": 340,
-      "date": "2025-01-21",
-      "fact": "Trump pardoned roughly 1,500 criminal defendants charged in the January 6 Capitol attack",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
       "id": 341,
       "date": "2025-01-22",
       "fact": "Trump ordered federal workers to report on colleagues over D.E.I. crackdown",
@@ -3788,61 +3087,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2025/01/22/us/politics/trump-diversity-crackdown.html"
-        }
-      ]
-    },
-    {
-      "id": 342,
-      "date": "2025-01-22",
-      "fact": "Trump canceled Biden's ethics rules, a move critics call the opposite of 'drain the swamp'",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 343,
-      "date": "2025-01-23",
-      "fact": "Trump accelerated his campaign to remake the federal bureaucracy, sparking fear and confusion among federal workers",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 344,
-      "date": "2025-01-23",
-      "fact": "Trump dealt a 'death blow' to diversity, equity, and inclusion initiatives and affirmative action in his first days in office",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 345,
-      "date": "2025-01-24",
-      "fact": "Trump's rapid changes to the US government stunned federal workers",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 346,
-      "date": "2025-01-27",
-      "fact": "Fired Inspectors General raised alarms as the Trump administration moved to finalize a purge",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -3858,17 +3102,6 @@
       ]
     },
     {
-      "id": 348,
-      "date": "2025-01-27",
-      "fact": "Trump's plan to upend the civil service advanced under a new name",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
       "id": 349,
       "date": "2025-01-28",
       "fact": "Trump's sweeping immigration crackdown targets some legal means to enter U.S.",
@@ -3880,39 +3113,6 @@
       ]
     },
     {
-      "id": 350,
-      "date": "2025-01-29",
-      "fact": "Trump Media launched FinTech services brand amid crypto boom, raising concerns about corruption",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 351,
-      "date": "2025-02-03",
-      "fact": "Trump and Musk moved to dismantle USAID, igniting a battle with Democratic lawmakers",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 352,
-      "date": "2025-02-17",
-      "fact": "Trump pushed his business interests with a pliant Congress, raising conflict of interest questions",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 353,
       "date": "2025-03-19",
       "fact": "Experts said Trump's targeting of law firms is unprecedented",
@@ -3920,105 +3120,6 @@
         {
           "name": "All Things Considered",
           "url": "https://www.npr.org/programs/all-things-considered/"
-        }
-      ]
-    },
-    {
-      "id": 354,
-      "date": "2025-03-20",
-      "fact": "Trump administration ramped up rhetoric targeting the courts amid mounting legal setbacks",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 355,
-      "date": "2025-05-12",
-      "fact": "Trump's plan to take a jet from Qatar heightened corruption concerns",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 356,
-      "date": "2025-05-18",
-      "fact": "Trump turned the White House into a cash cow, with critics saying it's 'open season for corruption'",
-      "sources": [
-        {
-          "name": "The Daily Telegraph",
-          "url": "https://www.telegraph.co.uk/"
-        }
-      ]
-    },
-    {
-      "id": 357,
-      "date": "2025-07-03",
-      "fact": "Trump claimed sweeping power to nullify laws, according to letters on TikTok ban",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 358,
-      "date": "2025-07-21",
-      "fact": "Trump officials were accused of defying 1 in 3 judges who ruled against him",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 359,
-      "date": "2025-08-21",
-      "fact": "A divided court eliminated Trump's half-billion-dollar fine in a fraud case",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 360,
-      "date": "2025-09-08",
-      "fact": "An appeals court upheld E. Jean Carroll's $83.3M defamation judgment against Trump",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 361,
-      "date": "2016-08-20",
-      "fact": "Donald Trump's campaign strategy was cheered by 'racialists'",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 362,
-      "date": "2025-01-26",
-      "fact": "Trump proposed a plan to 'clean out' Gaza and suggested that Jordan and Egypt accept more Palestinian refugees",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
         }
       ]
     },
@@ -4045,28 +3146,6 @@
       ]
     },
     {
-      "id": 365,
-      "date": "2025-02-27",
-      "fact": "Trump rebuffed NATO and aligned himself with Russia, raising alarm among European allies",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 366,
-      "date": "2025-02-28",
-      "fact": "Trump had a tense Oval Office meeting with Ukrainian President Zelensky, erupting at him along with Senator Vance",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 367,
       "date": "2025-02-28",
       "fact": "Trump continued to hollow out the federal workforce, having already fired more than 30,000 employees",
@@ -4078,61 +3157,6 @@
       ]
     },
     {
-      "id": 368,
-      "date": "2025-03-01",
-      "fact": "Trump's clash with Zelensky marked a defining turn away from US defense of democracies",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 369,
-      "date": "2025-03-04",
-      "fact": "Trump's tariffs on Canada, Mexico, and China took effect",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 370,
-      "date": "2025-03-15",
-      "fact": "Trump ordered the gutting of 7 agencies, including the parent of Voice of America",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 371,
-      "date": "2025-03-19",
-      "fact": "Trump and the GOP aimed to cripple the left with orders, investigations, and innuendo",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 372,
-      "date": "2025-03-20",
-      "fact": "Trump's moves to hollow out the government could be difficult to undo",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 373,
       "date": "2025-03-20",
       "fact": "El Salvador's mega-prison is holding Venezuelans deported from the US",
@@ -4140,17 +3164,6 @@
         {
           "name": "Reuters",
           "url": "https://www.reuters.com/article/us-el-salvador-prison-deportations-idUSKCN1B92R6"
-        }
-      ]
-    },
-    {
-      "id": 374,
-      "date": "2025-03-21",
-      "fact": "Trump broadened his immigration crackdown to focus on legal immigrants and tourists",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -4177,28 +3190,6 @@
       ]
     },
     {
-      "id": 377,
-      "date": "2025-04-10",
-      "fact": "Trump targeted lawyers and non-profits in an 'authoritarian' takedown, spreading fear",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
-      "id": 378,
-      "date": "2025-04-11",
-      "fact": "Trump introduced a new way to kill regulations, allowing him to unilaterally decide which rules to enforce",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 379,
       "date": "2025-04-11",
       "fact": "Trump reaches deals with 5 law firms, allowing them to avoid prospect of punishing executive orders",
@@ -4206,61 +3197,6 @@
         {
           "name": "AP News",
           "url": "https://apnews.com/article/trump-law-firms-deals-0411e5c4e5a94c9bae2c2e2c2c2c2c2"
-        }
-      ]
-    },
-    {
-      "id": 380,
-      "date": "2025-04-18",
-      "fact": "US democratic backsliding under Trump encouraged autocrats globally, according to a democracy watchdog",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 381,
-      "date": "2025-04-30",
-      "fact": "Trump's maximalist assertion of presidential power tested the rule of law",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 382,
-      "date": "2025-05-18",
-      "fact": "Trump ordered the government to stop enforcing rules he didn't like",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 383,
-      "date": "2025-05-28",
-      "fact": "Trump pardoned criminals with MAGA credentials or big money, redefining crime",
-      "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/"
-        }
-      ]
-    },
-    {
-      "id": 384,
-      "date": "2025-05-29",
-      "fact": "Trump's flurry of pardons signaled a wholesale effort to redefine crime",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -4276,61 +3212,6 @@
       ]
     },
     {
-      "id": 386,
-      "date": "2025-08-14",
-      "fact": "Trump tightened the screws on corporate America, and CEOs remained silent",
-      "sources": [
-        {
-          "name": "NPR News",
-          "url": "https://www.npr.org/"
-        }
-      ]
-    },
-    {
-      "id": 387,
-      "date": "2025-08-20",
-      "fact": "Corporate America remained silent as Trump abandoned free-market principles",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 388,
-      "date": "2025-08-22",
-      "fact": "The US government took a 10% stake in Intel as Trump flexed more power over big business",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 389,
-      "date": "2025-08-22",
-      "fact": "Trump turned the government into an investment firm, departing from long-held norms",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com/"
-        }
-      ]
-    },
-    {
-      "id": 390,
-      "date": "2025-09-06",
-      "fact": "Trump weaponized the government to settle personal scores and pursue his agenda",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
       "id": 391,
       "date": "2005-01-01",
       "fact": "Donald Trump was recorded making lewd comments about women, including boasting about grabbing them by the genitals",
@@ -4338,17 +3219,6 @@
         {
           "name": "NBC News",
           "url": "https://www.nbcnews.com/politics/2016-election/trump-caught-hot-mic-making-lewd-comments-women-2005-n662826"
-        }
-      ]
-    },
-    {
-      "id": 392,
-      "date": "2016-08-22",
-      "fact": "Donald Trump helped bring far-right media's edgier elements into the mainstream",
-      "sources": [
-        {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com/"
         }
       ]
     },
@@ -4394,17 +3264,6 @@
       ]
     },
     {
-      "id": 396,
-      "date": "2019-02-14",
-      "fact": "Donald Trump had a long history of racism, from the 1970s to 2019",
-      "sources": [
-        {
-          "name": "Vox",
-          "url": "https://www.vox.com/"
-        }
-      ]
-    },
-    {
       "id": 397,
       "date": "2019-03-22",
       "fact": "Counties that hosted a 2016 Trump rally saw a 226 percent increase in hate crimes, according to a study",
@@ -4412,17 +3271,6 @@
         {
           "name": "The Washington Post",
           "url": "https://www.washingtonpost.com/politics/2019/03/22/counties-that-hosted-trump-rallies-saw-increase-hate-crimes-study-finds/"
-        }
-      ]
-    },
-    {
-      "id": 398,
-      "date": "2019-05-04",
-      "fact": "Donald Trump's relationship with far-right and white supremacist groups was examined",
-      "sources": [
-        {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com/"
         }
       ]
     },
@@ -4471,47 +3319,10 @@
       ]
     },
     {
-      "id": 403,
-      "date": "2025-07-17",
-      "fact": "Trump's soft-power retreat scrambled the US-China race",
-      "sources": [
-        {
-          "name": "Axios",
-          "url": "https://www.axios.com/"
-        }
-      ]
-    },
-    {
-      "id": 404,
-      "date": "2025-07-23",
-      "fact": "China flexed its muscles at the UN Cultural Agency as Trump walked away",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 405,
-      "date": "2025-08-01",
-      "fact": "Trump's new tariffs had no precedent in the modern era",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
       "id": 406,
       "date": "2025-08-07",
       "fact": "Staggering US tariffs began as Trump widened the trade war",
       "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        },
         {
           "name": "Government Executive",
           "url": "https://www.govexec.com/management/2025/08/trump-nih-grants-illegal-1800/174123/"
@@ -4537,28 +3348,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2025/08/22/us/politics/trump-emergency-declarations.html"
-        }
-      ]
-    },
-    {
-      "id": 409,
-      "date": "2025-08-28",
-      "fact": "The US naval build-up near Venezuela stoked tensions in Latin America",
-      "sources": [
-        {
-          "name": "Financial Times",
-          "url": "https://www.ft.com/"
-        }
-      ]
-    },
-    {
-      "id": 410,
-      "date": "2025-09-03",
-      "fact": "Trump's Venezuelan boat violated international law, according to experts",
-      "sources": [
-        {
-          "name": "The Independent",
-          "url": "https://www.independent.co.uk/"
         }
       ]
     },
@@ -4607,72 +3396,6 @@
       ]
     },
     {
-      "id": 415,
-      "date": "2026-01-10",
-      "fact": "Trump's showy immigration enforcement led to violent confrontations",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
-        }
-      ]
-    },
-    {
-      "id": 416,
-      "date": "2026-01-17",
-      "fact": "Trump said 8 European countries would face a 10% tariff for opposing US control of Greenland",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 417,
-      "date": "2026-01-21",
-      "fact": "Trump announced a framework for a Greenland deal as NATO considered US sovereignty over bases",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 418,
-      "date": "2026-01-30",
-      "fact": "Protesters denounced Trump's immigration tactics in a 'National Shutdown'",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 419,
-      "date": "2026-02-20",
-      "fact": "The Supreme Court ruled that Trump's sweeping emergency tariffs were illegal",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
-        }
-      ]
-    },
-    {
-      "id": 420,
-      "date": "2026-02-28",
-      "fact": "Trump's attack on Iran was seen as the ultimate war of choice",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
       "id": 421,
       "date": "1992-11-29",
       "fact": "Donald Trump's financial troubles were so severe that he went broke, but he was able to stay on top through various financial maneuvers.",
@@ -4706,28 +3429,6 @@
       ]
     },
     {
-      "id": 424,
-      "date": "2016-01-18",
-      "fact": "Donald Trump struggled to make a sale to evangelicals, citing 'Two Corinthians' in a speech.",
-      "sources": [
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/"
-        }
-      ]
-    },
-    {
-      "id": 425,
-      "date": "2016-01-23",
-      "fact": "Trump stated that if he were president, 'Christianity will have power' in the US.",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
-        }
-      ]
-    },
-    {
       "id": 426,
       "date": "2016-02-29",
       "fact": "Donald Trump entertained conspiracy theories",
@@ -4735,17 +3436,6 @@
         {
           "name": "The New York Times",
           "url": "https://www.nytimes.com/2016/03/01/us/politics/donald-trump-conspiracy-theories.html"
-        }
-      ]
-    },
-    {
-      "id": 427,
-      "date": "2016-06-08",
-      "fact": "Trump said 'Hopefully I won't have to be asking for much forgiveness' when asked about his relationship with God.",
-      "sources": [
-        {
-          "name": "Business Insider",
-          "url": "https://www.businessinsider.com/"
         }
       ]
     },
@@ -4865,10 +3555,6 @@
       "fact": "Donald Trump's relationship with far-right and white supremacist groups was questioned",
       "sources": [
         {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com/"
-        },
-        {
           "name": "The Washington Post",
           "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/05/20/its-the-50th-anniversary-of-the-day-trump-left-college-and-nearly-had-to-go-to-war/"
         }
@@ -4919,36 +3605,10 @@
       ]
     },
     {
-      "id": 443,
-      "date": "2024-01-18",
-      "fact": "Fears of political violence were growing as the 2024 campaign heated up and conspiracy theories evolved",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 444,
-      "date": "2024-05-18",
-      "fact": "Donald Trump's backers said he shared their faith and values, with his rallies taking on the symbols, rhetoric, and agenda of Christian nationalism",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
       "id": 445,
       "date": "2024-09-11",
       "fact": "Donald Trump painted a dark picture at a debate, saying 'The End of Our Country'",
       "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        },
         {
           "name": "HuffPost",
           "url": "https://www.huffpost.com/entry/trump-defends-racist-moment_n_5f5c7aafc5b6b05f7c44f4f4"
@@ -4963,50 +3623,6 @@
         {
           "name": "NPR News",
           "url": "https://www.npr.org/2024/10/21/1158104415/central-park-5-sue-trump-debate-comments"
-        }
-      ]
-    },
-    {
-      "id": 447,
-      "date": "2024-11-01",
-      "fact": "The peculiarly American roots of Trumpism were examined",
-      "sources": [
-        {
-          "name": "Bloomberg News",
-          "url": "https://www.bloomberg.com/"
-        }
-      ]
-    },
-    {
-      "id": 448,
-      "date": "2025-01-22",
-      "fact": "Donald Trump sought to paralyze an independent privacy and civil liberties watchdog",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 449,
-      "date": "2025-01-22",
-      "fact": "Donald Trump was pushing at the limits of presidential power in early orders",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 450,
-      "date": "2025-07-16",
-      "fact": "Donald Trump said domestic adversaries were not just wrong, they were 'evil'",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -5029,17 +3645,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 453,
-      "date": "2018-05-01",
-      "fact": "Trump's doctor, Harold Bornstein, claimed that Trump dictated his own glowing health letter.",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com/"
         }
       ]
     },
@@ -5073,17 +3678,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 457,
-      "date": "2019-11-02",
-      "fact": "Paula White, a pastor and Trump's spiritual advisor, was appointed to oversee the White House faith office.",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
         }
       ]
     },
@@ -5139,28 +3733,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 463,
-      "date": "2020-10-24",
-      "fact": "Trump, confirmed a Presbyterian, now identifies as a 'non-denominational Christian'.",
-      "sources": [
-        {
-          "name": "America",
-          "url": "https://www.americamagazine.org/"
-        }
-      ]
-    },
-    {
-      "id": 464,
-      "date": "2020-10-30",
-      "fact": "Most Americans don't see Trump as religious; fewer than half say they think he's Christian.",
-      "sources": [
-        {
-          "name": "Pew Research Center",
-          "url": "https://www.pewresearch.org/"
         }
       ]
     },
@@ -5264,39 +3836,6 @@
       ]
     },
     {
-      "id": 474,
-      "date": "2025-02-10",
-      "fact": "Trump appointed Paula White to oversee the White House faith office, a decision that roiled some fellow Christians.",
-      "sources": [
-        {
-          "name": "Christianity Today",
-          "url": "https://www.christianitytoday.com/"
-        }
-      ]
-    },
-    {
-      "id": 475,
-      "date": "2025-02-20",
-      "fact": "Trump's pick to head the 'White House faith office', Paula White, was controversial among some Christians.",
-      "sources": [
-        {
-          "name": "The Palm Beach Post",
-          "url": "https://www.palmbeachpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 476,
-      "date": "2025-04-05",
-      "fact": "Some Christians criticized Trump's appointment of Paula White, calling her a 'false teacher'.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/"
-        }
-      ]
-    },
-    {
       "id": 477,
       "date": "2025-04-29",
       "fact": "President Trump said he 'brought back free speech,' but his first 100 days told a different story",
@@ -5341,17 +3880,6 @@
       ]
     },
     {
-      "id": 481,
-      "date": "2025-02-14",
-      "fact": "Donald Trump attended the Daytona 500 in Florida with family members.",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/trump-daytona-500-florida-family-110406359.html"
-        }
-      ]
-    },
-    {
       "id": 482,
       "date": "2025-12-16",
       "fact": "Donald Trump made hateful and vile comments about Rob Reiner.",
@@ -5378,17 +3906,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Donald_Trump"
-        }
-      ]
-    },
-    {
-      "id": 484,
-      "date": "2026-02-08",
-      "fact": "Donald Trump shared an Obama ape video meme, which has been criticized as racist and offensive.",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/donald-trumps-softer-touch-hits-194643608.html"
         }
       ]
     },
@@ -5478,17 +3995,6 @@
       ]
     },
     {
-      "id": 492,
-      "date": "2025-12-26",
-      "fact": "Donald Trump made remarks about an 8-year-old girl's appearance, which were widely criticized",
-      "sources": [
-        {
-          "name": "radaronline.com",
-          "url": "https://radaronline.com/p/donald-trump-holiday-phone-calls-slammed-young-girl-beautiful-remarks/"
-        }
-      ]
-    },
-    {
       "id": 493,
       "date": "2025-12-29",
       "fact": "Donald Trump stated that he would attack Iran if they rebuild weapons",
@@ -5496,50 +4002,6 @@
         {
           "name": "TMZ",
           "url": "https://www.tmz.com/2025/12/29/trump-says-he-will-attack-iran-if-they-build-weapons/"
-        }
-      ]
-    },
-    {
-      "id": 494,
-      "date": "2026-01-02",
-      "fact": "An executive order by President Trump enabled his son's gold peddling scheme.",
-      "sources": [
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/donald-trump-jr-gold-peddling/"
-        }
-      ]
-    },
-    {
-      "id": 495,
-      "date": "2026-01-03",
-      "fact": "Donald Trump stated that the US will run Venezuela.",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/whats-future-venezuela-trump-says-184833650.html"
-        }
-      ]
-    },
-    {
-      "id": 496,
-      "date": "2026-02-04",
-      "fact": "Donald Trump urged Republicans to nationalize elections, a move that could potentially restrict voting rights and undermine the democratic process.",
-      "sources": [
-        {
-          "name": "Yahoo News",
-          "url": "https://www.yahoo.com/news/articles/trump-urges-republicans-nationalize-elections-191722424.html"
-        }
-      ]
-    },
-    {
-      "id": 497,
-      "date": "2026-02-05",
-      "fact": "Donald Trump stated that he probably should get into heaven and needed a 2024 win for his own ego.",
-      "sources": [
-        {
-          "name": "Yahoo News",
-          "url": "https://www.yahoo.com/news/articles/trump-says-probably-heaven-needed-165500229.html"
         }
       ]
     },
@@ -5555,17 +4017,6 @@
       ]
     },
     {
-      "id": 499,
-      "date": "2026-02-09",
-      "fact": "Donald Trump called a US Olympic athlete a loser",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/trump-calls-us-olympic-athlete-032158631.html"
-        }
-      ]
-    },
-    {
       "id": 500,
       "date": "2026-02-09",
       "fact": "Bad Bunny deleted all his Instagram posts and unfollowed everyone after making a dig at Donald Trump following the Super Bowl 2026 halftime show.",
@@ -5573,17 +4024,6 @@
         {
           "name": "NewsX",
           "url": "https://www.newsx.com/entertainment/why-did-bad-bunny-delete-all-his-instagram-posts-just-hours-after-super-bowl-2026-halftime-show-grammy-winning-rapper-unfollows-everyone-amid-donald-trump-dig-164046/"
-        }
-      ]
-    },
-    {
-      "id": 501,
-      "date": "2026-02-10",
-      "fact": "President Trump told a brazen lie about the Trump Station name change, according to Karoline Leavitt.",
-      "sources": [
-        {
-          "name": "Daily Mail",
-          "url": "https://www.dailymail.co.uk/news/article-15547777/karoline-leavitt-trump-station-change.html"
         }
       ]
     },
@@ -5606,17 +4046,6 @@
         {
           "name": "Christian Post",
           "url": "https://www.christianpost.com/news/trumps-week-in-review-epa-deregulation-voter-id-law.html"
-        }
-      ]
-    },
-    {
-      "id": 504,
-      "date": "2026-02-14",
-      "fact": "A historian expressed fear that Trump may not allow Democrats to win elections, contributing to a shift toward dictatorship in the US",
-      "sources": [
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/trump-elections-2675268402/"
         }
       ]
     },
@@ -5665,17 +4094,6 @@
       ]
     },
     {
-      "id": 509,
-      "date": "2026-02-20",
-      "fact": "Trump launched an extraordinary attack on the Supreme Court after a tariff loss, calling it a 'disgrace to our nation'",
-      "sources": [
-        {
-          "name": "Daily Mail",
-          "url": "https://www.dailymail.co.uk/news/article-15578367/Trump-attack-Supreme-Court-tariff-loss-Disgrace.html"
-        }
-      ]
-    },
-    {
       "id": 510,
       "date": "2026-02-21",
       "fact": "Donald Trump stated 'I can destroy the country' in a rant after the Supreme Court struck down one of his key policies.",
@@ -5698,17 +4116,6 @@
       ]
     },
     {
-      "id": 512,
-      "date": "2026-02-26",
-      "fact": "A judge ruled that Donald Trump's third country deportations are illegal.",
-      "sources": [
-        {
-          "name": "yahoo.com",
-          "url": "https://www.yahoo.com/news/articles/trumps-third-country-deportations-illegal-234025175.html"
-        }
-      ]
-    },
-    {
       "id": 513,
       "date": "2025-12-15",
       "fact": "Donald Trump stated that Rob Reiner died of 'Trump Derangement Syndrome'",
@@ -5727,17 +4134,6 @@
         {
           "name": "TMZ",
           "url": "https://www.tmz.com/2025/12/16/susie-wiles-donald-trump-alcoholic-personality/"
-        }
-      ]
-    },
-    {
-      "id": 515,
-      "date": "2025-12-17",
-      "fact": "Donald Trump told White House guests that Ilhan Omar hates Jewish people during a Hanukkah celebration with Laura Loomer",
-      "sources": [
-        {
-          "name": "Daily Mail",
-          "url": "https://www.dailymail.co.uk/news/article-15390559/donald-trump-hanukkah-laura-loomer-ilham-omar.html"
         }
       ]
     },

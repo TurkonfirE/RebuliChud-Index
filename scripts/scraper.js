@@ -59,6 +59,56 @@ class RateLimiter {
 const limiter = new RateLimiter();
 
 // ============================================================
+// TRUSTED DOMAINS — filter ongoing GDELT results to quality sources only
+// ============================================================
+const TRUSTED_DOMAINS = new Set([
+  // Wire services
+  'apnews.com', 'reuters.com',
+  // Major newspapers
+  'nytimes.com', 'washingtonpost.com', 'wsj.com', 'latimes.com',
+  'chicagotribune.com', 'bostonglobe.com', 'theguardian.com',
+  // Major TV/radio
+  'cnn.com', 'nbcnews.com', 'abcnews.go.com', 'cbsnews.com',
+  'foxnews.com', 'npr.org', 'pbs.org', 'bbc.com', 'bbc.co.uk',
+  // Political/investigative
+  'politico.com', 'thehill.com', 'axios.com', 'propublica.org',
+  'theatlantic.com', 'bloomberg.com', 'businessinsider.com',
+  // Official sources
+  'congress.gov', 'courtlistener.com', 'house.gov', 'senate.gov',
+  'whitehouse.gov', 'supremecourt.gov',
+]);
+
+const SOCIAL_DOMAINS = new Set([
+  'twitter.com', 'x.com', 'facebook.com', 'instagram.com',
+  'tiktok.com', 'youtube.com', 'reddit.com',
+]);
+
+function getDomain(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
+}
+
+function isHomepageUrl(url) {
+  try {
+    const { pathname, search } = new URL(url);
+    return (pathname === '/' || pathname === '') && !search;
+  } catch { return true; }
+}
+
+// Strip bad sources from an entry; use raw domain as name. Returns null if no valid sources remain.
+function validateSources(entry) {
+  const valid = (entry.sources || []).filter(src => {
+    if (!src || !src.url) return false;
+    const domain = getDomain(src.url);
+    if (!domain) return false;
+    if (SOCIAL_DOMAINS.has(domain)) return false;
+    if (isHomepageUrl(src.url)) return false;
+    return true;
+  }).map(src => ({ url: src.url, name: getDomain(src.url) }));
+  if (valid.length === 0) return null;
+  return { ...entry, sources: valid };
+}
+
+// ============================================================
 // RETRY: 429s retry until 120s timeout. Other errors fail immediately.
 // 120s = 2 × Groq's 60s rate limit window.
 // ============================================================
@@ -290,12 +340,16 @@ const ENTRY_CRITERIA = `statements, quotes, or admissions of harmful or offensiv
   `policies that caused documented harm to people; or any action that reflects abuse of public trust or disregard for human dignity`;
 
 const ENTRY_EXCLUSIONS = `Do NOT include: winning elections, receiving nominations, neutral biographical facts (birthplace, education, family), ` +
-  `or procedural/non-controversial votes (e.g. naming buildings, uncontested bipartisan measures), ` +
-  `or campaign events with no harmful content. ` +
+  `procedural/non-controversial votes (e.g. naming buildings, uncontested bipartisan measures), ` +
+  `campaign events with no harmful content, ` +
+  `empathetic statements about deaths or tragedies (e.g. calling deaths "tragic", "unnecessary", or "unacceptable" — that is normal human sentiment, not bad character), ` +
+  `incidents where the figure is the victim (threats against them, crimes committed against them by others, criticism directed at them), ` +
+  `vague entries without specific content (e.g. "made statements", "made shocking remarks", "said something controversial", "revealed something about themselves"), ` +
+  `or the figure simply leaving office, retiring, or ending a term. ` +
   `IMPORTANT: A vote FOR harmful or discriminatory policy is NOT a routine vote — include it. ` +
   `An offensive statement made at a campaign event is NOT a neutral campaign event — include it.`;
 
-async function extractFromWikipedia(articleSlugs, figureName, figureSlug) {
+async function extractFromWikipedia(articleSlugs, figureName) {
   const allEntries = [];
 
   for (const slug of articleSlugs) {
@@ -310,17 +364,20 @@ async function extractFromWikipedia(articleSlugs, figureName, figureSlug) {
     // Strip HTML but keep reference markers
     const text = stripHtml(html);
 
-    // Build reference context for Groq
-    const refContext = Object.entries(refs)
-      .map(([id, url]) => `REF:${id} → ${url}`)
-      .join('\n');
-
     // Chunk the text
     const chunks = chunkText(text, 5000);
     console.log(`    → ${chunks.length} chunks to process`);
 
     for (let i = 0; i < chunks.length; i++) {
       process.stdout.write(`    chunk ${i + 1}/${chunks.length}...`);
+
+      // Only include refs actually referenced in this chunk — prevents Groq from
+      // guessing refs from a truncated global list and hallucinating source names/URLs.
+      const chunkText_ = chunks[i];
+      const chunkRefContext = Object.entries(refs)
+        .filter(([id]) => chunkText_.includes(`[REF:${id}]`))
+        .map(([id, url]) => `REF:${id} → ${url}`)
+        .join('\n');
 
       const prompt = `You are extracting entries for a political accountability database about ${figureName}.
 
@@ -335,19 +392,21 @@ Return a JSON array. Each entry:
 
 For dates: use exact dates when given (e.g. "On January 6, 2021" → "2021-01-06"). If only month/year, use the 1st (e.g. "In March 2019" → "2019-03-01"). If only year, use Jan 1 (e.g. "In 2005" → "2005-01-01").
 
-For sources: match [REF:id] markers to the reference map. If no matching ref, use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"}.
+For sources: match [REF:id] markers to the reference map. Only use a ref URL if it appears in the reference map below. If no matching ref exists, use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"}.
 
 Return [] if nothing relevant. Return ONLY valid JSON.
 
 Reference map:
-${refContext.slice(0, 3000)}
+${chunkRefContext || '(no inline citations in this section)'}
 
 Text:
-${chunks[i]}`;
+${chunkText_}`;
 
       try {
         const content = await callGroq(prompt);
-        const entries = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+        const extracted = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+        // Validate sources: remove homepage-only, social media, and Unknown sources
+        const entries = extracted.map(validateSources).filter(Boolean);
         allEntries.push(...entries);
         console.log(` ${entries.length} entries`);
       } catch (err) {
@@ -370,12 +429,16 @@ async function fetchGdelt(figureName, isHistorical) {
   try {
     const raw = await withRetry(() => httpGet(url), { label: 'GDELT' });
     const data = JSON.parse(raw);
-    return (data.articles || []).map(a => ({
+    const all = (data.articles || []).map(a => ({
       title: a.title || '', url: a.url || '',
       source: a.domain || a.source || 'GDELT',
       date: a.seendate ? a.seendate.slice(0, 8) : '',
       snippet: a.title || '',
     }));
+    const trusted = all.filter(a => TRUSTED_DOMAINS.has(getDomain(a.url)));
+    if (all.length !== trusted.length)
+      console.log(`    [GDELT] filtered ${all.length - trusted.length} untrusted sources (${trusted.length} remain)`);
+    return trusted;
   } catch (err) {
     console.error(`  [GDELT] ${err.message.split('\n')[0]}`);
     return [];
@@ -481,7 +544,7 @@ async function extractFromArticles(articles) {
       .map((a, idx) => `[${idx + 1}] ${a.title} | ${a.source} | ${a.date} | ${a.url}\n${a.snippet}`)
       .join('\n\n');
 
-    const figureList = Object.entries(FIGURE_SLUGS).map(([name, slug]) => `${name}`).join(', ');
+    const figureList = Object.entries(FIGURE_SLUGS).map(([name]) => name).join(', ');
 
     const prompt = `You are extracting entries for a political accountability database.
 
@@ -500,7 +563,11 @@ ${articlesText}`;
     try {
       process.stdout.write(`    batch ${batchNum}/${totalBatches}...`);
       const content = await callGroq(prompt);
-      const valid = parseGroqJson(content).filter(e => e.figure && e.date && e.fact && e.sources);
+      const parsed = parseGroqJson(content).filter(e => e.figure && e.date && e.fact && e.sources);
+      const valid = parsed.map(e => {
+        const v = validateSources(e);
+        return v ? { ...v, figure: e.figure } : null;
+      }).filter(Boolean);
       entries.push(...valid);
       console.log(` ${valid.length} entries`);
     } catch (err) {
@@ -743,7 +810,7 @@ async function main() {
     let wikiEntries = [];
     if (!isInitialized && fig.wikipedia && fig.wikipedia.length > 0) {
       console.log('\n  [STEP 1] Wikipedia initialization...');
-      wikiEntries = await extractFromWikipedia(fig.wikipedia, fig.name, fig.slug);
+      wikiEntries = await extractFromWikipedia(fig.wikipedia, fig.name);
       console.log(`    → ${wikiEntries.length} raw entries from Wikipedia`);
 
       if (wikiEntries.length > 0) {
@@ -799,6 +866,7 @@ async function main() {
     if (newEntries.length > 1) {
       console.log(`\n  [STEP 3] Consolidating ${newEntries.length} new entries...`);
       newEntries = await consolidateEntries(newEntries);
+      newEntries = newEntries.map(validateSources).filter(Boolean);
       console.log(`    → ${newEntries.length} after consolidation`);
     }
 
@@ -809,6 +877,7 @@ async function main() {
     if (newEntries.length > 0 && existingEntries.length > 0 && wikiEntries.length === 0) {
       console.log(`\n  [STEP 4] 5-day window consolidation...`);
       newEntries = await consolidateAgainstRecent(newEntries, existingEntries);
+      newEntries = newEntries.map(validateSources).filter(Boolean);
       console.log(`    → ${newEntries.length} genuinely new entries`);
     } else if (wikiEntries.length > 0) {
       console.log(`\n  [STEP 4] Skipping 5-day consolidation (initialization run)`);

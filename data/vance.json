@@ -291,32 +291,6 @@
       ]
     },
     {
-      "id": 27,
-      "date": "2025-02-28",
-      "fact": "JD Vance told Ukrainian President Volodymyr Zelenskyy that it's disrespectful for him to litigate the conflict with Russia in front of the American media during a meeting in the White House's Oval Office",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        },
-        {
-          "name": "Zeleny",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "date": "2025-02-28",
-      "fact": "JD Vance incorrectly claimed that Ukrainian President Volodymyr Zelenskyy campaigned for the opposition in Pennsylvania in October 2024",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        }
-      ]
-    },
-    {
       "id": 29,
       "date": "2025-03-01",
       "fact": "JD Vance visited Greenland and said that the US should acquire it, warning that Greenland faced the encroachment of powerful countries like China and Russia",
@@ -394,31 +368,9 @@
       ]
     },
     {
-      "id": 36,
-      "date": "2022-01-01",
-      "fact": "JD Vance won the 2022 United States Senate Republican primary in Ohio with 32.22% of the vote.",
-      "sources": [
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/JD_Vance"
-        }
-      ]
-    },
-    {
       "id": 37,
       "date": "2022-01-01",
       "fact": "JD Vance's cousin, Nate Vance, a U.S. Marine Corps veteran, volunteered to fight for Ukraine after Russia's invasion and later criticized JD Vance's stance on Ukraine, accusing him and Trump of aiding Russia.",
-      "sources": [
-        {
-          "name": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/JD_Vance"
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "date": "2022-01-01",
-      "fact": "JD Vance won the 2022 United States Senate election in Ohio with 53.04% of the vote.",
       "sources": [
         {
           "name": "Wikipedia",
@@ -438,17 +390,6 @@
       ]
     },
     {
-      "id": 40,
-      "date": "2022-10-17",
-      "fact": "JD Vance made statements during a Senate debate that were criticized by the Ohio Democratic Party.",
-      "sources": [
-        {
-          "name": "C-SPAN",
-          "url": "https://www.c-span.org/video/?524142-1/ohio-senate-debate"
-        }
-      ]
-    },
-    {
       "id": 41,
       "date": "2023-01-01",
       "fact": "JD Vance argued that the country's largest and most powerful institutions have united against the right and called for 'a de-woke-ification program' even if the courts say it is illegal.",
@@ -460,28 +401,6 @@
       ]
     },
     {
-      "id": 42,
-      "date": "2023-06-01",
-      "fact": "JD Vance voted against the bill to raise the debt ceiling",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://www.thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "date": "2023-06-02",
-      "fact": "JD Vance opposed a bipartisan deal to avoid federal government default",
-      "sources": [
-        {
-          "name": "Cincinnati Enquirer",
-          "url": "https://www.cincinnati.com/"
-        }
-      ]
-    },
-    {
       "id": 44,
       "date": "2024-01-01",
       "fact": "JD Vance opposes abortion, same-sex marriage, and gun control, and has taken a number of natalist positions.",
@@ -489,17 +408,6 @@
         {
           "name": "Wikipedia",
           "url": "https://en.wikipedia.org/wiki/JD_Vance"
-        }
-      ]
-    },
-    {
-      "id": 45,
-      "date": "2024-06-12",
-      "fact": "JD Vance introduced a measure banning DEI in the federal government",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://www.thehill.com/"
         }
       ]
     },
@@ -526,39 +434,6 @@
       ]
     },
     {
-      "id": 48,
-      "date": "2024-07-25",
-      "fact": "JD Vance made a comment about 'childless cat ladies' that sparked uproar from Taylor Swift fans and others",
-      "sources": [
-        {
-          "name": "ABC News",
-          "url": "https://abcnews.go.com/"
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "date": "2024-07-26",
-      "fact": "JD Vance defended his 'childless cat ladies' comment as 'sarcastic' amid blowback",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 50,
-      "date": "2024-07-30",
-      "fact": "JD Vance said that 'childless people' in US leadership are 'more sociopathic'",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
       "id": 51,
       "date": "2024-08-01",
       "fact": "JD Vance proposed federal criminalization of gender-affirming care for minors.",
@@ -581,17 +456,6 @@
       ]
     },
     {
-      "id": 53,
-      "date": "2024-08-01",
-      "fact": "JD Vance attacked AOC for promoting a 'sociopathic attitude' about children",
-      "sources": [
-        {
-          "name": "Mother Jones",
-          "url": "https://www.motherjones.com/"
-        }
-      ]
-    },
-    {
       "id": 54,
       "date": "2024-08-13",
       "fact": "Workers at a Kentucky startup funded by JD Vance alleged 'nightmare' working conditions.",
@@ -599,28 +463,6 @@
         {
           "name": "CNN",
           "url": "https://www.cnn.com/2024/08/13/politics/jd-vance-kentucky-startup-workers-allege-nightmare-conditions/index.html"
-        }
-      ]
-    },
-    {
-      "id": 55,
-      "date": "2024-08-21",
-      "fact": "JD Vance proposed dismantling federal DEI programs and banning 'X' gender passports",
-      "sources": [
-        {
-          "name": "The Plain Dealer",
-          "url": "https://www.cleveland.com/"
-        }
-      ]
-    },
-    {
-      "id": 56,
-      "date": "2024-08-29",
-      "fact": "JD Vance told Kamala Harris to 'go to hell' for a nonexistent cemetery criticism",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
         }
       ]
     },
@@ -636,95 +478,6 @@
       ]
     },
     {
-      "id": 58,
-      "date": "2024-10-21",
-      "fact": "JD Vance had missed every U.S. Senate vote since becoming Donald Trump's vice presidential running mate",
-      "sources": [
-        {
-          "name": "The Plain Dealer",
-          "url": "https://www.cleveland.com/"
-        }
-      ]
-    },
-    {
-      "id": 59,
-      "date": "2025-02-28",
-      "fact": "JD Vance accused Ukrainian President Volodymyr Zelenskyy of showing a 'propaganda tour' of Ukraine and told him he should be thanking President Trump for trying to bring an end to the conflict",
-      "sources": [
-        {
-          "name": "AP News",
-          "url": "https://apnews.com/"
-        },
-        {
-          "name": "Zeleny",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "date": "2025-02",
-      "fact": "JD Vance called 'the threat from within' his biggest concern in terms of security for Europe, rather than Russia or China, during a speech at the Munich Security Conference",
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr/"
-        },
-        {
-          "name": "Lynch",
-          "url": "https://www.lynch.com/"
-        },
-        {
-          "name": "vancewreckingball",
-          "url": "https://www.vancewreckingball.com/"
-        }
-      ]
-    },
-    {
-      "id": 61,
-      "date": "2021-01-01",
-      "fact": "Vance argued for a higher tax rate on childless Americans in a 2021 interview",
-      "sources": [
-        {
-          "name": "ABC News",
-          "url": "https://www.abcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 62,
-      "date": "2021-07-06",
-      "fact": "JD Vance said he regrets past criticism of Trump",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 63,
-      "date": "2021-09-24",
-      "fact": "J.D. Vance argued against the need for rape and incest exceptions in abortion laws.",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 64,
-      "date": "2022-08-25",
-      "fact": "J.D. Vance stated he would not support federal legislation to codify marriage equality and is against same-sex marriage.",
-      "sources": [
-        {
-          "name": "The Cincinnati Enquirer",
-          "url": "https://www.cincinnati.com"
-        }
-      ]
-    },
-    {
       "id": 65,
       "date": "2024-07-15",
       "fact": "JD Vance once described himself as a 'Never Trump guy' and used words like 'idiot' and 'Hitler' to describe Trump, but later became his vice-presidential nominee",
@@ -732,10 +485,6 @@
         {
           "name": "Politico",
           "url": "https://www.politico.com/news/magazine/2025/08/22/jd-vance-marines-iraq-tour-00504879"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://www.reuters.com/"
         }
       ]
     },
@@ -751,276 +500,10 @@
       ]
     },
     {
-      "id": 67,
-      "date": "2024-07-17",
-      "fact": "JD Vance finds a kindred spirit with Trump on election denial and Jan. 6",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 68,
-      "date": "2024-07-18",
-      "fact": "J.D. Vance proposed a federal ban on gender transition care for minors.",
-      "sources": [
-        {
-          "name": "cleveland.com",
-          "url": "https://www.cleveland.com"
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "date": "2024-07-25",
-      "fact": "J.D. Vance once proposed a plan to give parents more votes in democracy than non-parents.",
-      "sources": [
-        {
-          "name": "MSNBC",
-          "url": "https://www.msnbc.com"
-        }
-      ]
-    },
-    {
-      "id": 70,
-      "date": "2024-07-30",
-      "fact": "J.D. Vance has a history of disparaging people without kids",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com"
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "date": "2024-08-09",
-      "fact": "J.D. Vance endorsed a book that calls far-left individuals 'unhumans' and praises fascist dictators.",
-      "sources": [
-        {
-          "name": "USA Today",
-          "url": "https://www.usatoday.com"
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "date": "2024-08-27",
-      "fact": "Vance bashed a teachers union president for not having children of her own",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 73,
-      "date": "2024-09-09",
-      "fact": "Vance pushed false accusations of Haitians eating pets",
-      "sources": [
-        {
-          "name": "The Hill",
-          "url": "https://thehill.com/"
-        }
-      ]
-    },
-    {
-      "id": 74,
-      "date": "2024-09-10",
-      "fact": "Vance spread debunked claims about Haitian immigrants eating pets",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        },
-        {
-          "name": "NPR",
-          "url": "https://www.npr.org/"
-        }
-      ]
-    },
-    {
-      "id": 75,
-      "date": "2024-09-10",
-      "fact": "Vance urged followers to keep posting 'cat memes' despite his false claim about Haitian migrants",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com"
-        }
-      ]
-    },
-    {
-      "id": 76,
-      "date": "2024-09-14",
-      "fact": "Vance shared a social media post about immigrants cooking pets in Dayton, which the city refuted",
-      "sources": [
-        {
-          "name": "Cincinnati Enquirer",
-          "url": "https://www.cincinnati.com/"
-        },
-        {
-          "name": "CBS News",
-          "url": "https://www.cbsnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 77,
-      "date": "2024-09-15",
-      "fact": "Vance stuck by his pet-eating claims and said he was willing to 'create stories'",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "url": "https://www.nytimes.com/"
-        }
-      ]
-    },
-    {
-      "id": 78,
-      "date": "2024-09-28",
-      "fact": "JD Vance appeared at an event hosted by a hard-right Christian nationalist",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "url": "https://www.washingtonpost.com/"
-        }
-      ]
-    },
-    {
-      "id": 79,
-      "date": "2024-10-16",
-      "fact": "JD Vance said that Trump didn't lose the 2020 election, using the phrase 'not by the words I would use'",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "date": "2025-02-12",
-      "fact": "Vice President JD Vance used the theological concept 'ordo amoris' to justify immigration policies, which was criticized by Pope Francis.",
-      "sources": [
-        {
-          "name": "National Catholic Reporter",
-          "url": "https://www.nationalcatholicreporter.org"
-        }
-      ]
-    },
-    {
-      "id": 81,
-      "date": "2025-02-13",
-      "fact": "Pope Francis directly responded to Vice President JD Vance's use of the theological concept 'ordo amoris' to justify immigration policies, stating that the true ordo amoris is one of fraternity open to all, without exception, and that the administration's approach is built on force, not truth, and will end badly.",
-      "sources": [
-        {
-          "name": "National Catholic Reporter",
-          "url": "https://www.nationalcatholicreporter.org"
-        }
-      ]
-    },
-    {
-      "id": 82,
-      "date": "2025-02-14",
-      "fact": "JD Vance declared ideological war on Europe in a speech at the Munich Security Conference",
-      "sources": [
-        {
-          "name": "Le Monde",
-          "url": "https://www.lemonde.fr"
-        },
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com"
-        }
-      ]
-    },
-    {
-      "id": 83,
-      "date": "2025-03-01",
-      "fact": "JD Vance sparked an extraordinary Oval Office skirmish by leaning hard into Trump's foreign policy",
-      "sources": [
-        {
-          "name": "NBC News",
-          "url": "https://www.nbcnews.com/"
-        },
-        {
-          "name": "Los Angeles Times",
-          "url": "https://www.latimes.com"
-        }
-      ]
-    },
-    {
-      "id": 84,
-      "date": "2025-03-28",
-      "fact": "JD Vance told Greenlanders that their country is cold as 's---', and China's coming for them",
-      "sources": [
-        {
-          "name": "The Daily Telegraph",
-          "url": "https://www.thedailytelegraph.com.au"
-        }
-      ]
-    },
-    {
-      "id": 85,
-      "date": "2025-04-08",
-      "fact": "JD Vance called Chinese people 'peasants', prompting China to lash out at him",
-      "sources": [
-        {
-          "name": "CNN",
-          "url": "https://www.cnn.com"
-        }
-      ]
-    },
-    {
-      "id": 86,
-      "date": "2025-05-09",
-      "fact": "A social media account bearing the name of Pope Leo XIV posted criticism of the Trump administration's immigration policy, directly calling out Vice President JD Vance.",
-      "sources": [
-        {
-          "name": "Politico",
-          "url": "https://www.politico.com"
-        }
-      ]
-    },
-    {
-      "id": 87,
-      "date": "2026-03-03",
-      "fact": "JD Vance revealed something about himself that an expert considered ugly",
-      "sources": [
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/shapeshifter-jd-vance-just-revealed-something/"
-        }
-      ]
-    },
-    {
-      "id": 88,
-      "date": "2025-12-18",
-      "fact": "JD Vance made a response to a controversial interview",
-      "sources": [
-        {
-          "name": "Reality Tea",
-          "url": "https://www.realitytea.com/2025/12/17/jd-vance-conspiracy-theorist-comment-susie-wiles/"
-        }
-      ]
-    },
-    {
       "id": 89,
       "date": "2025-12-21",
       "fact": "JD Vance told attendees at TPUSA AmFest that they don't have to apologize for being white.",
       "sources": [
-        {
-          "name": "RedState",
-          "url": "https://redstate.com/bobhoge/2025/12/21/you-dont-have-to-apologize-for-being-white-anymore-jd-vance-brings-the-heat-to-tpusa-amfest-n2197356"
-        },
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/jd-vance-racist/"
-        },
         {
           "name": "twincities.com",
           "url": "https://www.twincities.com/2025/12/21/vance-refuses-to-set-red-lines-over-bigotry-as-conservatives-feud-at-turning-point/"
@@ -1035,39 +518,6 @@
         {
           "name": "al.com",
           "url": "https://www.al.com/politics/2025/12/hateful-republican-ripped-for-saying-americans-dont-have-to-apologize-for-being-white.html"
-        }
-      ]
-    },
-    {
-      "id": 91,
-      "date": "2025-12-23",
-      "fact": "JD Vance used racist tropes, prompting a response from Jasmine Crockett.",
-      "sources": [
-        {
-          "name": "HipHopWired",
-          "url": "https://hiphopwired.com/2969172/jasmine-crockett-responds-jd-vance-racist-tropes-reactions/"
-        }
-      ]
-    },
-    {
-      "id": 92,
-      "date": "2026-01-08",
-      "fact": "JD Vance sparked backlash after blaming an ICE shooting victim for her own death",
-      "sources": [
-        {
-          "name": "Raw Story",
-          "url": "https://www.rawstory.com/jd-vance-2674861557/"
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "date": "2026-02-04",
-      "fact": "JD Vance refused to apologize for claiming that Alex Pretti was an ICE assassin",
-      "sources": [
-        {
-          "name": "Radar Online",
-          "url": "https://radaronline.com/p/jd-vance-no-apology-alex-pretti-family-ice-assassin-claim/"
         }
       ]
     }
