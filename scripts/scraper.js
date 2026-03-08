@@ -212,11 +212,7 @@ function extractReferencesFromHtml(html) {
 
   // Quick sanity check before running the full regex
   if (!html.includes('cite_note-')) return refs;
-  const hasLiFormat = html.includes('<li id="cite_note-');
-  if (!hasLiFormat) {
-    console.log(`    [refs debug] HTML has cite_note- but not <li id="cite_note-" format`);
-    return refs;
-  }
+  if (!html.includes('id="cite_note-')) return refs;
 
   // Match reference list items. Wikipedia always puts id first: <li id="cite_note-X">
   // Use [^<]* instead of [\s\S]*? to avoid catastrophic backtracking on large HTML.
