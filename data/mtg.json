@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by a consistent promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has supported calls to execute prominent Democratic politicians, compared COVID-19 safety measures to the Holocaust, and equated the Democratic Party with Nazis. Greene has also engaged in aggressive behavior, including confronting Parkland shooting survivor David Hogg and Representative Alexandria Ocasio-Cortez, and has been fined multiple times for refusing to wear a mask on the House floor. Her actions and statements demonstrate a disregard for facts, a willingness to spread misinformation, and a tendency to use violent and divisive rhetoric.",
+  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by a consistent promotion of conspiracy theories, Islamophobic, antisemitic, and white supremacist views, and incendiary remarks. She has supported calls to execute prominent Democratic politicians, compared COVID-19 safety measures to the Holocaust, and equated the Democratic Party with Nazis. Greene has also made false claims about gun control, voter fraud, and the COVID-19 pandemic, and has been fined multiple times for refusing to wear a mask on the House floor. Her actions and statements have been widely criticized, leading to her removal from committee assignments and expulsion from the Freedom Caucus. Despite this, Greene has continued to promote misinformation and extremist ideologies, demonstrating a pattern of behavior that prioritizes divisive rhetoric over factual accuracy and respect for democratic institutions.",
   "initialized": true,
   "entries": [
     {
@@ -4006,6 +4006,43 @@
         {
           "name": "Daily Caller",
           "url": "https://dailycaller.com/2025/12/29/mtg-alleges-trump-raged-epstein/"
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "date": "2022-11-03",
+      "fact": "Marjorie Taylor Greene filed a lawsuit against the Secretary of State for the State of Georgia in a case titled Marjorie Taylor Greene v. Secretary of State for the State of Georgia",
+      "sources": [
+        {
+          "name": "CourtListener",
+          "url": "https://www.courtlistener.com/opinion/8444399/marjorie-taylor-greene-v-secretary-of-state-for-the-state-of-georgia/"
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "date": "2022-11-03",
+      "fact": "Marjorie Taylor Greene was sued by Equity Prime Mortgage in a case titled EQUITY PRIME MORTGAGE v. GREENE FOR CONGRESS, INC.",
+      "sources": [
+        {
+          "name": "CourtListener",
+          "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/"
+        },
+        {
+          "name": "CourtListener",
+          "url": "https://www.courtlistener.com/opinion/10171841/equity-prime-mortgage-llc-v-greene-for-congress-inc/"
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "date": "2024-08-12",
+      "fact": "Marjorie Taylor Greene was associated with the Clermont County Republican Central Committee, which was involved in a lawsuit, Hicks v. Clermont Cty. Republican Cent. Commt.",
+      "sources": [
+        {
+          "name": "CourtListener",
+          "url": "https://www.courtlistener.com/opinion/10038347/hicks-v-clermont-cty-republican-cent-commt/"
         }
       ]
     }
