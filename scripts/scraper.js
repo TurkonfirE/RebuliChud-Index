@@ -45,7 +45,7 @@ class RateLimiter {
       courtlistener: 1000,
       congress: 500,
       rss: 300,
-      groq: 2000,        // ~30 calls/min target; 429s handled by withRetry
+      groq: 800,         // ~75 RPM; developer plan allows 1K RPM / 300K TPM
       wikipedia: 1000,
     };
   }
@@ -109,10 +109,10 @@ function validateSources(entry) {
 }
 
 // ============================================================
-// RETRY: 429s retry until 120s timeout. Other errors fail immediately.
-// 120s = 2 × Groq's 60s rate limit window.
+// RETRY: 429s and network errors retry within a 5-minute budget.
+// Non-retryable errors (bad JSON, auth failures, etc.) fail immediately.
 // ============================================================
-const RETRY_TIMEOUT_MS = 120_000;
+const RETRY_TIMEOUT_MS = 300_000; // 5 minutes total retry budget
 
 async function withRetry(fn, { label = '' } = {}) {
   const deadline = Date.now() + RETRY_TIMEOUT_MS;
@@ -121,14 +121,21 @@ async function withRetry(fn, { label = '' } = {}) {
       return await fn();
     } catch (err) {
       const is429 = err.message.includes('429') || err.message.includes('rate_limit');
-      if (!is429) throw err;
+      const isRetryable = is429 ||
+                          err.message.toLowerCase().includes('timeout') ||
+                          err.message.includes('ETIMEDOUT') ||
+                          err.message.includes('ECONNRESET');
+      if (!isRetryable) throw err;
       if (Date.now() >= deadline) throw err;
-      let waitMs = 5000;
-      const match = err.message.match(/try again in ([\d.]+)s/);
-      if (match) waitMs = Math.ceil(parseFloat(match[1]) * 1000) + 500;
+      let waitMs = is429 ? 5000 : 3000;
+      if (is429) {
+        const match = err.message.match(/try again in ([\d.]+)s/);
+        if (match) waitMs = Math.ceil(parseFloat(match[1]) * 1000) + 500;
+      }
       const remaining = deadline - Date.now();
       if (waitMs > remaining) waitMs = remaining;
-      console.log(`    [retry] ${label} — waiting ${(waitMs / 1000).toFixed(1)}s (${(remaining / 1000).toFixed(0)}s left)`);
+      const type = is429 ? 'rate limit' : 'network error';
+      console.log(`    [retry] ${label} — ${type}, waiting ${(waitMs / 1000).toFixed(1)}s (${(remaining / 1000).toFixed(0)}s budget left)`);
       await sleep(waitMs);
     }
   }
@@ -746,7 +753,7 @@ async function reviewEntries(entries, figureName) {
   if (entries.length <= 1) return entries;
 
   // Process in chunks so the prompt stays manageable
-  const CHUNK = 80;
+  const CHUNK = 30;
   const reviewed = [];
 
   for (let i = 0; i < entries.length; i += CHUNK) {
@@ -759,7 +766,7 @@ Your ONLY job is to REMOVE bad entries from this list. Do not add or rewrite any
 REMOVE an entry if it:
 1. Describes the same event as another entry in this list — keep the most specific version (the one with an actual quote, specific date, or named outcome). Remove the vaguer one.
 2. Fails the ACTOR TEST: ${figureName} is not the actor — someone else (a judge, a journalist, a political opponent, a family member, police) is the one taking the action or making the statement.
-3. Is a neutral fact: announcing a candidacy, winning or losing an election, filing reelection paperwork, announcing a running mate, resigning a seat, signing a routine budget, declaring a residence, military service, selling a property, neutral business transactions, receiving an appointment from someone else.
+3. Is a neutral fact — including any of: announcing a candidacy; winning or losing an election; filing election paperwork; announcing a running mate; resigning or retiring from a role; signing a routine budget; declaring a residence; military service; selling a property; neutral business transactions; receiving an appointment from someone else; joining, founding, or leaving an organization or political group (KEEP if the entry describes specific harmful actions taken because of that membership); getting married or divorced; publishing a book, op-ed, or memoir (KEEP if the harmful content is explicitly quoted in the fact); issuing a routine administrative order, waiver, or extension.
 4. Is a positive or humanitarian act: pardoning wrongly convicted persons, charitable actions, or beneficial policy — if the entry makes the figure look good rather than bad, remove it.
 
 KEEP everything that shows ${figureName} actively saying something harmful, voting for a harmful policy, being indicted/convicted/sued/censured, or engaging in documented misconduct.
