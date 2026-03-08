@@ -582,9 +582,8 @@ ${ENTRY_EXCLUSIONS}
 Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITERIA} — by: ${figureList}
 
 Return a JSON array. Each entry:
-{"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication","url":"article URL"}]}
+{"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sourceIndex":<1-based index of the article it came from>}
 
-For sources: use ONLY the exact URL provided in each article header above. Do NOT construct, guess, or modify any URLs.
 Valid slugs: ${Object.values(FIGURE_SLUGS).join(', ')}
 If nothing relevant, return []. Return ONLY valid JSON.
 
@@ -593,9 +592,12 @@ ${articlesText}`;
     try {
       process.stdout.write(`    batch ${batchNum}/${totalBatches}...`);
       const content = await callGroq(prompt);
-      const parsed = parseGroqJson(content).filter(e => e.figure && e.date && e.fact && e.sources);
+      const parsed = parseGroqJson(content).filter(e => e.figure && e.date && e.fact && typeof e.sourceIndex === 'number');
       const valid = parsed.map(e => {
-        const v = validateSources(e);
+        const article = batch[e.sourceIndex - 1];
+        if (!article) return null;
+        const entry = { figure: e.figure, date: e.date, fact: e.fact, sources: [{ url: article.url, name: getDomain(article.url) }] };
+        const v = validateSources(entry);
         return v ? { ...v, figure: e.figure } : null;
       }).filter(Boolean);
       entries.push(...valid);
