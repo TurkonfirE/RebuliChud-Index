@@ -739,6 +739,51 @@ Return ONLY valid JSON.`;
 }
 
 // ============================================================
+// REVIEW PASS: remove duplicates and neutral/others'-action entries
+// Runs after consolidation on the full set. Its only job is removal.
+// ============================================================
+async function reviewEntries(entries, figureName) {
+  if (entries.length <= 1) return entries;
+
+  // Process in chunks so the prompt stays manageable
+  const CHUNK = 80;
+  const reviewed = [];
+
+  for (let i = 0; i < entries.length; i += CHUNK) {
+    const chunk = entries.slice(i, i + CHUNK);
+
+    const prompt = `You are a quality reviewer for a political accountability database about ${figureName}.
+
+Your ONLY job is to REMOVE bad entries from this list. Do not add or rewrite anything.
+
+REMOVE an entry if it:
+1. Describes the same event as another entry in this list — keep the most specific version (the one with an actual quote, specific date, or named outcome). Remove the vaguer one.
+2. Fails the ACTOR TEST: ${figureName} is not the actor — someone else (a judge, a journalist, a political opponent, a family member, police) is the one taking the action or making the statement.
+3. Is a neutral fact: announcing a candidacy, winning or losing an election, filing reelection paperwork, announcing a running mate, resigning a seat, signing a routine budget, declaring a residence, military service, selling a property, neutral business transactions, receiving an appointment from someone else.
+4. Is a positive or humanitarian act: pardoning wrongly convicted persons, charitable actions, or beneficial policy — if the entry makes the figure look good rather than bad, remove it.
+
+KEEP everything that shows ${figureName} actively saying something harmful, voting for a harmful policy, being indicted/convicted/sued/censured, or engaging in documented misconduct.
+
+Return a JSON array of entries to KEEP (with their original date, fact, and sources unchanged).
+Return ONLY valid JSON.
+
+Entries:
+${JSON.stringify(chunk)}`;
+
+    try {
+      const content = await callGroq(prompt);
+      const result = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+      reviewed.push(...(result.length > 0 ? result : chunk));
+    } catch (err) {
+      console.error(`    [Review] ${err.message.split('\n')[0].slice(0, 80)}`);
+      reviewed.push(...chunk); // On failure, keep originals
+    }
+  }
+
+  return reviewed;
+}
+
+// ============================================================
 // STRING DEDUP: free safety net against all existing entries
 // ============================================================
 function stringDedup(existing, incoming) {
@@ -916,6 +961,14 @@ async function main() {
       newEntries = await consolidateEntries(newEntries);
       newEntries = newEntries.map(validateSources).filter(Boolean);
       console.log(`    → ${newEntries.length} after consolidation`);
+    }
+
+    // ---- STEP 3b: Review pass — remove duplicates and neutral entries ----
+    if (newEntries.length > 1) {
+      console.log(`\n  [STEP 3b] Reviewing ${newEntries.length} entries for quality...`);
+      newEntries = await reviewEntries(newEntries, fig.name);
+      newEntries = newEntries.map(validateSources).filter(Boolean);
+      console.log(`    → ${newEntries.length} after review`);
     }
 
     // ---- STEP 4: 5-day window consolidation ----
