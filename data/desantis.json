@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly supported and signed legislation that limits access to abortion, targets transgender individuals, and restricts voting rights. DeSantis has also shown a willingness to use divisive rhetoric, as seen in his \"monkey this up\" comment, and has supported laws that ban discussions of sexual orientation and gender identity in schools. His actions and policies have been criticized for being discriminatory and undermining democracy. Additionally, DeSantis has been involved in controversies surrounding his administration's handling of finances and allegations of money laundering and wire fraud.",
+  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly supported and signed legislation that limits access to abortion, targets transgender individuals, and restricts voting rights. DeSantis has also shown a willingness to use his executive power to advance his agenda, including transporting immigrants to other states and recruiting asylum seekers for political purposes. His administration has been accused of money laundering and wire fraud, and he has been involved in numerous court cases related to his policies. Overall, DeSantis's actions reveal a commitment to pushing a conservative agenda, often at the expense of marginalized communities and individual freedoms.",
   "initialized": true,
   "entries": [
     {
@@ -701,6 +701,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10648652/bailey-v-laurie-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "date": "2025-11-13",
+      "fact": "A court ruled on Maurice Jackson W v. Ron Desantis, a case against Ron DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10752902/maurice-jackson-w-v-ron-desantis/",
           "name": "courtlistener.com"
         }
       ]
