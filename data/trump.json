@@ -1,0 +1,3325 @@
+{
+  "name": "Donald Trump",
+  "slug": "trump",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has engaged in discriminatory practices, defrauded consumers, and committed financial fraud, including falsifying business records and inflating the value of his properties. Trump has also demonstrated a willingness to use racist and sexist language, and has implemented policies that target marginalized communities, including immigrants, LGBTQ individuals, and people of color. Additionally, he has shown a propensity for authoritarianism, having made violent and authoritarian statements, and having attempted to weaponize the FBI and the Justice Department against his political opponents. Trump's actions have resulted in numerous lawsuits, convictions, and indictments, including being found liable for sexual abuse and defamation, and being convicted of 34 counts of falsifying business records.",
+  "initialized": true,
+  "entries": [
+    {
+      "id": 1,
+      "date": "1973-01-01",
+      "fact": "Donald Trump countersued the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants, with the help of Roy Cohn.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2016/06/21/us/politics/donald-trump-roy-cohn.html",
+          "name": "nytimes.com"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "1994-01-01",
+      "fact": "Donald Trump, working with several relatives, formed a shell company to pay vendors for his rental units, then billed those services to Trump Management with significant markups, inflating rents and transferring assets from Fred Trump to his children and nephew.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "1995-01-01",
+      "fact": "Donald Trump defaulted on over $3 billion of bank loans, and the lenders seized the Plaza Hotel along with most of his other properties in a 'vast and humiliating restructuring' that allowed him to avoid personal bankruptcy.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2013-01-01",
+      "fact": "The State of New York filed a $40 million civil suit against Trump University, alleging that the company made false statements and defrauded consumers",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2016/11/19/us/politics/trump-university.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2015-06-16",
+      "fact": "Trump claimed Mexican immigrants were 'bringing drugs, they're bringing crime, they're rapists' in his campaign launch speech.",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2018/04/06/politics/trump-mexico-rapists/",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2016-10-03",
+      "fact": "The New York attorney general's office ordered the Trump Foundation to cease its fundraising activities in New York immediately due to violations of state law",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/trump-foundation-ordered-to-stop-fundraising-by-ny-attorney-generals-office/2016/10/03/1d4d295a-8987-11e6-bff0-d53f592f176e_story.html",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2016-12-01",
+      "fact": "Trump agreed to pay a total of $25 million to settle three cases related to Trump University, including two class actions and a civil suit filed by the State of New York",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2016/11/19/us/politics/trump-university.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2018-06-01",
+      "fact": "The New York attorney general's office filed a civil suit against the Trump Foundation, Trump, and his adult children, seeking $2.8 million in restitution and additional penalties",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/392392-five-things-to-know-about-the-lawsuit-against-the-trump-foundation",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2019-01-01",
+      "fact": "Trump was impeached for abuse of power and obstruction of Congress",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2019-11-01",
+      "fact": "A New York state judge ordered Trump to pay $2 million to a group of charities for misusing the Trump Foundation's funds, in part to finance his presidential campaign",
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/US/trump-foundation-ordered-pay-2m-collection-nonprofits-part/story?id=66827235",
+          "name": "abcnews.go.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2020-01-01",
+      "fact": "Trump downplayed the severity of the COVID-19 pandemic and contradicted health officials",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2021-01-01",
+      "fact": "Trump was impeached for incitement of insurrection",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "2021-01-06",
+      "fact": "Trump's attempt to overturn the 2020 presidential election result culminated in the January 6 Capitol attack",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2023-01-01",
+      "fact": "Trump was found liable in civil cases for sexual abuse and defamation and for business fraud",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2024-01-01",
+      "fact": "Trump was found guilty in 34 counts of falsifying business records, making him the first U.S. president convicted of a felony",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "date": "2024-01-01",
+      "fact": "Trump's administration targeted political opponents and civil society, persecuted transgender people, and deported immigrants, resulting in over 550 lawsuits challenging their legality",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "date": "2026-02-01",
+      "fact": "Trump authorized a joint U.S./Israeli war with Iran that resulted in the assassination of the Supreme Leader of Iran, Ali Khamenei",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "date": "2026-02-01",
+      "fact": "Trump pursued a legally-contested campaign to attack alleged drug traffickers in Latin America and ordered a military raid into Venezuela to capture the country's president Nicolás Maduro",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "date": "2016-01-01",
+      "fact": "Trump made 'explicitly racist and sexist appeals to win over white voters' during his 2016 presidential campaign.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2016-01-01",
+      "fact": "Trump pledged to deport millions of illegal immigrants residing in the U.S. and criticized birthright citizenship for incentivizing 'anchor babies'.",
+      "sources": [
+        {
+          "url": "https://www.cbc.ca/news/world/donald-trump-emphasizes-plans-to-build-real-wall-at-mexico-border-1.3196807",
+          "name": "cbc.ca"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2016-01-01",
+      "fact": "Trump pledged that Roe v. Wade would be overturned if he were elected and given the opportunity to appoint two or three anti-abortion justices",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "date": "2017-01-01",
+      "fact": "Trump reduced the budget for renewable energy research by 40 percent",
+      "sources": [
+        {
+          "url": "https://www.nationalgeographic.com/science/article/how-trump-is-changing-science-environment",
+          "name": "nationalgeographic.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "date": "2017-01-01",
+      "fact": "Trump reversed Obama-era policies directed at curbing climate change",
+      "sources": [
+        {
+          "url": "https://www.nationalgeographic.com/science/article/how-trump-is-changing-science-environment",
+          "name": "nationalgeographic.com"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "date": "2017-01-01",
+      "fact": "Trump withdrew from the Paris Agreement, making the U.S. the only nation to not ratify it",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/news/energy-environment/wp/2017/11/07/as-syria-embraces-paris-climate-deal-its-the-united-states-against-the-world",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "date": "2017-01-01",
+      "fact": "Trump rolled back more than 100 federal environmental regulations, including those that curbed greenhouse gas emissions, air and water pollution, and the use of toxic substances",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2017-01-01",
+      "fact": "Trump dismantled federal regulations on health, labor, the environment, and other areas, including a bill that revoked the Obama-era regulation restricting the sale of firearms to severely mentally ill people.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/news/us-news/president-trump-made-it-easier-mentally-ill-get-guns-when-n1039301",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "date": "2017-01-01",
+      "fact": "Trump delayed, suspended, or reversed ninety federal regulations, often after requests by the regulated industries.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2017/03/05/us/politics/trump-deregulation-guns-wall-st-climate.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2017-01-01",
+      "fact": "Trump vowed to repeal and replace the Affordable Care Act.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/sections/health-shots/2016/11/09/501203831/trump-can-kill-obamacare-with-or-without-help-from-congress",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2017-01-01",
+      "fact": "Trump described illegal immigration as an invasion of the United States and drastically escalated immigration enforcement.",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/news/politics/elections/2019/08/08/trump-immigrants-rhetoric-criticized-el-paso-dayton-shootings/1936742001/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "date": "2017-01-20",
+      "fact": "Trump signed six executive orders, including authorizing procedures for repealing the Patient Protection and Affordable Care Act (\"Obamacare\")",
+      "sources": [
+        {
+          "url": "https://www.politico.com/agenda/story/2017/01/all-trump-executive-actions-000288/",
+          "name": "politico.com"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "date": "2017-10-12",
+      "fact": "Trump expressed a desire to let Obamacare fail; his administration halved the enrollment period and drastically reduced funding for enrollment promotion.",
+      "sources": [
+        {
+          "url": "https://www.politico.com/story/2017/07/18/trump-tweet-obamacare-repeal-failure-240664",
+          "name": "politico.com"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "date": "2017-12-01",
+      "fact": "Trump signed the Tax Cuts and Jobs Act of 2017, which reduced tax rates for businesses and individuals and eliminated the penalty associated with the Affordable Care Act's individual mandate",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/news/wonk/wp/2017/12/15/the-final-gop-tax-bill-is-complete-heres-what-is-in-it/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2018-01-01",
+      "fact": "Trump barred organizations that provide abortions or abortion referrals from receiving federal funds.",
+      "sources": [
+        {
+          "url": "https://www.bbc.com/news/election-us-2020-54003808",
+          "name": "bbc.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "date": "2018-12-01",
+      "fact": "Trump's refusal to sign any spending bill unless it allocated funding for the border wall resulted in the longest-ever federal government shutdown.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2019/01/02/us/politics/trump-congress-shutdown.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "date": "2019-01-01",
+      "fact": "The federal budget deficit increased by almost 50 percent, to nearly $1 trillion, under Trump",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2019/10/25/us-deficit-hit-billion-marking-nearly-percent-increase-during-trump-era/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "date": "2020-01-01",
+      "fact": "Trump's administration oversaw the federal government execute 13 prisoners, more than in the previous 56 years combined, ending a 17-year moratorium.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/donald-trump-wildlife-coronavirus-pandemic-crime-terre-haute-28e44cc5c026dc16472751bbde0ead50",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "date": "2020-01-01",
+      "fact": "The U.S. national debt increased by 39 percent, reaching $27.75 trillion, and the U.S. debt-to-GDP ratio hit a post-World War II high, under Trump",
+      "sources": [
+        {
+          "url": "https://www.propublica.org/article/national-debt-trump",
+          "name": "propublica.org"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "date": "2020-02-01",
+      "fact": "Trump's administration took an anti-marijuana position, revoking Obama-era policies that provided protections for states that legalized marijuana.",
+      "sources": [
+        {
+          "url": "https://www.chicagotribune.com/marijuana/sns-tft-trump-anti-marijuana-stance-20200221-jfdx4urbb5bhrf6ldtfpxleopi-story.html",
+          "name": "chicagotribune.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "date": "2020-08-01",
+      "fact": "Trump's administration rolled back key components of the Obama administration's workplace protections against discrimination of LGBTQ people.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/feature/nbc-out/lgbtq-advocates-say-trump-s-news-executive-order-makes-them-n740301",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "date": "2021-01-01",
+      "fact": "Trump reduced the number of refugees admitted to record lows, from an annual limit of 110,000 before he took office to 15,000 in 2021.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "date": "2021-02-01",
+      "fact": "The U.S. Supreme Court allowed Trump's tax returns and other records to be released to the prosecutor for review by a grand jury",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2021/02/22/politics/supreme-court-trump-taxes-vance/",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2017-01-27",
+      "fact": "Trump signed an executive order that denied entry to citizens from six Muslim-majority countries for four months and from Syria indefinitely",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2017/jan/28/airports-us-immigration-ban-muslim-countries-trump",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "date": "2017-05-01",
+      "fact": "Trump dismissed Federal Bureau of Investigation (FBI) director James Comey",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2020/03/06/766025774/mick-mulvaney-out-as-white-house-chief-of-staff",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://theweek.com/speedreads/698368/president-trump-just-completely-contradicted-official-white-house-account-comey-firing",
+          "name": "theweek.com"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "date": "2017-09-01",
+      "fact": "Trump replaced the initial travel ban with a presidential proclamation extending travel bans to North Koreans, Chadians, and some Venezuelan officials",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2017/sep/25/trump-travel-ban-extended-to-blocks-on-north-korea-and-venezuela",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "date": "2018-06-01",
+      "fact": "The Trump administration had a policy of family separation that separated over 4,400 children from migrant parents at the U.S.-Mexico border",
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/US/trump-administration-unsure-thousands-migrant-families-separated-originally/story?id=60797633",
+          "name": "abcnews.go.com"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "date": "2018-06-01",
+      "fact": "Trump mandated that illegal immigrant families be detained together unless there is a concern of risk for the child, after initially blaming Democrats for the policy",
+      "sources": [
+        {
+          "url": "https://time.com/5317703/trump-family-separation-policy-executive-order/",
+          "name": "time.com"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "date": "2019-07-24",
+      "fact": "Trump welcomed and encouraged Russian interference in the 2016 election, according to Mueller's report",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2019/07/24/us/politics/trump-mueller-testimony.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "date": "2019-09-01",
+      "fact": "Trump withdrew the U.S. from the Intermediate-Range Nuclear Forces Treaty, citing alleged Russian noncompliance",
+      "sources": [
+        {
+          "url": "https://www.armscontrol.org/act/2019-09/news/us-completes-inf-treaty-withdrawal",
+          "name": "armscontrol.org"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "date": "2019-12-18",
+      "fact": "The House voted to impeach Trump for abuse of power and obstruction of Congress",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeached-house-abuse-power-n1104196",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "date": "2020-04-01",
+      "fact": "Trump halted funding of the World Health Organization",
+      "sources": [
+        {
+          "url": "https://www.politico.com/news/2020/04/14/trump-world-health-organization-funding-186786",
+          "name": "politico.com"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "date": "2020-04-01",
+      "fact": "Trump encouraged right-wing protests against social-distancing policies in states with stay-at-home orders",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2020/04/17/us/politics/trump-coronavirus-governors.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "date": "2020-07-19",
+      "fact": "Trump refused to say whether he would accept the results of the November election if he lost",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/trump-declines-to-say-whether-he-will-accept-november-election-results/2020/07/19/40009804-c9c7-11ea-91f1-28aca4d833a0_story.html",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "date": "2020-11-07",
+      "fact": "Trump baselessly alleged election fraud after Joe Biden was projected the winner",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/news/politics/elections/2020/11/07/joe-biden-victory-president-trump-claims-election-far-over/6202892002/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "date": "2019-01-01",
+      "fact": "Journalist E. Jean Carroll accused Trump of raping her in the 1990s and sued him for defamation over his denial",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2019/11/04/nyregion/jean-carroll-sues-trump.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "date": "2021-01-06",
+      "fact": "Trump held a rally at which he called for the election to be overturned and urged his supporters to 'fight like hell' and 'take back our country'.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2021/01/10/us/trump-speech-riot.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "date": "2021-01-13",
+      "fact": "The House charged Trump with incitement of insurrection for his role in the January 6 Capitol attack.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2021/01/13/us/politics/trump-impeached.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "date": "2022-01-01",
+      "fact": "Trump continued to pressure state legislators to overturn the 2020 election",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2022/07/21/us/politics/trump-wisconsin-election-call.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "date": "2022-01-01",
+      "fact": "New York filed a civil lawsuit against Trump accusing him of inflating the Trump Organization's value to gain an advantage with lenders and banks",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2022/09/21/politics/trump-new-york-attorney-general-letitia-james-fraud-lawsuit/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "date": "2022-08-08",
+      "fact": "FBI agents searched Mar-a-Lago for illegally held documents, including those in breach of the Espionage Act, collecting 11 sets of classified documents, some marked top secret",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/national-security/2022/08/12/trump-warrant-release/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "date": "2022-12-01",
+      "fact": "The U.S. House committee on the January 6 attack recommended criminal charges against Trump for obstructing an official proceeding, inciting or assisting an insurrection, and conspiracy to defraud the United States",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2022/12/19/us/politics/jan-6-trump-justice-dept.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "date": "2023-03-01",
+      "fact": "Trump's campaign began diverting 10% of donations to his leadership PAC",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2023/06/25/us/politics/trump-donations-legal-fees.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "date": "2023-06-01",
+      "fact": "A federal grand jury constituted by Special Counsel Jack Smith indicted Trump on 31 counts of 'willfully retaining national defense information' under the Espionage Act, among other charges",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/4124168-revelations-from-new-trump-charges/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "date": "2023-08-01",
+      "fact": "A grand jury in Fulton County, Georgia, indicted Trump on 13 charges, including racketeering, for his efforts to subvert the 2020 election in the state",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2023/aug/14/donald-trump-georgia-indictment-2020-election",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "date": "2023-11-01",
+      "fact": "Trump made increasingly violent and authoritarian statements during the campaign",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2023/11/20/us/politics/trump-rhetoric-fascism.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "date": "2023-11-01",
+      "fact": "Trump said he would weaponize the FBI and the Justice Department against his political opponents",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2023/nov/10/trump-fbi-rivals-2024-election",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "date": "2023-11-01",
+      "fact": "Trump used harsher and more dehumanizing anti-immigrant rhetoric than during his presidency",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2024/04/02/us/politics/trump-border-blood-bath.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "date": "2023-11-01",
+      "fact": "Trump's rhetoric, calling his political opponents 'the enemy', vermin, and fascists, has been described by some historians and scholars as authoritarian, fascist",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2023/11/13/trump-vermin-fascist-language-speech",
+          "name": "axios.com"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "date": "2024-01-01",
+      "fact": "Trump was found liable for sexual abuse and defamation and ordered to pay $5 million in one case and $83.3 million in the other",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "date": "2024-01-01",
+      "fact": "Trump was found liable and ordered to pay nearly $355 million plus interest",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2024/02/16/nyregion/trump-civil-fraud-trial-ruling.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "date": "2024-05-01",
+      "fact": "Trump was convicted on 34 felony counts of falsifying business records",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2024/05/30/nyregion/trump-convicted-hush-money-trial.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "date": "2025-01-01",
+      "fact": "Trump's administration asserted a constitutional right to ignore federal law in its justification of several actions, including refusing to enforce a federal ban on TikTok, with legal experts describing it as claiming a 'constitutional power to immunize private parties to commit otherwise illegal acts with impunity'",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "date": "2025-01-20",
+      "fact": "Trump issued more executive orders than any other U.S. president's first 100 days",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/trump-issues-record-100-executive-order-of-second-term-breakdown/",
+          "name": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "date": "2025-07-01",
+      "fact": "Trump defied judges and the courts in roughly one third of all cases against him, actions which were described by legal experts as unprecedented for any presidential administration",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-courts-judges-rule-of-law-85058a5ffcef105d4ea2ce0ef078f084",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "date": "2005-01-01",
+      "fact": "Donald Trump bragged about kissing and groping women without their consent in a 2005 'hot mic' recording, saying 'when you're a star, they let you do it. You can do anything. ... Grab 'em by the pussy'",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2016-election/trump-hot-mic-when-you-re-star-you-can-do-n662116",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "date": "2016-01-01",
+      "fact": "Donald Trump promoted the racist 'birther' conspiracy theory that Barack Obama was not born in the United States",
+      "sources": [
+        {
+          "url": "https://www.latimes.com/politics/story/2020-06-23/trump-obamagate-birtherism-false-allegations",
+          "name": "latimes.com"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "date": "2025-01-01",
+      "fact": "Trump directly benefited from his family's cryptocurrency company World Liberty Financial, which engaged in an unprecedented mixing of private enterprise and government policy",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "date": "2025-01-01",
+      "fact": "Trump implemented a hiring freeze across the federal government and ordered telework of federal employees to be discontinued within 30 days",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2025/01/23/federal-worker-mandates-resistance-trump/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "date": "2025-01-01",
+      "fact": "Trump ordered a review of many career civil service positions with the intention of reclassifying them into at-will positions without job protections",
+      "sources": [
+        {
+          "url": "https://www.politico.com/news/2025/01/27/trump-plan-civil-service-00200757",
+          "name": "politico.com"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "date": "2025-01-01",
+      "fact": "Trump initiated mass job terminations of federal employees, which were described by legal experts as unprecedented or in violation of federal law, with the intent of replacing them with workers more aligned with his agenda",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/01/27/us/politics/trump-inspectors-general-fired.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "date": "2025-01-01",
+      "fact": "Trump ordered an end to diversity, equity, and inclusion (DEI) projects in the federal government and rescinded Lyndon B. Johnson's 1965 Executive Order 11246, which had mandated that federal contractors take affirmative action to end racial discrimination",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/business/2025/01/23/trump-dei-affirmative-action/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "date": "2025-01-01",
+      "fact": "Trump and Elon Musk's Department of Government Efficiency largely dismantled several federal agencies, including USAID and the Department of Education, unilaterally fired several thousand staff, and reduced administrative functions to statutory minimums",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2025/03/20/politics/trump-musk-federal-government-reagan/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "date": "2025-01-01",
+      "fact": "Trump threatened, signed executive actions, and ordered investigations into his political opponents, critics, and organizations aligned with the Democratic Party",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/03/19/us/politics/trump-republicans-attack-democrats-actblue.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "date": "2025-01-01",
+      "fact": "Trump ended the post-Watergate norm of Justice Department independence, weaponizing it and agencies across the federal government to target his political enemies",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-weaponizing-government-second-term-54ab244ccb2328d116a498bbaeb680ef",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "date": "2025-01-01",
+      "fact": "Trump's pardons and grants of clemency favored political allies and loyalists, and disproportionately pardoned 'the powerful, famous, well-connected and wealthy' accused of white-collar crime",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2025/05/28/trump-pardons-chrisley-walczak-jenkins",
+          "name": "axios.com"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "date": "2025-01-01",
+      "fact": "Trump granted clemency to all January 6 rioters convicted or charged on his first day in office, including those who violently attacked police, by pardoning more than 1,500 and commuting the sentences of 14",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "date": "2025-01-01",
+      "fact": "Trump ordered agencies to stop enforcement of disfavored rules in an attempt at large-scale deregulation that legal experts described as illegal and contrary to decades of federal law",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/04/11/climate/trump-regulations.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "date": "2025-01-01",
+      "fact": "Trump sought greater government control over private businesses and shifted away from traditional conservative free market orthodoxy, engaging in state capitalism by taking direct government equity stakes in multiple U.S. corporations",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "date": "2025-01-01",
+      "fact": "Trump canceled and paused federal grants and made large cuts to scientific research, several of which were found by judges and the Government Accountability Office as being illegal and unconstitutional",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/03/31/business/economy/trump-research-cutbacks-economy.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "date": "2025-01-01",
+      "fact": "Trump and his administration's Make America Healthy Again agenda promoted anti-science and anti-vaccine activism, resulting in a resurgence of whooping cough and measles",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/vaccines-fluoride-kennedy-trump-science-antiscience-legislation-73af8e65f407331e8f31b2909812a004",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "date": "2025-01-01",
+      "fact": "Trump declared a national energy emergency, allowing the suspension of environmental regulations, loosening the rules for fossil fuel extraction and limiting renewable energy projects",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "date": "2025-01-01",
+      "fact": "Trump withdrew the U.S. from the Paris Agreement on climate change during his second presidency",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-paris-agreement-climate-change-788907bb89fe307a964be757313cdfb0",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "date": "2025-01-01",
+      "fact": "Trump attributed societal problems to diversity, equity, and inclusion (DEI) initiatives and wokeness, and reversed pro-diversity policies in the federal government",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "date": "2025-01-01",
+      "fact": "Trump banned transgender people from the military, restricted or defunded gender-affirming healthcare, opposed inclusive language, censored research and education materials, and targeted schools, universities, and cultural institutions accused of promoting what his government calls 'gender ideology'",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2025/may/08/trump-pentagon-trans-military-ban",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "date": "2025-01-01",
+      "fact": "Trump instructed Border Patrol agents to summarily deport illegal immigrants crossing the border and disabled the CBP One app that was being used to schedule border crossings",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "date": "2025-01-01",
+      "fact": "Trump resumed the Remain in Mexico policy, designated drug cartels as terrorist groups, and ordered construction to be resumed on a border wall",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/01/20/g-s1-43650/trump-inauguration-day-one-immigration",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "date": "2025-01-01",
+      "fact": "He also revoked the parole status of immigrants who entered the U.S. under CBP One and ended humanitarian parole for Cubans, Haitians, Nicaraguans",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/trump-migrants-crackdown-legal-immigration/",
+          "name": "cbsnews.com"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "date": "2025-01-01",
+      "fact": "Trump targeted activists, legal immigrants, tourists, and students with visas who expressed criticism of his policies or pro-Palestinian advocacy",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/03/21/us/politics/trump-immigration-visa-crackdown.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "date": "2025-01-01",
+      "fact": "Several American citizens were detained and deported",
+      "sources": [
+        {
+          "url": "https://nymag.com/intelligencer/article/tracking-us-citizens-children-detained-deported-ice-trump-updates.html",
+          "name": "nymag.com"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "date": "2025-02-01",
+      "fact": "The Trump administration had fired more than 30,000 federal employees by late February 2025",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/doge-continues-to-hollow-federal-workforce-after-already-firing-more-than-30000",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "date": "2025-03-01",
+      "fact": "Trump used the Alien Enemies Act of 1798 to imprison illegal immigrants without trial at the Terrorism Confinement Center in El Salvador",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/americas/what-is-el-salvadors-mega-prison-that-could-take-us-criminals-2025-02-04/",
+          "name": "reuters.com"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "date": "2025-07-01",
+      "fact": "Trump signed the One Big Beautiful Bill Act into law, making the temporary tax cuts of the 2017 Tax Cuts and Jobs Act permanent and adding additional tax deductions for a total of around $4.5 trillion, mostly benefiting the highest income brackets and costing people in the lowest income bracket $1,600 per year",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/what-is-republican-trump-tax-bill-f65be44e1050431a601320197322551b",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "date": "2026-01-01",
+      "fact": "His aggressive and hardline deportation campaign led to large nationwide protests and violent confrontations with migrants and protesters which increased in intensity following high-profile killings of U.S. citizens by federal agents during Operation Metro Surge",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/trumps-showy-immigration-enforcement-leads-violent-confrontations-2026-01-10/",
+          "name": "reuters.com"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "date": "2016-03-01",
+      "fact": "Trump promoted conspiracy theories such as climate change denial, alleged Ukrainian interference in U.S. elections, and vaccines and autism.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2016/03/01/us/politics/donald-trump-conspiracy-theories.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "date": "2016-10-01",
+      "fact": "Donald Trump characterized his 2005 'hot mic' comments as 'locker-room talk'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "date": "2017-01-01",
+      "fact": "Donald Trump explicitly and routinely disparages racial, religious, and ethnic minorities.",
+      "sources": [
+        {
+          "url": "https://www.vox.com/2016/7/25/12270880/donald-trump-racist-racism-history",
+          "name": "vox.com"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "date": "2017-01-01",
+      "fact": "Donald Trump made 30,573 false or misleading statements during his first presidency, according to The Washington Post",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/graphics/politics/trump-claims-database/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "date": "2018-01-12",
+      "fact": "Trump reportedly referred to El Salvador, Haiti, Honduras, and African nations as 'shithole countries', remarks condemned as racist.",
+      "sources": [
+        {
+          "url": "https://www.vox.com/2018/1/11/16880804/trump-shithole-countries-racism",
+          "name": "vox.com"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "date": "2019-07-16",
+      "fact": "A House of Representatives resolution condemned Trump for racist remarks about four minority Democratic congresswomen.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2019/07/16/742236610/condemnation-of-president-delayed-by-debate-can-lawmakers-call-trump-tweets-raci",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "date": "2020-01-01",
+      "fact": "26 women have publicly accused Donald Trump of sexual misconduct, including rape, kissing without consent, groping, looking under women's skirts, and walking in on naked teenage pageant contestants",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "date": "2020-01-01",
+      "fact": "Donald Trump's rhetoric is associated with an increased incidence of hate crimes",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2019/03/22/trumps-rhetoric-does-inspire-more-hate-crimes/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "date": "2020-01-01",
+      "fact": "Donald Trump's unproven promotion of antimalarial drugs as a treatment for COVID-19 contributed to a U.S. shortage of these drugs and panic buying in Africa and South Asia",
+      "sources": [
+        {
+          "url": "https://www.wsj.com/articles/trump-claim-that-malaria-drugs-treat-coronavirus-sparks-warnings-shortages-11584981897",
+          "name": "wsj.com"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "date": "2020-05-01",
+      "fact": "Trump frequently accused the press of bias, calling it the 'fake news media' and 'the enemy of the people'.",
+      "sources": [
+        {
+          "url": "https://www.brookings.edu/blog/fixgov/2020/05/01/destroying-trust-in-the-media-science-and-government-has-left-america-vulnerable-to-disaster/",
+          "name": "brookings.edu"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "date": "2020-09-30",
+      "fact": "Donald Trump refused to condemn the white supremacist Proud Boys during a presidential debate, saying 'Proud Boys, stand back and stand by'",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/trump-debate-white-supremacist-question/2020/09/30/366df500-02c7-11eb-a2db-417cddf4816a_story.html",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "date": "2024-01-01",
+      "fact": "Trump repeatedly voiced support for outlawing political dissent and criticism, and said that reporters should be prosecuted for not divulging confidential sources and media companies should possibly lose their broadcast licenses for unfavorable coverage of him.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/totally-illegal-trump-escalates-rhetoric-outlawing-political-dissent-c-rcna174280",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "date": "2024-09-11",
+      "fact": "Trump's 2024 campaign made extensive use of dehumanizing language and racial stereotypes.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2024/09/11/us/politics/trump-debate-migrants.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "date": "2025-01-01",
+      "fact": "Trump imposed tariffs on most countries, including large tariffs on major trading partners China, Canada, and Mexico.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/03/04/business/economy/trump-tariffs-canada-mexico-china.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "date": "2025-01-01",
+      "fact": "Trump selected cabinet members with personal loyalty to him, with the focus on loyalty over subject-matter expertise.",
+      "sources": [
+        {
+          "url": "https://www.businessinsider.com/trump-cabinet-picks-so-far-loyalty-resumes-11",
+          "name": "businessinsider.com"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "date": "2025-02-01",
+      "fact": "Trump and Vice President Vance berated Ukrainian president Volodymyr Zelenskyy in a highly contentious televised meeting.",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2025/02/28/politics/trump-zelensky-vance-oval-office/index.html",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "date": "2025-06-01",
+      "fact": "Trump ordered the bombing of Iranian nuclear sites.",
+      "sources": [
+        {
+          "url": "https://www.timesofisrael.com/us-strikes-irans-elusive-fordo-facility-joining-israels-fight-against-nuclear-program/",
+          "name": "timesofisrael.com"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "date": "2025-11-01",
+      "fact": "Trump pardoned former Honduran president Juan Orlando Hernández, who had been extradited to the U.S. in 2022 and sentenced to 45 years in prison for drug trafficking.",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/01/04/trump-venezuela-maduro-pardon-honduras.html",
+          "name": "cnbc.com"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "date": "2026-02-01",
+      "fact": "Trump authorized joint U.S./Israeli air strikes on Iran.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "date": "2026-02-01",
+      "fact": "The Supreme Court ruled the tariffs he imposed under the International Emergency Economic Powers Act to be illegal.",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2026/02/20/politics/supreme-court-tariffs",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "date": "2015-08-19",
+      "fact": "Donald Trump said the 14th Amendment is unconstitutional",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "date": "2016-09-10",
+      "fact": "Donald Trump retooled his charity to spend other people's money",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "date": "2016-10-03",
+      "fact": "Trump Foundation was ordered to stop fundraising by the N.Y. attorney general's office",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "date": "2016-10-10",
+      "fact": "Donald Trump acknowledged not paying federal income taxes for years",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "date": "2016-11-18",
+      "fact": "Donald Trump agreed to pay $25 million in the Trump University settlement",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "date": "2016-12-24",
+      "fact": "Donald Trump announced he would dissolve his charitable foundation after mounting complaints",
+      "sources": [
+        {
+          "url": "https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/",
+          "name": "politifact.com"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "date": "2017-01-20",
+      "fact": "Trump issued an executive order scaling back parts of Obamacare",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "date": "2017-01-28",
+      "fact": "Trump issued a travel ban that caused chaos and protests at US airports",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "date": "2017-03-05",
+      "fact": "Trump rolled back an Obama regulation making it easier for the mentally ill to get guns",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "date": "2017-03-05",
+      "fact": "Trump rolled back regulations on Wall Street, gun sellers, and polluters",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "date": "2017-03-06",
+      "fact": "Trump signed a new travel ban directive",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "date": "2017-04-12",
+      "fact": "Trump said NATO was obsolete, but later changed his statement to say it was no longer obsolete",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "date": "2017-07-18",
+      "fact": "Trump said he plans to 'let Obamacare fail'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "date": "2017-08-31",
+      "fact": "Trump cut enrollment programs for Obamacare, ramping up sabotage of the healthcare law",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "date": "2017-10-13",
+      "fact": "Trump signed a health care executive order that would allow companies to bypass some Obamacare requirements",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/05/20/its-the-50th-anniversary-of-the-day-trump-left-college-and-nearly-had-to-go-to-war/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "date": "2017-11-07",
+      "fact": "The US, under Trump, was the only country not to join the Paris climate deal",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "date": "2018-04-06",
+      "fact": "Trump basically called Mexicans rapists again",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "date": "2018-12-18",
+      "fact": "Trump Foundation will dissolve, accused of 'shocking pattern of illegality'",
+      "sources": [
+        {
+          "url": "https://www.theatlantic.com/magazine/archive/2019/04/trump-tower-real-estate-projects/583243/",
+          "name": "theatlantic.com"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "date": "2019-03-22",
+      "fact": "Trump proposed cuts to climate and clean-energy programs",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "date": "2019-05-03",
+      "fact": "Trump proposed cuts to climate and clean-energy programs",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "date": "2019-11-07",
+      "fact": "President Donald Trump was ordered to pay $2M to a collection of nonprofits as part of a civil lawsuit",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/news/fact-checker/wp/2016/03/03/trumps-false-claim-he-built-his-empire-with-a-small-loan-from-his-father",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "date": "2019-12-28",
+      "fact": "The Trump administration was sidelining researchers and their work on science, particularly climate change",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "date": "2020-01-30",
+      "fact": "Trump's administration had rolled back over 100 environmental rules by this point",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "date": "2021-01-06",
+      "fact": "He was banned from Facebook, Instagram, Twitter, and other platforms after the January 6 attack.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/platforms-social-media-ban-restrict-trump-d9e44f3c-8366-4ba9-a8a1-7f3114f920f1.html",
+          "name": "axios.com"
+        },
+        {
+          "url": "https://www.nytimes.com/2021/01/16/technology/twitter-donald-trump-jack-dorsey.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "date": "2021-02-22",
+      "fact": "The Supreme Court allowed the release of Trump's tax returns to the NY prosecutor",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "date": "2017-09-25",
+      "fact": "Trump extended his travel ban to include blocks on North Korea, Venezuela, and Chad",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "date": "2017-12-21",
+      "fact": "The US withdrew from the Intermediate-Range Nuclear Forces Treaty under the Trump administration",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "date": "2019-02-15",
+      "fact": "Trump declared a national emergency to build a border wall, setting up a massive legal fight",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "date": "2019-02-25",
+      "fact": "A crackdown on immigrants who use public benefits took effect",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "date": "2019-10-01",
+      "fact": "Trump virtually cut off refugees as he unleashed a tirade on immigrants",
+      "sources": [
+        {
+          "url": "https://www.theatlantic.com/magazine/archive/2019/04/trump-tower-real-estate-projects/583243/",
+          "name": "theatlantic.com"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "date": "2019-11-04",
+      "fact": "Trump cut refugee admissions to a record low",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "date": "2020-07-27",
+      "fact": "Trump reinstated the death penalty",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "date": "2020-08-06",
+      "fact": "Trump made it easier for the mentally ill to get guns when he rolled back an Obama regulation",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "date": "2020-09-15",
+      "fact": "Trump spurned science on climate, saying 'don't think science knows'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "date": "2020-10-05",
+      "fact": "Trump proclaimed 'the coal industry is back', despite evidence to the contrary",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "date": "2020-10-09",
+      "fact": "The Trump administration had sabotaged the Affordable Care Act in six major ways",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "date": "2020-10-29",
+      "fact": "Critics said Trump fumbled the response to the opioid crisis",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "date": "2020-11-25",
+      "fact": "The Trump administration had implemented 'midnight regulations' that would harm the environment and public health",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "date": "2021-01-15",
+      "fact": "The Trump administration carried out its 13th and final execution",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "date": "2021-01-16",
+      "fact": "Trump's administration rushed to carry out federal executions in his final days",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "date": "2018-10-24",
+      "fact": "President Trump described himself as a nationalist, sparking controversy and criticism",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "date": "2019-04-18",
+      "fact": "The Mueller report laid out obstruction evidence against President Trump",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        },
+        {
+          "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/05/20/its-the-50th-anniversary-of-the-day-trump-left-college-and-nearly-had-to-go-to-war/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "date": "2019-07-24",
+      "fact": "Mueller warned of Russian sabotage and rejected Trump's 'witch hunt' claims",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "date": "2019-11-04",
+      "fact": "E. Jean Carroll, who accused Trump of rape, sued him for defamation",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "date": "2020-02-05",
+      "fact": "Trump was acquitted of both charges in the Senate impeachment trial",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "date": "2020-08-31",
+      "fact": "Trump pushed a false argument on vote-by-mail fraud",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "date": "2020-11-04",
+      "fact": "Trump declared victory in the presidential election with results from key states still unclear",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "date": "2020-11-07",
+      "fact": "Trump revived baseless claims of election fraud after Biden won the presidential race",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "date": "2020-12-14",
+      "fact": "Trump pressured Georgia's secretary of state to recalculate the vote in his favor",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "date": "2021-01-03",
+      "fact": "Trump pressured Georgia's secretary of state to find 11,780 votes to overturn the election result",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "date": "2021-01-10",
+      "fact": "Trump's speech to supporters before the mob stormed the Capitol is examined for incitement to riot",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "date": "2021-01-13",
+      "fact": "Trump was impeached for inciting insurrection",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "date": "2022-07-20",
+      "fact": "Trump urged a powerful legislator to overturn his 2020 defeat in Wisconsin",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "date": "2022-08-12",
+      "fact": "Agents at Trump's Mar-a-Lago seized 11 sets of classified documents, court filing shows",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "date": "2022-09-21",
+      "fact": "New York attorney general files civil fraud lawsuit against Trump, some of his children and his business",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "date": "2023-05-09",
+      "fact": "A jury finds Trump liable for battery and defamation in E. Jean Carroll trial",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "date": "2023-06-09",
+      "fact": "Trump Put National Secrets at Risk, Prosecutors Say in Historic Indictment",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "date": "2023-06-14",
+      "fact": "Trump pleads not guilty to 37 federal criminal counts in Mar-a-Lago case",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "date": "2023-08-15",
+      "fact": "Donald Trump and allies indicted in Georgia over bid to reverse 2020 election loss",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "date": "2023-09-08",
+      "fact": "Appeals court upholds E. Jean Carroll's $83.3M defamation judgment against Trump",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "date": "2024-02-17",
+      "fact": "Trump Fraud Trial Penalty Will Exceed $450 Million",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "date": "2024-12-30",
+      "fact": "An appeals court upholds a $5 million award in a sexual abuse verdict against President-elect Trump",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "date": "2023-11-10",
+      "fact": "Trump suggested he would use FBI to go after political rivals if elected in 2024",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "date": "2023-11-10",
+      "fact": "Trump said on Univision he could weaponize FBI, DOJ against his enemies",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "date": "2023-11-12",
+      "fact": "Trump called political enemies 'vermin', echoing dictators Hitler, Mussolini",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "date": "2023-11-13",
+      "fact": "Trump compared political opponents to 'vermin' who he will 'root out', alarming historians",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "date": "2024-04-02",
+      "fact": "Trump again invoked 'blood bath' and dehumanized migrants in border remarks",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "date": "2024-04-03",
+      "fact": "Trump called migrants 'animals', intensifying focus on illegal immigration",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "date": "2024-05-30",
+      "fact": "Trump Convicted on All Counts to Become America's First Felon President",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "date": "2024-10-14",
+      "fact": "Trump suggested using military against 'enemy from within' on Election Day",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "date": "2024-10-15",
+      "fact": "Trump escalated threats to political opponents he deemed the 'enemy'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "date": "2025-01-22",
+      "fact": "Trump's administration ordered federal workers to report on colleagues over a diversity, equity, and inclusion crackdown",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "date": "2025-01-22",
+      "fact": "Trump canceled Biden's ethics rules, a move critics call the opposite of 'drain the swamp'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "date": "2025-01-23",
+      "fact": "Trump accelerated his campaign to remake the federal bureaucracy, sparking fear and confusion among federal workers",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "date": "2025-01-23",
+      "fact": "Trump dealt a 'death blow' to diversity, equity, and inclusion (DEI) and affirmative action in his first days in office",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "date": "2025-02-17",
+      "fact": "Trump pushed his business interests with a pliant Congress",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "date": "2025-03-16",
+      "fact": "Trump administration ramped up rhetoric targeting the courts amid mounting legal setbacks",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "date": "2025-03-19",
+      "fact": "Experts said Trump's targeting of law firms is unprecedented",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "date": "2025-05-12",
+      "fact": "Trump's plan to take a jet from Qatar heightened corruption concerns",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "date": "2025-05-18",
+      "fact": "Trump turned the White House into a cash cow, sparking corruption concerns",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "date": "2025-07-03",
+      "fact": "Trump claimed sweeping power to nullify laws, as shown in letters on TikTok ban",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "date": "2025-07-21",
+      "fact": "Trump officials were accused of defying 1 in 3 judges who ruled against him",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "date": "2025-01-26",
+      "fact": "Trump proposed a plan to 'clean out' Gaza and suggested that Jordan and Egypt accept more Palestinian refugees",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "date": "2025-01-27",
+      "fact": "Trump's administration moved to finalize the purge of inspectors general, raising alarms among fired inspectors general",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "date": "2025-01-27",
+      "fact": "Trump's energy emergency declaration was seen as a gift to fossil fuel firms",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "date": "2025-01-27",
+      "fact": "Trump's plan to upend the civil service advanced under a new name",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "date": "2025-01-28",
+      "fact": "Trump set about his retribution agenda with relish",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "date": "2025-02-03",
+      "fact": "Trump and Musk moved to dismantle USAID, igniting a battle with Democratic lawmakers",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "date": "2025-02-03",
+      "fact": "Trump attacked diversity, and a racist undercurrent surfaced",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "date": "2025-02-07",
+      "fact": "Trump's executive actions curbed transgender rights, focusing on 'gender ideology'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "date": "2025-02-27",
+      "fact": "Trump expressed indifference or hostility towards European allies, raising alarm",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "date": "2025-02-28",
+      "fact": "Trump had a tense Oval Office meeting with Zelensky, erupting at him along with Vance",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "date": "2025-02-28",
+      "fact": "Trump continued to hollow out the federal workforce, having already fired more than 30,000 employees",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "date": "2025-03-01",
+      "fact": "Trump's clash with Zelensky marked a defining turn away from US defense of democracies",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/news/retropolis/wp/2018/05/20/its-the-50th-anniversary-of-the-day-trump-left-college-and-nearly-had-to-go-to-war/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "date": "2025-03-04",
+      "fact": "Trump's tariffs on Canada, Mexico, and China took effect",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "date": "2025-03-15",
+      "fact": "Trump ordered the gutting of 7 agencies, including the parent of Voice of America",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "date": "2025-03-19",
+      "fact": "Trump and the GOP aimed to cripple the left with orders, investigations, and innuendo",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "date": "2025-04-10",
+      "fact": "Trump targeted lawyers and non-profits in an 'authoritarian' takedown, spreading fear",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "date": "2025-04-11",
+      "fact": "Trump found a new way to kill regulations, using the phrase 'because I say so'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "date": "2025-04-18",
+      "fact": "US democratic backsliding under Trump encouraged autocrats globally, according to a democracy watchdog",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "date": "2025-04-30",
+      "fact": "Trump's maximalist assertion of presidential power tested the rule of law",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "date": "2025-05-18",
+      "fact": "Trump ordered the government to stop enforcing rules he didn't like",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "date": "2025-05-28",
+      "fact": "Trump pardoned criminals with MAGA credentials or big money, redefining crime",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "date": "2025-05-29",
+      "fact": "Trump's flurry of pardons signaled a wholesale effort to redefine crime",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "date": "2025-08-14",
+      "fact": "Trump tightened the screws on corporate America, and CEOs remained silent",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "date": "2025-08-20",
+      "fact": "Corporate America remained silent as Trump abandoned free-market principles",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "date": "2025-08-22",
+      "fact": "The US took a 10% stake in Intel as Trump flexed more power over big business",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "date": "2025-08-22",
+      "fact": "Trump turned the government into an investment firm, departing from the free-market ethos",
+      "sources": [
+        {
+          "url": "https://www.vanityfair.com/news/2017/06/donald-trump-roy-cohn-relationship",
+          "name": "vanityfair.com"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "date": "2005-01-01",
+      "fact": "Trump was recorded having an extremely lewd conversation about women",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "date": "2016-08-20",
+      "fact": "Donald Trump's latest strategy was cheered by 'racialists'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "date": "2016-08-22",
+      "fact": "Donald Trump helped bring far-right media's edgier elements into the mainstream",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "date": "2016-10-07",
+      "fact": "Trump apologized for making lewd comments about women in a 2005 recording",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "date": "2018-01-11",
+      "fact": "Trump referred to certain countries as 'shithole countries' during a meeting with lawmakers",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "date": "2025-03-07",
+      "fact": "The Trump administration removed certain words from its vocabulary, including those related to LGBTQ+ issues",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "date": "2025-03-29",
+      "fact": "Trump made changes to the Smithsonian, part of his takeover of the arts",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "date": "2025-04-11",
+      "fact": "Trump reached deals with 5 law firms, allowing them to avoid punishing executive orders",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "date": "2025-05-09",
+      "fact": "The US began the removal of up to 1,000 trans military members",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "date": "2025-06-11",
+      "fact": "Trump suggested deploying more troops in cities, bending the military's role",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "date": "2025-06-17",
+      "fact": "A federal judge deemed the Trump administration's termination of NIH grants illegal",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "date": "2025-07-03",
+      "fact": "Trump signed the tax and spending bill into law",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "date": "2025-07-16",
+      "fact": "Trump embraced state capitalism",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "date": "2025-07-23",
+      "fact": "Trump walked away from the UN Cultural Agency as China flexed its muscles",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "date": "2025-08-01",
+      "fact": "Trump imposed new tariffs with no precedent in the modern era",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "date": "2025-08-07",
+      "fact": "Congress' watchdog said Trump illegally froze 1,800 NIH medical research grants",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "date": "2025-08-07",
+      "fact": "Staggering US tariffs began as Trump widened the trade war",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "date": "2025-08-13",
+      "fact": "Trump tightened his grip on the economy, taking a page from China",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "date": "2025-08-22",
+      "fact": "Trump used 10 emergency declarations to justify hundreds of actions",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "date": "2025-08-27",
+      "fact": "The US government ordered 46 states to destroy trans education materials",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "date": "2025-08-28",
+      "fact": "The US naval build-up near Venezuela stoked tensions in Latin America",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "date": "2025-09-06",
+      "fact": "Trump threatened 'Apocalypse Now'-style action against Chicago to boost deportations",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "date": "2025-09-23",
+      "fact": "Trump's escalating attacks on vaccines shocked public health leaders",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "date": "2025-11-17",
+      "fact": "A new passport rule sent a blunt and sweeping message to trans Americans",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "date": "2019-03-22",
+      "fact": "Counties that hosted a 2016 Trump rally saw a 226 percent increase in hate crimes",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "date": "2020-03-23",
+      "fact": "Trump touted an unproven coronavirus treatment, sparking warnings and shortages for patients who need those drugs",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "date": "2020-04-11",
+      "fact": "Trump's failure to address the COVID-19 virus was due in part to his own misinformation and downplaying of the crisis",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "date": "2020-05-30",
+      "fact": "ABC News found 54 cases invoking 'Trump' in connection with violence, threats, or alleged assaults",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "date": "2020-06-02",
+      "fact": "Trump personally ordered the removal of protesters near the White House, leading to the use of force against a largely peaceful crowd",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "date": "2020-09-17",
+      "fact": "Trump made big distortions on mail-in voting, according to an AP Fact Check",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "date": "2020-09-30",
+      "fact": "Trump refused to condemn white supremacists and militia members in a presidential debate",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "date": "2020-10-05",
+      "fact": "Trump is the nation's single largest spreader of disinformation, according to studies",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "date": "2021-01-16",
+      "fact": "Accounts of rioters who say Trump spurred them to rush the Capitol could be pivotal testimony",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "date": "2021-01-20",
+      "fact": "President Trump made 30,573 false or misleading claims during his four years in office",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "date": "2024-05-18",
+      "fact": "Trump's rallies take on the symbols, rhetoric and agenda of Christian nationalism",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "date": "2024-09-11",
+      "fact": "Trump defended one of the most blatantly racist moments from his past",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "date": "2024-09-11",
+      "fact": "Trump painted a dark picture at a debate, saying 'The End of Our Country'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "date": "2025-01-22",
+      "fact": "Trump pushed at the limits of presidential power in early orders",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "date": "2025-01-22",
+      "fact": "Trump sought to paralyze an independent privacy and civil liberties watchdog",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "date": "2025-07-16",
+      "fact": "Trump described domestic adversaries as 'evil'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "date": "2025-09-03",
+      "fact": "Trump's Venezuelan boat violated international law, according to experts",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "date": "2026-01-09",
+      "fact": "Trump's showy immigration enforcement led to violent confrontations",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2015/09/23/us/politics/donald-trumps-old-queens-neighborhood-now-a-melting-pot-was-seen-as-a-cloister.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "date": "2026-01-17",
+      "fact": "Trump said 8 European countries would face a 10% tariff for opposing US control of Greenland",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "date": "2026-01-21",
+      "fact": "Trump said he had a framework for a Greenland deal as NATO mulled US sovereignty over bases",
+      "sources": [
+        {
+          "url": "https://www.vanityfair.com/news/2017/06/donald-trump-roy-cohn-relationship",
+          "name": "vanityfair.com"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "date": "2026-02-17",
+      "fact": "Trump said Ukraine must reach a deal with Russia fast before trilateral talks",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/feb/17/trump-administration-news-updates-today",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "date": "2026-02-20",
+      "fact": "A court ruled against Trump in the case Learning Resources, Inc. v. Trump Revisions: 2/23/26",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799354/learning-resources-inc-v-trump-revisions-22326/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "date": "2026-02-20",
+      "fact": "The Supreme Court ruled that Trump's sweeping emergency tariffs were illegal",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "date": "2026-02-23",
+      "fact": "A court ruled against Trump in the case Lesly Miot v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "date": "2026-02-26",
+      "fact": "A court ruled against Trump in the case American Federation of Government Employees, Afl-Cio v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10800892/american-federation-of-government-employees-afl-cio-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "date": "2026-02-28",
+      "fact": "Trump's Iran attack was seen as the ultimate war of choice",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "date": "2026-03-06",
+      "fact": "A court case, Fritz Emmanuel Lesly Miot v. Donald Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10805096/fritz-emmanuel-lesly-miot-v-donald-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "date": "2026-02-17",
+      "fact": "Donald Trump was a defendant in the State of Oregon v. Trump court case",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795133/state-of-oregon-v-trump/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10795160/brutus-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "date": "2026-03-06",
+      "fact": "President Trump launched strikes on Iran without congressional approval",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-decision-to-launch-strikes-on-iran",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "date": "2026-03-06",
+      "fact": "President Trump demanded Iran's 'unconditional surrender' as a condition to end the conflict",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-leavitt-clarifies-what-trumps-demand-for-irans-unconditional-surrender-means",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "date": "2026-03-06",
+      "fact": "The Department of Justice released documents from the Epstein files containing sexual assault allegations against President Trump, including notes from FBI interviews with a woman who alleges she was assaulted by Trump as a minor",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/doj-releases-epstein-files-containing-sexual-assault-allegations-against-trump",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "date": "2026-03-06",
+      "fact": "President Trump urged pregnant women to avoid taking Tylenol based on an unfounded claim that it could be linked to autism in children, resulting in a notable drop in orders for the medication among pregnancy-related emergency department visits.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/healthcare/5771277-trump-tylenol-autism-study/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "date": "2026-03-07",
+      "fact": "President Trump chided the Supreme Court, saying it hasn't had the 'guts to do what's right'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772960-donald-trump-supreme-court-criticism-white-house/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "date": "2026-03-07",
+      "fact": "President Trump forcefully vowed to press on with the US military operation in Iran until the Iranian regime surrenders, despite a majority of Americans opposing the action.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773178-americans-oppose-iran-military-action/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "date": "2026-03-07",
+      "fact": "President Trump is reportedly considering an order requiring financial institutions to check customers' citizenship, which could erode trust in financial services, create confusion and hardship for customers, and raise constitutional concerns.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/immigration/5771913-financial-privacy-concerns-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "date": "2026-03-07",
+      "fact": "President Trump launched a war against Iran, throwing the region into chaos and stranding tens of thousands of Americans",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5772371-trump-iran-conflict-evacuation/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "date": "2026-03-07",
+      "fact": "President Trump made claims that former President Biden and his aides illegally used an autopen to sign official documents, but the DOJ failed to build a criminal case",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772571-trump-biden-autopen-doj/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "date": "2026-03-07",
+      "fact": "President Trump said during an event with Latin American leaders that 'tremendous progress has been made' during Operation Epic Fury, amid escalating military operations in the Middle East.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/sunday-talk-shows/5773285-middle-east-conflict-trump-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "date": "2026-03-07",
+      "fact": "President Trump vowed to press on with U.S. military operations against Iran, declaring the country would be “hit very hard,” even after its president apologized for attacks against regional neighbors.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5772792-donald-trump-iran-strikes/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "date": "2026-03-07",
+      "fact": "President Trump warned that Iran would soon 'be hit very hard' and the U.S. may expand its target list to 'new areas and groups of people' as the war enters its second week",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "date": "2026-03-07",
+      "fact": "President Donald Trump repeatedly made false statements that the 2015 nuclear deal gave Iran the right to secure nuclear weapons",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-comments-that-a-2015-deal-gave-iran-the-right-to-nuclear-weapons",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "date": "2026-03-08",
+      "fact": "Trump dismissed Iran's security chief's retaliation threats, saying 'I couldn't care less'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773592-trump-dismisses-iran-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "date": "2026-03-08",
+      "fact": "Trump asked Congress to prioritize American citizens over illegal immigrants during the State of the Union address.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5772025-state-union-immigration-divide/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "date": "2026-03-08",
+      "fact": "Trump says he won't sign bills until Congress overhauls voting by passing the SAVE American Act, a bill top Democrats call 'Jim Crow 2.0'",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "date": "2026-03-08",
+      "fact": "Trump threatened to not sign any bills into law until the Safeguard American Voter Eligibility (SAVE) America Act is approved by the Senate, which aims to change voting requirements ahead of the midterm elections.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "name": "thehill.com"
+        }
+      ]
+    }
+  ]
+}
