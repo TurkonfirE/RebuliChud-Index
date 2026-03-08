@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial recklessness, and disregard for the law. He has been involved in over 4,000 lawsuits and has a record of making racist and sexist comments. Trump has consistently prioritized his own interests over the well-being of others, as evidenced by his numerous bankruptcies, tax evasion, and self-dealing. His presidency was marked by a barrage of controversial policies, including a travel ban targeting predominantly Muslim countries, the separation of migrant families, and the rollback of environmental and healthcare regulations. Trump has also demonstrated a willingness to undermine democratic institutions, including the judiciary and the electoral process, and has been impeached twice for abuse of power and incitement of insurrection.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial recklessness, and disregard for the law. He has been involved in over 4,000 lawsuits and has a record of making false promises, including his repeated pledges to release his tax returns. Trump has also demonstrated a willingness to use his power to target marginalized groups, including immigrants, Muslims, and LGBTQ individuals, and has been accused of racist and sexist behavior. His presidency was marked by numerous scandals, including his impeachment for abuse of power and obstruction of Congress, and his involvement in the January 6 Capitol attack, for which he was impeached again for incitement of insurrection. Trump's actions have consistently shown a disregard for democratic norms and institutions, and a willingness to prioritize his own interests over the well-being of the country.",
   "initialized": true,
   "entries": [
     {
@@ -3485,6 +3485,46 @@
         {
           "url": "https://www.courtlistener.com/opinion/10805096/fritz-emmanuel-lesly-miot-v-donald-trump/",
           "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/doj-releases-epstein-files-containing-sexual-assault-allegations-against-trump",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-leavitt-clarifies-what-trumps-demand-for-irans-unconditional-surrender-means",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/multiple-states-sue-over-trumps-new-global-tariffs-imposed-after-his-supreme-court-loss",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5772012-ben-stiller-criticizes-white-house/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/healthcare/5771277-trump-tylenol-autism-study/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5771348-epstein-files-pressure-doj-disclosure/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5771126-donald-trump-us-fears-iran-retaliation/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5771098-donald-trump-us-iran-deal-surrender-nuclear/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5769811-live-updates-trump-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3658,6 +3698,128 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5772571-trump-biden-autopen-doj/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "date": "2026-02-17",
+      "fact": "Donald Trump was sued in the case Brutus v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795160/brutus-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "date": "2026-02-17",
+      "fact": "Donald Trump was sued in the case State of Oregon v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795133/state-of-oregon-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "date": "2026-02-20",
+      "fact": "A court ruled in the case of Learning Resources, Inc. v. Trump Revisions, related to Trump's business dealings.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799354/learning-resources-inc-v-trump-revisions-22326/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10796821/learning-resources-inc-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "date": "2026-02-23",
+      "fact": "A court case, Lesly Miot v. Trump, was decided on this date.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "date": "2026-02-26",
+      "fact": "A court case, American Federation of Government Employees, Afl-Cio v. Trump, was decided on this date.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10800892/american-federation-of-government-employees-afl-cio-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "date": "2026-03-03",
+      "fact": "A court case, Ruhumuriza v. Jaddou, was decided on this date, which may be related to Trump's policies.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10803098/ruhumuriza-v-jaddou/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "date": "2026-03-05",
+      "fact": "A court case, Pacito v. Trump, was filed against Donald Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10804323/pacito-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "date": "2026-03-07",
+      "fact": "Trump warned that Iran would soon 'be hit very hard' and that the U.S. may expand its target list to 'new areas and groups of people' as the war with Iran entered its second week.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5772792-donald-trump-iran-strikes/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5772371-trump-iran-conflict-evacuation/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "date": "2026-03-07",
+      "fact": "President Trump chided the Supreme Court, saying it hasn't had the 'guts to do what's right', and stated 'I think the Supreme Court ought to be ashamed of itself for a lot'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772960-donald-trump-supreme-court-criticism-white-house/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "date": "2026-03-07",
+      "fact": "President Trump announced a new coalition to counter drug trafficking and cartels during the inaugural 'Shield of the Americas' summit in Miami, stating 'On this historic day, we come together to announce a brand-new military coalition to eradicate the criminal cartels plaguing our region'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772926-donald-trump-shield-of-americas-war-on-drugs-noem/",
           "name": "thehill.com"
         }
       ]
