@@ -804,6 +804,46 @@ function stringDedup(existing, incoming) {
 }
 
 // ============================================================
+// SIMILARITY DEDUP: deterministic same-date near-duplicate removal
+// Catches cases where the same event is worded slightly differently
+// and stringDedup's exact first-60-char match misses it.
+// ============================================================
+function wordOverlap(a, b) {
+  const wordsA = new Set(a.toLowerCase().match(/\b\w{3,}\b/g) || []);
+  const wordsB = b.toLowerCase().match(/\b\w{3,}\b/g) || [];
+  if (wordsA.size === 0 || wordsB.length === 0) return 0;
+  const overlap = wordsB.filter(w => wordsA.has(w)).length;
+  return overlap / Math.max(wordsA.size, wordsB.length);
+}
+
+function similarityDedup(entries) {
+  const kept = [];
+  for (const entry of entries) {
+    const dupIdx = kept.findIndex(k =>
+      k.date === entry.date &&
+      wordOverlap(k.fact, entry.fact) > 0.75
+    );
+    if (dupIdx !== -1) {
+      const dup = kept[dupIdx];
+      const incomingIsRicher = entry.fact.length > dup.fact.length ||
+                               entry.sources.length > dup.sources.length;
+      if (incomingIsRicher) {
+        // Merge sources from the vaguer entry into the richer incoming one
+        const merged = { ...entry, sources: [...entry.sources] };
+        for (const s of dup.sources) {
+          if (!merged.sources.some(x => x.url === s.url)) merged.sources.push(s);
+        }
+        kept[dupIdx] = merged;
+      }
+      // else: incoming is vaguer, discard it
+    } else {
+      kept.push(entry);
+    }
+  }
+  return kept;
+}
+
+// ============================================================
 // SUMMARY GENERATION
 // ============================================================
 async function generateSummary(entries, figureName) {
@@ -910,6 +950,7 @@ async function main() {
       const before = entries.length;
       console.log(`  [CLEANUP] Reviewing ${before} entries...`);
       entries = await reviewEntries(entries, fig.name);
+      entries = similarityDedup(entries);
       entries = entries.map(validateSources).filter(Boolean);
       entries = entries.map((e, i) => ({ ...e, id: i + 1 }));
       console.log(`  → ${entries.length} kept (removed ${before - entries.length})`);
@@ -1045,7 +1086,10 @@ async function main() {
     // ---- STEP 6: Save + commit ----
     const maxId = existingEntries.reduce((max, e) => Math.max(max, e.id || 0), 0);
     const withIds = newEntries.map((e, i) => ({ id: maxId + 1 + i, ...e }));
-    const allEntries = [...existingEntries, ...withIds];
+    let allEntries = similarityDedup([...existingEntries, ...withIds]);
+    if (allEntries.length < existingEntries.length + withIds.length) {
+      console.log(`    → similarity dedup removed ${(existingEntries.length + withIds.length) - allEntries.length} near-duplicate(s)`);
+    }
 
     // Determine initialization status
     // Only consider wiki "worked" if entries actually survived the full pipeline
