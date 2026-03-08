@@ -128,12 +128,14 @@ function httpPost(url, data, headers = {}) {
       let responseBody = '';
       res.on('data', c => responseBody += c);
       res.on('end', () => {
+        clearTimeout(hardTimer);
         if (res.statusCode >= 200 && res.statusCode < 300) resolve(responseBody);
         else reject(new Error(`HTTP ${res.statusCode}: ${url}\n${responseBody.slice(0, 500)}`));
       });
     });
-    req.on('error', reject);
-    req.setTimeout(60000, () => { req.destroy(); reject(new Error(`Timeout: ${url}`)); });
+    req.on('error', err => { clearTimeout(hardTimer); reject(err); });
+    // Hard 90s total-request deadline (req.setTimeout is idle-only and won't fire on slow streams)
+    const hardTimer = setTimeout(() => { req.destroy(); reject(new Error(`Timeout: ${url}`)); }, 90000);
     req.write(body);
     req.end();
   });
