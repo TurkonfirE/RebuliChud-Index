@@ -102,6 +102,7 @@ function validateSources(entry) {
     if (!domain) return false;
     if (SOCIAL_DOMAINS.has(domain)) return false;
     if (isHomepageUrl(src.url)) return false;
+    if (/([0-9a-f]{2})\1{2,}/i.test(src.url)) return false; // repeating hex = hallucinated hash
     return true;
   }).map(src => ({ url: src.url, name: getDomain(src.url) }));
   if (valid.length === 0) return null;
@@ -583,6 +584,7 @@ Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITER
 Return a JSON array. Each entry:
 {"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication","url":"article URL"}]}
 
+For sources: use ONLY the exact URL provided in each article header above. Do NOT construct, guess, or modify any URLs.
 Valid slugs: ${Object.values(FIGURE_SLUGS).join(', ')}
 If nothing relevant, return []. Return ONLY valid JSON.
 
