@@ -412,14 +412,12 @@ ${ENTRY_EXCLUSIONS}
 
 Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITERIA}
 
-The text contains [REF:id] markers. Use the reference map below to find the source URL for each fact.
+The text contains [REF:id] markers. Each marker links a fact to a citation.
 
 Return a JSON array. Each entry:
-{"date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication name","url":"source URL from reference map"}]}
+{"date":"YYYY-MM-DD","fact":"one sentence, objective, specific","refId":"<the ID from the nearest [REF:X] marker — just the X part — or null if no citation>"}
 
 For dates: use exact dates when given (e.g. "On January 6, 2021" → "2021-01-06"). If only month/year, use the 1st (e.g. "In March 2019" → "2019-03-01"). If only year, use Jan 1 (e.g. "In 2005" → "2005-01-01").
-
-For sources: Do NOT construct, guess, or invent any URLs — not even plausible-looking ones. You may ONLY use a URL that appears verbatim in the reference map below. If a fact has no [REF:id] marker, or its marker has no matching entry in the reference map, you MUST use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"} as the sole source.
 
 Return [] if nothing relevant. Return ONLY valid JSON.
 
@@ -431,9 +429,12 @@ ${chunkText_}`;
 
       try {
         const content = await callGroq(prompt);
-        const extracted = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
-        // Validate sources: remove homepage-only, social media, and Unknown sources
-        const entries = extracted.map(validateSources).filter(Boolean);
+        const extracted = parseGroqJson(content).filter(e => e.date && e.fact);
+        const entries = extracted.map(e => {
+          const url = (e.refId && refs[String(e.refId)]) ? refs[String(e.refId)] : `https://en.wikipedia.org/wiki/${slug}`;
+          const entry = { date: e.date, fact: e.fact, sources: [{ url, name: getDomain(url) }] };
+          return validateSources(entry);
+        }).filter(Boolean);
         allEntries.push(...entries);
         console.log(` ${entries.length} entries`);
       } catch (err) {
