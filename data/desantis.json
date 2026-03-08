@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes restrictive and punitive policies, particularly targeting marginalized groups such as immigrants, women, and the LGBTQ+ community. His actions show a strong opposition to social and economic progressive policies, including access to abortion, voting rights, and protections for transgender individuals. DeSantis has also exhibited a willingness to use divisive rhetoric and take actions that can be perceived as discriminatory, such as his comments about Andrew Gillum and his support for laws that restrict discussions of sexual orientation and gender identity in schools. Additionally, his policies have often favored the interests of corporations and special interest groups over those of the general public, as seen in his support for tax cuts and his veto of a bill aimed at protecting water quality. Overall, DeSantis's character and behavior are marked by a commitment to conservative ideologies and a disregard for the rights and well-being of vulnerable populations.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, restricts voting by mail, and bans discussions of sexual orientation and gender identity in schools. DeSantis has also signed bills that target marginalized communities, including transgender individuals and asylum seekers, and has used divisive rhetoric to describe his opponents. His actions demonstrate a commitment to advancing a conservative agenda, often at the expense of vulnerable populations. DeSantis's behavior is also characterized by a willingness to use provocative language and take provocative actions, such as flying asylum seekers to Martha's Vineyard and refusing federal funds for energy efficiency programs.",
   "initialized": true,
   "entries": [
     {
@@ -17,17 +17,6 @@
     },
     {
       "id": 2,
-      "date": "2014-01-01",
-      "fact": "DeSantis introduced a bill that would have required the Justice Department to report to Congress whenever any federal agency refrained from enforcing laws.",
-      "sources": [
-        {
-          "url": "http://beta.congress.gov/bill/113th-congress/house-bill/3973",
-          "name": "beta.congress.gov"
-        }
-      ]
-    },
-    {
-      "id": 3,
       "date": "2015-01-01",
       "fact": "DeSantis co-sponsored Kate's Law, which would have increased penalties for aliens who unlawfully reenter the U.S. after being removed.",
       "sources": [
@@ -38,18 +27,7 @@
       ]
     },
     {
-      "id": 4,
-      "date": "2016-01-01",
-      "fact": "DeSantis received a '0' rating from the Human Rights Campaign on LGBT-related legislation.",
-      "sources": [
-        {
-          "url": "http://assets2.hrc.org/files/assets/resources/114thCongressionalScorecard.pdf",
-          "name": "assets2.hrc.org"
-        }
-      ]
-    },
-    {
-      "id": 5,
+      "id": 3,
       "date": "2017-06-01",
       "fact": "DeSantis proposed legislation that would have ended funding for the Mueller investigation of President Trump.",
       "sources": [
@@ -60,7 +38,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 4,
       "date": "2017-12-19",
       "fact": "DeSantis voted for the 2017 Trump tax cuts.",
       "sources": [
@@ -75,7 +53,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 5,
       "date": "2018-08-29",
       "fact": "DeSantis said, 'The last thing we need to do is to monkey this up by trying to embrace a socialist agenda with huge tax increases and bankrupting the state,' in a televised Fox News interview, which was interpreted by some as a racist dog whistle alluding to the Democratic gubernatorial nominee, Andrew Gillum, who is African-American.",
       "sources": [
@@ -106,26 +84,7 @@
       ]
     },
     {
-      "id": 8,
-      "date": "2019-01-11",
-      "fact": "DeSantis officially suspended Broward County sheriff Scott Israel, ostensibly for his responses to the mass shootings at the Marjory Stoneman Douglas High School, appointing Gregory Tony to replace him.",
-      "sources": [
-        {
-          "url": "https://www.miamiherald.com/latest-news/article224144775.html",
-          "name": "miamiherald.com"
-        },
-        {
-          "url": "https://www.flgov.com/wp-content/uploads/2019/01/EO-19-14.pdf",
-          "name": "flgov.com"
-        },
-        {
-          "url": "https://www.flsenate.gov/usercontent/session/executivesuspensions/Israel_Scott/20190924EO19-14ReportandRecommendationofSpecialMasterGoodlette.pdf",
-          "name": "flsenate.gov"
-        }
-      ]
-    },
-    {
-      "id": 9,
+      "id": 6,
       "date": "2019-06-01",
       "fact": "DeSantis signed a measure that would make it harder to launch successful ballot initiatives",
       "sources": [
@@ -140,7 +99,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 7,
       "date": "2019-06-01",
       "fact": "DeSantis signed an anti-'sanctuary city' bill into law, requiring local governments to aid federal immigration-enforcement efforts.",
       "sources": [
@@ -163,7 +122,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 8,
       "date": "2021-02-01",
       "fact": "DeSantis announced his support for eliminating ballot drop boxes and limiting voting by mail by requiring that voters re-register every year to vote by mail and that signatures on mail-in ballots match the most recent signature on file",
       "sources": [
@@ -178,7 +137,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 9,
       "date": "2021-06-10",
       "fact": "DeSantis led an effort to ban the teaching of critical race theory in Florida public schools, describing it as 'teaching kids to hate their country'",
       "sources": [
@@ -193,7 +152,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 10,
       "date": "2021-12-15",
       "fact": "DeSantis announced a new bill, the Stop Wrongs to Our Kids and Employees Act, which would allow parents to sue school districts that teach critical race theory",
       "sources": [
@@ -208,7 +167,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 11,
       "date": "2022-04-14",
       "fact": "Ron DeSantis signed into law a bill that bans abortions after 15 weeks of pregnancy, with exceptions for serious risk to the pregnant woman's physical health or fatal fetal abnormality, but makes no exceptions for rape, human trafficking, incest, or mental health.",
       "sources": [
@@ -219,7 +178,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 12,
       "date": "2022-10-23",
       "fact": "During a gubernatorial debate, Ron DeSantis called Charlie Crist a 'worn-out old donkey'.",
       "sources": [
@@ -230,7 +189,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 13,
       "date": "2023-04-14",
       "fact": "Ron DeSantis signed a six-week abortion ban, which contains exceptions allowing abortion up to 15 weeks in cases of rape, incest, or human trafficking, but requires the woman to provide proof of a crime before being permitted an abortion under any of those exceptions.",
       "sources": [
@@ -241,18 +200,7 @@
       ]
     },
     {
-      "id": 17,
-      "date": "2024-01-01",
-      "fact": "Ron DeSantis signed into law a bill that requires social media platforms to prohibit people under 16 years old from making accounts.",
-      "sources": [
-        {
-          "url": "https://www.cbsnews.com/miami/news/group-urges-veto-of-florida-social-media-bill/",
-          "name": "cbsnews.com"
-        }
-      ]
-    },
-    {
-      "id": 18,
+      "id": 14,
       "date": "2020-06-01",
       "fact": "DeSantis signed a bill requiring government employers and contractors to use E-Verify.",
       "sources": [
@@ -267,18 +215,7 @@
       ]
     },
     {
-      "id": 19,
-      "date": "2021-02-02",
-      "fact": "DeSantis announced legislation to crack down on big tech and online censorship",
-      "sources": [
-        {
-          "url": "https://www.wtxl.com/news/gov-desantis-announces-legislation-to-crack-down-on-big-tech-online-censorship",
-          "name": "wtxl.com"
-        }
-      ]
-    },
-    {
-      "id": 20,
+      "id": 15,
       "date": "2021-04-01",
       "fact": "DeSantis signed the Combating Public Disorder Act into law, which forbids intimidation by mobs and penalizes damage to historic properties or memorials.",
       "sources": [
@@ -293,7 +230,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 16,
       "date": "2021-06-01",
       "fact": "Ron DeSantis signed the Fairness in Women's Sports Act, which bans transgender girls and women from participating and competing in middle-school and high-school girls' and college women's sports competitions.",
       "sources": [
@@ -308,7 +245,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 17,
       "date": "2022-02-01",
       "fact": "DeSantis voiced support for the Florida Parental Rights in Education Act, which prohibits discussion of sexual orientation or gender identity in school classrooms from kindergarten to grade 3.",
       "sources": [
@@ -323,7 +260,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 18,
       "date": "2022-03-01",
       "fact": "DeSantis signed the Florida Parental Rights in Education Act into law, which took effect on July 1, 2022.",
       "sources": [
@@ -354,18 +291,7 @@
       ]
     },
     {
-      "id": 24,
-      "date": "2022-04-14",
-      "fact": "Ron DeSantis signed a bill banning abortions after 15 weeks into law",
-      "sources": [
-        {
-          "url": "https://www.cnn.com/2022/04/14/politics/ron-desantis-florida-abortion-ban/index.html",
-          "name": "cnn.com"
-        }
-      ]
-    },
-    {
-      "id": 25,
+      "id": 19,
       "date": "2022-09-01",
       "fact": "DeSantis's administration recruited 50 newly arrived asylum seekers, mostly from Venezuela, and flew them to Martha's Vineyard, Massachusetts.",
       "sources": [
@@ -384,7 +310,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 20,
       "date": "2023-03-22",
       "fact": "DeSantis plans to expand the 'Don't Say Gay' law to all grades",
       "sources": [
@@ -395,7 +321,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 21,
       "date": "2023-04-14",
       "fact": "Ron DeSantis signed a six-week abortion ban into law in a private late-night ceremony",
       "sources": [
@@ -406,7 +332,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 22,
       "date": "2023-04-19",
       "fact": "Florida expanded the 'Don't Say Gay' rules through 12th grade",
       "sources": [
@@ -417,7 +343,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 23,
       "date": "2023-08-30",
       "fact": "DeSantis refused to accept $346 million from the Inflation Reduction Act for rebates to homeowners who want to retrofit their houses and make them more energy efficient.",
       "sources": [
@@ -432,7 +358,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 24,
       "date": "2024-06-01",
       "fact": "DeSantis vetoed a bill that would have created a statewide process to issue closures and send warnings if the bacteria in waterways reached unsafe levels.",
       "sources": [
@@ -443,7 +369,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 25,
       "date": "2025-07-08",
       "fact": "A court ruled in Michael Bernard Bell v. State of Florida, a case involving the State of Florida under Ron DeSantis, on July 8, 2025.",
       "sources": [
@@ -454,7 +380,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 26,
       "date": "2025-07-22",
       "fact": "A court ruled in Edward J. Zakrzewski, II v. State of Florida, a case involving the State of Florida under Ron DeSantis, on July 22, 2025.",
       "sources": [
@@ -465,7 +391,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 27,
       "date": "2025-08-06",
       "fact": "A court ruled in Bailey v. Laurie, DeSantis, a case involving Ron DeSantis, on August 6, 2025.",
       "sources": [
@@ -476,7 +402,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 28,
       "date": "2025-08-12",
       "fact": "A court ruled in Kayle B. Bates v. State of Florida & Kayle B. Bates v. Secretary, Department of Corrections, a case involving the State of Florida under Governor Ron DeSantis.",
       "sources": [
@@ -487,7 +413,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 29,
       "date": "2025-09-24",
       "fact": "A court ruled in Victor Tony Jones v. State of Florida & Victor Tony Jones v. Secretary, Department of Corrections, a case involving the State of Florida under Governor Ron DeSantis.",
       "sources": [
@@ -498,7 +424,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": 30,
       "date": "2025-09-26",
       "fact": "A court ruled in McGraw v. DeSantis, a case involving Governor Ron DeSantis.",
       "sources": [
