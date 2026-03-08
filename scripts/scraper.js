@@ -45,7 +45,7 @@ class RateLimiter {
       courtlistener: 1000,
       congress: 500,
       rss: 300,
-      groq: 6000,        // 12k TPM / ~1100 tok per call = ~10.9 calls/min. 6s = 10 calls/min
+      groq: 2000,        // ~30 calls/min target; 429s handled by withRetry
       wikipedia: 1000,
     };
   }
@@ -675,15 +675,26 @@ function saveFigureData(slug, data) {
 // ============================================================
 function gitCommit(msg) {
   try {
-    execSync('git config user.name "RCI Scraper"');
-    execSync('git config user.email "scraper@rci.bot"');
-    execSync('git add -A');
-    execSync(`git commit -m "${msg}" --allow-empty`);
-    execSync('git push');
-    console.log(`  [Git] ${msg}`);
+    execSync('git config user.name "RCI Scraper"', { timeout: 30000 });
+    execSync('git config user.email "scraper@rci.bot"', { timeout: 30000 });
+    execSync('git add -A', { timeout: 30000 });
+    execSync(`git commit -m "${msg}" --allow-empty`, { timeout: 30000 });
   } catch (err) {
-    console.error(`  [Git] ${err.message.split('\n')[0]}`);
+    console.error(`  [Git] commit failed: ${err.message.split('\n')[0]}`);
+    return;
   }
+
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      execSync('git push', { timeout: 60000 });
+      console.log(`  [Git] ${msg}`);
+      return;
+    } catch (err) {
+      console.error(`  [Git] push attempt ${attempt}/3 failed: ${err.message.split('\n')[0]}`);
+      if (attempt < 3) execSync('sleep 10');
+    }
+  }
+  console.error('  [Git] all push attempts failed — data saved locally but not committed');
 }
 
 // ============================================================
