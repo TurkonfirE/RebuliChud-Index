@@ -87,7 +87,7 @@ async function withRetry(fn, { label = '' } = {}) {
 // ============================================================
 // HTTP
 // ============================================================
-function httpGet(url, headers = {}) {
+function httpGet(url, headers = {}, maxRedirects = 5) {
   return new Promise((resolve, reject) => {
     const mod = url.startsWith('https') ? https : http;
     const parsed = new URL(url);
@@ -97,6 +97,11 @@ function httpGet(url, headers = {}) {
       method: 'GET',
       headers: { 'User-Agent': 'RepubliChudIndex/3.0 (github.com)', ...headers },
     }, (res) => {
+      if ([301, 302, 303, 307, 308].includes(res.statusCode) && res.headers.location && maxRedirects > 0) {
+        const redirectUrl = new URL(res.headers.location, url).toString();
+        resolve(httpGet(redirectUrl, headers, maxRedirects - 1));
+        return;
+      }
       let body = '';
       res.on('data', c => body += c);
       res.on('end', () => {
@@ -204,18 +209,32 @@ async function fetchWikipediaHtml(articleSlug) {
 function extractReferencesFromHtml(html) {
   // Build a map: ref number → URL
   const refs = {};
-  // Match reference list items: <li id="cite_note-123">...<a href="https://...">...</a>...</li>
-  const refRegex = /<li id="cite_note-([^"]*)"[^>]*>([\s\S]*?)<\/li>/g;
-  let m;
-  while ((m = refRegex.exec(html)) !== null) {
-    const refId = m[1];
-    const refContent = m[2];
-    // Find external URLs in the reference
-    const urlRegex = /href="(https?:\/\/[^"]+)"/g;
+
+  // Quick sanity check before running the full regex
+  if (!html.includes('cite_note-')) return refs;
+  const hasLiFormat = html.includes('<li id="cite_note-');
+  if (!hasLiFormat) {
+    console.log(`    [refs debug] HTML has cite_note- but not <li id="cite_note-" format`);
+    return refs;
+  }
+
+  // Match reference list items. Wikipedia always puts id first: <li id="cite_note-X">
+  // Use [^<]* instead of [\s\S]*? to avoid catastrophic backtracking on large HTML.
+  // We split on </li> and process each chunk individually.
+  const parts = html.split('</li>');
+  for (const part of parts) {
+    const liMatch = part.match(/<li\b[^>]*\bid="cite_note-([^"]*)"[^>]*>([\s\S]*)/);
+    if (!liMatch) continue;
+    const refId = liMatch[1];
+    const refContent = liMatch[2];
+    // Find external URLs (https:// or protocol-relative //)
+    const urlRegex = /href="((?:https?:)?\/\/[^"]+)"/g;
     let urlMatch;
     const urls = [];
     while ((urlMatch = urlRegex.exec(refContent)) !== null) {
-      const u = urlMatch[1];
+      let u = urlMatch[1];
+      if (u.startsWith('//')) u = 'https:' + u;
+      u = u.replace(/&amp;/g, '&');
       // Skip Wikipedia internal links and archive links
       if (!u.includes('wikipedia.org') && !u.includes('web.archive.org/web/')) {
         urls.push(u);
@@ -750,10 +769,15 @@ async function main() {
     }
 
     // ---- STEP 4: 5-day window consolidation ----
-    if (newEntries.length > 0 && existingEntries.length > 0) {
+    // Skip during initialization: Wikipedia entries span decades, not 5 days.
+    // Sending 700+ entries through a prompt designed for ~15 causes hallucinated merges.
+    // String dedup (Step 5) is the correct safety net for initialization runs.
+    if (newEntries.length > 0 && existingEntries.length > 0 && wikiEntries.length === 0) {
       console.log(`\n  [STEP 4] 5-day window consolidation...`);
       newEntries = await consolidateAgainstRecent(newEntries, existingEntries);
       console.log(`    → ${newEntries.length} genuinely new entries`);
+    } else if (wikiEntries.length > 0) {
+      console.log(`\n  [STEP 4] Skipping 5-day consolidation (initialization run)`);
     }
 
     // ---- STEP 5: String dedup ----
@@ -769,7 +793,8 @@ async function main() {
     const allEntries = [...existingEntries, ...withIds];
 
     // Determine initialization status
-    const wikiWorked = wikiEntries.length > 0 || (fig.wikipedia || []).length === 0;
+    // Only consider wiki "worked" if entries actually survived the full pipeline
+    const wikiWorked = (fig.wikipedia || []).length === 0 || (wikiEntries.length > 0 && newEntries.length > 0);
     const ongoingWorked = totalBatches === 0 || failedBatches === 0;
     const sweepComplete = !isInitialized && wikiWorked && ongoingWorked;
     const markInitialized = (sweepComplete) || isInitialized;
