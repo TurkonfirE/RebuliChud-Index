@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent promotion of conservative and often extremist views, including opposition to abortion, LGBTQ rights, and racial equality. He has repeatedly spread misinformation and conspiracy theories, particularly regarding COVID-19, voter fraud, and social issues. Kirk has also made racist and xenophobic comments, including claims that Democrats aim to \"diminish and decrease white demographics\" and that the \"Great Replacement\" theory is a reality. His actions and statements have been criticized for threatening academic freedom, promoting harassment, and inciting violence, as seen in his involvement in the January 6 US Capitol attack. Overall, Kirk's behavior demonstrates a disregard for facts, a willingness to promote hate and misinformation, and a commitment to extremist ideologies.",
+  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent promotion of conservative and often extremist views, including opposition to abortion, LGBTQ rights, and racial equality. He has repeatedly spread misinformation and conspiracy theories, particularly regarding COVID-19, voter fraud, and social issues. Kirk has also made racist and anti-immigrant statements, and has been criticized for his role in financing and organizing events that have led to violence, including the January 6 US Capitol attack. His actions and statements demonstrate a disregard for facts, a willingness to promote hate and intolerance, and a commitment to advancing a far-right agenda. Kirk's leadership of Turning Point USA and other organizations has been marked by financial mismanagement and self-enrichment, with Kirk's own salary increasing significantly as his organizations have grown in influence.",
   "initialized": true,
   "entries": [
     {
@@ -2383,6 +2383,17 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "date": "2026-03-08",
+      "fact": "Arizona Gov. Hobbs vetoed a license plate design promoted by Charlie Kirk's Turning Point USA",
+      "sources": [
+        {
+          "name": "KJZZ",
+          "url": "https://www.kjzz.org/politics/2026-03-07/turning-point-usas-charlie-kirk-license-plate-vetoed-by-arizona-gov-hobbs"
         }
       ]
     }
