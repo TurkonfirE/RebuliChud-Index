@@ -888,6 +888,50 @@ async function main() {
   console.log(`Loaded ${figures.length} figures\n`);
   for (const fig of figures) FIGURE_SLUGS[fig.name] = fig.slug;
 
+  // --cleanup mode: review ALL existing entries for each figure, skip scanning
+  if (process.argv.includes('--cleanup')) {
+    console.log('=== CLEANUP MODE: reviewing all existing entries ===\n');
+    for (const fig of figures) {
+      console.log(`\n========================================`);
+      console.log(`  ${fig.name} (${fig.slug})`);
+      console.log(`========================================`);
+
+      const existing = loadFigureData(fig.slug);
+      let entries = (existing?.entries || []).map(normalizeEntry);
+      if (entries.length <= 1) { console.log('  → Skipped (0-1 entries)'); continue; }
+
+      const before = entries.length;
+      console.log(`  [CLEANUP] Reviewing ${before} entries...`);
+      entries = await reviewEntries(entries, fig.name);
+      entries = entries.map(validateSources).filter(Boolean);
+      entries = entries.map((e, i) => ({ ...e, id: i + 1 }));
+      console.log(`  → ${entries.length} kept (removed ${before - entries.length})`);
+
+      const data = {
+        name: existing?.name || fig.name,
+        slug: fig.slug,
+        summary: existing?.summary || '',
+        initialized: existing?.initialized || false,
+        entries,
+      };
+
+      if (entries.length !== before && entries.length > 0) {
+        console.log('  Regenerating summary...');
+        try {
+          const summary = await generateSummary(entries, fig.name);
+          if (summary) { data.summary = summary; console.log('    → Done'); }
+        } catch (err) {
+          console.error(`    → Failed: ${err.message.split('\n')[0].slice(0, 80)}`);
+        }
+      }
+
+      saveFigureData(fig.slug, data);
+      gitCommit(`scraper: cleanup ${fig.slug} ${before}→${entries.length} [${new Date().toISOString()}]`);
+    }
+    console.log('\n=== Cleanup done. ===');
+    return;
+  }
+
   let totalNew = 0;
 
   for (const fig of figures) {
