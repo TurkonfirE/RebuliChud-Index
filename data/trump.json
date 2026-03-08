@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial mismanagement, and disregard for the law. He has been involved in over 4,000 lawsuits and has filed for bankruptcy multiple times, demonstrating a willingness to prioritize his own interests over the well-being of others. Trump has also shown a pattern of racist and sexist behavior, making explicit and derogatory comments about minority groups and women. His presidency was marked by numerous scandals, including allegations of collusion with Russia, obstruction of justice, and abuse of power, ultimately leading to two impeachments. Trump's actions have consistently demonstrated a disregard for democratic norms, the rule of law, and the well-being of marginalized communities.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial mismanagement, and disregard for the law. He has been involved in over 4,000 lawsuits and has filed for bankruptcy multiple times, often leaving creditors and contractors unpaid. Trump has also been found liable for sexual abuse and defamation, and has been convicted of falsifying business records. His presidency was marked by numerous scandals, including the impeachment for abuse of power and obstruction of Congress, and his attempts to overturn the 2020 presidential election results culminated in the January 6 Capitol attack. Trump's actions and rhetoric have been characterized as racist, and he has consistently demonstrated a willingness to disregard the law and prioritize his own interests.",
   "initialized": true,
   "entries": [
     {
@@ -2779,6 +2779,72 @@
         {
           "url": "https://thehill.com/policy/international/5771098-donald-trump-us-iran-deal-surrender-nuclear/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "date": "2026-02-26",
+      "fact": "A court ruled against Donald Trump in the case American Federation of Government Employees, Afl-Cio v. Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10800892/american-federation-of-government-employees-afl-cio-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "date": "2026-03-05",
+      "fact": "Multiple states sued over Trump's new global tariffs imposed after his Supreme Court loss.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/multiple-states-sue-over-trumps-new-global-tariffs-imposed-after-his-supreme-court-loss",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "date": "2026-03-05",
+      "fact": "Trump pressured Colorado Gov. Polis to release Tina Peters from prison amid her conviction in a scheme to find proof of fraud in the 2020 presidential election.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/colorado-gov-polis-considers-releasing-tina-peters-from-prison-amid-trump-pressure",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "date": "2026-03-07",
+      "fact": "Trump chided the Supreme Court, saying it hasn't had the 'guts to do what's right' in response to recent decisions rejecting his policies.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772960-donald-trump-supreme-court-criticism-white-house/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "date": "2026-03-08",
+      "fact": "Trump dismissed Iran's security chief's retaliation threats, saying 'I couldn't care less'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773592-trump-dismisses-iran-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "date": "2026-03-08",
+      "fact": "Trump vowed to 'take care of Cuba' in front of an assembled meeting of Latin American leaders.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
+          "name": "npr.org"
         }
       ]
     }
