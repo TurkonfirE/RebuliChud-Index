@@ -339,6 +339,19 @@ const ENTRY_CRITERIA = `statements, quotes, or admissions of harmful or offensiv
   `sexual misconduct or assault allegations; documented lies or deliberate disinformation; ` +
   `policies that caused documented harm to people; or any action that reflects abuse of public trust or disregard for human dignity`;
 
+// ACTOR TEST lives in the prompt itself (before criteria) so it's the primary mental model.
+// ENTRY_EXCLUSIONS is the numbered clarification list that follows.
+const ACTOR_TEST =
+  `ACTOR TEST — apply this to every potential entry before anything else:\n` +
+  `Did this figure actively DO or SAY something harmful? OR is this a formal institutional consequence\n` +
+  `(court ruling, congressional vote, federal agency action, indictment, conviction, censure) that\n` +
+  `directly documents their misconduct? If neither answer is YES, do not include it.\n` +
+  `\n` +
+  `OVERRIDES — always include despite the rules below:\n` +
+  `— A vote FOR harmful or discriminatory policy — INCLUDE it.\n` +
+  `— An offensive or harmful statement at a campaign event — INCLUDE it.\n` +
+  `— Formal removal from office, indictment, conviction, or censure — INCLUDE it.`;
+
 const ENTRY_EXCLUSIONS =
   `REJECT entries in any of these categories:\n` +
   `1. Electoral outcomes: winning or losing elections, primaries, or caucuses; receiving party nominations; being chosen as a VP pick or running mate.\n` +
@@ -351,14 +364,7 @@ const ENTRY_EXCLUSIONS =
   `8. Bystander presence: being physically present where others committed violence — unless the figure incited, enabled, or publicly condoned it.\n` +
   `9. Others' criticism: threats against them, crimes committed against them, or criticism/attacks directed at them by family members, journalists, political opponents, or the public.\n` +
   `10. Vague patterns: "has a history of X", "repeatedly said Y", "is known for Z" — include only specific incidents with dates, quotes, or documented actions.\n` +
-  `11. Empathy: calling deaths, disasters, or tragedies "tragic", "unacceptable", or "heartbreaking" — normal human sentiment, not damning.\n` +
-  `\n` +
-  `ACTOR TEST: Before including an entry, ask — did this figure actively DO or SAY something harmful? OR is this a formal institutional consequence (court ruling, congressional vote, federal agency action, regulatory finding) that directly documents their misconduct? If neither, reject it.\n` +
-  `\n` +
-  `OVERRIDES — always include despite the rules above:\n` +
-  `— A vote FOR harmful or discriminatory policy is not routine — INCLUDE it.\n` +
-  `— An offensive or harmful statement at a campaign event is not neutral — INCLUDE it.\n` +
-  `— Formal removal from office, indictment, conviction, or censure that documents their conduct — INCLUDE it.`;
+  `11. Empathy: calling deaths, disasters, or tragedies "tragic", "unacceptable", or "heartbreaking" — normal human sentiment, not damning.`;
 
 async function extractFromWikipedia(articleSlugs, figureName) {
   const allEntries = [];
@@ -390,11 +396,13 @@ async function extractFromWikipedia(articleSlugs, figureName) {
         .map(([id, url]) => `REF:${id} → ${url}`)
         .join('\n');
 
-      const prompt = `You are extracting entries for a political accountability database about ${figureName}.
+      const prompt = `You are a strict filter for a political accountability database about ${figureName}.
 
-Read this Wikipedia section. For each clear, documented instance of: ${ENTRY_CRITERIA} — extract an entry.
+${ACTOR_TEST}
 
 ${ENTRY_EXCLUSIONS}
+
+Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITERIA}
 
 The text contains [REF:id] markers. Use the reference map below to find the source URL for each fact.
 
@@ -403,7 +411,7 @@ Return a JSON array. Each entry:
 
 For dates: use exact dates when given (e.g. "On January 6, 2021" → "2021-01-06"). If only month/year, use the 1st (e.g. "In March 2019" → "2019-03-01"). If only year, use Jan 1 (e.g. "In 2005" → "2005-01-01").
 
-For sources: match [REF:id] markers to the reference map. Only use a ref URL if it appears in the reference map below. If no matching ref exists, use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"}.
+For sources: Do NOT construct, guess, or invent any URLs — not even plausible-looking ones. You may ONLY use a URL that appears verbatim in the reference map below. If a fact has no [REF:id] marker, or its marker has no matching entry in the reference map, you MUST use {"name":"Wikipedia","url":"https://en.wikipedia.org/wiki/${slug}"} as the sole source.
 
 Return [] if nothing relevant. Return ONLY valid JSON.
 
@@ -557,11 +565,13 @@ async function extractFromArticles(articles) {
 
     const figureList = Object.entries(FIGURE_SLUGS).map(([name]) => name).join(', ');
 
-    const prompt = `You are extracting entries for a political accountability database.
+    const prompt = `You are a strict filter for a political accountability database.
 
-For each article containing a clear, documented instance of: ${ENTRY_CRITERIA} — by: ${figureList}
+${ACTOR_TEST}
 
 ${ENTRY_EXCLUSIONS}
+
+Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITERIA} — by: ${figureList}
 
 Return a JSON array. Each entry:
 {"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication","url":"article URL"}]}
@@ -627,6 +637,33 @@ ${entriesJson}`;
     } catch (err) {
       console.error(`    [Consolidate] ${err.message.split('\n')[0].slice(0, 80)}`);
       consolidated.push(...chunk); // On failure, keep originals
+    }
+  }
+
+  // Final cross-chunk pass: if we processed multiple chunks, run one more consolidation
+  // on the already-reduced set to catch duplicates that landed in different chunks.
+  if (entries.length > CHUNK && consolidated.length > 1) {
+    const finalPrompt = `You are consolidating entries for a political accountability database.
+
+Multiple entries may describe the same event from different sources. Merge them:
+- Same event → one entry, combine all sources into the sources array, use the earliest date
+- Different events → keep separate
+
+Return a JSON array of consolidated entries. Each:
+{"date":"YYYY-MM-DD","fact":"one clean sentence","sources":[{"name":"pub","url":"url"},...]}
+
+Return ONLY valid JSON.
+
+Entries:
+${JSON.stringify(consolidated)}`;
+
+    try {
+      const content = await callGroq(finalPrompt);
+      const result = parseGroqJson(content).filter(e => e.date && e.fact && e.sources);
+      if (result.length > 0) consolidated = result;
+    } catch (err) {
+      console.error(`    [Consolidate final] ${err.message.split('\n')[0].slice(0, 80)}`);
+      // On failure, keep the within-chunk consolidated results
     }
   }
 
