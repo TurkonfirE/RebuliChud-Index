@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial mismanagement, and disregard for the law. He has been involved in over 4,000 lawsuits and has filed for bankruptcy multiple times, often leaving creditors and contractors unpaid. Trump has also been found liable for sexual abuse and defamation, and has been convicted of falsifying business records. His presidency was marked by numerous scandals, including the impeachment for abuse of power and obstruction of Congress, and his attempts to overturn the 2020 presidential election results culminated in the January 6 Capitol attack. Trump's actions and rhetoric have been characterized as racist, and he has consistently demonstrated a willingness to disregard the law and prioritize his own interests.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a history of discriminatory practices, financial mismanagement, and disregard for the law. He has been involved in over 4,000 lawsuits and has filed for bankruptcy multiple times, often leaving creditors and contractors unpaid. Trump has also been found liable for sexual abuse and defamation, and has been convicted of falsifying business records. His presidency was marked by numerous scandals, including the impeachment for abuse of power and obstruction of Congress, and his administration's policies and actions have been characterized as racist, sexist, and authoritarian. Trump's behavior has consistently demonstrated a lack of respect for the rule of law, the judiciary, and the principles of democracy.",
   "initialized": true,
   "entries": [
     {
@@ -2845,6 +2845,54 @@
         {
           "url": "https://www.npr.org/2026/03/07/nx-s1-5741132/trump-cuba-venezuela-cooperation-summit",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "date": "2026-02-20",
+      "fact": "A court ruled against Trump in the case Learning Resources, Inc. v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10796821/learning-resources-inc-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "date": "2026-02-23",
+      "fact": "A court ruled against Donald Trump in the case Lesly Miot v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "date": "2026-03-07",
+      "fact": "President Trump claimed that former President Biden and his aides illegally used an autopen to sign official documents, prompting a DOJ probe that was later dropped due to lack of evidence",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772571-trump-biden-autopen-doj/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "date": "2026-03-08",
+      "fact": "Trump threatened to not sign any bills into law until the Safeguard American Voter Eligibility (SAVE) America Act is approved by the Senate, which aims to change voting requirements ahead of the midterm elections",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.foxnews.com/politics/trump-vows-block-signing-new-laws-until-save-america-act-passes-senate",
+          "name": "foxnews.com"
         }
       ]
     }
