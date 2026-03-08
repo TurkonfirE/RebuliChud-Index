@@ -1,0 +1,1151 @@
+{
+  "name": "Charlie Kirk",
+  "slug": "kirk",
+  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of false information, racist and anti-LGBTQ remarks, and a propensity for promoting conspiracy theories. He has repeatedly spread debunked claims, including about COVID-19, voter fraud, and social issues, and has used his platform to attack marginalized groups, including Muslims, Black people, and transgender individuals. Kirk's actions and statements demonstrate a willingness to incite violence and hatred, and he has been accused of promoting a \"white replacement theory\" and making anti-Semitic comments. His behavior has been consistently divisive and inflammatory, often targeting specific groups and individuals with hateful rhetoric.",
+  "initialized": false,
+  "entries": [
+    {
+      "id": 1,
+      "date": "2012-01-01",
+      "fact": "Charlie Kirk co-founded the conservative student organization Turning Point USA (TPUSA).",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2018-01-01",
+      "fact": "Charlie Kirk presented what the Southern Poverty Law Center described as 'a symphony of racist dog-whistles ... pandering to the extreme right' at the 2018 Western Conservative Summit.",
+      "sources": [
+        {
+          "url": "https://www.splcenter.org/resources/hatewatch/anti-lgbt-anti-islam-anti-immigrant-rhetoric-featured-alongside-racist-dog-whistles-and/",
+          "name": "splcenter.org"
+        },
+        {
+          "url": "https://thehill.com/blogs/blog-briefing-room/news/366163-trump-praises-conservative-group-one-day-after-reports-of/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.splcenter.org/resources/hatewatch/turning-point-usas-blooming-romance-alt-right/",
+          "name": "splcenter.org"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2018-01-01",
+      "fact": "Charlie Kirk promoted debunked claims about George Floyd, including that he was 'illegally counterfeiting currency' and had once 'put a gun to a pregnant woman's stomach'.",
+      "sources": [
+        {
+          "url": "https://minnesotareformer.com/briefs/hagedorn-munson-attend-charlie-kirk-speech-in-mankato/",
+          "name": "minnesotareformer.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2018-01-01",
+      "fact": "Charlie Kirk falsely claimed on social media that the medical examiner who performed George Floyd's autopsy declared Floyd had died of an overdose.",
+      "sources": [
+        {
+          "url": "https://factcheck.afp.com/doctor-did-not-say-george-floyds-death-should-be-ruled-overdose",
+          "name": "factcheck.afp.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2018-09-12",
+      "fact": "Charlie Kirk deleted a tweet that spread false information about human trafficking arrests after a fact-checker pointed out the false 2018 number had originated on the conspiracy site 8chan.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/outlook/2018/09/18/how-conspiracy-theories-spread-internets-darkest-corners/",
+          "name": "washingtonpost.com"
+        },
+        {
+          "url": "https://contemptor.com/2018/09/12/charlie-kirk-qanon-deleted-tweet/",
+          "name": "contemptor.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2018-12-01",
+      "fact": "Charlie Kirk falsely claimed that protesters in the French yellow vests movement chanted 'We want Trump'.",
+      "sources": [
+        {
+          "url": "https://factcheck.afp.com/no-french-protesters-are-not-chanting-we-want-trump",
+          "name": "factcheck.afp.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2020-01-01",
+      "fact": "Charlie Kirk spread falsehoods about voter fraud ahead of the 2020 U.S. presidential election.",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/article/usa-election-iowa-misinformation-idUSL1N2A31MT/",
+          "name": "reuters.com"
+        },
+        {
+          "url": "https://www.politifact.com/factchecks/2020/feb/03/charlie-kirk/conservative-organizations-are-spreading-misinform/",
+          "name": "politifact.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2020-01-01",
+      "fact": "Charlie Kirk was considered a 'big name' social influencer in Rudy Giuliani's communications plan to overturn the 2020 election.",
+      "sources": [
+        {
+          "url": "https://www.justsecurity.org/wp-content/uploads/2022/01/january-6-clearinghouse-strategic-communications-plan-giuliani-presidential-legal-defense-team-bernard-kerik-documents.pdf",
+          "name": "justsecurity.org"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2020-01-01",
+      "fact": "Charlie Kirk spread false information and conspiracy theories about COVID-19 on social media, including sharply criticizing Democrats' criticism of Trump's withdrawal of WHO funding and calling COVID-19 the 'China virus'.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2020/04/19/us/politics/charlie-kirk-conservatives-coronavirus.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2020-01-01",
+      "fact": "Charlie Kirk alleged that the WHO covered up information about the COVID-19 pandemic and that hydroxychloroquine had proved to be '100% effective in treating the virus', which led to his brief ban from Twitter.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2020/04/19/us/politics/charlie-kirk-conservatives-coronavirus.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2020-01-01",
+      "fact": "Charlie Kirk falsely stated that during the 2009 swine flu pandemic it 'took President Barack Obama millions infected and over 1,000 deaths' to declare a public health emergency.",
+      "sources": [
+        {
+          "url": "https://www.factcheck.org/2020/03/flawed-comparison-on-coronavirus-h1n1-emergency-timelines/",
+          "name": "factcheck.org"
+        },
+        {
+          "url": "https://www.nytimes.com/2020/03/05/us/politics/trump-coronavirus-fact-check.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2020-03-03",
+      "fact": "Charlie Kirk released his book The MAGA Doctrine, a manifesto for the Make America Great Again movement, in which he wrote that the Republican Party is 'in some sense no longer a conservative party, no longer the party of Reagan, but instead a Trump-remade populist party'.",
+      "sources": [
+        {
+          "url": "https://www.axios.com/2020/03/03/charlie-kirk-trump-book-maga-doctrine",
+          "name": "axios.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "2020-08-01",
+      "fact": "Charlie Kirk said at a Council for National Policy meeting that Democrats shutting down college campuses would remove opportunities for ballot harvesting and voter fraud, and that it would be beneficial to keep campuses closed.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/09/10/us/politics/trump-charlie-kirk-ally.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2020-11-05",
+      "fact": "Charlie Kirk led a Stop the Steal protest at the Maricopa Tabulation Center in Phoenix, promoting false and disproven claims of fraud in the election.",
+      "sources": [
+        {
+          "url": "https://www.exposedbycmd.org/2020/11/06/operatives-tied-to-council-for-national-policy-organizing-protests-alleging-voter-fraud/",
+          "name": "exposedbycmd.org"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2021-01-05",
+      "fact": "Charlie Kirk wrote on Twitter that Turning Point Action and Students for Trump were sending more than 80 \"buses of patriots to D.C. to fight for this president\".",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "date": "2021-01-06",
+      "fact": "Charlie Kirk said the violent acts at the Capitol were not an insurrection and did not represent mainstream Trump supporters.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "date": "2021-07-01",
+      "fact": "Charlie Kirk promoted misleading claims about the efficacy and safety of COVID-19 vaccines and called mandatory requirements for students to take the COVID-19 vaccine 'medical apartheid'.",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2021/07/29/vaccine-mandates-charlie-kirk-tpusa/",
+          "name": "washingtonpost.com"
+        },
+        {
+          "url": "https://www.vanityfair.com/news/2021/07/charlie-kirk-republicans-vaccine-push",
+          "name": "vanityfair.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk called for a 'patriot' to bail out of jail the man who broke into Nancy Pelosi's house and attacked and tried to murder her husband with a hammer.",
+      "sources": [
+        {
+          "url": "https://www.kron4.com/news/bay-area/charlie-kirk-once-called-for-patriot-to-bail-out-paul-pelosi-assailant-david-depape/",
+          "name": "kron4.com"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "date": "2022-12-01",
+      "fact": "Charlie Kirk announced the Mount Vernon Project, an initiative by Turning Point Action to remove members from the Republican National Committee who were not \"grassroot conservatives\".",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2022/12/22/publix-heiress-jan-6-financing/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2022-12-01",
+      "fact": "Charlie Kirk pleaded the Fifth Amendment privilege against self-incrimination when appearing before the U.S. House Select Committee on the January 6 Attack.",
+      "sources": [
+        {
+          "url": "https://www.azcentral.com/story/news/politics/arizona/2022/12/22/kelli-ward-and-charlie-kirk-had-little-to-say-in-capitol-riot-probe/69749643007/",
+          "name": "azcentral.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk called for the imprisonment or the death penalty of Joe Biden for 'crimes against America'.",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-joe-biden-should-be-put-prison-andor-given-death-penalty-crimes-against",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "date": "2023-02-01",
+      "fact": "A Brookings Institution study found Charlie Kirk's podcast contained the second-highest proportion of false, misleading, and unsubstantiated statements among 36,603 episodes produced by 79 prominent political podcasters.",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2023/02/09/technology/podcasts-steve-bannon-war-room-misinformation.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "date": "2023-08-24",
+      "fact": "Charlie Kirk made a statement about what the Bible says about money, which was recorded.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "date": "2025-03-01",
+      "fact": "Trump appointed Charlie Kirk to the U.S. Air Force Academy Board of Visitors.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5199551-trump-appoints-charlie-kirk-walt-nauta-michael-flynn-to-military-boards/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "date": "2025-08-01",
+      "fact": "Charlie Kirk stated that it should be legal to burn a rainbow or Black Lives Matter flag in public.",
+      "sources": [
+        {
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-flag-burning-maga-pride-lgbtq-b2814511.html",
+          "name": "independent.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2025-08-01",
+      "fact": "Charlie Kirk discussed the burning of pride flags and said that people arrested or fined for doing donuts over Pride flags painted on public streets should have their convictions overturned.",
+      "sources": [
+        {
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/charlie-kirk-political-views-guns-lgbt-trump-b2824580.html",
+          "name": "independent.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "date": "2025-08-01",
+      "fact": "Charlie Kirk called for the elimination of Jasmine Crockett's congressional district, justifying the erasure of her district by claiming she was a part of an 'attempt to eliminate the white population in this country'.",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-accuses-rep-jasmine-crockett-being-part-attempt-eliminate-white",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2025-09-10",
+      "fact": "Charlie Kirk was fatally shot by a rooftop sniper while speaking at a TPUSA debate event at Utah Valley University.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2025-09-21",
+      "fact": "Almost 100,000 people attended Charlie Kirk's memorial service at State Farm Stadium in Glendale, Arizona.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "date": "2025-10-14",
+      "fact": "Trump posthumously awarded Charlie Kirk the Presidential Medal of Freedom on what would have been Kirk's 32nd birthday.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "date": "2018-01-01",
+      "fact": "Charlie Kirk was a speaker for the annual conference held by the anti-Muslim advocacy group ACT for America in Washington DC",
+      "sources": [
+        {
+          "url": "https://www.splcenter.org/resources/hatewatch/conference-act-america-brags-about-access-white-house-donald-trump/",
+          "name": "splcenter.org"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "date": "2019-11-22",
+      "fact": "Charlie Kirk stated that he believes marriage is between one man and one woman, but added that gay people should be allowed in the conservative movement",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2021-01-01",
+      "fact": "Charlie Kirk wrote in a Fox News article that 'directly confronting the left, and promising to fight their illiberal ideology with state power when necessary, is the key to winning everyday Americans'",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/donald-trump-entertainment-business-minneapolis-minnesota-9a866a75bb2556ce5bf28147502ef011",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "date": "2021-01-01",
+      "fact": "Charlie Kirk began the 'Exposing Critical Racism Tour' to 'fight racist theories on America's college campuses!'",
+      "sources": [
+        {
+          "url": "https://www.prwatch.org/news/2021/03/13701/rights-campaign-erase-americas-racist-roots",
+          "name": "prwatch.org"
+        },
+        {
+          "url": "https://www.southernminnesotanews.com/right-wing-activist-charlie-kirk-coming-to-mankato/",
+          "name": "southernminnesotanews.com"
+        },
+        {
+          "url": "https://vtdigger.org/2021/10/19/after-finding-a-venue-charlie-kirk-brings-his-show-to-burlington/",
+          "name": "vtdigger.org"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "date": "2021-10-01",
+      "fact": "Charlie Kirk said that Democrats want Americans to live in a society with 'no cultural identity, where you live in sexual anarchy, where private property is a thing of the past, and the ruling class controls everything'",
+      "sources": [
+        {
+          "url": "https://www.indy100.com/news/charlie-kirk-sexual-anarchy-democrats-b1935376",
+          "name": "indy100.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "date": "2021-10-01",
+      "fact": "Charlie Kirk told young women to go to college for the purpose of finding husbands and 'embrace their roles as mothers and homemakers'",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/turning-point-usa-conference-young-women-leaders-suggests-their-role-get-married-and",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "date": "2021-10-14",
+      "fact": "Charlie Kirk wrote in an op-ed that 'the facts are that there are only two genders; that transgenderism and gender 'fluidity' are lies that hurt people and abuse kids'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk called the separation of church and state in the United States a 'fabrication'",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/charlie-kirk-turning-point-donald-trump-christian-nationalism-rcna156565",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk claimed that being gay was an 'error' and likened homosexuality to drug addiction",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/charlie-kirk-turning-point-donald-trump-christian-nationalism-rcna156565",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk criticized the Supreme Court's decision in Obergefell v. Hodges, calling LGBTQ activists the 'alphabet mafia' and claiming that the movement is not 'just about two dudes being able to get married'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk routinely made anti-LGBTQ remarks, opposing transgender rights and medical care, and asserted that there is an 'LGBTQ agenda'",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/charlie-kirk-turning-point-donald-trump-christian-nationalism-rcna156565",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.reuters.com/world/us/charlie-kirks-rhetoric-inspired-supporters-enraged-foes-2025-09-13/",
+          "name": "reuters.com"
+        },
+        {
+          "url": "https://www.latimes.com/politics/story/2025-09-16/charlie-kirk-railed-against-transgender-rights-his-killing-has-further-fueled-the-fight",
+          "name": "latimes.com"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk said that 'all men are created equal in the eyes of God, all men and women, but not all cultures are created equal. To say that, you get attacked in every direction, but excuse me when I say that Western civilization is the best that humanity has produced. It's an outgrowth of the Bible'",
+      "sources": [
+        {
+          "url": "https://www.news-leader.com/story/news/2025/09/10/charlie-kirk-visit-missouri-state-university-immigration-comments/86081763007/",
+          "name": "news-leader.com"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk said that transgender women in women's locker rooms should be 'taken care of the way we used to take care of things in the 1950s and '60s'",
+      "sources": [
+        {
+          "url": "https://www.advocate.com/politics/charlie-kirk-anti-lgbtq-quotes",
+          "name": "advocate.com"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk said that 'prowling Blacks go around for fun to go target white people' in urban America",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2021/sep/30/revealed-council-national-policy-republicans-extremists",
+          "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.mediaite.com/radio/charlie-kirk-wants-to-start-a-border-militia-to-protect-white-demographics-in-america/",
+          "name": "mediaite.com"
+        },
+        {
+          "url": "https://www.adl.org/resources/article/new-surge-support-replacement-theory-rhetoric",
+          "name": "adl.org"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk said that the transgender movement is 'a throbbing middle finger to God'",
+      "sources": [
+        {
+          "url": "https://www.thepinknews.com/2025/09/11/charlie-kirk-lgbtq-views-shooting/",
+          "name": "thepinknews.com"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk described Martin Luther King Jr. as 'awful ... not a good person' and someone who is admired only because he said 'one thing he didn't actually believe'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        },
+        {
+          "url": "https://www.dailykos.com/stories/2025/9/11/2342963/-The-whitewashing-of-Charlie-Kirk-s-toxic-legacy-is-underway",
+          "name": "dailykos.com"
+        },
+        {
+          "url": "https://ca.news.yahoo.com/fact-check-charlie-kirk-called-224000092.html",
+          "name": "ca.news.yahoo.com"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk condemned the Civil Rights Act of 1964, calling its passage a 'huge mistake' and alleging that it had created a 'permanent DEI-type bureaucracy'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        },
+        {
+          "url": "https://www.wired.com/story/charlie-kirk-tpusa-mlk-civil-rights-act/",
+          "name": "wired.com"
+        },
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-civil-rights-act-created-beast-and-beast-has-now-turned-anti-white-weapon",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "date": "2023-04-01",
+      "fact": "Charlie Kirk said, 'I think it's worth it, I think it's worth to have a cost of, unfortunately, some gun deaths every single year so that we can have the Second Amendment to protect our other God-given rights'",
+      "sources": [
+        {
+          "url": "https://www.snopes.com/fact-check/charlie-kirk-gun-deaths-quote/",
+          "name": "snopes.com"
+        },
+        {
+          "url": "https://www.nytimes.com/2025/09/10/style/charlie-kirk-social-media-reaction.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "date": "2023-07-13",
+      "fact": "Charlie Kirk reacted to Representative Sheila Jackson Lee's statement on affirmative action by saying 'If we would have said three weeks ago [...] that Joy Reid and Michelle Obama and Sheila Jackson Lee and Ketanji Brown Jackson were affirmative-action picks, we would have been called racist. But now they're comin' out and they're saying it for us!'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk said, 'One of the reasons we're living through a constitutional crisis is that we no longer have a Christian nation, but we have a Christian form of government, and they're incompatible. You cannot have liberty if you do not have a Christian population'",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/charlie-kirk-turning-point-donald-trump-christian-nationalism-rcna156565",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk said 'The great replacement strategy, which is well under way every single day in our southern border, is a strategy to replace white rural America with something different'",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2025/09/11/charlie-kirk-quotes-beliefs",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk said 'The American Democrat party hates this country. They wanna see it collapse. They love it when America becomes less white'",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2025/09/11/charlie-kirk-quotes-beliefs",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk posted 'The ' Great Replacement ' is not a theory, it's a reality'",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2025/09/11/charlie-kirk-quotes-beliefs",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk said, 'This is a Christian state. I'd like to see it stay that way'",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/charlie-kirk-shooting-utah-university-republicans-8357c3d102de09e3320fde761258131a",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk said that a Black pilot's qualifications would be questioned by him, implying that the pilot's race would be a factor in his assessment",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/sports/columnist/mike-freeman/2024/02/04/charlie-kirk-black-pilot-comment-tuskegee-airmen/72412319007/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "date": "2024-04-01",
+      "fact": "Charlie Kirk called for a nationwide ban of gender-affirming care for transgender people",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-we-must-ban-trans-affirming-care-entire-country-donald-trump-needs-run",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "date": "2024-04-01",
+      "fact": "Charlie Kirk called for 'Nuremberg-style' trials for doctors who perform gender-affirming care",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-we-need-have-nuremberg-style-trial-every-gender-affirming-clinic-doctor",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "date": "2024-06-08",
+      "fact": "Charlie Kirk criticized YouTuber Ms. Rachel for celebrating Pride Month, quoting the Bible verse 'love thy neighbor' and arguing that she was being selective, while also referencing Leviticus 18 which states that 'thou shall lay with another man shall be stoned to death'",
+      "sources": [
+        {
+          "url": "https://www.lgbtqnation.com/2024/06/donald-trump-shares-stage-with-rightwing-activist-whos-discussing-stoning-gay-people-to-death/",
+          "name": "lgbtqnation.com"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "date": "2024-09-01",
+      "fact": "Charlie Kirk argued that abortion is murder and should be illegal, and opposed exceptions for rape, including for children as young as 10",
+      "sources": [
+        {
+          "url": "https://www.abc.net.au/news/2025-09-12/assassinated-rightwing-influencer-charlie-kirk-views/105766340",
+          "name": "abc.net.au"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "date": "2024-09-01",
+      "fact": "Charlie Kirk compared abortion to the Holocaust, and said that abortion is worse",
+      "sources": [
+        {
+          "url": "https://www.abc.net.au/news/2025-09-12/assassinated-rightwing-influencer-charlie-kirk-views/105766340",
+          "name": "abc.net.au"
+        },
+        {
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-news-abortion-worse-than-holocaust-charlie-kirks-controversial-views-re-surface-daughter-rape-baby-delivered-after-trump-ally-assassinated/articleshow/123831808.cms",
+          "name": "economictimes.indiatimes.com"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "date": "2016-01-01",
+      "fact": "Charlie Kirk opposed the Paris Agreement on climate change.",
+      "sources": [
+        {
+          "url": "https://www.desmog.com/charlie-kirk/",
+          "name": "desmog.com"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "date": "2022-03-01",
+      "fact": "Charlie Kirk advanced pro-Russian talking points about the Russo-Ukrainian War",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2022/03/23/technology/russia-american-far-right-ukraine.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk argued that 'It's not Islamophobia to notice that Muslims want to import values into the West that seek to destabilize our civilization'",
+      "sources": [
+        {
+          "url": "https://www.the-independent.com/news/world/americas/us-politics/zohran-mamdani-islamophobia-maga-laura-loomer-b2776797.html",
+          "name": "the-independent.com"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk called for the use of force against migrants at the U.S.–Mexico border, including the use of tear gas, rubber bullets, and whips",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-calls-shooting-and-whipping-migrants-southern-border-if-you-enter-we-have",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk called for Mehdi Hasan to be deported and deplatformed over his views on the COVID-19 pandemic",
+      "sources": [
+        {
+          "url": "https://www.democracynow.org/2025/9/12/mehdi_hasan",
+          "name": "democracynow.org"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk blamed the Chinese government and drug cartels for the opioid crisis in the United States",
+      "sources": [
+        {
+          "url": "https://www.news-leader.com/story/news/2025/09/10/charlie-kirk-visit-missouri-state-university-immigration-comments/86081763007/",
+          "name": "news-leader.com"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk denied that Israel is starving Palestinians",
+      "sources": [
+        {
+          "url": "https://www.middleeasteye.net/news/what-charlie-kirk-said-about-iran-israel-islam-and-jeffrey-epstein",
+          "name": "middleeasteye.net"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk said of Palestine, 'I don't think the place exists'",
+      "sources": [
+        {
+          "url": "https://zeteo.com/p/charlie-kirk-in-his-own-words",
+          "name": "zeteo.com"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk opposed U.S. involvement in the Iran–Israel War",
+      "sources": [
+        {
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/charlie-kirk-iran-war-lindsey-graham-b2773944.html",
+          "name": "independent.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "date": "2023-01-01",
+      "fact": "Charlie Kirk opposed the U.S. sending arms to Ukraine or providing financial support to the country",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/russias-invasion-ukraine/charlie-kirk-i-dont-love-idea-sending-arms-ukraine",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "date": "2023-10-01",
+      "fact": "Charlie Kirk called U.S. representative Ilhan Omar a 'terrorist sympathizer' and called for her deportation",
+      "sources": [
+        {
+          "url": "https://www.news-leader.com/story/news/2025/09/10/charlie-kirk-visit-missouri-state-university-immigration-comments/86081763007/",
+          "name": "news-leader.com"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "date": "2023-10-01",
+      "fact": "Charlie Kirk promoted a conspiracy theory alleging the Israeli government knew that Hamas was going to launch the October 7 attacks on Israel in 2023",
+      "sources": [
+        {
+          "url": "https://www.forbes.com/sites/mattnovak/2023/10/16/conspiracy-theorists-go-viral-with-unsubstantiated-claim-about-israel-hamas-conflict/",
+          "name": "forbes.com"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "date": "2023-10-01",
+      "fact": "Charlie Kirk said that immigration to the United States should be completely stopped",
+      "sources": [
+        {
+          "url": "https://www.news-leader.com/story/news/2025/09/10/charlie-kirk-visit-missouri-state-university-immigration-comments/86081763007/",
+          "name": "news-leader.com"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk called Ketanji Brown Jackson a 'recipient of affirmative action' and said she was nominated for the Supreme Court because of her race",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-calls-ketanji-brown-jackson-recipient-affirmative-action-who-unqualified",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk promoted the false claim that Haitians in Springfield, Ohio, were eating residents' pets and other wildlife",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-amplifies-debunked-social-media-rumor-about-haitian-immigrants",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "date": "2024-01-01",
+      "fact": "Charlie Kirk stated that 'America does not need more visas for people from India', arguing that the American workforce has become dominated by Indian-American immigrants, effectively decreasing job opportunities for Americans",
+      "sources": [
+        {
+          "url": "https://www.ndtv.com/world-news/enough-already-what-charlie-kirk-said-on-indians-immigrating-to-us-9255537",
+          "name": "ndtv.com"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "date": "2025-01-01",
+      "fact": "Charlie Kirk called Ukrainian president Volodymyr Zelenskyy a 'CIA puppet' and 'gangster' who 'sent his own people to a senseless massacre'",
+      "sources": [
+        {
+          "url": "https://24tv.ua/geopolitics/zayavi-charli-kirka-pro-ukrayinu-viynu-nadannya-dopomogi-zelenskogo_n2912018",
+          "name": "24tv.ua"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "date": "2025-01-01",
+      "fact": "Charlie Kirk commented on how race is less important to culture than religion is, stating that America would still be America if it were ethnically 90% Indian, as long as they were Christian Indians",
+      "sources": [
+        {
+          "url": "https://www.hindustantimes.com/world-news/us-news/from-abortion-to-indians-in-the-us-5-extreme-claims-that-slain-conservative-star-charlie-kirk-propagated-101757578531781.html",
+          "name": "hindustantimes.com"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "date": "2025-05-01",
+      "fact": "Charlie Kirk opposed a bipartisan bill to expand anti-BDS laws, which punish the boycott of Israel",
+      "sources": [
+        {
+          "url": "https://www.aljazeera.com/news/2025/5/5/us-bill-to-ban-israel-boycotts-faces-right-wing-backlash-over-free-speech",
+          "name": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "date": "2025-05-01",
+      "fact": "Charlie Kirk said the bill to expand anti-BDS laws would 'only create more antisemitism, and play into growing narratives that Israel is running the U.S. government'",
+      "sources": [
+        {
+          "url": "https://jewishinsider.com/2025/05/house-cancels-vote-on-igo-anti-boycott-act-following-right-wing-objections/",
+          "name": "jewishinsider.com"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "date": "2025-07-01",
+      "fact": "Charlie Kirk blamed the high death toll of the July 2025 Central Texas floods on Diversity, Equity, and Inclusion (DEI) programs",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-texas-flooding-what-you-are-not-being-told-media-anywhere-death-toll",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "date": "2025-07-15",
+      "fact": "Charlie Kirk claimed that the philosophical foundation of anti-whiteness has been largely financed by Jewish donors",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2024/07/15/us/politics/charlie-kirk-rnc-antisemitism.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "date": "2025-09-01",
+      "fact": "Charlie Kirk accused Democrats of spreading a 'false narrative' that there is a relentless assault against Black people on behalf of white people, and claimed that White individuals are actually more likely to be attacked by Black individuals in the US",
+      "sources": [
+        {
+          "url": "https://www.reuters.com/world/us/death-charlie-kirk-lays-bare-deep-us-political-divisions-2025-09-11/",
+          "name": "reuters.com"
+        },
+        {
+          "url": "https://www.aljazeera.com/news/2025/9/11/who-was-charlie-kirk-what-we-know-about-the-shooting-and-the-suspect",
+          "name": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "date": "2025-09-01",
+      "fact": "Charlie Kirk texted associates that Jewish donors play into all the stereotypes and he felt pushed to leave the pro-Israel cause",
+      "sources": [
+        {
+          "url": "https://www.timesofisrael.com/jewish-donors-play-into-all-the-stereotypes-charlie-kirk-wrote-in-leaked-texts-before-murder/",
+          "name": "timesofisrael.com"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "date": "2025-09-01",
+      "fact": "Charlie Kirk wrote on Twitter that Islam is the sword the left is using to slit the throat of America",
+      "sources": [
+        {
+          "url": "https://www.aljazeera.com/news/2025/9/11/israeli-leaders-heap-praise-on-charlie-kirk-as-a-staunch-ally-of-israel",
+          "name": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "date": "2025-09-01",
+      "fact": "Charlie Kirk posted that 24 years ago a group of Muslims killed 2,753 people on 9/11, and now a Muslim Socialist is on pace to run New York City, which was described as a gross and Islamophobic post",
+      "sources": [
+        {
+          "url": "https://5pillarsuk.com/2025/09/10/islamophobic-u-s-commentator-charlie-kirk-shot-dead-at-university-event/",
+          "name": "5pillarsuk.com"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "date": "2025-09-09",
+      "fact": "Charlie Kirk said that 'Jewish donors have been the number 1 funding mechanism of radical, open border, neoliberal, quasi-Marxist policies' and suggested that secular Jews control various institutions, including colleges, nonprofits, and Hollywood",
+      "sources": [
+        {
+          "url": "https://www.snopes.com//fact-check/charlie-kirk-jewish-money-quote/",
+          "name": "snopes.com"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "date": "2017-01-01",
+      "fact": "Charlie Kirk admitted that Turning Point USA accepted funding from the fossil fuel industry and spoke out against targeting fossil fuels.",
+      "sources": [
+        {
+          "url": "https://www.desmog.com/charlie-kirk/",
+          "name": "desmog.com"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "date": "2019-01-01",
+      "fact": "Charlie Kirk said Jewish money was ruining US culture",
+      "sources": [
+        {
+          "url": "https://www.snopes.com/fact-check/charlie-kirk-jewish-money/",
+          "name": "snopes.com"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "date": "2021-01-01",
+      "fact": "Charlie Kirk and Candace Owens claimed in a video that there is no factual data to back up global warming, which was rated inaccurate by Science Feedback.",
+      "sources": [
+        {
+          "url": "https://science.feedback.org/review/in-viral-turning-point-usa-video-candace-owens-and-charlie-kirk-falsely-claim-there-is-no-evidence-of-global-warming-and-scientists-dont-know-the-cause/",
+          "name": "science.feedback.org"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "date": "2021-10-06",
+      "fact": "Charlie Kirk called George Floyd a 'scumbag'",
+      "sources": [
+        {
+          "url": "https://minnesotareformer.com/2021/10/06/right-wing-celeb-charlie-kirk-thinks-george-floyd-is-a-scumbag/",
+          "name": "minnesotareformer.com"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk warned that climate activism would erode American sovereignty and private property, describing it as a Trojan Horse for Marxism and likening it to pseudo-paganism.",
+      "sources": [
+        {
+          "url": "https://www.mediamatters.org/charlie-kirk/charlie-kirk-likens-concern-about-climate-change-pseudo-paganism",
+          "name": "mediamatters.org"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "date": "2022-02-01",
+      "fact": "Charlie Kirk said that the southern border matters more than the Ukrainian border and called for Republican leaders to label the situation at the southern border an invasion.",
+      "sources": [
+        {
+          "url": "https://www.kyivpost.com/post/59880",
+          "name": "kyivpost.com"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "date": "2023-10-16",
+      "fact": "Charlie Kirk floated a conspiracy theory that Netanyahu issued a “stand down” order as a means to bolster his own political standing after the October 7th attacks.",
+      "sources": [
+        {
+          "url": "https://www.forbes.com/sites/mattnovak/2023/10/16/conspiracy-theorists-go-viral-with-unsubstantiated-claim-about-israel-hamas-conflict/",
+          "name": "forbes.com"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "date": "2024-11-01",
+      "fact": "Charlie Kirk offered an 'apology' to the Russian people, stating 'very few Americans want war with you' and that 'the people obsessed with fighting you forever' were a minority 'on their way out of power'",
+      "sources": [
+        {
+          "url": "https://www.forbes.com/sites/petersuciu/2024/11/22/the-online-apologies-to-putin-real-or-russian-disinformation/",
+          "name": "forbes.com"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "date": "2025-01-01",
+      "fact": "Charlie Kirk stated that if the US took Taiwan, it would probably start a nuclear war and that US leaders have mishandled China.",
+      "sources": [
+        {
+          "url": "https://www.rollingstone.com/politics/politics-news/charlie-kirk-barely-out-duels-ted-cruz-for-worst-cpac-ukraine-take-1312189/",
+          "name": "rollingstone.com"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "date": "2025-09-11",
+      "fact": "Charlie Kirk said the Civil Rights Act 'created a beast, and that beast has now turned into an anti-white weapon'",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie_Kirk",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    }
+  ]
+}
