@@ -339,15 +339,26 @@ const ENTRY_CRITERIA = `statements, quotes, or admissions of harmful or offensiv
   `sexual misconduct or assault allegations; documented lies or deliberate disinformation; ` +
   `policies that caused documented harm to people; or any action that reflects abuse of public trust or disregard for human dignity`;
 
-const ENTRY_EXCLUSIONS = `Do NOT include: winning elections, receiving nominations, neutral biographical facts (birthplace, education, family), ` +
-  `procedural/non-controversial votes (e.g. naming buildings, uncontested bipartisan measures), ` +
-  `campaign events with no harmful content, ` +
-  `empathetic statements about deaths or tragedies (e.g. calling deaths "tragic", "unnecessary", or "unacceptable" — that is normal human sentiment, not bad character), ` +
-  `incidents where the figure is the victim (threats against them, crimes committed against them by others, criticism directed at them), ` +
-  `vague entries without specific content (e.g. "made statements", "made shocking remarks", "said something controversial", "revealed something about themselves"), ` +
-  `or the figure simply leaving office, retiring, or ending a term. ` +
-  `IMPORTANT: A vote FOR harmful or discriminatory policy is NOT a routine vote — include it. ` +
-  `An offensive statement made at a campaign event is NOT a neutral campaign event — include it.`;
+const ENTRY_EXCLUSIONS =
+  `REJECT entries in any of these categories:\n` +
+  `1. Electoral outcomes: winning or losing elections, primaries, or caucuses; receiving party nominations; being chosen as a VP pick or running mate.\n` +
+  `2. Neutral biographical: birthplace, education, marriages, military service (unless specific documented misconduct), family relationships.\n` +
+  `3. Religious practice: converting to a religion, baptism, confirmation, attending services, expressing personal faith — unless the religious context directly involves documented extremism or harm.\n` +
+  `4. Publications: writing or publishing books, memoirs, op-eds, or articles — unless the content itself is harmful or offensive (if so, quote the harmful content in the fact).\n` +
+  `5. Role transitions: resigning from, retiring from, or leaving any office, committee, or term — unless the departure involves documented misconduct.\n` +
+  `6. Organization membership: joining, founding, or leaving political groups or caucuses — unless the entry describes specific harmful actions taken within or because of that membership.\n` +
+  `7. Campaign logistics: announcing running mates, campaign staff decisions, or endorsements of other candidates — unless the endorsed person's documented harmful views are quoted in the fact.\n` +
+  `8. Bystander presence: being physically present where others committed violence — unless the figure incited, enabled, or publicly condoned it.\n` +
+  `9. Others' criticism: threats against them, crimes committed against them, or criticism/attacks directed at them by family members, journalists, political opponents, or the public.\n` +
+  `10. Vague patterns: "has a history of X", "repeatedly said Y", "is known for Z" — include only specific incidents with dates, quotes, or documented actions.\n` +
+  `11. Empathy: calling deaths, disasters, or tragedies "tragic", "unacceptable", or "heartbreaking" — normal human sentiment, not damning.\n` +
+  `\n` +
+  `ACTOR TEST: Before including an entry, ask — did this figure actively DO or SAY something harmful? OR is this a formal institutional consequence (court ruling, congressional vote, federal agency action, regulatory finding) that directly documents their misconduct? If neither, reject it.\n` +
+  `\n` +
+  `OVERRIDES — always include despite the rules above:\n` +
+  `— A vote FOR harmful or discriminatory policy is not routine — INCLUDE it.\n` +
+  `— An offensive or harmful statement at a campaign event is not neutral — INCLUDE it.\n` +
+  `— Formal removal from office, indictment, conviction, or censure that documents their conduct — INCLUDE it.`;
 
 async function extractFromWikipedia(articleSlugs, figureName) {
   const allEntries = [];
