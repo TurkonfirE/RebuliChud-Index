@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of misinformation, conspiracy theories, and hateful rhetoric. He has repeatedly spread false information about COVID-19, vaccines, and election fraud, and has made racist and anti-LGBTQ remarks. Kirk has also promoted anti-immigrant and anti-Muslim sentiment, and has called for violence against certain groups. His statements and actions demonstrate a disregard for facts, a lack of empathy, and a willingness to exploit divisive issues for personal gain. Kirk's behavior has been consistently extreme, xenophobic, and racist, earning him criticism from various groups, including the Southern Poverty Law Center.",
+  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of misinformation, conspiracy theories, and hateful rhetoric. He has repeatedly made false claims about various topics, including COVID-19, climate change, and election fraud, and has used his platforms to spread anti-LGBTQ, anti-Muslim, and anti-immigrant sentiment. Kirk has also expressed racist and white nationalist views, including the idea that Western civilization is superior to others and that the \"Great Replacement\" theory is a reality. Additionally, he has called for violence against certain groups, including migrants and transgender individuals, and has promoted conspiracy theories about Jewish people and their alleged influence on American politics. Overall, Kirk's behavior demonstrates a disregard for truth, a willingness to promote hate and division, and a commitment to extremist ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -1095,32 +1095,6 @@
     },
     {
       "id": 92,
-      "date": "2025-05-01",
-      "fact": "Charlie Kirk opposed a bipartisan bill to expand anti-BDS laws, which punish the boycott of Israel",
-      "sources": [
-        {
-          "url": "https://www.aljazeera.com/news/2025/5/5/us-bill-to-ban-israel-boycotts-faces-right-wing-backlash-over-free-speech",
-          "name": "aljazeera.com"
-        },
-        {
-          "url": "https://jewishinsider.com/2025/05/house-cancels-vote-on-igo-anti-boycott-act-following-right-wing-objections/",
-          "name": "jewishinsider.com"
-        }
-      ]
-    },
-    {
-      "id": 93,
-      "date": "2025-08-01",
-      "fact": "Charlie Kirk disagreed with Trump's decision to send more military aid to Ukraine",
-      "sources": [
-        {
-          "url": "https://www.mediamatters.org/russias-invasion-ukraine/charlie-kirk-i-dont-love-idea-sending-arms-ukraine",
-          "name": "mediamatters.org"
-        }
-      ]
-    },
-    {
-      "id": 94,
       "date": "2025-09-10",
       "fact": "Charlie Kirk used his platforms to decry racial equity programs, float conspiracy theories, and test divisive messaging, with rhetoric cast as racist, xenophobic, and extreme by groups that study hate speech, including the Southern Poverty Law Center",
       "sources": [
@@ -1131,7 +1105,7 @@
       ]
     },
     {
-      "id": 95,
+      "id": 93,
       "date": "2025-09-12",
       "fact": "Charlie Kirk made statements about 'prowling blacks' and expressed views on gun control",
       "sources": [
