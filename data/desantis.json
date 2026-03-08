@@ -85,6 +85,17 @@
     },
     {
       "id": 6,
+      "date": "2019-01-11",
+      "fact": "DeSantis suspended Broward County Sheriff Scott Israel from office, ostensibly for his response to the Marjory Stoneman Douglas High School mass shooting.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 7,
       "date": "2019-06-01",
       "fact": "DeSantis signed a measure that would make it harder to launch successful ballot initiatives",
       "sources": [
@@ -99,7 +110,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "date": "2019-06-01",
       "fact": "DeSantis signed an anti-'sanctuary city' bill into law, requiring local governments to aid federal immigration-enforcement efforts.",
       "sources": [
@@ -122,85 +133,7 @@
       ]
     },
     {
-      "id": 8,
-      "date": "2021-02-01",
-      "fact": "DeSantis announced his support for eliminating ballot drop boxes and limiting voting by mail by requiring that voters re-register every year to vote by mail and that signatures on mail-in ballots match the most recent signature on file",
-      "sources": [
-        {
-          "url": "https://apnews.com/article/donald-trump-ron-desantis-legislation-florida-elections-a9737fcc3eab5aedc572fbcc7c19b984",
-          "name": "apnews.com"
-        },
-        {
-          "url": "https://www.tampabay.com/news/florida-politics/2021/04/13/desantis-wants-voters-signatures-to-match-would-his-pass-the-test/",
-          "name": "tampabay.com"
-        }
-      ]
-    },
-    {
       "id": 9,
-      "date": "2021-06-10",
-      "fact": "DeSantis led an effort to ban the teaching of critical race theory in Florida public schools, describing it as 'teaching kids to hate their country'",
-      "sources": [
-        {
-          "url": "https://www.orlandosentinel.com/news/education/os-ne-critical-race-state-board-20210610-7pzv23n7rjeixi3a4veffugalq-story.html",
-          "name": "orlandosentinel.com"
-        },
-        {
-          "url": "https://www.nbcnews.com/news/us-news/florida-board-education-passes-rule-banning-critical-race-theory-classrooms-n1270363",
-          "name": "nbcnews.com"
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "date": "2021-12-15",
-      "fact": "DeSantis announced a new bill, the Stop Wrongs to Our Kids and Employees Act, which would allow parents to sue school districts that teach critical race theory",
-      "sources": [
-        {
-          "url": "https://www.nbcnews.com/politics/politics-news/desantis-pushes-bill-targeting-critical-race-theory-schools-n1286049",
-          "name": "nbcnews.com"
-        },
-        {
-          "url": "https://www.marketwatch.com/story/floridas-desantis-pitches-stop-woke-act-as-in-wrongs-to-our-kids-and-employees-to-banish-perceived-influence-of-critical-race-theory-from-schools-and-workplaces-01639702482",
-          "name": "marketwatch.com"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "date": "2022-04-14",
-      "fact": "Ron DeSantis signed into law a bill that bans abortions after 15 weeks of pregnancy, with exceptions for serious risk to the pregnant woman's physical health or fatal fetal abnormality, but makes no exceptions for rape, human trafficking, incest, or mental health.",
-      "sources": [
-        {
-          "url": "https://www.miamiherald.com/news/politics-government/article263191088.html",
-          "name": "miamiherald.com"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "date": "2022-10-23",
-      "fact": "During a gubernatorial debate, Ron DeSantis called Charlie Crist a 'worn-out old donkey'.",
-      "sources": [
-        {
-          "url": "https://thehill.com/homenews/campaign/3702986-desantis-slams-crist-as-a-worn-out-old-donkey-in-florida-governors-debate/",
-          "name": "thehill.com"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "date": "2023-04-14",
-      "fact": "Ron DeSantis signed a six-week abortion ban, which contains exceptions allowing abortion up to 15 weeks in cases of rape, incest, or human trafficking, but requires the woman to provide proof of a crime before being permitted an abortion under any of those exceptions.",
-      "sources": [
-        {
-          "url": "https://www.usatoday.com/story/news/local/state/2023/04/14/gov-ron-desantis-signs-6-week-abortion-ban-hours-after-legislature-passage-heartbeat-protection-act/70113986007/",
-          "name": "usatoday.com"
-        }
-      ]
-    },
-    {
-      "id": 14,
       "date": "2020-06-01",
       "fact": "DeSantis signed a bill requiring government employers and contractors to use E-Verify.",
       "sources": [
@@ -215,7 +148,22 @@
       ]
     },
     {
-      "id": 15,
+      "id": 10,
+      "date": "2021-02-01",
+      "fact": "DeSantis announced his support for eliminating ballot drop boxes and limiting voting by mail by requiring that voters re-register every year to vote by mail and that signatures on mail-in ballots match the most recent signature on file",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/donald-trump-ron-desantis-legislation-florida-elections-a9737fcc3eab5aedc572fbcc7c19b984",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.tampabay.com/news/florida-politics/2021/04/13/desantis-wants-voters-signatures-to-match-would-his-pass-the-test/",
+          "name": "tampabay.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
       "date": "2021-04-01",
       "fact": "DeSantis signed the Combating Public Disorder Act into law, which forbids intimidation by mobs and penalizes damage to historic properties or memorials.",
       "sources": [
@@ -230,7 +178,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 12,
       "date": "2021-06-01",
       "fact": "Ron DeSantis signed the Fairness in Women's Sports Act, which bans transgender girls and women from participating and competing in middle-school and high-school girls' and college women's sports competitions.",
       "sources": [
@@ -245,7 +193,48 @@
       ]
     },
     {
-      "id": 17,
+      "id": 13,
+      "date": "2021-06-10",
+      "fact": "DeSantis led an effort to ban the teaching of critical race theory in Florida public schools, describing it as 'teaching kids to hate their country'",
+      "sources": [
+        {
+          "url": "https://www.orlandosentinel.com/news/education/os-ne-critical-race-state-board-20210610-7pzv23n7rjeixi3a4veffugalq-story.html",
+          "name": "orlandosentinel.com"
+        },
+        {
+          "url": "https://www.nbcnews.com/news/us-news/florida-board-education-passes-rule-banning-critical-race-theory-classrooms-n1270363",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2021-12-15",
+      "fact": "DeSantis announced a new bill, the Stop Wrongs to Our Kids and Employees Act, which would allow parents to sue school districts that teach critical race theory",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/politics-news/desantis-pushes-bill-targeting-critical-race-theory-schools-n1286049",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.marketwatch.com/story/floridas-desantis-pitches-stop-woke-act-as-in-wrongs-to-our-kids-and-employees-to-banish-perceived-influence-of-critical-race-theory-from-schools-and-workplaces-01639702482",
+          "name": "marketwatch.com"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2022-01-01",
+      "fact": "DeSantis received a '0' rating from the Human Rights Campaign for his record on LGBT-related legislation.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ron_DeSantis",
+          "name": "en.wikipedia.org"
+        }
+      ]
+    },
+    {
+      "id": 16,
       "date": "2022-02-01",
       "fact": "DeSantis voiced support for the Florida Parental Rights in Education Act, which prohibits discussion of sexual orientation or gender identity in school classrooms from kindergarten to grade 3.",
       "sources": [
@@ -260,7 +249,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 17,
       "date": "2022-03-01",
       "fact": "DeSantis signed the Florida Parental Rights in Education Act into law, which took effect on July 1, 2022.",
       "sources": [
@@ -291,6 +280,17 @@
       ]
     },
     {
+      "id": 18,
+      "date": "2022-04-14",
+      "fact": "Ron DeSantis signed into law a bill that bans abortions after 15 weeks of pregnancy, with exceptions for serious risk to the pregnant woman's physical health or fatal fetal abnormality, but makes no exceptions for rape, human trafficking, incest, or mental health.",
+      "sources": [
+        {
+          "url": "https://www.miamiherald.com/news/politics-government/article263191088.html",
+          "name": "miamiherald.com"
+        }
+      ]
+    },
+    {
       "id": 19,
       "date": "2022-09-01",
       "fact": "DeSantis's administration recruited 50 newly arrived asylum seekers, mostly from Venezuela, and flew them to Martha's Vineyard, Massachusetts.",
@@ -311,6 +311,17 @@
     },
     {
       "id": 20,
+      "date": "2022-10-23",
+      "fact": "During a gubernatorial debate, Ron DeSantis called Charlie Crist a 'worn-out old donkey'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/3702986-desantis-slams-crist-as-a-worn-out-old-donkey-in-florida-governors-debate/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
       "date": "2023-03-22",
       "fact": "DeSantis plans to expand the 'Don't Say Gay' law to all grades",
       "sources": [
@@ -321,7 +332,18 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
+      "date": "2023-04-14",
+      "fact": "Ron DeSantis signed a six-week abortion ban, which contains exceptions allowing abortion up to 15 weeks in cases of rape, incest, or human trafficking, but requires the woman to provide proof of a crime before being permitted an abortion under any of those exceptions.",
+      "sources": [
+        {
+          "url": "https://www.usatoday.com/story/news/local/state/2023/04/14/gov-ron-desantis-signs-6-week-abortion-ban-hours-after-legislature-passage-heartbeat-protection-act/70113986007/",
+          "name": "usatoday.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
       "date": "2023-04-14",
       "fact": "Ron DeSantis signed a six-week abortion ban into law in a private late-night ceremony",
       "sources": [
@@ -332,7 +354,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 24,
       "date": "2023-04-19",
       "fact": "Florida expanded the 'Don't Say Gay' rules through 12th grade",
       "sources": [
@@ -343,7 +365,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 25,
       "date": "2023-08-30",
       "fact": "DeSantis refused to accept $346 million from the Inflation Reduction Act for rebates to homeowners who want to retrofit their houses and make them more energy efficient.",
       "sources": [
@@ -358,7 +380,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 26,
       "date": "2024-06-01",
       "fact": "DeSantis vetoed a bill that would have created a statewide process to issue closures and send warnings if the bacteria in waterways reached unsafe levels.",
       "sources": [
@@ -369,7 +391,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 27,
       "date": "2025-07-08",
       "fact": "A court ruled in Michael Bernard Bell v. State of Florida, a case involving the State of Florida under Ron DeSantis, on July 8, 2025.",
       "sources": [
@@ -380,7 +402,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 28,
       "date": "2025-07-22",
       "fact": "A court ruled in Edward J. Zakrzewski, II v. State of Florida, a case involving the State of Florida under Ron DeSantis, on July 22, 2025.",
       "sources": [
@@ -391,7 +413,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 29,
       "date": "2025-08-06",
       "fact": "A court ruled in Bailey v. Laurie, DeSantis, a case involving Ron DeSantis, on August 6, 2025.",
       "sources": [
@@ -402,7 +424,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 30,
       "date": "2025-08-12",
       "fact": "A court ruled in Kayle B. Bates v. State of Florida & Kayle B. Bates v. Secretary, Department of Corrections, a case involving the State of Florida under Governor Ron DeSantis.",
       "sources": [
@@ -413,7 +435,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 31,
       "date": "2025-09-24",
       "fact": "A court ruled in Victor Tony Jones v. State of Florida & Victor Tony Jones v. Secretary, Department of Corrections, a case involving the State of Florida under Governor Ron DeSantis.",
       "sources": [
@@ -424,7 +446,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 32,
       "date": "2025-09-26",
       "fact": "A court ruled in McGraw v. DeSantis, a case involving Governor Ron DeSantis.",
       "sources": [

@@ -765,9 +765,9 @@ Your ONLY job is to REMOVE bad entries from this list. Do not add or rewrite any
 
 REMOVE an entry if it:
 1. Describes the same event as another entry in this list — keep the most specific version (the one with an actual quote, specific date, or named outcome). Remove the vaguer one.
-2. Fails the ACTOR TEST: ${figureName} is not the actor — someone else (a judge, a journalist, a political opponent, a family member, police) is the one taking the action or making the statement.
+2. Fails the ACTOR TEST: ${figureName} is not the actor — someone else (a judge, a journalist, a political opponent, a family member, police) is the one taking the action or making the statement. KEEP entries where an independent watchdog, civil rights organization, or advocacy group has documented ${figureName}'s harmful record with a rating, score, or grade.
 3. Is a neutral fact — including any of: announcing a candidacy; winning or losing an election; filing election paperwork; announcing a running mate; resigning or retiring from a role; signing a routine budget; declaring a residence; military service; selling a property; neutral business transactions; receiving an appointment from someone else; joining, founding, or leaving an organization or political group (KEEP if the entry describes specific harmful actions taken because of that membership); getting married or divorced; publishing a book, op-ed, or memoir (KEEP if the harmful content is explicitly quoted in the fact); issuing a routine administrative order, waiver, or extension.
-4. Is a positive or humanitarian act: pardoning wrongly convicted persons, charitable actions, or beneficial policy — if the entry makes the figure look good rather than bad, remove it.
+4. Is a positive or humanitarian act: pardoning wrongly convicted persons, charitable actions, or beneficial policy — if the entry makes the figure look good rather than bad, remove it. NOTE: A politically controversial suspension, firing, or removal from office is NOT a humanitarian act — KEEP it even if the stated rationale references a tragedy or public safety.
 
 KEEP everything that shows ${figureName} actively saying something harmful, voting for a harmful policy, being indicted/convicted/sued/censured, or engaging in documented misconduct.
 
