@@ -280,6 +280,21 @@ function chunkText(text, maxChars = 6000) {
   return chunks;
 }
 
+// Shared criteria used by both Wikipedia init and ongoing article extraction.
+// Both prompts must capture the same things — character-focused, not category-focused.
+const ENTRY_CRITERIA = `statements, quotes, or admissions of harmful or offensive behavior; ` +
+  `votes for discriminatory or harmful policy; votes against civil rights or protections for vulnerable groups; ` +
+  `lawsuits, criminal charges, convictions, civil judgments, settlements, or indictments; ` +
+  `corruption, fraud, bribery, or abuse of power; ethical violations; ` +
+  `sexual misconduct or assault allegations; documented lies or deliberate disinformation; ` +
+  `policies that caused documented harm to people; or any action that reflects abuse of public trust or disregard for human dignity`;
+
+const ENTRY_EXCLUSIONS = `Do NOT include: winning elections, receiving nominations, neutral biographical facts (birthplace, education, family), ` +
+  `or procedural/non-controversial votes (e.g. naming buildings, uncontested bipartisan measures), ` +
+  `or campaign events with no harmful content. ` +
+  `IMPORTANT: A vote FOR harmful or discriminatory policy is NOT a routine vote — include it. ` +
+  `An offensive statement made at a campaign event is NOT a neutral campaign event — include it.`;
+
 async function extractFromWikipedia(articleSlugs, figureName, figureSlug) {
   const allEntries = [];
 
@@ -309,7 +324,9 @@ async function extractFromWikipedia(articleSlugs, figureName, figureSlug) {
 
       const prompt = `You are extracting entries for a political accountability database about ${figureName}.
 
-Read this Wikipedia section. For each clear, documented negative action, legal outcome, policy decision, controversy, or misconduct, extract an entry.
+Read this Wikipedia section. For each clear, documented instance of: ${ENTRY_CRITERIA} — extract an entry.
+
+${ENTRY_EXCLUSIONS}
 
 The text contains [REF:id] markers. Use the reference map below to find the source URL for each fact.
 
@@ -468,7 +485,9 @@ async function extractFromArticles(articles) {
 
     const prompt = `You are extracting entries for a political accountability database.
 
-For each article containing a clear, documented negative action, quote, vote, or legal outcome for: ${figureList}
+For each article containing a clear, documented instance of: ${ENTRY_CRITERIA} — by: ${figureList}
+
+${ENTRY_EXCLUSIONS}
 
 Return a JSON array. Each entry:
 {"figure":"<slug>","date":"YYYY-MM-DD","fact":"one sentence, objective, specific","sources":[{"name":"publication","url":"article URL"}]}
