@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to target marginalized communities, including people of color, immigrants, and LGBTQ individuals. Trump has been involved in numerous lawsuits and scandals, including allegations of fraud, discrimination, and abuse of power, and has been convicted of felonies and held liable for millions of dollars in damages. He has also demonstrated a willingness to undermine democratic institutions and norms, including the judiciary, the media, and the electoral process. Trump's actions and rhetoric have been characterized as authoritarian, racist, and misogynistic, and have contributed to a decline in civil discourse and an increase in social unrest.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
   "initialized": true,
   "entries": [
     {
@@ -1694,6 +1694,50 @@
         {
           "url": "https://thehill.com/homenews/administration/5773698-trump-house-republicans-miami/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "date": "2026-02-17",
+      "fact": "A court case, Brutus v. Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795160/brutus-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "date": "2026-02-17",
+      "fact": "A court ruling was made in the case of Schiff v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795061/schiff-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "date": "2026-03-09",
+      "fact": "The Trump administration is being sued for labeling Anthropic's artificial intelligence tools as a 'supply chain risk' after the company refused to let its tech be used for autonomous weapons and mass domestic surveillance",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "date": "2026-03-09",
+      "fact": "A lawsuit claims the Trump administration is using immigration policy to suppress speech by threatening the visas of researchers for work on disinformation and content moderation of social media",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
+          "name": "npr.org"
         }
       ]
     }
