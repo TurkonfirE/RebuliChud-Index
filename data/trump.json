@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders, pardons, and grants of clemency. His actions have been characterized as authoritarian, contributing to democratic backsliding and negatively impacting the rule of law. Trump's behavior has been marked by a lack of accountability, with numerous lawsuits, investigations, and convictions, including felony counts of falsifying business records and sexual abuse and defamation. Overall, Trump's character and pattern of behavior reveal a profound disregard for the principles of democracy, equality, and justice.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -1491,6 +1491,10 @@
         {
           "url": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
           "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1501,6 +1505,10 @@
       "sources": [
         {
           "url": "https://www.pbs.org/newshour/politics/watch-leavitt-clarifies-what-trumps-demand-for-irans-unconditional-surrender-means",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon",
           "name": "pbs.org"
         }
       ]
@@ -1524,6 +1532,10 @@
         {
           "url": "https://thehill.com/policy/international/5772792-donald-trump-iran-strikes/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
+          "name": "npr.org"
         }
       ]
     },
@@ -1556,6 +1568,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "date": "2026-03-05",
+      "fact": "Multiple states sued over Trump's new global tariffs imposed after his Supreme Court loss",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/multiple-states-sue-over-trumps-new-global-tariffs-imposed-after-his-supreme-court-loss",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "date": "2026-03-05",
+      "fact": "Trump pressured Colorado Gov. Polis to release Tina Peters, a former county clerk convicted in a scheme to find proof of fraud in the 2020 presidential election",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/colorado-gov-polis-considers-releasing-tina-peters-from-prison-amid-trump-pressure",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "date": "2026-03-08",
+      "fact": "Trump falsely claimed Iran bombed a girls' school, contradicting reports that the explosions were likely caused by US airstrikes.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5773382-trump-accuses-iran-school-bombing/",
           "name": "thehill.com"
         }
       ]
