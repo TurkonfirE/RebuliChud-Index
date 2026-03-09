@@ -311,10 +311,11 @@ function stripHtml(html) {
   return html
     .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
-    .replace(/<sup[^>]*class="reference"[^>]*>[\s\S]*?<\/sup>/gi, (match) => {
-      // Preserve reference markers for mapping
-      const idMatch = match.match(/cite_note-([^"]*)/);
-      return idMatch ? ` [REF:${idMatch[1]}] ` : '';
+    .replace(/<sup\b[^>]*>([\s\S]*?)<\/sup>/gi, (match, content) => {
+      // Preserve reference markers for mapping — match any <sup> with a cite_note href
+      const hrefMatch = content.match(/href="#cite_note-([^"]*)/);
+      if (!hrefMatch) return ' ';
+      return ` [REF:${hrefMatch[1]}] `;
     })
     .replace(/<[^>]+>/g, ' ')
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
@@ -396,12 +397,20 @@ async function extractFromWikipedia(articleSlugs, figureName) {
     for (let i = 0; i < chunks.length; i++) {
       process.stdout.write(`    chunk ${i + 1}/${chunks.length}...`);
 
-      // Only include refs actually referenced in this chunk — prevents Groq from
-      // guessing refs from a truncated global list and hallucinating source names/URLs.
       const chunkText_ = chunks[i];
-      const chunkRefContext = Object.entries(refs)
-        .filter(([id]) => chunkText_.includes(`[REF:${id}]`))
-        .map(([id, url]) => `REF:${id} → ${url}`)
+
+      // Re-number refs as integers for this chunk — Groq only needs to output a number,
+      // not a complex Wikipedia refId string. Code resolves the integer to the real URL.
+      const chunkRefs = Object.entries(refs).filter(([id]) => chunkText_.includes(`[REF:${id}]`));
+      const refNumMap = {}; // integer -> url
+      let numberedText = chunkText_;
+      chunkRefs.forEach(([id, url], idx) => {
+        const num = idx + 1;
+        refNumMap[num] = url;
+        numberedText = numberedText.split(`[REF:${id}]`).join(`[REF:${num}]`);
+      });
+      const chunkRefContext = Object.entries(refNumMap)
+        .map(([num, url]) => `${num} → ${url}`)
         .join('\n');
 
       const prompt = `You are a strict filter for a political accountability database about ${figureName}.
@@ -412,10 +421,10 @@ ${ENTRY_EXCLUSIONS}
 
 Only extract entries that pass the ACTOR TEST above and describe: ${ENTRY_CRITERIA}
 
-The text contains [REF:id] markers. Each marker links a fact to a citation.
+The text contains [REF:N] markers. Each marker is a citation number linking a fact to a source.
 
 Return a JSON array. Each entry:
-{"date":"YYYY-MM-DD","fact":"one sentence, objective, specific","refId":"<the ID from the nearest [REF:X] marker — just the X part — or null if no citation>"}
+{"date":"YYYY-MM-DD","fact":"one sentence, objective, specific","refId":<integer from the nearest [REF:N] marker, or null if no citation>}
 
 For dates: use exact dates when given (e.g. "On January 6, 2021" → "2021-01-06"). If only month/year, use the 1st (e.g. "In March 2019" → "2019-03-01"). If only year, use Jan 1 (e.g. "In 2005" → "2005-01-01").
 
@@ -425,13 +434,14 @@ Reference map:
 ${chunkRefContext || '(no inline citations in this section)'}
 
 Text:
-${chunkText_}`;
+${numberedText}`;
 
       try {
         const content = await callGroq(prompt);
         const extracted = parseGroqJson(content).filter(e => e.date && e.fact);
         const entries = extracted.map(e => {
-          const url = (e.refId && refs[String(e.refId)]) ? refs[String(e.refId)] : `https://en.wikipedia.org/wiki/${slug}`;
+          const url = e.refId ? refNumMap[e.refId] : null;
+          if (!url) return null; // no citation = drop
           const entry = { date: e.date, fact: e.fact, sources: [{ url, name: getDomain(url) }] };
           return validateSources(entry);
         }).filter(Boolean);
