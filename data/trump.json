@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
   "initialized": true,
   "entries": [
     {
@@ -1601,6 +1601,61 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/international/5773382-trump-accuses-iran-school-bombing/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "date": "2026-03-07",
+      "fact": "President Trump is reportedly considering an order requiring financial institutions to check customers' citizenship, which could erode trust in financial services, create confusion and hardship for customers, and raise constitutional concerns.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/immigration/5771913-financial-privacy-concerns-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "date": "2026-03-07",
+      "fact": "President Trump made claims that former President Biden and his aides illegally used an autopen to sign official documents, prompting a DOJ probe that was later dropped",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5772571-trump-biden-autopen-doj/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "date": "2026-03-07",
+      "fact": "President Trump said during an event with Latin American leaders that 'tremendous progress has been made' during Operation Epic Fury, amid escalating military operations in the Middle East.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/sunday-talk-shows/5773285-middle-east-conflict-trump-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "date": "2026-03-08",
+      "fact": "Trump dismissed Iran's security chief's retaliation threats, saying 'I couldn't care less'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773592-trump-dismisses-iran-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "date": "2026-03-08",
+      "fact": "Trump asked Congress to prioritize American citizens over illegal immigrants during the State of the Union address.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5772025-state-union-immigration-divide/",
           "name": "thehill.com"
         }
       ]
