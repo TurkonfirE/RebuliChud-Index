@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to target marginalized communities, including people of color, immigrants, and LGBTQ individuals. Trump has been involved in numerous lawsuits and scandals, including allegations of fraud, discrimination, and abuse of power, and has been convicted of felonies and held liable for millions of dollars in damages. He has also demonstrated a willingness to undermine democratic institutions and norms, including the judiciary, the media, and the electoral process. Trump's actions and rhetoric have been characterized as authoritarian, racist, and misogynistic, and have contributed to a decline in civil discourse and an increase in social unrest.",
   "initialized": true,
   "entries": [
     {
@@ -1536,6 +1536,10 @@
         {
           "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
           "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5773178-americans-oppose-iran-military-action/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1656,6 +1660,39 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/white-house/5772025-state-union-immigration-divide/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "date": "2026-03-05",
+      "fact": "A court case, Pacito v. Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10804323/pacito-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "date": "2026-03-08",
+      "fact": "Trump said rising oil prices are 'a very small price to pay' for 'safety and peace' amid the U.S. conflict with Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/business/5774307-rising-oil-prices-trump-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "date": "2026-03-09",
+      "fact": "Trump called the oil price surge a 'very small price to pay' for 'peace' in a social media post",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773698-trump-house-republicans-miami/",
           "name": "thehill.com"
         }
       ]
