@@ -1,0 +1,353 @@
+{
+  "name": "JD Vance",
+  "slug": "vance",
+  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually challenged. He has repeatedly denigrated childless individuals, suggesting they are more sociopathic and should be taxed at a higher rate. Vance has also promoted misinformation, such as claims about Haitian migrants eating pets, and has defended his use of fabricated stories to get attention. Additionally, he has taken extreme positions on issues like abortion, gun control, and same-sex marriage, and has expressed support for criminalizing gender-affirming care for minors. Vance's actions and statements show a disregard for factual accuracy and a willingness to promote hateful and discriminatory rhetoric.",
+  "initialized": true,
+  "entries": [
+    {
+      "id": 1,
+      "date": "2020-01-01",
+      "fact": "JD Vance said in a podcast interview that being childless 'makes people more sociopathic and ultimately our whole country a little bit less, less mentally stable'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/4799959-vance-criticizes-childless-people/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "2021-01-01",
+      "fact": "JD Vance said in a speech at a Center for Christian Virtue leadership meeting that childless teachers were 'trying to brainwash the minds of our children' and criticized American Federation of Teachers President Randi Weingarten",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/resurfaced-remarks-vance-bashes-teachers-union-president-not-children-rcna168552",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "2021-01-01",
+      "fact": "JD Vance advised Trump to fire all civil servants and replace them with Trump supporters",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2024/07/16/g-s1-11128/jd-vance-abortion-immigration-ukraine-jan-6",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "2021-03-01",
+      "fact": "JD Vance suggested in an interview on The Charlie Kirk Show that childless people should be taxed at a higher rate than those with children",
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/US/vance-argued-higher-tax-rate-childless-americans-2021/story?id=112284318",
+          "name": "abcnews.go.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "date": "2021-07-01",
+      "fact": "JD Vance said in a Fox News interview that the country is run by 'a bunch of childless cat ladies who are miserable at their own lives and the choices that they've made and so they want to make the rest of the country miserable too'",
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/Politics/jd-vance-slammed-childless-cat-ladies-comment/story?id=112272258",
+          "name": "abcnews.go.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "date": "2023-06-01",
+      "fact": "JD Vance voted against raising the debt ceiling, standing against final passage of the Fiscal Responsibility Act of 2023",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/4031302-here-are-the-senators-who-voted-against-the-bill-to-raise-the-debt-ceiling/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "date": "2023-06-01",
+      "fact": "JD Vance said the Fiscal Responsibility Act of 2023 would result in 'a reduced military in the face of a rising threat from China'",
+      "sources": [
+        {
+          "url": "https://www.cincinnati.com/story/news/politics/2023/06/02/debt-ceiling-jd-vance-opposes-bipartisan-deal-to-avoid-default/70280810007/",
+          "name": "cincinnati.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "date": "2023-07-01",
+      "fact": "JD Vance and Representative Marjorie Taylor Greene introduced legislation that would have made gender-affirming care for minors a federal crime, with penalties of up to 12 years in prison",
+      "sources": [
+        {
+          "url": "https://www.themarshallproject.org/2024/07/17/what-we-know-from-sen-j-d-vance-s-legislative-action-on-criminal-justice-issues",
+          "name": "themarshallproject.org"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "date": "2024-06-01",
+      "fact": "JD Vance sponsored the Dismantle DEI Act, which would ban federal diversity, equity, and inclusion programs and funding for agencies, contractors, and organizations receiving federal funds",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/race-politics/4718195-dei-federal-government-ban-republicans/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.cleveland.com/news/2024/08/from-banning-x-gender-passports-to-dismantling-federal-dei-programs-13-items-on-jd-vances-legislative-wish-list.html",
+          "name": "cleveland.com"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "date": "2024-08-01",
+      "fact": "JD Vance said Vice President Kamala Harris 'can go to hell' in response to her criticism of Donald Trump's visit to Arlington National Cemetery",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2024/08/29/vance-trump-comments-attacks-harris/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "2024-09-01",
+      "fact": "JD Vance alleged that Haitian illegal immigrants were 'draining social services and generally causing chaos all over Springfield, Ohio' and that 'reports now show that people have had their pets abducted and eaten by people who shouldn't be in this country'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/4869901-vance-haitians-eating-pets-ohio-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "2024-09-01",
+      "fact": "JD Vance defended his claims about Haitian migrants eating cats, saying that he was willing to create stories to get the American media's attention",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-vance-haitian-immigrants-ohio-threats-d8efef1d59cbc839534bf3c02f1f8574",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "2024-09-10",
+      "fact": "JD Vance said that it was 'possible, of course, that all of these rumors will turn out to be false' regarding Haitian immigrants eating pets, but also told his supporters to 'keep the cat memes flowing'",
+      "sources": [
+        {
+          "url": "https://cnn.com/2024/09/10/politics/jd-vance-haitian-immigrants",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "date": "2024-09-11",
+      "fact": "JD Vance said that 'a child was murdered by a Haitian migrant who had no right to be here', despite the child's death being an accidental collision between vehicles",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2024/09/10/nx-s1-5107320/jd-vance-springfield-ohio-haitians-pets",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "date": "2024-10-01",
+      "fact": "JD Vance said he did not believe Trump lost the 2020 presidential election and that he believed 'Big Tech rigged the election' through censorship",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/2024-election/vance-says-trump-not-lose-2020-election-not-words-use-rcna175787",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "date": "2024-10-01",
+      "fact": "JD Vance objected to being fact-checked during the vice presidential debate, arguing that the rules were that he would not be fact-checked",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/cbs-debate-vice-president-fact-check-7a3b31c98ab092dd44915df57a359d10",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "date": "2025-01-24",
+      "fact": "JD Vance cast the tie-breaking vote to confirm Pete Hegseth as Secretary of Defense",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/live/2025/01/24/us/pete-hegseth-defense-secretary-vote#pete-hegseth-defense-secretary-trump",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "date": "2025-02-01",
+      "fact": "JD Vance wrote that judges aren't allowed to control the executive's legitimate power, after multiple federal judges issued temporary rulings against various Trump administration actions",
+      "sources": [
+        {
+          "url": "https://www.nytimes.com/2025/02/09/us/politics/vance-trump-federal-courts-executive-order.html",
+          "name": "nytimes.com"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "date": "2025-02-28",
+      "fact": "JD Vance told Ukrainian President Volodymyr Zelenskyy that it's disrespectful for him to come to the Oval Office and try to litigate the conflict in front of the American media",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-zelenskyy-vance-transcript-oval-office-80685f5727628c64065da81525f8f0cf",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "date": "2025-02-28",
+      "fact": "JD Vance claimed that Zelenskyy 'went to Pennsylvania and campaigned for the opposition in October' 2024, which was incorrect",
+      "sources": [
+        {
+          "url": "https://www.politifact.com/article/2025/feb/28/trump-vance-and-zelenskyys-tense-oval-office-meeti/",
+          "name": "politifact.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "date": "2025-02-28",
+      "fact": "JD Vance accused Zelenskyy of showing a 'propaganda tour' of Ukraine and asked whether Zelenskyy had ever offered thanks to President Trump",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-zelenskyy-vance-transcript-oval-office-80685f5727628c64065da81525f8f0cf",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "date": "2025-02-28",
+      "fact": "JD Vance replied to Zelenskyy's question about diplomacy by saying that he was discussing 'diplomacy that's going to end the destruction of Ukraine'",
+      "sources": [
+        {
+          "url": "https://cnn.com/2025/03/01/politics/inside-trump-zelensky-meeting",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "date": "2025-04-01",
+      "fact": "JD Vance lamented that the globalist economy had caused the United States to borrow money from Chinese peasants to buy the things those Chinese peasants manufacture",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2025/04/08/china/china-slams-vance-peasants-remarks-intl-hnk",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "date": "2020-01-01",
+      "fact": "JD Vance said that if he had been vice president during the 2020 presidential election, he would not have certified the results",
+      "sources": [
+        {
+          "url": "https://www.washingtonpost.com/politics/2024/07/17/vance-trump-january-6-election-denial/",
+          "name": "washingtonpost.com"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "date": "2021-01-01",
+      "fact": "JD Vance opposes abortion",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/health/womens-health/jd-vance-abortion-stance-rcna162086",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "date": "2021-01-01",
+      "fact": "JD Vance opposes gun control",
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/Politics/claim-2nd-amendment-stalwarts-vp-candidates-walz-vance/story?id=112799264",
+          "name": "abcnews.go.com"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "date": "2021-01-01",
+      "fact": "JD Vance opposes same-sex marriage",
+      "sources": [
+        {
+          "url": "https://www.cincinnati.com/story/news/politics/elections/2022/08/25/ohio-senate-race-j-d-vance-focuses-on-conservative-family-issues/10204420002/",
+          "name": "cincinnati.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2021-01-01",
+      "fact": "JD Vance publicly announced support for Trump, apologizing for his past criticisms of Trump and deleting some of them",
+      "sources": [
+        {
+          "url": "https://www.wsj.com/politics/elections/how-trump-turned-conservatives-against-helping-ukraine-d9f75b3b",
+          "name": "wsj.com"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2024-01-01",
+      "fact": "JD Vance asserted that parents should have more voting power than non-parents",
+      "sources": [
+        {
+          "url": "https://www.snopes.com/fact-check/jd-vance-parents-vote/",
+          "name": "snopes.com"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "date": "2024-01-01",
+      "fact": "JD Vance expressed a belief that childlessness is linked to sociopathy",
+      "sources": [
+        {
+          "url": "https://edition.cnn.com/2024/07/30/politics/kfile-jd-vance-history-disparaging-people-without-kids/index.html",
+          "name": "edition.cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "date": "2025-01-01",
+      "fact": "JD Vance proposed federal criminalization of gender-affirming care for minors",
+      "sources": [
+        {
+          "url": "https://www.cleveland.com/news/2023/07/jd-vance-proposes-federal-ban-on-gender-transition-care-for-minors.html",
+          "name": "cleveland.com"
+        }
+      ]
+    }
+  ]
+}
