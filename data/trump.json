@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -1495,6 +1495,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5776058-trump-republicans-save-america-act-midterms/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1815,6 +1819,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5776100-trump-iran-hormuz-oil-flow/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5776100-trump-threatens-iran-hormuz-oil-flow/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1874,6 +1882,32 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trump-administration-widens-its-2020-election-probe-as-it-obtains-records-from-arizona",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "date": "2026-02-20",
+      "fact": "A court ruled in Learning Resources, Inc. v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10796821/learning-resources-inc-v-trump/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10799354/learning-resources-inc-v-trump-revisions-22326/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "date": "2026-02-23",
+      "fact": "A court ruled in Lesly Miot v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
