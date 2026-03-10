@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
   "initialized": true,
   "entries": [
     {
@@ -1815,6 +1815,65 @@
         {
           "url": "https://thehill.com/homenews/administration/5776100-trump-iran-hormuz-oil-flow/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "date": "2026-03-09",
+      "fact": "Trump made a new threat, stating that 'important targets' remain if needed, in regards to the Iran war.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/iran-war-will-end-soon-but-important-targets-remain-if-needed-trump-says",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "date": "2026-03-10",
+      "fact": "Trump claimed the Iran war will be over very soon, despite Tehran's disagreement",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
+          "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.businessinsider.com/oil-price-trump-signals-end-iran-war-stock-markets-2026-3",
+          "name": "businessinsider.com"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "date": "2026-03-10",
+      "fact": "Trump referred to the war in Iran as an 'excursion', which Sen. Tim Kaine called 'deeply disrespectful' to service members.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5776187-kaine-slams-trump-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "date": "2026-03-10",
+      "fact": "Trump threatened Iran with 'fire and fury' over the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://www.bbc.co.uk/news/live/cd70wzw9vqlt",
+          "name": "bbc.co.uk"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "date": "2026-03-10",
+      "fact": "The Trump administration widened its 2020 election probe by obtaining records from Arizona, acting on the president's longstanding falsehoods about the 2020 presidential election.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-widens-its-2020-election-probe-as-it-obtains-records-from-arizona",
+          "name": "pbs.org"
         }
       ]
     }
