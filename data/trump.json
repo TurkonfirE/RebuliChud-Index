@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -1738,6 +1738,83 @@
         {
           "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "date": "2026-03-06",
+      "fact": "A court case, Fritz Emmanuel Lesly Miot v. Donald Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10805096/fritz-emmanuel-lesly-miot-v-donald-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "date": "2026-03-09",
+      "fact": "President Trump called the Iran operation an 'excursion' and touted 'major strides' despite the ongoing conflict and rising oil prices",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5773698-trump-house-republicans-miami/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "date": "2026-03-09",
+      "fact": "Trump denied US responsibility for the bombing of an all-girls school in southern Iran, despite mounting evidence suggesting the US military is likely responsible.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5775878-trump-iran-school-bombing/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "date": "2026-03-10",
+      "fact": "President Donald Trump erroneously claimed that Iran has access to the American Tomahawk cruise missile, the weapon likely used to strike a girls' school in Iran, killing 165 people.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-sidesteps-responsibility-for-deadly-strike-on-iranian-girls-school",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "date": "2026-03-10",
+      "fact": "President Donald Trump sidestepped responsibility for a deadly strike on an Iranian girls' school, stating 'Because I just don't know enough about it' when asked why he was the only person in his administration making a claim about the strike.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-sidesteps-responsibility-for-deadly-strike-on-iranian-girls-school",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "date": "2026-03-10",
+      "fact": "Trump issued an ultimatum to Congress to pass a voter ID bill",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-at-a-glance",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "date": "2026-03-10",
+      "fact": "Trump threatened to strike Iran '20 times harder' than before if oil flow is halted in the Strait of Hormuz.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5776100-trump-iran-hormuz-oil-flow/",
+          "name": "thehill.com"
         }
       ]
     }
