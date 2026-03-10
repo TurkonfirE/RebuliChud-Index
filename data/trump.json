@@ -1786,6 +1786,14 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-trump-sidesteps-responsibility-for-deadly-strike-on-iranian-girls-school",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.cnn.com/2026/03/10/politics/fact-check-trump-iran-war-tomahawks",
+          "name": "cnn.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5776813-schumer-trump-tomahawk-missiles-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1860,6 +1868,10 @@
         {
           "url": "https://thehill.com/homenews/senate/5776187-kaine-slams-trump-iran-war/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5775972-trump-iran-war-soon-finish/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1908,6 +1920,39 @@
         {
           "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "date": "2026-03-10",
+      "fact": "Trump's changes to SNAP may cause a single mother with two teens to lose food stamps due to new work requirements",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5737476/snap-trump-work-requirements-families",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "date": "2026-03-10",
+      "fact": "The Trump administration's mass detention and deportation policies led to a man being detained for 104 days",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "date": "2026-03-10",
+      "fact": "President Trump urged Iranians to 'take over your government' and 'take over your institutions' during mass demonstrations in Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/international/5774888-expect-tragedy-if-a-trump-inspired-uprising-fails-in-iran/",
+          "name": "thehill.com"
         }
       ]
     }
