@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, including using his presidency to profit from events held at his hotels and golf courses.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by a lack of empathy, a tendency to blame others, and a willingness to spread misinformation and lies. Trump's behavior has been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -1975,6 +1975,17 @@
         {
           "url": "https://www.npr.org/2026/03/10/nx-s1-5737491/how-pennsylvania-voters-feel-about-trumps-claims-of-election-fraud",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "date": "2026-02-17",
+      "fact": "A court case, State of Oregon v. Trump, was filed against Donald Trump on this date.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10795133/state-of-oregon-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
