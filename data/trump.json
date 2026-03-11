@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with a history of defying judges and the courts, and granting clemency to his allies and loyalists. Overall, Trump's actions show a clear pattern of prioritizing his own interests and ideology over the well-being of the country and its citizens.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
   "initialized": true,
   "entries": [
     {
@@ -2001,6 +2001,39 @@
         {
           "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "date": "2026-03-10",
+      "fact": "President Donald Trump offered varying justifications for launching the war with Iran",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-u-s-announces-most-intense-day-of-strikes-on-iran",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "date": "2026-03-11",
+      "fact": "Trump pressured Senate Majority Leader John Thune to find votes to pass the Safeguard American Voter Eligibility (SAVE) Act, which could be considered a vote for harmful or discriminatory policy",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5779240-trump-pressures-thune-save-act/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "date": "2026-03-11",
+      "fact": "The Trump administration implemented new race-based reporting requirements for colleges, which led to a lawsuit from 17 Democratic-led states",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/education/5779021-blue-states-trump-administration-race-reporting-colleges/",
+          "name": "thehill.com"
         }
       ]
     }
