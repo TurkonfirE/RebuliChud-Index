@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by a lack of empathy, a tendency to blame others, and a willingness to spread misinformation and lies. Trump's behavior has been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with a history of defying judges and the courts, and granting clemency to his allies and loyalists. Overall, Trump's actions show a clear pattern of prioritizing his own interests and ideology over the well-being of the country and its citizens.",
   "initialized": true,
   "entries": [
     {
@@ -1831,6 +1831,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5776100-trump-threatens-iran-hormuz-oil-flow/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5777671-trump-threatens-iran-mines/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1986,6 +1990,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10795133/state-of-oregon-v-trump/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "date": "2026-03-11",
+      "fact": "The Trump DOJ is giving guns back to felons, including one alleged fake elector, by quietly restarting a decades-dormant program to restore gun rights to felons.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
+          "name": "npr.org"
         }
       ]
     }
