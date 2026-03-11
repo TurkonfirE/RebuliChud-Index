@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, including using his presidency to profit from events held at his hotels and golf courses.",
   "initialized": true,
   "entries": [
     {
@@ -1440,9 +1440,9 @@
       ]
     },
     {
-      "id": 132,
+      "id": 190,
       "date": "2026-02-26",
-      "fact": "A court ruled against Donald Trump in the case American Federation of Government Employees, Afl-Cio v. Trump",
+      "fact": "A federal court ruled against Donald Trump in the case American Federation of Government Employees, Afl-Cio v. Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10800892/american-federation-of-government-employees-afl-cio-v-trump/",
@@ -1953,6 +1953,28 @@
         {
           "url": "https://thehill.com/opinion/international/5774888-expect-tragedy-if-a-trump-inspired-uprising-fails-in-iran/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "date": "2026-03-05",
+      "fact": "A court ruling was made in the case of Pacito v. Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10804323/pacito-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "date": "2026-03-10",
+      "fact": "President Trump said the only way Democrats 'can get elected is to cheat, and we're going to stop it'",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5737491/how-pennsylvania-voters-feel-about-trumps-claims-of-election-fraud",
+          "name": "npr.org"
         }
       ]
     }
