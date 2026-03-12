@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his settlement of fraud cases related to Trump University. Trump has also demonstrated a willingness to exploit his position for personal gain, as evidenced by his use of the Trump Foundation for self-dealing and tax evasion. His rhetoric and policies are often divisive and discriminatory, targeting marginalized groups such as immigrants, Muslims, and LGBTQ individuals. Trump has shown a tendency to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been characterized as authoritarian, contributing to democratic backsliding and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of empathy and a tendency to dehumanize certain groups, including immigrants, minorities, and women, as evidenced by his use of harsh rhetoric and his promotion of anti-science and anti-vaccine activism.",
   "initialized": true,
   "entries": [
     {
@@ -2135,6 +2135,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5779968-trump-iran-massie-kentucky-rally/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5779952-trump-massie-kentucky-rally/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2168,6 +2172,28 @@
         {
           "url": "https://apnews.com/article/teacher-jobs-h1b-j1-visa-online-school-08080546339ac7aadefce42fc73e4281",
           "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "date": "2026-03-12",
+      "fact": "A UN panel condemned racist hate speech from President Trump, stating it fueled human rights violations.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5780678-un-panel-condemns-trump-hate/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "date": "2026-03-12",
+      "fact": "Trump called dyslexia a 'mental disorder' in a post on his Truth Social platform",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5780788-newsom-fires-back-at-trump-over-post-calling-dyslexia-mental-disorder/",
+          "name": "thehill.com"
         }
       ]
     }
