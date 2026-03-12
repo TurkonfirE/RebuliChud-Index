@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized communities, including immigrants, women, and LGBTQ individuals. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the weaponization of government agencies to target his enemies, and the erosion of democratic norms and institutions. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -1499,6 +1499,10 @@
         {
           "url": "https://thehill.com/homenews/house/5776058-trump-republicans-save-america-act-midterms/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/how-trumps-save-act-would-reshape-voting-and-why-critics-are-concerned",
+          "name": "pbs.org"
         }
       ]
     },
@@ -1764,6 +1768,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5773698-trump-house-republicans-miami/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5779968-trump-iran-massie-kentucky-rally/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -1861,6 +1869,10 @@
         {
           "url": "https://www.businessinsider.com/oil-price-trump-signals-end-iran-war-stock-markets-2026-3",
           "name": "businessinsider.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5778853-trump-iran-war-bombing-targets/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2033,6 +2045,50 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/education/5779021-blue-states-trump-administration-race-reporting-colleges/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "date": "2026-03-11",
+      "fact": "Smartmatic accused President Trump of a 'campaign of retribution' driving a criminal money laundering indictment tied to his baseless claims about the 2020 election",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/smartmatic-says-trumps-campaign-of-retribution-is-driving-criminal-prosecution",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "date": "2026-03-11",
+      "fact": "Trump expressed support for renewing warrantless spy powers under Section 702 of the Foreign Intelligence Surveillance Act (FISA), potentially complicating Democratic support for reauthorization",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/national-security/5779649-trump-fisa-702-warrantless-spy-powers-democrats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "date": "2026-03-11",
+      "fact": "The Trump administration asked the Supreme Court to end temporary deportation protections for roughly 350,000 Haitians",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5779603-dhs-scotus-tps-haiti/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "date": "2026-03-12",
+      "fact": "Trump called Gov. Gavin Newsom a 'racist' in a Truth Social post.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/state-watch/5780124-trump-newsom-feud-racist/",
           "name": "thehill.com"
         }
       ]
