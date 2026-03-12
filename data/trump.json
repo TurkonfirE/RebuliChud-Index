@@ -2104,6 +2104,72 @@
           "name": "thehill.com"
         }
       ]
+    },
+    {
+      "id": 215,
+      "date": "2026-03-11",
+      "fact": "Trump claimed he was not aware of a military investigation that found the US was responsible for a deadly strike on an Iranian girls' school",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5779432-us-military-iran-school-strike/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "date": "2026-03-11",
+      "fact": "Trump said the US needs to do 'more of the same' in the Iran operation, despite a military investigation finding the US was responsible for a deadly strike on an Iranian girls' school",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5779300-trump-us-iran-operation/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "date": "2026-03-11",
+      "fact": "Trump used a campaign-style rally to knock Rep. Thomas Massie, a member of his own party",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5779968-trump-iran-massie-kentucky-rally/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "date": "2026-03-11",
+      "fact": "President Trump lashed out at Rep. Thomas Massie, accusing him of opposing the president's agenda and urging Kentucky voters to replace him in Congress.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5779952-trump-massie-kentucky-rally/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "date": "2026-03-11",
+      "fact": "The Trump administration moved to ease sanctions on Russian oil reserves in an attempt to offset the impact of the U.S.-Israeli strikes on global oil supplies.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5779882-democrats-demand-answers-trump-russia/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "date": "2026-03-12",
+      "fact": "Trump's visa changes have squeezed rural schools relying on international teachers.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/teacher-jobs-h1b-j1-visa-online-school-08080546339ac7aadefce42fc73e4281",
+          "name": "apnews.com"
+        }
+      ]
     }
   ]
 }
