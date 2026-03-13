@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
   "initialized": true,
   "entries": [
     {
@@ -2205,6 +2205,39 @@
         {
           "url": "https://www.courtlistener.com/opinion/10796696/people-v-richmond-capital-group-llc/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "date": "2026-03-12",
+      "fact": "President Trump argued that the U.S. benefits when oil prices go up, saying 'when oil prices go up, we make a lot of money'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5780543-us-oil-prices-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "date": "2026-03-12",
+      "fact": "President Trump imposed a 10 percent tariff on goods not covered under current exemptions, as part of the White House's launch of new investigations into alleged unfair trade practices",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5780507-white-house-launches-trade-investigations/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "date": "2026-03-13",
+      "fact": "Trump threatened Iran leaders, stating 'Watch what happens to these deranged scumbags today' in a social media post",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5782529-trump-threatens-iran-leaders/",
+          "name": "thehill.com"
         }
       ]
     }
