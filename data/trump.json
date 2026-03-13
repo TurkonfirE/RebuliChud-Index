@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of empathy and a tendency to dehumanize certain groups, including immigrants, minorities, and women, as evidenced by his use of harsh rhetoric and his promotion of anti-science and anti-vaccine activism.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -2194,6 +2194,17 @@
         {
           "url": "https://thehill.com/homenews/campaign/5780788-newsom-fires-back-at-trump-over-post-calling-dyslexia-mental-disorder/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "date": "2026-02-19",
+      "fact": "The company Richmond Capital Group LLC, associated with Donald Trump, was involved in a court case People v. Richmond Capital Group LLC",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10796696/people-v-richmond-capital-group-llc/",
+          "name": "courtlistener.com"
         }
       ]
     }
