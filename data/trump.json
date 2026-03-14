@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use his power to target and harm marginalized groups, including immigrants, minorities, and women, through policies and rhetoric that are often racist, sexist, and xenophobic. His actions have been characterized by a lack of empathy, a tendency to blame others, and a disregard for the consequences of his behavior, as evidenced by his responses to criticism and his attempts to undermine the rule of law and democratic institutions. Overall, Trump's behavior suggests a profound disregard for the well-being and dignity of others, and a willingness to do whatever it takes to achieve his goals, regardless of the cost to others or to the country as a whole.",
   "initialized": true,
   "entries": [
     {
@@ -2250,6 +2250,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5782529-trump-threatens-iran-leaders/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/trump-administration-news-updates-today",
+          "name": "theguardian.com"
         }
       ]
     },
