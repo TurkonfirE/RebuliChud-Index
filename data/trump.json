@@ -2161,6 +2161,18 @@
         {
           "url": "https://thehill.com/homenews/senate/5779882-democrats-demand-answers-trump-russia/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5782247-trump-lifts-russian-oil-sanctions/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5783438-grassley-iran-russia-gas-prices/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5783339-zelensky-merz-speak-out-against-us-easing-russia-oil-sanctions/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2248,6 +2260,50 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5783165-trump-says-war-with-iran-will-end-when-i-feel-it-in-my-bones/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "date": "2026-03-12",
+      "fact": "Trump's top legislative priority is the SAVE America Act, a Republican-backed voter requirements bill that would require Americans to show proof of citizenship to register to vote and a valid ID to cast a ballot",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/5781330-trump-priority-voter-bill-future/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "date": "2026-03-13",
+      "fact": "The Trump administration sent all pregnant unaccompanied minors apprehended by immigration enforcement to a single group shelter in Texas, which lacks specialized care, since July",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/pregnant-migrant-girls-held-at-texas-center-criticized-for-inadequate-care",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "date": "2026-03-13",
+      "fact": "A federal judge ruled that the Trump administration unlawfully refused to request CFPB funding",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5783614-cfpb-consumer-watchdog-trump-vought/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "date": "2026-03-13",
+      "fact": "Trump proposed to loosen rules for cancer-causing gas from sterilizer plants, which can cause lymphoma, myeloma, lymphocytic leukemia, and breast cancer",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5783333-trump-epa-medical-devices-ethylene-oxide/",
           "name": "thehill.com"
         }
       ]
