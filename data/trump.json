@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent and his promotion of racist conspiracy theories.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including using the FBI and Justice Department to investigate and intimidate them. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of empathy and a tendency to use dehumanizing language, including referring to immigrants as an \"invasion\" and describing minority groups in derogatory terms.",
   "initialized": true,
   "entries": [
     {
@@ -2353,6 +2353,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5783850-trump-bombs-iran-kharg-island/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/live/c4gqjyk0vx3t?post=asset%3A4bd144f4-c22b-461f-8612-b7f7cb337c2b",
+          "name": "bbc.co.uk"
         }
       ]
     },
@@ -2363,6 +2367,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/nexstar_media_wire/5782056-trump-admin-sues-california-over-vehicle-emission-greenhouse-gas-rules/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "date": "2026-03-12",
+      "fact": "Trump discouraged the Iranian soccer team from attending the World Cup, citing safety concerns",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-discourages-iranian-soccer-team-from-attending-the-world-cup-citing-safety-concerns",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "date": "2026-03-14",
+      "fact": "Trump said Iran is 'totally defeated and wants a deal'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5784112-trump-iran-deal-negotiations/",
           "name": "thehill.com"
         }
       ]
