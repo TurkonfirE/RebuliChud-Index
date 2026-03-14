@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use his power to target and harm marginalized groups, including immigrants, minorities, and women, through policies and rhetoric that are often racist, sexist, and xenophobic. His actions have been characterized by a lack of empathy, a tendency to blame others, and a disregard for the consequences of his behavior, as evidenced by his responses to criticism and his attempts to undermine the rule of law and democratic institutions. Overall, Trump's behavior suggests a profound disregard for the well-being and dignity of others, and a willingness to do whatever it takes to achieve his goals, regardless of the cost to others or to the country as a whole.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent and his promotion of racist conspiracy theories.",
   "initialized": true,
   "entries": [
     {
@@ -2308,6 +2308,61 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/energy-environment/5783333-trump-epa-medical-devices-ethylene-oxide/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "date": "2026-03-14",
+      "fact": "Trump waged war on Iran in a manner described as chaotic and unilateral",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/trump-iran-war-chaos",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "date": "2026-03-13",
+      "fact": "President Trump delivered conflicting messaging on when the war in Iran could end.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-mixed-signals-on-the-iran-war",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "date": "2026-03-13",
+      "fact": "President Donald Trump stated a goal of a 'takeover' of Cuba.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/democratic-senators-file-war-powers-resolution-to-check-trump-on-cuba",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "date": "2026-03-13",
+      "fact": "Trump said the US military conducted a bombing raid on Iran's Kharg Island, obliterating every military target.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5783850-trump-bombs-iran-kharg-island/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "date": "2026-03-13",
+      "fact": "The Trump administration sued California over vehicle emission and greenhouse gas rules",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/nexstar_media_wire/5782056-trump-admin-sues-california-over-vehicle-emission-greenhouse-gas-rules/",
           "name": "thehill.com"
         }
       ]
