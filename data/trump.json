@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -2412,6 +2412,28 @@
         {
           "url": "https://www.theguardian.com/world/2026/mar/14/us-kharg-island-oil-export-hub",
           "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "date": "2026-03-03",
+      "fact": "A court ruled against Donald Trump in the case Ruhumuriza v. Jaddou",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10803098/ruhumuriza-v-jaddou/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "date": "2026-03-15",
+      "fact": "The Trump administration offered a $10 million reward for information on Iranian leaders, specifically key leaders of Iran's Islamic Revolutionary Guard Corps",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5784895-trump-reward-iranian-leaders-information/",
+          "name": "thehill.com"
         }
       ]
     }
