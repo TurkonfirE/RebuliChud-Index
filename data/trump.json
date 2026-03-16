@@ -2480,6 +2480,50 @@
           "name": "thehill.com"
         }
       ]
+    },
+    {
+      "id": 267,
+      "date": "2026-03-14",
+      "fact": "Trump called on countries that receive oil through the Strait of Hormuz to 'take care' of the closed passage",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5784610-trump-truthsocial-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "date": "2026-03-16",
+      "fact": "Donald Trump attacked the supreme court over tariffs in a late-night social media post",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "date": "2026-03-16",
+      "fact": "President Trump said NATO faces a 'very bad' future if countries do not help keep the Strait of Hormuz open",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5785933-donald-trump-nato-strait-hormuz/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "date": "2026-03-16",
+      "fact": "Trump's expansion of immigration detention violates basic human rights and turns release and legal review into a pay-to-play system for due process",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/immigration/5783389-ice-detention-centers-surge/",
+          "name": "thehill.com"
+        }
+      ]
     }
   ]
 }
