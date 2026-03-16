@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has supported and spread false claims about mass shootings, the 9/11 attacks, and the COVID-19 pandemic, and has called for the execution of prominent Democratic politicians. Greene has also made racist, Islamophobic, and antisemitic statements, and has associated with white supremacist groups and individuals. Her behavior has been marked by aggression and a disregard for facts, including falsely claiming that certain representatives are not legitimate and comparing vaccine mandates to the Holocaust. Greene's actions have led to her removal from committee assignments and expulsion from the House Freedom Caucus, highlighting her extreme and unacceptable behavior.",
+  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has expressed support for white supremacist and antisemitic views, as well as Islamophobic and transphobic ideologies. Greene has also advocated for the execution of prominent Democratic politicians and has made numerous false claims about various topics, including mass shootings, COVID-19, and the 2020 presidential election. Her behavior has been marked by aggression and a disregard for facts, earning her removal from committee assignments and expulsion from the House Freedom Caucus. Greene's actions and rhetoric have been widely criticized, and her continued presence in public life has been marked by controversy and division.",
   "initialized": true,
   "entries": [
     {
@@ -1444,6 +1444,17 @@
         {
           "url": "https://www.lgbtqnation.com/2025/01/marjorie-taylor-greene-rages-at-sarah-mcbride-for-reading-to-kids-child-predator/",
           "name": "lgbtqnation.com"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "date": "2026-03-16",
+      "fact": "Marjorie Taylor Greene made a statement about Mark Levin, saying he has a 'micropenis' in support of Megyn Kelly",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5786121-greene-megyn-kelly-iran-trump-mark-levin/",
+          "name": "thehill.com"
         }
       ]
     }
