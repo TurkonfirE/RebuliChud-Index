@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including judges, lawmakers, and the media, and his use of executive authority to advance his personal interests and those of his allies. Overall, Trump's actions and words reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -2522,6 +2522,105 @@
         {
           "url": "https://thehill.com/opinion/immigration/5783389-ice-detention-centers-surge/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "date": "2026-03-14",
+      "fact": "President Trump complained about networks' coverage of the joint U.S.-Israeli military operation in Iran, prompting the FCC chair to threaten to revoke broadcast licenses",
+      "sources": [
+        {
+          "url": "https://thehill.com/media/5784658-fcc-threatens-broadcast-licenses/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "date": "2026-03-14",
+      "fact": "President Trump said he was looking at loosening shipping rules in the Jones Act as a method to lower gas prices",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5784524-jones-act-waiver-gas-prices/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "date": "2026-03-16",
+      "fact": "President Trump referred to Iran as a 'paper tiger' and encouraged other nations to help deal with the closure of the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5786340-trump-coalition-strait-of-hormuz/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "date": "2026-03-16",
+      "fact": "President Trump said the US attacks are 'aggressively dismantling' Iran's defenses, claiming the US has hit over 7,000 targets across Iran, mostly commercial and military, since the campaign started",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5784988-live-updates-donald-trump-iran-save-america-act/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "date": "2026-03-16",
+      "fact": "President Trump revealed a story about GOP lawmaker Neal Dunn's health, including a terminal diagnosis for a heart problem, prompting concerns about the House GOP's super-slim majority",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5786379-trump-johnson-neal-dunn-health/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "date": "2026-03-16",
+      "fact": "The Trump administration, through FCC chair Brendan Carr, threatened to crack down on broadcasters over their coverage of the U.S. war in Iran, raising concerns about efforts to intimidate or influence the media.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5786490-fcc-chair-threatens-broadcasters/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "date": "2026-03-16",
+      "fact": "Trump demanded that countries help 'protect their own territory' and police Iran's Strait of Hormuz, without specifying which countries.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-says-hes-demanded-countries-help-protect-their-own-territory-police-irans-strait-of-hormuz",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "date": "2026-03-16",
+      "fact": "Trump warned that the U.S. could attack Kharg Island again, saying 'I'll knock the hell out of it' in a phone call with PBS News.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-threatens-to-knock-the-hell-out-of-kharg-island-in-impromptu-phone-call-with-pbs-news",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "date": "2026-03-16",
+      "fact": "Trump's mass deportation agenda is intensifying, according to reports, as DHS changes leadership.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trumps-mass-deportation-agenda-is-at-a-crossroads-as-dhs-changes-leadership",
+          "name": "pbs.org"
         }
       ]
     }
