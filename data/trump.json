@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -2662,6 +2662,61 @@
         {
           "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "date": "2026-03-05",
+      "fact": "A court case, Pacito v. Trump, was filed against Donald Trump on this date.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10804323/pacito-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "date": "2026-03-15",
+      "fact": "President Trump claimed Iran asked for a ceasefire, which Iran's foreign minister denied",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "date": "2026-03-16",
+      "fact": "Trump threatened allies for not wading into the Strait of Hormuz as the Iran conflict continues",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-administration-news-updates-today",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "date": "2026-03-16",
+      "fact": "Trump used the presidency to silence planes over Mar-a-Lago",
+      "sources": [
+        {
+          "url": "https://www.bloomberg.com:443/news/features/2026-03-16/how-trump-used-the-presidency-to-silence-planes-over-mar-a-lago",
+          "name": "bloomberg.com"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "date": "2026-03-16",
+      "fact": "The Trump administration pushed to end legal protections for people fleeing war and natural disaster from countries including Haiti and Syria",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/supreme-court-to-hear-case-over-push-to-end-legal-protections-for-haitian-syrian-migrants",
+          "name": "pbs.org"
         }
       ]
     }
