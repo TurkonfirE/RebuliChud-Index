@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a pattern of dishonesty, including making false statements about the 2020 election and inflating the value of his business assets. Additionally, Trump has been found liable for sexual abuse and defamation, and has been convicted of falsifying business records, demonstrating a lack of accountability and respect for the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -2717,6 +2717,50 @@
         {
           "url": "https://www.pbs.org/newshour/politics/supreme-court-to-hear-case-over-push-to-end-legal-protections-for-haitian-syrian-migrants",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "date": "2026-03-17",
+      "fact": "Trump wrote that only 'sick, demented, or deranged people' could vote against the SAVE America Act",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5787459-trump-pressures-republicans-vote/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "date": "2026-03-17",
+      "fact": "Trump vowed to withhold his endorsement from any lawmakers who do not vote for the Safeguard American Voter Eligibility Act (SAVE) Act",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5787459-trump-pressures-republicans-vote/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "date": "2026-03-17",
+      "fact": "President Trump suggested that an aide from a former president's administration told him they wished the U.S. had bombed Iran, which was denied by aides who served under former Presidents Joe Biden, Barack Obama, George W. Bush, and Bill Clinton",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5787322-clinton-george-w-bush-obama-aides-iran-talks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "date": "2026-03-17",
+      "fact": "President Trump's Treasury is shifting sanctions to punish his critics and reward friends",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish",
+          "name": "npr.org"
         }
       ]
     }
