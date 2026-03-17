@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including judges, lawmakers, and the media, and his use of executive authority to advance his personal interests and those of his allies. Overall, Trump's actions and words reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -1673,9 +1673,9 @@
       ]
     },
     {
-      "id": 156,
+      "id": 284,
       "date": "2026-03-05",
-      "fact": "A court case, Pacito v. Trump, was filed against Donald Trump",
+      "fact": "Donald Trump was a defendant in the Pacito v. Trump court case",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10804323/pacito-v-trump/",
@@ -2276,6 +2276,10 @@
         {
           "url": "https://thehill.com/policy/5781330-trump-priority-voter-bill-future/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5783746-save-america-act-dhs-shutdown-mullin/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2342,6 +2346,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/democratic-senators-file-war-powers-resolution-to-check-trump-on-cuba",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5786818-trump-taking-cuba-blackout/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2621,6 +2629,39 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trumps-mass-deportation-agenda-is-at-a-crossroads-as-dhs-changes-leadership",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "date": "2026-03-16",
+      "fact": "Trump suggested that California Gov. Gavin Newsom's dyslexia should prevent him from being president and described Newsom as a 'low-IQ person'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5786830-trump-newsom-dyslexia-presidency/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "date": "2026-03-16",
+      "fact": "Trump urged the Kennedy Center board to close the institution for renovations, saying 'You have to close it'",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5786257-trump-kennedy-center-board-vote/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "date": "2026-03-16",
+      "fact": "The State of New York filed a court case against Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
