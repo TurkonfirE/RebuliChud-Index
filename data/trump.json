@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
   "initialized": true,
   "entries": [
     {
@@ -2519,6 +2519,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5785933-donald-trump-nato-strait-hormuz/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5787725-trump-criticizes-nato-allies-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -2793,6 +2797,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5786437-live-updates-donald-trump-iran-save-act-illinois-primary/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "date": "2026-03-17",
+      "fact": "President Trump is pushing to end the Senate filibuster in order to pass the SAVE America Act, a bill that would require Americans to show proof of citizenship when registering to vote and present a valid ID",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5786780-trump-save-act-senate-filibuster/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "date": "2026-03-17",
+      "fact": "President Trump is championing the SAVE America Act, a bill that has been criticized as a throwback to Jim Crow laws",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5787344-james-clyburn-save-act-jim-crow/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "date": "2026-03-17",
+      "fact": "President Trump's Safeguard American Voter Eligibility (SAVE) America Act would require Americans to show proof of citizenship when registering to vote and present a valid ID",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5787335-watch-live-mike-johnson-house-gop-press-conference-save-america-act/",
           "name": "thehill.com"
         }
       ]
