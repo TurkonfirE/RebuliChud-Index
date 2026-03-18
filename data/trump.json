@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
   "initialized": true,
   "entries": [
     {
@@ -2831,6 +2831,39 @@
         {
           "url": "https://thehill.com/video-clips/5787335-watch-live-mike-johnson-house-gop-press-conference-save-america-act/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "date": "2026-03-17",
+      "fact": "The Trump administration has moved to slash and transform many areas within the National Institutes of Health, including cuts to diversity, equity and inclusion projects",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5787291-watch-live-nih-director-jay-bhattacharya-house-appropriations-committee-hearing/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "date": "2026-03-17",
+      "fact": "The Trump administration launched a war despite a top counterterrorism official saying Iran posed no imminent threat",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/joe-kent-top-counterterrorism-official-says-iran-posed-no-imminent-threat-as-he-resigns-over-trumps-war",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "date": "2026-03-17",
+      "fact": "Trump administration officials told congressional staff in private briefings that U.S. intelligence did not suggest Iran was preparing to launch a preemptive strike against the U.S., contradicting the justification for the war",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-johnson-refutes-outgoing-counterterrorism-officials-claim-that-iran-posed-no-imminent-threat",
+          "name": "pbs.org"
         }
       ]
     }
