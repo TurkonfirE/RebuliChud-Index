@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders and the manipulation of the justice system. His actions have been characterized by a lack of empathy, a tendency to blame others, and a propensity for violence, as seen in his rhetoric on immigration, crime, and political opponents. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his business, engaging in self-dealing, and using his position for personal gain.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -2901,6 +2901,65 @@
         {
           "url": "https://www.pbs.org/newshour/show/a-look-at-mullins-rise-from-mma-fighter-to-maga-warrior-and-dhs-nomination",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "date": "2026-03-18",
+      "fact": "President Trump responded angrily to Prime Minister Starmer's refusal to allow the US to use British bases for a military campaign against Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/international/5788250-trump-starmer-uk-us/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "date": "2026-03-18",
+      "fact": "President Trump's White House was accused of running a '24/7 grift operation' that has allowed officials in his orbit to personally profit off public donations",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5790652-murphy-trump-profiting-public/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "date": "2026-03-18",
+      "fact": "Trump made threats to take over the island of Cuba, prompting Cuban President Miguel Díaz-Canel to vow 'impregnable resistance'",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5789556-cuba-trump-threats-resistance/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "date": "2026-03-19",
+      "fact": "President Trump asked for help in sending ships to patrol the Strait of Hormuz, potentially escalating tensions with Iran.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/19/g-s1-114405/japan-takaichi-visit-white-house",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "date": "2026-03-19",
+      "fact": "Trump threatened to blow up all of Iran's South Pars gasfield if Tehran strikes Qatar",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/first-thing-trump-threatens-to-blow-up-all-of-irans-south-pars-gasfield-if-tehran-strikes-qatar",
+          "name": "theguardian.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5791107-trump-iran-qatar-attacks-conflict-middle-east/",
+          "name": "thehill.com"
         }
       ]
     }
