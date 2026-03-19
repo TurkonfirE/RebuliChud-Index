@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority and the weaponization of the Justice Department to target his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption.",
   "initialized": true,
   "entries": [
     {
@@ -2324,6 +2324,10 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/mar/14/trump-iran-war-chaos",
           "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
+          "name": "npr.org"
         }
       ]
     },
@@ -2622,6 +2626,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trump-threatens-to-knock-the-hell-out-of-kharg-island-in-impromptu-phone-call-with-pbs-news",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5750514/trump-iran-war-kharg-island-oil",
+          "name": "npr.org"
         }
       ]
     },
@@ -2824,6 +2832,10 @@
         {
           "url": "https://thehill.com/homenews/house/5787344-james-clyburn-save-act-jim-crow/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida",
+          "name": "npr.org"
         }
       ]
     },
@@ -2959,6 +2971,17 @@
         },
         {
           "url": "https://thehill.com/policy/international/5791107-trump-iran-qatar-attacks-conflict-middle-east/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "date": "2026-03-19",
+      "fact": "Trump ribbed the nation of Japan over its World War II bombing of Pearl Harbor in a Thursday Oval Office meeting with Japanese Prime Minister Sanae Takaichi",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5791865-trump-japan-takaichi-pearl-harbor-iran-war/",
           "name": "thehill.com"
         }
       ]
