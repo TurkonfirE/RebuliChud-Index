@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority and the weaponization of the Justice Department to target his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of empathy and a tendency to dehumanize certain groups, including immigrants, minorities, and women, as evidenced by his racist and sexist remarks, and his policies aimed at restricting the rights of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -2869,6 +2869,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/joe-kent-top-counterterrorism-official-says-iran-posed-no-imminent-threat-as-he-resigns-over-trumps-war",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
+          "name": "npr.org"
         }
       ]
     },
@@ -2982,6 +2986,69 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/international/5791865-trump-japan-takaichi-pearl-harbor-iran-war/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/watch-why-didnt-you-tell-me-about-pearl-harbor-trump-says-when-japanese-reporter-asks-why-allies-didnt-know-about-iran-plan",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "date": "2026-03-19",
+      "fact": "The Trump administration worked to dismantle the Education Department by having the Treasury Department take over some federal student loans.",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2026/03/19/politics/student-loans-treasury-department-education",
+          "name": "cnn.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/treasury-department-begins-taking-over-federal-student-loans-from-education-department",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "date": "2026-03-19",
+      "fact": "Trump escalated pressure on Communist Party leadership, causing trade with Cuba to collapse",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/cuba-trump-rubio-oil-communist-party-745611a2d6fb7e9ba02e322401003a3e",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "date": "2026-03-19",
+      "fact": "The Trump administration launched investigations into 13 states that require state-regulated health insurance plans to cover abortion.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-probes-states-that-mandate-health-insurance-coverage-for-abortion",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "date": "2026-03-19",
+      "fact": "Trump's strategy of blocking clean energy, such as wind and solar power, has left Americans vulnerable to supply shocks caused by the Iran war",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/economy/why-experts-say-the-iran-war-underscores-risks-of-trumps-all-in-focus-on-oil",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "date": "2026-03-19",
+      "fact": "Trump requested $200 billion in supplemental funding for the war in Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5791945-pentagon-funding-iran-war-supplemental-republicans/",
           "name": "thehill.com"
         }
       ]
