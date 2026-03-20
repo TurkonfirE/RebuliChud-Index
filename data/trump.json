@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of empathy and a tendency to dehumanize certain groups, including immigrants, minorities, and women, as evidenced by his racist and sexist remarks, and his policies aimed at restricting the rights of marginalized communities.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his settlement of fraud cases related to Trump University. Trump has also demonstrated a willingness to exploit his power for personal gain, including using his foundation for self-dealing and tax evasion, and profiting from events held at his hotels and golf courses. His rhetoric and policies are often divisive and discriminatory, targeting marginalized groups such as immigrants, Muslims, and LGBTQ individuals, and he has been accused of promoting anti-science and anti-vaccine activism. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law, with a penchant for using the military, law enforcement, and the justice system to target his political opponents and silence critics.",
   "initialized": true,
   "entries": [
     {
@@ -3050,6 +3050,28 @@
         {
           "url": "https://thehill.com/homenews/house/5791945-pentagon-funding-iran-war-supplemental-republicans/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "date": "2026-03-20",
+      "fact": "A global report found that Trump is dismantling democracy at an unprecedented speed, with some study leaders suggesting his goal is to rule as an autocrat",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5754021/trump-democracy-autocracy-dictatorship-reports",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "date": "2026-03-19",
+      "fact": "President Trump started a war with Iran with no clear end in sight",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
+          "name": "npr.org"
         }
       ]
     }
