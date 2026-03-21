@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist \"birther\" conspiracy theory, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -1414,9 +1414,9 @@
       ]
     },
     {
-      "id": 336,
+      "id": 337,
       "date": "2026-02-20",
-      "fact": "A court ruled against Trump in the case Learning Resources, Inc. v. Trump Revisions: 2/23/26",
+      "fact": "A court ruled against Donald Trump in the case of Learning Resources, Inc. v. Trump Revisions",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10799354/learning-resources-inc-v-trump-revisions-22326/",
@@ -1429,9 +1429,9 @@
       ]
     },
     {
-      "id": 131,
+      "id": 338,
       "date": "2026-02-23",
-      "fact": "A court ruled against Donald Trump in the case Lesly Miot v. Trump",
+      "fact": "A court ruled against Donald Trump in the case of Lesly Miot v. Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10799883/lesly-miot-v-trump/",
@@ -3083,6 +3083,17 @@
         {
           "url": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "date": "2026-03-14",
+      "fact": "Donald Trump was a defendant in the case Beatty v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
