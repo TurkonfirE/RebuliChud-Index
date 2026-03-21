@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his enemies. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -2991,6 +2991,10 @@
         {
           "url": "https://www.pbs.org/newshour/world/watch-why-didnt-you-tell-me-about-pearl-harbor-trump-says-when-japanese-reporter-asks-why-allies-didnt-know-about-iran-plan",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://apnews.com/article/tokyo-us-trump-takaichi-japan-pearl-harbor-iran-war-9b3a60e02d384d1e024094e49c1e7f5e",
+          "name": "apnews.com"
         }
       ]
     },
@@ -3006,6 +3010,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/treasury-department-begins-taking-over-federal-student-loans-from-education-department",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/education/5791824-trump-mcmahon-education-department-enters-its-second-year/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3127,6 +3135,17 @@
         {
           "url": "https://apnews.com/article/trump-harvard-civil-rights-lawsuit-4b70863c7cf18703a6398e8189791135",
           "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "date": "2026-03-14",
+      "fact": "A court ruling was made in the case of Beatty v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
