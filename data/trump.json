@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over charges of racial discrimination. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric is often divisive and inflammatory, targeting marginalized groups such as immigrants, Muslims, and people of color. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been characterized as authoritarian, contributing to democratic backsliding and negatively impacting the rule of law. Trump's behavior has been marked by a pattern of dishonesty, corruption, and abuse of power, earning him multiple felony convictions and numerous lawsuits.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and deception, including making false statements about the 2020 election and inflating the value of his business to gain an advantage with lenders and banks. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -3160,6 +3160,43 @@
         },
         {
           "url": "https://thehill.com/homenews/administration/5794713-donald-trump-immigration-enforcement-tsa-airport-security-dhs-shutdown/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "date": "2026-03-21",
+      "fact": "Donald Trump made insensitive comments celebrating the death of Robert Mueller",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2026/03/21/politics/donald-trump-robert-mueller-insensitive-comments",
+          "name": "cnn.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5794930-trump-reacts-mueller-death/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "date": "2026-03-20",
+      "fact": "Trump referred to NATO as a 'paper tiger' and 'cowards' over Europe's stance on securing the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5793172-trump-nato-paper-tiger/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "date": "2026-03-22",
+      "fact": "President Trump threatened to 'obliterate' Iran's power plants if the Strait of Hormuz is not reopened within two days.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5795151-trump-threatens-iran-power-plants/",
           "name": "thehill.com"
         }
       ]
