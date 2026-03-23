@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his comments on Mexican immigrants, Muslim-majority countries, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been marked by a pattern of corruption, abuse of power, and disregard for the rule of law, culminating in multiple indictments, convictions, and lawsuits.",
   "initialized": true,
   "entries": [
     {
@@ -3176,6 +3176,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5794930-trump-reacts-mueller-death/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5796280-trump-mueller-response-chris-christie/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3206,6 +3210,10 @@
         {
           "url": "https://www.theguardian.com/world/2026/mar/22/iran-donald-trump-48-hours-open-hormuz-strait",
           "name": "theguardian.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/5795820-araghchi-iran-us-conflict/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3260,6 +3268,83 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/senate/5794004-save-america-act-dhs-mullin/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "date": "2026-03-20",
+      "fact": "Two former FBI agents filed a federal lawsuit claiming they were fired for their participation in an investigation into Trump's effort to overturn the 2020 election results",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/2-former-fbi-agents-say-they-were-fired-over-their-roles-in-trump-2020-election-probe",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "date": "2026-03-22",
+      "fact": "President Trump pressured Colorado Governor Jared Polis to commute the sentence of election denier and convicted felon Tina Peters",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5793658-democrats-colorado-polis-tina-peters/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "date": "2026-03-23",
+      "fact": "President Trump indicated support for U.S. military attacks against Iran, stating that Defense Secretary Pete Hegseth was the first to back the action because Iran cannot be allowed to have a nuclear weapon.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5796691-trump-hegseth-iran-war-support/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "date": "2026-03-23",
+      "fact": "President Trump refused to accept the results of the 2020 election, causing political consequences for Republicans",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/campaign/5795243-trump-boomerangs-republican-losses/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "date": "2026-03-23",
+      "fact": "The Trump administration was sued by VOA journalists for allegedly forcing censorship and promoting propaganda at the Voice of America.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5796635-voice-of-america-propaganda-lawsuit/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "date": "2026-03-23",
+      "fact": "Trump made a statement implying that judges should function as one more weapon in his authoritarian political arsenal, suggesting they should be either minions or traitors",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/judiciary/5793602-trumps-loyalty-judicial-independence/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "date": "2026-03-23",
+      "fact": "Trump told Republican lawmakers to stay in Washington over Easter to vote on the SAVE Act, which ties Department of Homeland Security funding with voter identification requirements",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5796693-trump-republicans-save-act/",
           "name": "thehill.com"
         }
       ]
