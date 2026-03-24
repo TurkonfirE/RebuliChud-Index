@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist \"birther\" conspiracy theory, and his use of harsh anti-immigrant rhetoric.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous cases of fraud, including a $40 million civil suit against Trump University for making false statements and defrauding consumers. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to silence critics, undermine institutions, and advance his personal interests, including his use of the presidency to promote his business ventures and attack his political opponents. Overall, Trump's actions and behavior reveal a profound disregard for the principles of democracy, equality, and justice.",
   "initialized": true,
   "entries": [
     {
@@ -3367,6 +3367,43 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5796280-trump-mueller-response-chris-christie/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5795894-bessent-trump-empathy-plea/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "date": "2026-03-23",
+      "fact": "President Trump placed a statue of Christopher Columbus, a controversial figure, near the White House",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5796442-white-house-columbus-statue/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "date": "2026-03-23",
+      "fact": "Trump backed the renewal of Section 702 of the Foreign Intelligence Surveillance Act, which allows the government to spy on foreigners located abroad without a warrant",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5793790-trump-spy-powers-gop-fisa-702/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "date": "2026-03-23",
+      "fact": "President Trump said Iran 'has one more opportunity to end its threats' to the U.S. and its allies, and that attacks on Iran's energy infrastructure would be put on hold for five days.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5795410-live-updates-donald-trump-iran/",
           "name": "thehill.com"
         }
       ]
