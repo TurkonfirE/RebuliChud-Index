@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his implementation of policies that harm these groups.",
   "initialized": true,
   "entries": [
     {
@@ -3415,6 +3415,106 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/international/5797808-iran-israel-gulf-state-targets-trump-us-negotiations/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "date": "2026-03-24",
+      "fact": "Trump voted by mail in a Florida special election despite previously calling mail-in voting 'mail-in cheating'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5797902-trump-votes-mail-florida/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://apnews.com/article/donald-trump-vote-by-mail-bd52fd205f4484237d5b77d2e7319350",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-casts-florida-ballot-by-mail-as-he-pushes-congress-to-severely-limit-that-voting-option",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "date": "2026-03-24",
+      "fact": "Trump called mail-in voting 'cheating' and 'corrupt as hell' as he urges Congress to pass the SAVE Act, a sweeping bill that would bar universal mail ballots.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-casts-florida-ballot-by-mail-as-he-pushes-congress-to-severely-limit-that-voting-option",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "date": "2026-03-24",
+      "fact": "The Trump administration refused to conduct a joint investigation with Minnesota into the killings of two protesters",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5798618-minnesota-doj-dhs-lawsuit-pretti-good/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://apnews.com/article/immigration-minneapolis-sue-alex-pretti-renee-good-5a0b98ac7173ce0e9ecc3bf9a39e3919",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "date": "2026-03-24",
+      "fact": "The Trump administration launched strikes on Iran, resulting in a surge in oil prices",
+      "sources": [
+        {
+          "url": "https://thehill.com/business/5798564-united-airlines-fuel-price-hike/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "date": "2026-03-24",
+      "fact": "President Trump called to nationalize elections last month, prompting a bipartisan group of lawyers to form an organization to stop his effort to federalize elections.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5798417-trump-elections-save-america-act/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "date": "2026-03-24",
+      "fact": "The Trump administration has stopped tracking billion-dollar disasters and is attempting to dismantle FEMA, leaving American communities vulnerable to the increasing frequency and severity of extreme weather events.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/congress-blog/energy-environment/5796548-trump-administration-cuts-fema/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "date": "2026-03-24",
+      "fact": "President Trump defended an immigration policy known as \"metering,\" which allows border officials to turn back migrants who have not physically crossed the U.S.-Mexico border",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5797751-listen-live-supreme-court-asylum-case-metering-dhs-mullin/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "date": "2026-03-24",
+      "fact": "Congress is set to vote on a funding bill for President Trump's war with Iran, which has been met with criticism due to its unilateral initiation and potential economic and human cost",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5797370-trump-congress-iran-war/",
           "name": "thehill.com"
         }
       ]
