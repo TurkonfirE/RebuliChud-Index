@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his comments on Mexican immigrants, Muslim-majority countries, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been marked by a pattern of corruption, abuse of power, and disregard for the rule of law, culminating in multiple indictments, convictions, and lawsuits.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist \"birther\" conspiracy theory, and his use of harsh anti-immigrant rhetoric.",
   "initialized": true,
   "entries": [
     {
@@ -3345,6 +3345,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5796693-trump-republicans-save-act/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "date": "2026-03-23",
+      "fact": "Trump rejected a Senate proposal to reopen the Department of Homeland Security without funding for Immigration and Customs Enforcement (ICE)",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/trump-rejects-senate-proposal-to-reopen-dhs-without-ice-funding",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "date": "2026-03-23",
+      "fact": "Trump wrote that he was 'glad' former FBI Director Robert Mueller was deceased",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5796280-trump-mueller-response-chris-christie/",
           "name": "thehill.com"
         }
       ]
