@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his implementation of policies that harm these groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized communities, including immigrants, women, and LGBTQ individuals. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the weaponization of government agencies to target his enemies, and the erosion of democratic norms and institutions. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -3161,6 +3161,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5794713-donald-trump-immigration-enforcement-tsa-airport-security-dhs-shutdown/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5797499-us-airports-immigration-enforcement-officers-deployed/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3280,6 +3284,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/2-former-fbi-agents-say-they-were-fired-over-their-roles-in-trump-2020-election-probe",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5797750-ex-agents-sued-trump/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3515,6 +3523,72 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/white-house/5797370-trump-congress-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "date": "2026-03-16",
+      "fact": "Donald Trump was involved in the court case State of New York v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "date": "2026-03-24",
+      "fact": "A court ruling was made in the case of Ebrahimi v. Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "date": "2026-03-24",
+      "fact": "The Minnesota state government sued the Trump administration over shootings, including deaths of Alex Pretti and Renee Good.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/immigration-minneapolis-sue-alex-pretti-renee-good-5a0b98ac7173ce0e9ecc3bf9a39e3919",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "date": "2026-03-24",
+      "fact": "The Supreme Court considered letting the Trump administration revive a restrictive immigration asylum policy.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/supreme-court-immigration-asylum-370cfe83c56f74fe56bf60cf2bebb07e",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "date": "2026-03-24",
+      "fact": "President Trump said the U.S. war in Iran has been won, despite uncertainty about when it would end",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5798787-trump-declares-iran-war-won/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "date": "2026-03-24",
+      "fact": "An unusually large oil stock trade occurred moments before President Trump announced a five-day pause on previously threatened energy infrastructure strikes in Iran, prompting allegations of insider trading",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5798756-murphy-trump-oil-iran-insider-trading/",
           "name": "thehill.com"
         }
       ]
