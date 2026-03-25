@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly voted and signed legislation to limit access to healthcare, abortion, and voting rights, while also promoting anti-immigrant and anti-LGBTQ+ policies. DeSantis has also shown a willingness to use divisive rhetoric and take actions that intimidate and harm marginalized communities, such as flying asylum seekers to Martha's Vineyard and banning the teaching of critical race theory. His actions and policies have been particularly harmful to women, minorities, and low-income individuals. DeSantis's governance style is characterized by a disregard for environmental protection, social welfare, and democratic processes.",
+  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly voted and signed legislation to limit access to healthcare, abortion, and voting rights, while also promoting anti-immigrant and anti-LGBTQ+ policies. DeSantis has also shown a willingness to use divisive rhetoric and take actions that target specific groups, such as his comments about Andrew Gillum and his decision to fly asylum seekers to Martha's Vineyard. His actions and policies have been marked by a strong partisan stance, often at the expense of marginalized communities and the environment. DeSantis's governance style is characterized by a tendency to impose strict regulations and restrictions, while also seeking to dismantle existing institutions and programs that promote social welfare and environmental protection.",
   "initialized": true,
   "entries": [
     {
@@ -306,6 +306,17 @@
         {
           "url": "https://baynews9.com/fl/tampa/news/2024/07/08/desantis-vetoes-water-contamination-reporting-bill",
           "name": "baynews9.com"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "date": "2026-03-24",
+      "fact": "Ron DeSantis stated he wants to abolish the Transportation Security Administration (TSA) and replace it with standard security measures used by large event venues.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/robbys-radar/5798612-abolish-tsa-ron-desantis/",
+          "name": "thehill.com"
         }
       ]
     }
