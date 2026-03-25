@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent and his promotion of racist conspiracy theories.",
   "initialized": true,
   "entries": [
     {
@@ -3662,6 +3662,17 @@
         {
           "url": "https://thehill.com/homenews/senate/5798846-senate-democrats-reject-gop-ice-proposal/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "date": "2026-03-14",
+      "fact": "A court ruled on Beatty v. Trump, a case involving Donald Trump, on March 14, 2026",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
