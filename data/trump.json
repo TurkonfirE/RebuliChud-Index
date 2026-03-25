@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges of racial discrimination in his properties and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent and his promotion of racist conspiracy theories.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
   "initialized": true,
   "entries": [
     {
@@ -2667,9 +2667,9 @@
       ]
     },
     {
-      "id": 286,
+      "id": 396,
       "date": "2026-03-16",
-      "fact": "The State of New York filed a court case against Trump",
+      "fact": "A court ruled in the case of State of New York v. Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
@@ -3422,6 +3422,10 @@
         {
           "url": "https://thehill.com/homenews/house/5793790-trump-spy-powers-gop-fisa-702/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5800566-donald-trump-fisa-702-extension-support/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -3673,6 +3677,43 @@
         {
           "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "date": "2026-03-14",
+      "fact": "A court ruled in the case of Beatty v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "date": "2026-03-25",
+      "fact": "The DOJ disclosed damning evidence about Trump's procurement of classified documents, according to a top Democrat.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/trump-administration/jack-smith-memo-trump-classified-documents-cannon-congress-doj-rcna265060",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/5799507-trump-classified-documents-mar-a-lago-smith-memo/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "date": "2026-03-25",
+      "fact": "The Trump administration's policy allowing mass detention of migrants awaiting deportation without bond was upheld by a federal appeals court",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5800362-federal-appeals-court-ruling-trump-immigration-enforcement/",
+          "name": "thehill.com"
         }
       ]
     }
