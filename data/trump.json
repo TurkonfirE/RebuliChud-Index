@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
   "initialized": true,
   "entries": [
     {
@@ -3736,6 +3736,17 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trump-showed-off-a-classified-map-during-a-2022-plane-trip-raskin-alleges-in-letter",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "date": "2026-03-26",
+      "fact": "President Trump said he avoids using the word 'war' to describe the conflict in Iran because it may require congressional approval",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5801382-trump-iran-war-congressional-approval/",
+          "name": "thehill.com"
         }
       ]
     }
