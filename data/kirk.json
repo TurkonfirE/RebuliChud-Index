@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of false information, conspiracy theories, and hateful rhetoric. He has repeatedly spread misinformation about COVID-19, voter fraud, and social issues, and has used his platform to promote anti-LGBTQ, anti-immigrant, and anti-Muslim sentiments. Kirk has also made racist and antisemitic comments, and has called for violence against certain groups, including migrants and doctors who provide gender-affirming care. His actions and statements demonstrate a disregard for facts, a lack of empathy, and a willingness to incite hatred and division. Kirk's behavior has been consistent over time, with a clear pattern of promoting falsehoods, conspiracy theories, and extremist ideologies.",
+  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of false information, conspiracy theories, and hateful rhetoric. He has repeatedly spread misinformation about COVID-19, voter fraud, and social issues, and has used his platform to promote anti-LGBTQ, anti-immigrant, and anti-Muslim sentiments. Kirk has also made racist and antisemitic comments, and has called for violence against certain groups, including migrants and doctors who provide gender-affirming care. His actions and statements demonstrate a disregard for facts, a lack of empathy, and a willingness to incite hatred and violence. Kirk's behavior has been consistent over time, with a clear pattern of promoting divisive and harmful ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -1013,6 +1013,17 @@
         {
           "url": "https://www.aljazeera.com/news/2025/9/11/who-was-charlie-kirk-what-we-know-about-the-shooting-and-the-suspect",
           "name": "aljazeera.com"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "date": "2026-03-25",
+      "fact": "Charlie Kirk hosted White House border czar Tom Homan on his show, where Homan suggested the presence of immigration enforcement at polling places, asking what Democrats are 'afraid of'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5800012-homan-ice-polling-places/",
+          "name": "thehill.com"
         }
       ]
     }
