@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly voted and signed legislation to limit access to healthcare, abortion, and voting rights, while also promoting anti-immigrant and anti-LGBTQ+ policies. DeSantis has also shown a willingness to use divisive rhetoric and take actions that target specific groups, such as his comments about Andrew Gillum and his decision to fly asylum seekers to Martha's Vineyard. His actions and policies have been marked by a strong partisan stance, often at the expense of marginalized communities and the environment. DeSantis's governance style is characterized by a tendency to impose strict regulations and restrictions, while also seeking to dismantle existing institutions and programs that promote social welfare and environmental protection.",
+  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has repeatedly voted and signed legislation to limit access to healthcare, abortion, and voting rights, while also promoting anti-immigrant and anti-LGBTQ+ policies. DeSantis has also shown a willingness to use divisive rhetoric and take actions that target specific groups, such as his comments about Andrew Gillum and his decision to fly asylum seekers to Martha's Vineyard. His actions and policies have been marked by a disregard for environmental protection, public health, and social welfare, as evidenced by his refusal to accept funding for energy-efficient home retrofits and his veto of a bill to address water pollution. Overall, DeSantis's character is defined by his unwavering commitment to conservative principles and his willingness to take drastic measures to advance his agenda.",
   "initialized": true,
   "entries": [
     {
@@ -317,6 +317,17 @@
         {
           "url": "https://thehill.com/opinion/robbys-radar/5798612-abolish-tsa-ron-desantis/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "date": "2025-09-26",
+      "fact": "A court ruled against Ron DeSantis in the McGraw v. DeSantis case",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10678441/mcgraw-v-desantis/",
+          "name": "courtlistener.com"
         }
       ]
     }
