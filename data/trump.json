@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional disagreement and the weaponization of the FBI and the Justice Department against his enemies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other potential legal and ethical violations.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -3746,6 +3746,61 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5801382-trump-iran-war-congressional-approval/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "date": "2026-03-26",
+      "fact": "President Trump characterized the U.S.-Israeli aerial bombardments of Iran as a 'little excursion', despite the conflict costing the U.S. billions of dollars and resulting in numerous casualties.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/congress-blog/5800394-trump-war-excursion-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "date": "2026-03-26",
+      "fact": "President Trump accused Iranian negotiators of 'begging' to reach a deal with the U.S.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5801558-us-iran-positions-middle-east-ceasefire-push/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "date": "2026-03-26",
+      "fact": "President Trump floats a takeover of Cuba",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5801225-jayapal-meeks-cuba-military-action-funding/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "date": "2026-03-26",
+      "fact": "Trump's administration is attempting to collect race-based college admissions data, which could be used to target schools perceived as violating a 2023 Supreme Court ruling on affirmative action.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/education/5800858-race-based-college-admissions-data-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "date": "2026-03-25",
+      "fact": "President Trump sent more troops toward Iran, mobilizing the Army's elite 82nd Airborne Division, amid lawmakers' demands for more information about the conflict.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5801040-iran-trump-pentagon-lawmakers-briefings/",
           "name": "thehill.com"
         }
       ]
