@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
   "initialized": true,
   "entries": [
     {
@@ -3721,6 +3721,17 @@
       "id": 399,
       "date": "2022",
       "fact": "Trump showed off a classified map during a 2022 plane trip, according to a letter by a top House Democrat",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-showed-off-a-classified-map-during-a-2022-plane-trip-raskin-alleges-in-letter",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "date": "2022-01-01",
+      "fact": "Trump showed off a classified map during a 2022 plane trip",
       "sources": [
         {
           "url": "https://www.pbs.org/newshour/politics/trump-showed-off-a-classified-map-during-a-2022-plane-trip-raskin-alleges-in-letter",
