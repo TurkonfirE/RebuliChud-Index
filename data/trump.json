@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a pattern of dishonesty, including making false statements about the 2020 election and his own business dealings. Additionally, Trump has been convicted of multiple felonies, including falsifying business records, and has been found liable for sexual abuse and defamation. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning that his behavior poses a significant threat to the rule of law and democratic institutions.",
   "initialized": true,
   "entries": [
     {
@@ -3860,6 +3860,17 @@
       "sources": [
         {
           "url": "https://thehill.com/blogs/in-the-know/5802453-trump-white-house-ballroom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "date": "2026-03-27",
+      "fact": "Trump's executive order restricting birthright citizenship could harm millions, including citizens, if the Supreme Court sides with him",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/immigration/5803537-supreme-court-immigration-birthright/",
           "name": "thehill.com"
         }
       ]
