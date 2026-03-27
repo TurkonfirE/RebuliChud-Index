@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his comments on Mexican immigrants, Muslims, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been marked by a pattern of corruption, abuse of power, and disregard for the rule of law, earning him multiple felony convictions and numerous lawsuits.",
   "initialized": true,
   "entries": [
     {
@@ -3714,6 +3714,10 @@
         {
           "url": "https://thehill.com/regulation/court-battles/5800362-federal-appeals-court-ruling-trump-immigration-enforcement/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/appeals-court-sides-with-trump-administration-on-detaining-immigrants-without-bond",
+          "name": "pbs.org"
         }
       ]
     },
@@ -3801,6 +3805,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/house/5801040-iran-trump-pentagon-lawmakers-briefings/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "date": "2026-03-26",
+      "fact": "A federal judge blocked President Trump's order to cut all contracts with Anthropic, describing it as 'classic' First Amendment retaliation.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/technology/5803486-anthropic-lawsuit-pentagon-claude/",
           "name": "thehill.com"
         }
       ]
