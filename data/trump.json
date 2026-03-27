@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his comments on Mexican immigrants, Muslims, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of inciting violence and insurrection. His actions have been marked by a pattern of corruption, abuse of power, and disregard for the rule of law, earning him multiple felony convictions and numerous lawsuits.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evident in his comments on Mexican immigrants, Black people, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has shown a propensity for authoritarianism, as seen in his attacks on critics, opponents, and the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -3816,6 +3816,50 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/technology/5803486-anthropic-lawsuit-pentagon-claude/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "date": "2026-03-26",
+      "fact": "The Trump administration opened investigations into race in admissions at 3 medical schools",
+      "sources": [
+        {
+          "url": "https://www.cnn.com/2026/03/26/health/medical-school-admissions-investigation",
+          "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "date": "2026-03-26",
+      "fact": "President Trump made a statement slamming Fox News polls, saying 'I hate Fox polls' and that 'whoever does your polls are terrible'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5803424-trump-slams-fox-polls/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "date": "2026-03-26",
+      "fact": "The Trump administration proposed a rule that would lift restrictions on nonstandardized plans in the Affordable Care Act marketplace, potentially pushing 2 million people off enrollment.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/healthcare/5802017-senate-democrats-condemn-trump-aca-rule/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "date": "2026-03-26",
+      "fact": "Trump revealed that the military wanted the construction of the White House ballroom, which was 'supposed to be secret'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5802453-trump-white-house-ballroom/",
           "name": "thehill.com"
         }
       ]
