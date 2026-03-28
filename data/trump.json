@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a pattern of dishonesty, including making false statements about the 2020 election and his own business dealings. Additionally, Trump has been convicted of multiple felonies, including falsifying business records, and has been found liable for sexual abuse and defamation. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning that his behavior poses a significant threat to the rule of law and democratic institutions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -2777,9 +2777,9 @@
       ]
     },
     {
-      "id": 301,
+      "id": 419,
       "date": "2026-03-14",
-      "fact": "A court case, Beatty v. Trump, was filed against Donald Trump",
+      "fact": "A court ruled against Donald Trump in the case Beatty v. Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
@@ -3556,9 +3556,9 @@
       ]
     },
     {
-      "id": 380,
+      "id": 420,
       "date": "2026-03-16",
-      "fact": "Donald Trump was involved in the court case State of New York v. Trump",
+      "fact": "A court case, State of New York v. Trump, was filed against Donald Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
@@ -3871,6 +3871,17 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/immigration/5803537-supreme-court-immigration-birthright/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "date": "2026-03-27",
+      "fact": "Trump warned that Cuba would be 'next' after discussing US wins in its war against Iran at a Saudi business forum in Miami.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5805278-trump-saudi-forum-cuba-iran/",
           "name": "thehill.com"
         }
       ]
