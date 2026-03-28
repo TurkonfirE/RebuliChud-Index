@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has expressed support for white supremacist and antisemitic views, as well as Islamophobic and transphobic ideologies. Greene has also advocated for the execution of prominent Democratic politicians and has made numerous false claims about various topics, including mass shootings, COVID-19, and the 2020 presidential election. Her behavior has been marked by aggression and a disregard for facts, earning her removal from committee assignments and expulsion from the House Freedom Caucus. Greene's actions and rhetoric have been widely criticized, and her continued presence in public life has been marked by controversy and division.",
+  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has supported white supremacist and antisemitic views, and has made Islamophobic and transphobic comments. Greene has also endorsed political violence, calling for the execution of prominent Democratic politicians and suggesting that the only way to regain freedoms is through bloodshed. Her behavior has been marked by a disregard for facts, as evidenced by her repeated dissemination of misinformation about COVID-19, mass shootings, and other topics. Additionally, Greene has shown a willingness to confront and intimidate her opponents, including Parkland shooting survivor David Hogg and Representative Alexandria Ocasio-Cortez. Overall, Greene's character and behavior are defined by a toxic mix of extremism, intolerance, and aggression.",
   "initialized": true,
   "entries": [
     {
@@ -1455,6 +1455,17 @@
         {
           "url": "https://thehill.com/homenews/media/5786121-greene-megyn-kelly-iran-trump-mark-levin/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "date": "2024-10-31",
+      "fact": "Marjorie Taylor Greene's campaign, Greene For Congress, Inc., was sued by Equity Prime Mortgage, LLC",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10171841/equity-prime-mortgage-llc-v-greene-for-congress-inc/",
+          "name": "courtlistener.com"
         }
       ]
     }
