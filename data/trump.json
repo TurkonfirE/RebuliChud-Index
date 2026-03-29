@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -3905,6 +3905,28 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-life-house-considers-funding-deal-to-reopen-department-of-homeland-security",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "date": "2026-03-16",
+      "fact": "A court ruling was made in the case of State of New York v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10809421/state-of-new-york-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "date": "2026-03-27",
+      "fact": "Trump rejected the Senate-passed funding bill for the Department of Homeland Security because it did not fully fund the agency.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5805029-trump-rejects-dhs-funding-bill/",
+          "name": "thehill.com"
         }
       ]
     }
