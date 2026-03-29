@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has supported white supremacist and antisemitic views, and has made Islamophobic and transphobic comments. Greene has also endorsed political violence, calling for the execution of prominent Democratic politicians and suggesting that the only way to regain freedoms is through bloodshed. Her behavior has been marked by a disregard for facts, as evidenced by her repeated dissemination of misinformation about COVID-19, mass shootings, and other topics. Additionally, Greene has shown a willingness to confront and intimidate her opponents, including Parkland shooting survivor David Hogg and Representative Alexandria Ocasio-Cortez. Overall, Greene's character and behavior are defined by a toxic mix of extremism, intolerance, and aggression.",
+  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of behavior that promotes conspiracy theories, bigotry, and violence. She has expressed support for white supremacist and antisemitic views, and has made Islamophobic and transphobic comments. Greene has also advocated for the execution of prominent Democratic politicians and has promoted false flag conspiracy theories about mass shootings. Her actions have been marked by a disregard for facts and a willingness to spread misinformation, including about COVID-19, vaccines, and election integrity. Greene's behavior has been deemed incendiary enough to warrant her removal from committee assignments and expulsion from the House Freedom Caucus.",
   "initialized": true,
   "entries": [
     {
@@ -1465,6 +1465,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10171841/equity-prime-mortgage-llc-v-greene-for-congress-inc/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "date": "2022-11-03",
+      "fact": "Marjorie Taylor Greene was sued by Equity Prime Mortgage in a court case titled EQUITY PRIME MORTGAGE v. GREENE FOR CONGRESS, INC.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
           "name": "courtlistener.com"
         }
       ]
