@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist \"birther\" conspiracy theory, and his use of harsh and dehumanizing anti-immigrant rhetoric.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -3938,6 +3938,17 @@
         {
           "url": "https://www.cnn.com/2026/03/29/us/mueller-trump-fbi-presidents-standoff",
           "name": "cnn.com"
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "date": "2026-03-29",
+      "fact": "President Trump's war with Iran has posed a growing threat to the pharmaceutical supply chain and risks spiking the prices of many drugs",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/healthcare/5805149-iran-war-pharmaceutical-supply-chain/",
+          "name": "thehill.com"
         }
       ]
     }
