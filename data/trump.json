@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the weaponization of the FBI and Justice Department, and the granting of clemency to loyalists and allies. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption.",
   "initialized": true,
   "entries": [
     {
@@ -3986,6 +3986,32 @@
         {
           "url": "https://thehill.com/homenews/house/5806767-auchincloss-warns-against-iran-invasion/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "date": "2026-03-30",
+      "fact": "Trump claimed the deaths of Iranian leaders constituted 'truly regime change' in Iran, implying a shift in the country's leadership due to US actions.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5806993-regime-change-trump-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "date": "2026-03-30",
+      "fact": "Trump said his favorite thing is to take the oil in Iran, suggesting his priority in the country is taking control of its oil industry.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5806957-trump-iran-war-oil-control/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-preference-take-oil-iran-rcna265747",
+          "name": "nbcnews.com"
         }
       ]
     }
