@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
   "initialized": true,
   "entries": [
     {
@@ -3948,6 +3948,43 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/healthcare/5805149-iran-war-pharmaceutical-supply-chain/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "date": "2026-03-30",
+      "fact": "Trump said he is considering seizing Iran's Kharg Island as oil prices rise",
+      "sources": [
+        {
+          "url": "https://www.bbc.com/news/live/c8jke9v9xv9t",
+          "name": "bbc.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5806957-trump-iran-war-oil-control/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "date": "2026-03-30",
+      "fact": "Trump signaled the US will allow a Russian oil tanker to reach Cuba, effectively relaxing a blockade that has plunged the island into an energy crisis.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5806983-trump-russian-oil-tanker-cuba/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "date": "2026-03-29",
+      "fact": "President Trump hasn't ruled out the possibility of a ground invasion of Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5806767-auchincloss-warns-against-iran-invasion/",
           "name": "thehill.com"
         }
       ]
