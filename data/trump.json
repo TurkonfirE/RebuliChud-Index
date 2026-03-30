@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
   "initialized": true,
   "entries": [
     {
@@ -3983,6 +3983,10 @@
         {
           "url": "https://www.pbs.org/newshour/world/trump-says-he-has-no-problem-with-sanctioned-russian-oil-tanker-bringing-relief-to-cuba-despite-blockade",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade",
+          "name": "npr.org"
         }
       ]
     },
@@ -4102,6 +4106,54 @@
         {
           "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "date": "2026-03-30",
+      "fact": "President Trump ripped birthright citizenship, stating it's 'not about rich people from China, and the rest of the World, who want their children, and hundreds of thousands more, FOR PAY, to ridiculously become citizens of the US'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5807253-trump-rips-birthright-citizenship-supreme-court/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/30/nx-s1-5766096/supreme-court-birthright-citizenship-explainer",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "date": "2026-03-30",
+      "fact": "The Trump administration proposed a rule to limit ethical controls on Department of Justice lawyers, making it easier for them to evade accountability and achieve the administration's political goals",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/judiciary/5806968-federal-courts-trump-doj-ethics/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "date": "2026-03-30",
+      "fact": "The Trump administration sued Minnesota over transgender athletes in girls sports",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/transgender-athletes-minnesota-trump-d2b7800fe6a84e5514eafefc3869d313",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "date": "2026-03-30",
+      "fact": "Trump threatens major Iran escalation",
+      "sources": [
+        {
+          "url": "https://thehill.com/newsletters/1230-report/5807547-airport-wait-times-improve/",
+          "name": "thehill.com"
         }
       ]
     }
