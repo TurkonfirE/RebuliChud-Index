@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has voted to repeal the Affordable Care Act, signed anti-climate change pledges, and introduced legislation to limit immigration and voting rights. DeSantis has also supported and signed bills that restrict access to abortion, limit discussions of sexual orientation and gender identity in schools, and prohibit the teaching of critical race theory. His actions and policies have been repeatedly challenged in court, with several rulings against him. Additionally, DeSantis has engaged in behavior that has been interpreted as racist and divisive, and has used his power to target specific groups and individuals, such as asylum seekers and tech companies.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by consistent efforts to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, targets minority groups, and suppresses free speech. DeSantis has also demonstrated a willingness to use divisive rhetoric and has been involved in numerous court cases challenging his actions as Governor of Florida. His actions and policies have been ruled against by courts on multiple occasions, documenting formal institutional consequences of his governance. DeSantis's behavior suggests a strong alignment with conservative ideologies and a disregard for opposing viewpoints.",
   "initialized": true,
   "entries": [
     {
@@ -361,6 +361,39 @@
         {
           "url": "https://thehill.com/homenews/state-watch/5808226-donald-trump-international-airport-pbi-desantis-florida-legislature/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2025-12-13",
+      "fact": "A court ruled on Frank A. Walls v. Secretary, Department of Corrections, documenting a formal institutional consequence of Desantis' actions as Governor of Florida",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10757325/frank-a-walls-v-secretary-department-of-corrections/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "date": "2026-02-03",
+      "fact": "A court ruled on Ronald Palmer Heath v. State of Florida & Ronald Palmer Heath v. Secretary, Department of Corrections, documenting a formal institutional consequence of Desantis' actions as Governor of Florida",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10783543/ronald-palmer-heath-v-state-of-florida-ronald-palmer-heath-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "date": "2026-02-04",
+      "fact": "A court ruled on Gilberti v. Desantis, Governor, Biden, documenting a formal institutional consequence of Desantis' actions",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10783944/gilberti-v-desantis-governor-biden/",
+          "name": "courtlistener.com"
         }
       ]
     }
