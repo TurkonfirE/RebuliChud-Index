@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and ordering investigations into his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -3861,6 +3861,10 @@
         {
           "url": "https://thehill.com/opinion/immigration/5803537-supreme-court-immigration-birthright/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/listen-live-supreme-court-considers-constitutionality-of-trumps-birthright-citizenship-order",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4044,6 +4048,14 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/mar/30/trump-protections-endangered-species-gulf-of-mexico",
           "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/science/trumps-endangered-species-committee-exempts-oil-and-gas-drilling-in-the-gulf-from-rules",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5808861-gulf-of-mexico-oil-drilling-esa-god-squad/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4167,6 +4179,10 @@
         {
           "url": "https://thehill.com/policy/international/5806993-regime-change-trump-iran-war/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/newsletters/morning-report/5808454-congress-shutdown-pressure-eases-tsa-paychecks/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4225,6 +4241,39 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/white-house/5808374-pope-leo-trump-war-immigration/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "date": "2026-03-31",
+      "fact": "A federal judge ruled that the Trump administration unlawfully terminated the legal status of migrants who used the Biden-era CBP One app",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5809570-trump-parole-status-migrants-cbp-one-unwound/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "date": "2026-03-31",
+      "fact": "Trump criticized France for not allowing planes headed to Israel to fly over its territory, calling the country 'very unhelpful' in the Iran war",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5808846-trump-criticizes-france-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "date": "2026-03-31",
+      "fact": "President Trump issued a warning to Iran against striking an oil tanker, which was subsequently bombed by the Iranian military",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5808543-iran-strikes-oil-tanker-dubai-middle-east-war/",
           "name": "thehill.com"
         }
       ]
