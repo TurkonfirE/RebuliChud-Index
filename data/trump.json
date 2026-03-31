@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and ordering investigations into his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
   "initialized": true,
   "entries": [
     {
@@ -2777,9 +2777,9 @@
       ]
     },
     {
-      "id": 454,
+      "id": 394,
       "date": "2026-03-14",
-      "fact": "A court ruled in Beatty v. Trump, a case against Donald Trump, on March 14, 2026",
+      "fact": "A court ruled on Beatty v. Trump, a case involving Donald Trump, on March 14, 2026",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
@@ -3670,17 +3670,6 @@
       ]
     },
     {
-      "id": 394,
-      "date": "2026-03-14",
-      "fact": "A court ruled on Beatty v. Trump, a case involving Donald Trump, on March 14, 2026",
-      "sources": [
-        {
-          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
-          "name": "courtlistener.com"
-        }
-      ]
-    },
-    {
       "id": 395,
       "date": "2026-03-14",
       "fact": "A court ruled in the case of Beatty v. Trump",
@@ -4214,6 +4203,28 @@
         },
         {
           "url": "https://thehill.com/homenews/administration/5808125-trump-scales-back-asylum-restrictions/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "date": "2026-03-31",
+      "fact": "Trump's EEOC, led by his appointee Andrea Lucas, has set a new agenda that attacks Diversity, Equity, and Inclusion (DEI) and emphasizes the civil rights of white people.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/31/nx-s1-5763966/eeoc-trump-white-men-civil-rights-dei-discrimination",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "date": "2026-03-31",
+      "fact": "President Trump used religion to justify war and implemented wholesale round-up and deportation policies, which were rejected by Pope Leo XIV",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5808374-pope-leo-trump-war-immigration/",
           "name": "thehill.com"
         }
       ]
