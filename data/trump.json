@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his attacks on diversity, equity, and inclusion initiatives.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -3987,6 +3987,10 @@
         {
           "url": "https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade",
           "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5806983-trump-russian-oil-tanker-cuba",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4121,6 +4125,10 @@
         {
           "url": "https://www.npr.org/2026/03/30/nx-s1-5766096/supreme-court-birthright-citizenship-explainer",
           "name": "npr.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/listen-live-supreme-court-considers-constitutionality-of-trumps-birthright-citizenship-order",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4143,6 +4151,10 @@
         {
           "url": "https://apnews.com/article/transgender-athletes-minnesota-trump-d2b7800fe6a84e5514eafefc3869d313",
           "name": "apnews.com"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2026/mar/30/minnesota-trans-athletes-lawsuit-trump-administration",
+          "name": "theguardian.com"
         }
       ]
     },
@@ -4153,6 +4165,55 @@
       "sources": [
         {
           "url": "https://thehill.com/newsletters/1230-report/5807547-airport-wait-times-improve/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5807346-oil-gas-prices-trump-iran-war-strait-of-hormuz-kharg-island/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5807135-donald-trump-threatens-iran-energy/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5806993-regime-change-trump-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "date": "2026-03-30",
+      "fact": "President Trump has railed against Tehran for closing the Strait of Hormuz, a vital shipping lane",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5805353-iran-response-trump-invasion-kharg-island/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "date": "2026-03-30",
+      "fact": "President Trump said the U.S. military is building a massive complex under his new White House ballroom",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5807115-donald-trump-military-complex-white-house-ballroom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "date": "2026-03-30",
+      "fact": "Trump rolled back a pause on asylum decisions imposed after the D.C. National Guard shooting, lifting the total ban on reviewing asylum applications for some countries",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/30/nx-s1-5766344/trump-rolls-back-pause-on-asylum-decisions",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5808125-trump-scales-back-asylum-restrictions/",
           "name": "thehill.com"
         }
       ]
