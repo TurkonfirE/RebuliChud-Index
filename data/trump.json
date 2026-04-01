@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evident in his comments on Mexican immigrants, Black people, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has shown a propensity for authoritarianism, as seen in his attacks on critics, his use of executive power to target opponents, and his attempts to dismantle federal agencies and undermine civil society.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, as seen in his attempts to pressure Ukrainian president Volodymyr Zelenskyy to investigate Joe and Hunter Biden and his baseless allegations of election fraud. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -4392,6 +4392,10 @@
         {
           "url": "https://apnews.com/article/supreme-court-trump-birthright-citizenship-immigrants-4dca3a4e06f58d4378412ed711fab3a8",
           "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-plans-to-be-at-the-supreme-court-during-arguments-on-his-bid-to-limit-birthright-citizenship",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4440,6 +4444,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-create-national-list-of-eligible-voters",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+          "name": "npr.org"
         }
       ]
     },
@@ -4466,6 +4474,10 @@
         {
           "url": "https://thehill.com/policy/energy-environment/5809999-iran-oil-trump-venezuela-ukraine/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5810972-uk-starmer-defends-nato-trump-criticism-iran-conflict/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4488,6 +4500,10 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/apr/01/first-thing-trump-launches-tirade-against-europe-for-not-joining-iran-war",
           "name": "theguardian.com"
+        },
+        {
+          "url": "https://apnews.com/article/nato-trump-iran-israel-war-hormuz-eu-4674aca45519c441fc42beac482180bc",
+          "name": "apnews.com"
         }
       ]
     },
@@ -4498,6 +4514,65 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5809524-live-updates-trump-supreme-court-birthright-citizenship/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5811341-trump-fires-truthsocial-birthright/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 479,
+      "date": "2026-04-01",
+      "fact": "Trump endorsed funding ICE and Border Patrol through a GOP-only bill",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5811446-trump-ice-border-patrol-funding-bill/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 480,
+      "date": "2026-04-01",
+      "fact": "The Trump administration reduced the number of SNAP recipients by 3.3 million, a policy that may have caused documented harm to people.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5809553-snap-recipients-decline-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "date": "2026-04-01",
+      "fact": "A federal judge ruled that Trump is not immune from civil claims related to his January 6, 2021 speech",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5811066-judge-allows-trump-jan6-suit/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "date": "2026-04-01",
+      "fact": "Trump made a false claim that Iran asked for a ceasefire, which Tehran called 'false and baseless'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5810644-trump-iran-ceasefire-request/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "date": "2026-04-01",
+      "fact": "President Trump is increasingly using U.S. power and influence in an attempt to gain control of foreign oil and minerals.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5809999-iran-oil-trump-venezuela-ukraine/",
           "name": "thehill.com"
         }
       ]
