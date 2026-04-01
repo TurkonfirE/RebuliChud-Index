@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority and the erosion of democratic norms and institutions. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a lack of respect for the judiciary and the rule of law. Additionally, Trump has been found liable for numerous wrongdoing, including inflating the value of his organization, falsifying business records, and committing sexual abuse and defamation. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -4221,6 +4221,10 @@
         {
           "url": "https://thehill.com/regulation/court-battles/5809614-trump-white-house-ballroom-construction-halt/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4355,6 +4359,50 @@
         {
           "url": "https://thehill.com/video-clips/5809427-watch-live-trump-executive-orders/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 467,
+      "date": "2026-03-31",
+      "fact": "Trump said other nations can 'fend for themselves' in Strait of Hormuz after the US leaves Iran, telling them to 'go get your own oil'",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/watch-trump-says-other-nations-can-fend-for-themselves-in-strait-of-hormuz-after-u-s-leaves-iran",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 468,
+      "date": "2026-03-31",
+      "fact": "Trump hinted at an end to military action in Iran, claiming the US will leave in 2-3 weeks",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai-trump-oil-europe",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "date": "2026-04-01",
+      "fact": "The Supreme Court heard a high-profile fight over Trump's bid to limit birthright citizenship",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/supreme-court-trump-birthright-citizenship-immigrants-4dca3a4e06f58d4378412ed711fab3a8",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 470,
+      "date": "2026-04-01",
+      "fact": "The Trump administration deported a California woman to Mexico",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/deportation-return-mexico-california-daca-c1b4f63a6732496c006d29db7ca558ad",
+          "name": "apnews.com"
         }
       ]
     }
