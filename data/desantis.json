@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by consistent efforts to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, targets minority groups, and suppresses free speech. DeSantis has also demonstrated a willingness to use divisive rhetoric and has been involved in numerous court cases challenging his actions as Governor of Florida. His actions and policies have been ruled against by courts on multiple occasions, documenting formal institutional consequences of his governance. DeSantis's behavior suggests a strong alignment with conservative ideologies and a disregard for opposing viewpoints.",
+  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has voted to repeal the Affordable Care Act, signed a pledge against climate change taxes, and introduced legislation to increase penalties for undocumented immigrants. DeSantis has also supported anti-LGBTQ+ legislation, earning a '0' rating from the Human Rights Campaign, and has pushed for restrictive voting laws and anti-abortion measures. His actions as Governor of Florida have been met with numerous court rulings against him, documenting formal institutional consequences of his policies. DeSantis's leadership style is marked by a willingness to challenge established institutions and laws, as evidenced by his attempts to abolish the Transportation Security Administration and his support for legislation that limits discussion of sexual orientation and gender identity in schools.",
   "initialized": true,
   "entries": [
     {
@@ -394,6 +394,21 @@
         {
           "url": "https://www.courtlistener.com/opinion/10783944/gilberti-v-desantis-governor-biden/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "date": "2026-04-01",
+      "fact": "Ron DeSantis signed the Florida version of the SAVE Act.",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/elections/gov-ron-desantis-signs-floridas-version-act-rcna265112",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/state-watch/5811374-desantis-signs-florida-save-act/",
+          "name": "thehill.com"
         }
       ]
     }
