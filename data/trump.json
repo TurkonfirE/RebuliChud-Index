@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a lack of respect for the judiciary and the rule of law. Additionally, Trump has been found liable for numerous wrongdoing, including inflating the value of his organization, falsifying business records, and committing sexual abuse and defamation. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evident in his comments on Mexican immigrants, Black people, and women. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has shown a propensity for authoritarianism, as seen in his attacks on critics, his use of executive power to target opponents, and his attempts to dismantle federal agencies and undermine civil society.",
   "initialized": true,
   "entries": [
     {
@@ -4403,6 +4403,102 @@
         {
           "url": "https://apnews.com/article/deportation-return-mexico-california-daca-c1b4f63a6732496c006d29db7ca558ad",
           "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 471,
+      "date": "2026-03-24",
+      "fact": "A court ruled on Ebrahimi v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "date": "2026-03-31",
+      "fact": "A federal judge halted construction on President Trump's White House ballroom project, ruling that no statute grants Trump the authority to execute the $400 million project without Congressional authorization",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5809614-trump-white-house-ballroom-construction-halt/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "date": "2026-03-31",
+      "fact": "President Trump signed an executive order to create a national list of eligible voters, a move that is likely to draw legal challenges as the president continues to demand further restrictions on voting ahead of this year's midterm elections.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-create-national-list-of-eligible-voters",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 474,
+      "date": "2026-03-31",
+      "fact": "Trump administration officials exempted drilling in the Gulf of Mexico from complying with Endangered Species Act requirements",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5808861-gulf-of-mexico-oil-drilling-esa-god-squad/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/science/trumps-endangered-species-committee-exempts-oil-and-gas-drilling-in-the-gulf-from-rules",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "date": "2026-04-01",
+      "fact": "President Trump said his preference would be to take Iran's oil regarding the conflict in Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5809999-iran-oil-trump-venezuela-ukraine/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "date": "2026-04-01",
+      "fact": "President Trump said that U.S. membership in the North Atlantic Treaty Organization (NATO) is 'beyond reconsideration', marking one of his strongest rebukes of the alliance to date",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5810608-donald-trump-nato-membership-reconsideration/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "date": "2026-04-01",
+      "fact": "Trump launched a tirade against Europe for not joining a war with Iran",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/01/first-thing-trump-launches-tirade-against-europe-for-not-joining-iran-war",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "date": "2026-04-01",
+      "fact": "Trump ripped into the 14th Amendment's citizenship guarantee at least twice, as the Supreme Court weighs his executive order seeking to end birthright citizenship",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5809524-live-updates-trump-supreme-court-birthright-citizenship/",
+          "name": "thehill.com"
         }
       ]
     }
