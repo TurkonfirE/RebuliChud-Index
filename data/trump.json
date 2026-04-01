@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority and the erosion of democratic norms and institutions. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
   "initialized": true,
   "entries": [
     {
@@ -3095,9 +3095,9 @@
       ]
     },
     {
-      "id": 340,
+      "id": 461,
       "date": "2026-03-14",
-      "fact": "Donald Trump was a defendant in the case Beatty v. Trump",
+      "fact": "Donald Trump was involved in the court case Beatty v. Trump",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
@@ -4194,6 +4194,14 @@
         {
           "url": "https://thehill.com/policy/defense/5805353-iran-response-trump-invasion-kharg-island/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5808531-trump-allies-strait-hormuz/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/watch-trump-says-other-nations-can-fend-for-themselves-in-strait-of-hormuz-after-u-s-leaves-iran",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4204,6 +4212,14 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/defense/5807115-donald-trump-military-complex-white-house-ballroom/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5809788-trump-ballroom-lawsuit-halted/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/regulation/court-battles/5809614-trump-white-house-ballroom-construction-halt/",
           "name": "thehill.com"
         }
       ]
@@ -4274,6 +4290,70 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/international/5808543-iran-strikes-oil-tanker-dubai-middle-east-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "date": "2026-03-24",
+      "fact": "A court ruled on Ebrahimi v. Trump, a case involving Donald Trump, on March 24, 2026.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 464,
+      "date": "2026-03-31",
+      "fact": "A federal judge ruled that the University of Pennsylvania must comply with a Trump administration subpoena requesting lists of Jewish faculty, students, and organizations and their contact information as part of a discrimination probe.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/education/5809833-penn-jewish-americans-antisemitism-eeoc/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "date": "2026-03-31",
+      "fact": "A district court in Washington, D.C. permanently blocked President Trump's executive order to halt funding to National Public Radio (NPR) and the Public Broadcast Service (PBS)",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5809647-trump-funding-npr-pbs-blocked/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "date": "2026-03-31",
+      "fact": "President Trump signed an executive order targeting mail-in voting, requiring the creation of a list of verified U.S. citizens eligible to vote",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/donald-trump-mail-voting-elections-47cc334b1fb7742244a9c4f176b355cd",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-signs-executive-order-to-create-national-list-of-eligible-voters",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5807651-live-updates-trump-hegseth-iran-supreme-court/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5809952-executive-order-mailin-ballots/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5809427-watch-live-trump-executive-orders/",
           "name": "thehill.com"
         }
       ]
