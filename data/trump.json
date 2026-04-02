@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist 'birther' conspiracy theory, and his use of harsh anti-immigrant rhetoric.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
   "initialized": true,
   "entries": [
     {
@@ -4404,6 +4404,10 @@
         {
           "url": "https://thehill.com/regulation/court-battles/5809933-birthright-citizenship-trump-supreme-court/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/analyzing-the-arguments-as-supreme-court-hears-birthright-citizenship-case",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4678,6 +4682,61 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5812275-trump-iran-stone-ages-peace-deal/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "date": "2026-04-01",
+      "fact": "Trump made a case for war with Iran, stating the conflict is 'nearing completion'",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "date": "2026-04-01",
+      "fact": "Trump ridiculed French President Emmanuel Macron and his wife, Brigitte Macron, during a private lunch, and also criticized NATO allies",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5813477-macron-responds-trump-nato-comments/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "date": "2026-04-02",
+      "fact": "President Donald Trump fired Pam Bondi as attorney general, ending a tenure marked by large-scale firings of career employees and aggressive investigations of perceived enemies",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-fires-bondi-as-attorney-general",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "date": "2026-04-02",
+      "fact": "President Trump called for a MAGA boycott of Springsteen concerts, referring to Springsteen as a 'total loser who spews hate'",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5813102-trump-springsteen-maga-boycott-no-kings/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "date": "2026-04-02",
+      "fact": "President Trump suggested that states raise taxes to pay for child care, stating that the federal government cannot afford to fund child care for all 50 states.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5812905-trump-child-care-states/",
           "name": "thehill.com"
         }
       ]
