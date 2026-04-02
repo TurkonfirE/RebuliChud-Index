@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of behavior that promotes conspiracy theories, bigotry, and violence. She has expressed support for white supremacist and antisemitic views, and has made Islamophobic and transphobic comments. Greene has also advocated for the execution of prominent Democratic politicians and has promoted false flag conspiracy theories about mass shootings. Her actions have been marked by a disregard for facts and a willingness to spread misinformation, including about COVID-19, vaccines, and election integrity. Greene's behavior has been deemed incendiary enough to warrant her removal from committee assignments and expulsion from the House Freedom Caucus.",
+  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations, and has endorsed white supremacist and Islamophobic views. Greene has also made death threats against politicians, including Nancy Pelosi, Hillary Clinton, and Barack Obama, and has called for the execution of prominent Democratic Party politicians. Her behavior is characterized by a disregard for facts, a willingness to spread hate speech, and a tendency to use aggressive and confrontational language, including calling her colleagues \"traitors\" and \"little bitches\". Overall, Greene's actions demonstrate a pattern of extremism, intolerance, and a lack of respect for democratic institutions and the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -1473,6 +1473,17 @@
       "id": 132,
       "date": "2022-11-03",
       "fact": "Marjorie Taylor Greene was sued by Equity Prime Mortgage in a court case titled EQUITY PRIME MORTGAGE v. GREENE FOR CONGRESS, INC.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "date": "2022-11-03",
+      "fact": "Marjorie Taylor Greene's campaign, Greene For Congress, Inc., was involved in a lawsuit with Equity Prime Mortgage.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
