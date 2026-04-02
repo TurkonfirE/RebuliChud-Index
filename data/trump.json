@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist 'birther' conspiracy theory, and his use of harsh anti-immigrant rhetoric.",
   "initialized": true,
   "entries": [
     {
@@ -4359,6 +4359,10 @@
         {
           "url": "https://thehill.com/video-clips/5809427-watch-live-trump-executive-orders/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5810626-jeffries-schumer-trump-mail-in-voting-order/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4396,6 +4400,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trump-plans-to-be-at-the-supreme-court-during-arguments-on-his-bid-to-limit-birthright-citizenship",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/regulation/court-battles/5809933-birthright-citizenship-trump-supreme-court/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4493,6 +4501,18 @@
         {
           "url": "https://thehill.com/homenews/administration/5810608-donald-trump-nato-membership-reconsideration/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5810972-uk-starmer-defends-nato-trump-criticism-iran-conflict/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5812094-warner-slams-trump-nato/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5812334-mcconnell-joins-democrats-to-defend-us-nato-membership/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4556,6 +4576,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5811066-judge-allows-trump-jan6-suit/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-isnt-immune-from-civil-claims-that-his-jan-6-rally-speech-incited-riot-judge-rules",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4607,6 +4631,50 @@
       "id": 486,
       "date": "2026-04-02",
       "fact": "Trump threatened to annihilate Iran's energy infrastructure if its leaders refuse to agree to a peace deal in the coming weeks, a threat that many legal experts say would violate international laws of war",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5812275-trump-iran-stone-ages-peace-deal/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "date": "2026-04-01",
+      "fact": "Trump stated that the US is the only country 'stupid enough' to allow birthright citizenship",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5811341-trump-fires-truthsocial-birthright/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "date": "2026-04-02",
+      "fact": "Trump said the US will hit Iran hard and 'finish the job', causing oil to rise 6% and Asian stocks to fall",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/stock-markets-war-oil-trump-iran-6fc90a2e50b1252cde130fc3e0ce0da3",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "date": "2026-04-02",
+      "fact": "President Trump delivered a primetime address about the war on Iran, which he launched in conjunction with Israel, a decision that has come to look more and more risky",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5812338-trump-address-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "date": "2026-04-02",
+      "fact": "President Trump said the U.S. would return Iran 'back to the stone ages' if there's no deal in the coming weeks.",
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5812275-trump-iran-stone-ages-peace-deal/",
