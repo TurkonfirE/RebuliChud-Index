@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually challenged. He has repeatedly denigrated childless individuals, suggesting they are more sociopathic and should be taxed at a higher rate. Vance has also promoted misinformation, such as claims about Haitian migrants eating pets, and has defended his use of fabricated stories to get attention. Additionally, he has taken extreme positions on issues like abortion, gun control, and same-sex marriage, and has expressed support for criminalizing gender-affirming care for minors. Vance's actions and statements show a disregard for factual accuracy and a willingness to promote hateful and discriminatory rhetoric.",
+  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually inaccurate. He has repeatedly expressed disdain for childless individuals, suggesting they are more sociopathic and should be taxed at a higher rate. Vance has also made false and inflammatory claims about Haitian migrants, defended his willingness to spread misinformation, and promoted legislation that targets marginalized groups, including the LGBTQ+ community. Additionally, he has shown a disregard for democratic processes, opposing abortion, gun control, and same-sex marriage, and has expressed a desire to dismantle diversity, equity, and inclusion programs. Vance's actions and statements reveal a character that is intolerant, dishonest, and driven by a partisan agenda.",
   "initialized": true,
   "entries": [
     {
@@ -346,6 +346,17 @@
         {
           "url": "https://www.cleveland.com/news/2023/07/jd-vance-proposes-federal-ban-on-gender-transition-care-for-minors.html",
           "name": "cleveland.com"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "date": "2026-04-03",
+      "fact": "Vance will primarily focus on blue states as 'fraud czar', a role announced by President Trump",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5814748-vance-crackdown-democrat-fraud/",
+          "name": "thehill.com"
         }
       ]
     }
