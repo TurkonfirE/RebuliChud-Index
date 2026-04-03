@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, Muslims, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive power to bypass Congress, the suppression of dissent, and the erosion of democratic norms. Trump's behavior has been marked by a lack of accountability, with numerous instances of obstruction of justice, corruption, and abuse of power, resulting in multiple indictments, convictions, and lawsuits.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, critics, and marginalized groups, including immigrants, Muslims, and the LGBTQ+ community. His actions have been characterized by a lack of empathy, a tendency to blame others, and a propensity for violence and authoritarianism. Trump's behavior has been marked by numerous instances of corruption, self-dealing, and abuse of power, including the use of his presidency to enrich himself and his family.",
   "initialized": true,
   "entries": [
     {
@@ -4844,6 +4844,28 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/defense/5813304-iran-bridge-struck-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "date": "2026-04-02",
+      "fact": "A lawsuit was filed challenging a Florida law that mirrors the language of President Trump's federal Safeguard American Voter Eligibility (SAVE America) Act",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/state-watch/5813545-florida-lawsuit-challenges-voter-law/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "date": "2026-04-02",
+      "fact": "The Trump administration asked a court to reimpose a supply chain risk designation for artificial intelligence firm Anthropic",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/technology/5812777-trump-administration-appeals-pentagon-ai/",
           "name": "thehill.com"
         }
       ]
