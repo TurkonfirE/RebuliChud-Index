@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, critics, and marginalized groups, including immigrants, Muslims, and the LGBTQ+ community. His actions have been characterized by a lack of empathy, a tendency to blame others, and a propensity for violence and authoritarianism. Trump's behavior has been marked by numerous instances of corruption, self-dealing, and abuse of power, including the use of his presidency to enrich himself and his family.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, his use of executive orders to bypass congressional authority, and his pardoning of loyalists and allies. Overall, Trump's actions reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -4866,6 +4866,61 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/technology/5812777-trump-administration-appeals-pentagon-ai/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "date": "2026-03-14",
+      "fact": "A court case, Beatty v. Trump, was filed against Donald Trump on this date.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "date": "2026-04-03",
+      "fact": "Trump warned Iran after a strike destroyed a B-1 bridge",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-strike-b-1-bridge-tehran-hormuz-israel-rcna266522",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "date": "2026-04-03",
+      "fact": "Trump called for a major increase in defense spending alongside cuts in domestic spending in his annual budget",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 509,
+      "date": "2026-04-03",
+      "fact": "Trump warned that the US will attack Iranian bridges and power plants",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 510,
+      "date": "2026-04-03",
+      "fact": "President Trump issued a warning to Iran, stating the US military 'hasn't even started destroying what's left' in the country, reiterating his vow to 'finish the job'",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5814545-trump-us-military-iran-attacks/",
           "name": "thehill.com"
         }
       ]
