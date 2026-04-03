@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, Muslims, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive power to bypass Congress, the suppression of dissent, and the erosion of democratic norms. Trump's behavior has been marked by a lack of accountability, with numerous instances of obstruction of justice, corruption, and abuse of power, resulting in multiple indictments, convictions, and lawsuits.",
   "initialized": true,
   "entries": [
     {
@@ -4408,6 +4408,10 @@
         {
           "url": "https://www.pbs.org/newshour/show/analyzing-the-arguments-as-supreme-court-hears-birthright-citizenship-case",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/trumps-supreme-court-attendance-highlights-his-focus-on-immigration",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4464,6 +4468,26 @@
         {
           "url": "https://thehill.com/homenews/administration/5810626-jeffries-schumer-trump-mail-in-voting-order/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/democrats-sue-to-block-trumps-executive-order-targeting-mail-ballots",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/regulation/court-battles/5812617-trump-mail-in-voting-lawsuit-democrats/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/campaign/5811266-trump-mail-in-voting-midterms/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/analyzing-the-arguments-as-supreme-court-hears-birthright-citizenship-case",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/trumps-supreme-court-attendance-highlights-his-focus-on-immigration",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4672,6 +4696,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5812338-trump-address-iran-war/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/business/5812588-trump-iran-speech-market-impact/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4682,6 +4710,14 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5812275-trump-iran-stone-ages-peace-deal/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5813874-araghchi-responds-trump-iran-threat/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5813703-moulton-slams-trump-iran/",
           "name": "thehill.com"
         }
       ]
@@ -4716,6 +4752,18 @@
         {
           "url": "https://www.pbs.org/newshour/politics/trump-fires-bondi-as-attorney-general",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5813842-bondis-favorability-rating-trump-firing/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5813777-good-riddance-lawmakers-sound-off-on-trumps-bondi-ouster/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5813667-todd-blanche-donald-trump-justice-department/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4737,6 +4785,65 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5812905-trump-child-care-states/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "date": "2026-03-31",
+      "fact": "A court case, Public Broadcasting Service v. Donald J. Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10830605/public-broadcasting-service-v-donald-j-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "date": "2026-03-24",
+      "fact": "A court ruled on Ebrahimi v. Trump on March 24, 2026.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "date": "2026-04-02",
+      "fact": "Trump unveiled a 100% tariff on some patented drugs on 'Liberation Day' anniversary",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-tariffs-pharmaceutical-drugs-59ed7821faa5b52e2752c09edbbbf0ca",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://thehill.com/policy/healthcare/5813970-trump-signs-drug-tariffs/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "date": "2026-04-02",
+      "fact": "President Trump's administration enforced a fuel quarantine against Cuba, exacerbating a humanitarian crisis",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5813827-humanitarian-crisis-cuba-democrats-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "date": "2026-04-02",
+      "fact": "The US military struck a major bridge near Tehran under Trump's presidency, with Trump vowing to escalate the war against Tehran if its leaders do not agree to a peace deal",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5813304-iran-bridge-struck-trump/",
           "name": "thehill.com"
         }
       ]
