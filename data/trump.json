@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, his use of executive orders to bypass congressional authority, and his pardoning of loyalists and allies. Overall, Trump's actions reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -4317,6 +4317,10 @@
         {
           "url": "https://thehill.com/homenews/education/5809833-penn-jewish-americans-antisemitism-eeoc/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/education/5813286-penn-antisemitism-probe-trump-jewish-faculty/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4363,6 +4367,14 @@
         {
           "url": "https://thehill.com/homenews/administration/5810626-jeffries-schumer-trump-mail-in-voting-order/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/news-wrap-national-capital-planning-commission-approves-trumps-ballroom-project",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/democrats-sue-to-block-trumps-executive-order-targeting-mail-ballots",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4685,6 +4697,10 @@
         {
           "url": "https://apnews.com/article/stock-markets-war-oil-trump-iran-6fc90a2e50b1252cde130fc3e0ce0da3",
           "name": "apnews.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5813304-iran-bridge-struck-trump/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4764,6 +4780,18 @@
         {
           "url": "https://thehill.com/homenews/administration/5813667-todd-blanche-donald-trump-justice-department/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/02/nx-s1-5771633/president-trump-ousts-attorney-general-pam-bondi",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5814211-downfall-pam-bondi-trump/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5814617-seth-moulton-donald-trump-pam-bondi-doj-ouster-epstein/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -4823,6 +4851,10 @@
         {
           "url": "https://thehill.com/policy/healthcare/5813970-trump-signs-drug-tariffs/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/news-wrap-national-capital-planning-commission-approves-trumps-ballroom-project",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4900,6 +4932,10 @@
         {
           "url": "https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending",
           "name": "npr.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-calls-for-a-major-increase-in-defense-spending-alongside-cuts-in-domestic-spending",
+          "name": "pbs.org"
         }
       ]
     },
@@ -4921,6 +4957,50 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/defense/5814545-trump-us-military-iran-attacks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "date": "2026-04-02",
+      "fact": "Trump adjusted tariffs on steel, aluminum, and copper to ensure they align with the 'full value' of the imported metals, based on the amount the U.S. pays for the import.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5814001-trump-revamps-metal-tariffs/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "date": "2026-04-03",
+      "fact": "President Trump proposed to eliminate the Low Income Home Energy Assistance Program (LIHEAP) in his budget, which would cut assistance for low-income people to heat and cool their homes.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5815067-trump-budget-liheap-energy-prices/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "date": "2026-04-03",
+      "fact": "President Trump announced that Vice President Vance's new role as fraud czar will primarily focus on Democrat-led states",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5814748-vance-crackdown-democrat-fraud/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "date": "2026-04-03",
+      "fact": "President Trump urged Pam Bondi to secure convictions of his enemies, but she failed to deliver",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5814211-downfall-pam-bondi-trump/",
           "name": "thehill.com"
         }
       ]
