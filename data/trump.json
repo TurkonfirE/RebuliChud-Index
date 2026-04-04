@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and deception, including making false statements about the 2020 election and inflating the value of his business to gain an advantage with lenders and banks. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his settlement of fraud cases related to Trump University. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including the use of executive orders to target political opponents and the manipulation of the justice system to his advantage. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning of the dangers of his leadership style to the rule of law and democratic institutions.",
   "initialized": true,
   "entries": [
     {
@@ -5038,6 +5038,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/senate/5814762-chris-van-hollen-iran-icbm-missiles-middle-east-conflict/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "date": "2026-04-04",
+      "fact": "Trump warned Iran that 'time is running out' before the U.S. rains 'all hell' down on the Middle East country",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5816212-trump-warns-iran-time-running-out/",
           "name": "thehill.com"
         }
       ]
