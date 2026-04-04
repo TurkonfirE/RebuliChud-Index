@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis has consistently demonstrated a pattern of behavior that prioritizes conservative ideologies and restricts individual rights. He has voted to repeal the Affordable Care Act, signed a pledge against climate change taxes, and introduced legislation to increase penalties for undocumented immigrants. DeSantis has also supported anti-LGBTQ+ legislation, earning a '0' rating from the Human Rights Campaign, and has pushed for restrictive voting laws and abortion bans. His actions have been met with numerous court rulings against him, documenting formal institutional consequences of his decisions as Governor of Florida.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting policies that favor conservative ideologies. He has repeatedly supported legislation that limits abortion access, restricts voting by mail, and targets marginalized communities, including immigrants and the LGBTQ+ community. DeSantis has also demonstrated a willingness to use divisive rhetoric and take actions that spark controversy, such as flying asylum seekers to Martha's Vineyard and signing bills that restrict discussion of critical race theory and sexual orientation in schools. His actions have been met with numerous court challenges and rulings against him, highlighting the contentious nature of his governance. Overall, DeSantis's actions show a commitment to advancing a conservative agenda, often at the expense of marginalized communities and democratic institutions.",
   "initialized": true,
   "entries": [
     {
@@ -420,6 +420,17 @@
         {
           "url": "https://www.foxnews.com/politics/florida-mississippi-join-wave-states-tightening-voter-citizenship-rules",
           "name": "foxnews.com"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "date": "2025-12-04",
+      "fact": "Governor Ron DeSantis was named as a defendant in the lawsuit Laurie N. Reynolds v. Judge John M. Alexander, Emily Earnest, Deana Duncan, Esquire, Larry Crane, Guardian Ad Litem, Richard K. Thibault, Kevin Ross Presnell, Guardian Ad Litem, Amanda Abel, Mark Alan Reynolds, Lisa Burnett, Former Attorney General Pamela Jo Bondi, and Governor Ron DeSantis",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10751175/laurie-n-reynolds-v-judge-john-m-alexander-emily-earnest-deana-duncan/",
+          "name": "courtlistener.com"
         }
       ]
     }
