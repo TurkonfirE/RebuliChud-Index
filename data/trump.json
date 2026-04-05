@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his settlement of fraud cases related to Trump University. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including the use of executive orders to target political opponents and the manipulation of the justice system to his advantage. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning of the dangers of his leadership style to the rule of law and democratic institutions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a pattern of dishonesty, including making false statements about the 2020 election and inflating the value of his business assets. Additionally, Trump has been convicted of multiple felonies, including falsifying business records, and has been found liable for sexual abuse and defamation, demonstrating a lack of respect for the rights and dignity of others.",
   "initialized": true,
   "entries": [
     {
@@ -5049,6 +5049,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5816212-trump-warns-iran-time-running-out/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "date": "2026-04-04",
+      "fact": "President Trump asserted that Iran has been 'completely decimated' despite the Islamic Republic's ability to shoot down two American military jets",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/ap/ap-u-s-news/5816462-us-military-jets-hit-in-iran-war-are-the-first-shot-down-by-enemy-fire-in-over-20-years/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "date": "2026-04-03",
+      "fact": "Trump requested $152 million to rebuild Alcatraz as a 'state-of-the-art secure prison' to house violent federal criminals",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5815432-trump-seeks-funds-alcatraz-reopening-budget/",
           "name": "thehill.com"
         }
       ]
