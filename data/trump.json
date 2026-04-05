@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a pattern of dishonesty, including making false statements about the 2020 election and inflating the value of his business assets. Additionally, Trump has been convicted of multiple felonies, including falsifying business records, and has been found liable for sexual abuse and defamation, demonstrating a lack of respect for the rights and dignity of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, investigations, and scandals throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, women, and minorities. He has also shown a tendency to defy authority, disregard facts, and undermine institutions, including the judiciary, the media, and the electoral system. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -5071,6 +5071,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5815432-trump-seeks-funds-alcatraz-reopening-budget/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "date": "2026-04-04",
+      "fact": "The Trump administration ramped up its military pressure on Tehran, leading to the revocation of green cards of two relatives of slain Iranian commander Qasem Soleimani",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5816325-rubio-iran-green-cards-revoked-qasem-soleimani/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 526,
+      "date": "2026-04-04",
+      "fact": "Trump crossed an oily line of state sovereignty in California by using the Defense Production Act, which is considered a blatant abuse of power",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california/",
           "name": "thehill.com"
         }
       ]
