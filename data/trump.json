@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, investigations, and scandals throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, women, and minorities. He has also shown a tendency to defy authority, disregard facts, and undermine institutions, including the judiciary, the media, and the electoral system. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -5093,6 +5093,61 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/white-house/5815066-trump-pipeline-order-california/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 527,
+      "date": "2026-04-03",
+      "fact": "President Trump issued an executive order that restricts voter eligibility and mail-in voting, prompting a lawsuit from more than 20 Democratic-led states",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5815473-democratic-states-sue-trump-voter-order/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "date": "2026-04-03",
+      "fact": "President Trump referred to Democrat-led states as having 'CROOKED DEMOCRAT POLITICIANS'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5814748-vance-crackdown-democrat-fraud/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 529,
+      "date": "2026-04-05",
+      "fact": "President Trump used a profane phrase while threatening to strike Iran's infrastructure and urging Tehran to open the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5816887-trump-threatens-iran-infrastructure-strait-of-hormuz/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 530,
+      "date": "2026-04-05",
+      "fact": "Trump abused emergency powers, allowing leaders to bypass lawmakers while preserving a veneer of legality",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5813835-presidential-emergency-powers-abuse/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 531,
+      "date": "2026-04-05",
+      "fact": "Trump suggested he would 'federalize' elections, prompting a Republican-backed ad campaign to speak out against the idea",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5815433-republican-ad-trump-elections/",
           "name": "thehill.com"
         }
       ]
