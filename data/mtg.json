@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations, and has endorsed white supremacist and Islamophobic views. Greene has also made death threats against politicians, including Nancy Pelosi, Hillary Clinton, and Barack Obama, and has called for the execution of prominent Democratic Party politicians. Her behavior is characterized by a disregard for facts, a willingness to spread hate speech, and a tendency to use aggressive and confrontational language, including calling her colleagues \"traitors\" and \"little bitches\". Overall, Greene's actions demonstrate a pattern of extremism, intolerance, and a lack of respect for democratic institutions and the rule of law.",
+  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations, and has expressed support for white supremacist and anti-Semitic ideologies. Greene has also engaged in aggressive and harassing behavior towards her opponents, including confronting them in person and making threatening statements. Her actions have been repeatedly condemned by her peers, resulting in her removal from committee assignments and expulsion from the House Freedom Caucus. Overall, Greene's behavior demonstrates a disregard for truth, decency, and the well-being of others, and a willingness to use her platform to spread hate and incite violence.",
   "initialized": true,
   "entries": [
     {
@@ -1488,6 +1488,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "date": "2026-04-05",
+      "fact": "Marjorie Taylor Greene called Trump 'insane' and said he is 'not a Christian' after his Easter Iran threat",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5817247-trump-iran-easter-message-greene-criticism/",
+          "name": "thehill.com"
         }
       ]
     }
