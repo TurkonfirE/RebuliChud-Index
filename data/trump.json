@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -4818,13 +4818,17 @@
         {
           "url": "https://thehill.com/homenews/administration/5812905-trump-child-care-states/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/education/5815109-trump-states-day-care-advocates-easter/",
+          "name": "thehill.com"
         }
       ]
     },
     {
-      "id": 496,
+      "id": 540,
       "date": "2026-03-31",
-      "fact": "A court case, Public Broadcasting Service v. Donald J. Trump, was filed against Donald Trump",
+      "fact": "Donald Trump was sued by the Public Broadcasting Service in the case Public Broadcasting Service v. Donald J. Trump.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10830605/public-broadcasting-service-v-donald-j-trump/",
@@ -5050,6 +5054,14 @@
         {
           "url": "https://thehill.com/homenews/administration/5816212-trump-warns-iran-time-running-out/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5127,6 +5139,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5816887-trump-threatens-iran-infrastructure-strait-of-hormuz/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.cnn.com/2026/04/05/business/oil-prices-iran-war",
+          "name": "cnn.com"
         }
       ]
     },
@@ -5197,6 +5213,76 @@
         {
           "url": "https://thehill.com/homenews/administration/5817060-trump-iran-ground-troops/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 541,
+      "date": "2026-04-04",
+      "fact": "President Trump wrote on Truth Social, 'Remember when I gave Iran ten days to MAKE A DEAL or OPEN UP THE HORMUZ STRAIT'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/sunday-talk-shows/5816638-sunday-shows-preview-trump-ups-threats-on-iran-after-saying-war-near-completion/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 542,
+      "date": "2026-04-05",
+      "fact": "Trump unleashed a curse-filled social media rant at Iran after the U.S. rescued a colonel, injecting new volatility into the conflict",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/05/nx-s1-5774368/iran-war-updates",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 543,
+      "date": "2026-04-05",
+      "fact": "Trump wrote on his Truth Social platform, 'Tuesday will be Power Plant Day, and Bridge Day, all wrapped up in one, in Iran'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5817247-trump-iran-easter-message-greene-criticism/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 544,
+      "date": "2026-04-06",
+      "fact": "President Trump issued an executive order on mail-in voting that Stacey Abrams described as 'patently illegal' and 'entirely in the playbook of voter suppression'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5817423-stacey-abrams-trump-mail-in-voting/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "date": "2026-04-06",
+      "fact": "President Trump made threats to Iran that Senator Chris Murphy described as 'war crimes' if committed",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5817456-murphy-slams-trump-iran-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "date": "2026-04-06",
+      "fact": "Trump made an expletive-laden threat to Iran, which some have accused of being a possible war crime",
+      "sources": [
+        {
+          "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo",
+          "name": "bbc.com"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-social-media-post-today",
+          "name": "theguardian.com"
         }
       ]
     }
