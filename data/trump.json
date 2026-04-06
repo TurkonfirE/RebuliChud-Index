@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his settlement of fraud cases related to Trump University. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including the use of executive orders to target political opponents and the manipulation of the justice system to his advantage. His actions have been characterized as authoritarian and have contributed to democratic backsliding, with many experts describing his behavior as a threat to the rule of law and democratic norms.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to silence his critics and opponents, including his attempts to intimidate and discredit judges, lawmakers, and the media. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -5284,6 +5284,22 @@
         {
           "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo",
           "name": "bbc.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/media/5817938-trump-iran-profanity-stephen-a-smith/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5299,6 +5315,17 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-social-media-post-today",
           "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 550,
+      "date": "2026-04-06",
+      "fact": "Trump said his administration is looking for a 'leaker' who shared information with the media about a daring rescue mission after a U.S. fighter jet was downed inside Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5818117-trump-rescue-mission-iran/",
+          "name": "thehill.com"
         }
       ]
     }
