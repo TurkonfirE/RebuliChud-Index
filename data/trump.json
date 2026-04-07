@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to silence his critics and opponents, including his attempts to intimidate and discredit judges, lawmakers, and the media. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -5261,6 +5261,50 @@
         {
           "url": "https://thehill.com/homenews/administration/5817423-stacey-abrams-trump-mail-in-voting/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-today",
+          "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775647/trump-doubles-down-on-threats-to-irans-civilian-infrastructure-unless-theres-a-deal",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-hegseth-and-caine-hold-pentagon-briefing-as-trump-threatens-irans-infrastructure",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-news-conference-after-unleashing-latest-threat-against-iran",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5818593-trump-iran-deal-deadline/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5817761-iran-rejects-us-peace-proposal/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5300,6 +5344,10 @@
         {
           "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5818411-trump-iran-strikes-war-crimes/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5325,6 +5373,61 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/media/5818117-trump-rescue-mission-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "date": "2026-04-06",
+      "fact": "The Trump Administration decided to cut guest worker wages to ease a farm labor crunch exacerbated by deportations",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5763916/conservatives-and-liberals-oppose-h2a-visa-changes-for-immigrant-farm-workers",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "date": "2026-04-06",
+      "fact": "The Trump administration stopped enforcing protections for transgender students in several schools by terminating agreements with five school districts and a college aimed at upholding rights and protections for transgender students.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-administration-stops-enforcing-protections-for-transgender-students-in-several-schools",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "date": "2026-04-06",
+      "fact": "The Trump administration took an early step to roll back a Biden-era rule restricting methane emissions from oil and gas production",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5818608-epa-methane-rule-flaring/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "date": "2026-04-06",
+      "fact": "President Trump criticized the Supreme Court over its ruling on birthright citizenship and tariffs",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5818557-birthright-citizenship-trump-sc/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "date": "2026-04-06",
+      "fact": "President Trump suggested that the U.S. could impose its own tolls on vessels trying to transit through the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5818431-trump-us-tolls-strait-of-hormuz/",
           "name": "thehill.com"
         }
       ]
