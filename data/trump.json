@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized communities, including his attempts to intimidate and silence women who have accused him of sexual misconduct. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -5462,6 +5462,10 @@
         {
           "url": "https://thehill.com/homenews/5818593-trump-iran-deal-deadline/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775647/trump-doubles-down-on-threats-to-irans-civilian-infrastructure-unless-theres-a-deal",
+          "name": "npr.org"
         }
       ]
     },
@@ -5512,6 +5516,10 @@
         {
           "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-hegseth-and-caine-hold-pentagon-briefing-as-trump-threatens-irans-infrastructure",
+          "name": "pbs.org"
         }
       ]
     },
@@ -5534,6 +5542,10 @@
         {
           "url": "https://thehill.com/policy/defense/5817761-iran-rejects-us-peace-proposal/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5544,6 +5556,22 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isnt-reached",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819163-trump-threatens-iran-civilization/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5818160-live-updates-trump-iran-vance-hungary/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5818652-iran-gop-trump/",
           "name": "thehill.com"
         }
       ]
@@ -5556,6 +5584,61 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-today",
           "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 570,
+      "date": "2026-04-06",
+      "fact": "President Trump said the latest ceasefire proposal from Iran was 'significant' but still 'not good enough'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5818037-trump-iran-ceasefire-proposal/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "date": "2026-04-06",
+      "fact": "President Trump advised Tehran, using an expletive, to open the Strait of Hormuz, a key waterway for the oil industry",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5817938-trump-iran-profanity-stephen-a-smith/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "date": "2026-04-06",
+      "fact": "The Trump administration recombined two federal agencies that were separated after the 2010 Gulf oil spill",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5817845-offshore-drilling-gulf-of-mexico-oil-gas/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 573,
+      "date": "2026-04-06",
+      "fact": "Trump made a profanity-laced social media post threatening to bomb civilian infrastructure in Iran, prompting calls for his removal via the 25th Amendment",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/could-the-25th-amendment-be-invoked-against-trump-heres-how-it-works",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 574,
+      "date": "2026-04-07",
+      "fact": "Trump made an expletive-filled Easter post on social media threatening Iran if the country does not cut a ceasefire deal",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5819175-tucker-carlson-rips-trump-iran-easter-post/",
+          "name": "thehill.com"
         }
       ]
     }
