@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of promoting conspiracy theories, bigotry, and violence. She has supported white supremacist and antisemitic views, and has made numerous false claims about various topics, including mass shootings, COVID-19, and the 2020 election. Greene has also engaged in aggressive and harassing behavior towards her opponents, including confronting them in person and making derogatory comments about them online. Her actions have been widely condemned, and she has been removed from committee roles and faced fines for her behavior. Greene's rhetoric often emphasizes the need for violence and resistance against perceived enemies, including Democrats, minorities, and law enforcement.",
+  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations and that the 9/11 attacks were a hoax. Greene has also made racist, Islamophobic, and antisemitic statements, and has expressed support for white supremacist views. She has called for violence against her political opponents, including executing prominent Democratic politicians, and has voted against measures to condemn hate groups and promote equality. Greene's behavior has been deemed so extreme that she was removed from committee assignments and expelled from the House Freedom Caucus. Her actions demonstrate a disregard for truth, decency, and the well-being of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -1498,6 +1498,21 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5817247-trump-iran-easter-message-greene-criticism/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "date": "2026-04-07",
+      "fact": "Marjorie Taylor Greene called for Trump's removal via the 25th Amendment.",
+      "sources": [
+        {
+          "url": "https://www.foxnews.com/politics/ex-trump-ally-marjorie-taylor-greene-joins-left-wing-calls-25th-amendment-iran-deadline-nears",
+          "name": "foxnews.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819417-greene-25th-amendment-trump-iran-threat/",
           "name": "thehill.com"
         }
       ]
