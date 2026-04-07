@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, targets minority groups, and restricts free speech. DeSantis has also demonstrated a willingness to use divisive rhetoric and has been involved in numerous lawsuits and court rulings against his actions as Governor of Florida. His actions and policies have been consistently aligned with a conservative agenda, often at the expense of marginalized communities.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, restricts voting by mail, and targets marginalized communities. DeSantis has also demonstrated a willingness to use divisive rhetoric and dog-whistle politics, as seen in his comment about not wanting to \"monkey this up\" in reference to his African-American opponent. His actions as Governor of Florida have been met with numerous court challenges and rulings against him, highlighting a pattern of disregard for institutional checks and balances. Overall, DeSantis's behavior suggests a commitment to advancing a conservative agenda at the expense of vulnerable populations and democratic norms.",
   "initialized": true,
   "entries": [
     {
@@ -332,9 +332,9 @@
       ]
     },
     {
-      "id": 30,
+      "id": 43,
       "date": "2025-08-06",
-      "fact": "A court ruled against DeSantis in the case of Bailey v. Laurie, DeSantis",
+      "fact": "A court ruled in Bailey v. Laurie, DeSantis, a case involving Ron DeSantis",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10648652/bailey-v-laurie-desantis/",
@@ -446,6 +446,39 @@
         {
           "url": "https://www.latimes.com/world-nation/story/2026-04-06/desantis-signs-florida-law-to-label-groups-as-terrorists-expel-student-supporters",
           "name": "latimes.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "date": "2026-04-07",
+      "fact": "DeSantis called for a ban on cousin marriages in Florida, referring to it as 'stealth jihad'.",
+      "sources": [
+        {
+          "url": "https://www.foxnews.com/politics/desantis-calls-florida-ban-cousin-marriages-calling-stealth-jihad",
+          "name": "foxnews.com"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "date": "2025-09-24",
+      "fact": "A court ruled against the State of Florida, led by Ron DeSantis, in the Victor Tony Jones v. State of Florida case",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10676989/victor-tony-jones-v-state-of-florida-victor-tony-jones-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2025-08-12",
+      "fact": "A court ruled against the State of Florida, led by Ron DeSantis, in the Kayle B. Bates v. State of Florida case",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10652409/kayle-b-bates-v-state-of-florida-kayle-b-bates-v-secretary/",
+          "name": "courtlistener.com"
         }
       ]
     }
