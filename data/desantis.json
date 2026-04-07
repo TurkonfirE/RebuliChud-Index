@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting policies that favor conservative ideologies. He has repeatedly supported legislation that limits abortion access, restricts voting by mail, and targets marginalized communities, including immigrants and the LGBTQ+ community. DeSantis has also demonstrated a willingness to use divisive rhetoric and take actions that spark controversy, such as flying asylum seekers to Martha's Vineyard and signing bills that restrict discussion of critical race theory and sexual orientation in schools. His actions have been met with numerous court challenges and rulings against him, highlighting the contentious nature of his governance. Overall, DeSantis's actions show a commitment to advancing a conservative agenda, often at the expense of marginalized communities and democratic institutions.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, voting rights, and social services, while also promoting anti-immigrant and anti-LGBTQ+ policies. He has repeatedly supported legislation that limits abortion access, targets minority groups, and restricts free speech. DeSantis has also demonstrated a willingness to use divisive rhetoric and has been involved in numerous lawsuits and court rulings against his actions as Governor of Florida. His actions and policies have been consistently aligned with a conservative agenda, often at the expense of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -431,6 +431,21 @@
         {
           "url": "https://www.courtlistener.com/opinion/10751175/laurie-n-reynolds-v-judge-john-m-alexander-emily-earnest-deana-duncan/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "date": "2026-04-07",
+      "fact": "Ron DeSantis signed a Florida law to label groups as terrorists and expel student supporters",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/immigration/ron-desantis-signs-florida-law-label-groups-terrorists-expel-students-rcna267016",
+          "name": "nbcnews.com"
+        },
+        {
+          "url": "https://www.latimes.com/world-nation/story/2026-04-06/desantis-signs-florida-law-to-label-groups-as-terrorists-expel-student-supporters",
+          "name": "latimes.com"
         }
       ]
     }
