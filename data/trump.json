@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of the racist \"birther\" conspiracy theory, and his use of harsh and dehumanizing anti-immigrant rhetoric.",
   "initialized": true,
   "entries": [
     {
@@ -4796,6 +4796,10 @@
         {
           "url": "https://thehill.com/homenews/house/5814617-seth-moulton-donald-trump-pam-bondi-doj-ouster-epstein/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/opinion/white-house/5818939-trump-fires-ag-bondi/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5638,6 +5642,79 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/media/5819175-tucker-carlson-rips-trump-iran-easter-post/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 577,
+      "date": "2026-04-07",
+      "fact": "President Trump warned a 'whole civilization will die tonight' if a deal with Iran isn't reached",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isnt-reached",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/media/5819953-trump-tucker-carlson-feud/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5818160/live-updates-trump-iran-vance-hungary/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819516-democrats-condemn-trump-iran/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5819669-democrats-trump-removal-25-amendment-impeachment/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819364-donald-trump-iran-congress-hakeem-jeffries/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/media/5819199-trump-new-york-times-criticism/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819163-trump-threatens-iran-civilization/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/media/5819175-tucker-carlson-rips-trump-iran-easter-post/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5818652-iran-gop-trump/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 578,
+      "date": "2026-04-07",
+      "fact": "Trump called Tucker Carlson 'low-IQ' and said he 'has absolutely no idea what's going on'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5819953-trump-tucker-carlson-feud/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "date": "2026-04-07",
+      "fact": "President Trump threatened Iranian infrastructure, saying he would target it if his demands were not met, which Senator Mark Kelly said would be an 'illegal order' and a 'black mark' on the military and the US.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5819670-mark-kelly-trump-iran-threats/",
           "name": "thehill.com"
         }
       ]
