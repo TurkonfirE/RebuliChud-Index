@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually inaccurate. He has repeatedly expressed disdain for childless individuals, suggesting they are more sociopathic and should be taxed at a higher rate. Vance has also made false and inflammatory claims about Haitian migrants, defended his willingness to spread misinformation, and promoted legislation that targets marginalized groups, including the LGBTQ+ community. Additionally, he has shown a disregard for democratic processes, opposing abortion, gun control, and same-sex marriage, and has expressed a desire to dismantle diversity, equity, and inclusion programs. Vance's actions and statements reveal a character that is intolerant, dishonest, and driven by a partisan agenda.",
+  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually challenged. He has repeatedly denigrated childless individuals, suggesting they are sociopathic and should be taxed at a higher rate, and has made derogatory comments about women and immigrants. Vance has also shown a willingness to spread misinformation and create false narratives to further his own agenda, as seen in his claims about Haitian migrants eating pets. Additionally, he has expressed support for extremist policies, including the criminalization of gender-affirming care for minors and the suppression of diversity, equity, and inclusion programs. Vance's actions and statements reveal a character that is intolerant, xenophobic, and dismissive of facts and evidence.",
   "initialized": true,
   "entries": [
     {
@@ -356,6 +356,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5814748-vance-crackdown-democrat-fraud/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "date": "2026-04-07",
+      "fact": "Vice President JD Vance praised Hungarian Prime Minister Viktor Orbán during a visit to Budapest, just days before elections in Hungary, and blasted the European Union.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5819317-vance-praises-orban-budapest/",
           "name": "thehill.com"
         }
       ]
