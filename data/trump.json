@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized communities, including his attempts to intimidate and silence women who have accused him of sexual misconduct. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -5429,6 +5429,133 @@
         {
           "url": "https://thehill.com/homenews/administration/5818431-trump-us-tolls-strait-of-hormuz/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "date": "2026-04-05",
+      "fact": "Trump threatens to withdraw from NATO due to allies' refusal to join the Iran war, increasing tensions with European policymakers.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5815848-trump-nato-tensions-rise-withdrawal-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 559,
+      "date": "2026-04-06",
+      "fact": "President Trump brushed off questions from reporters about whether strikes on civilian infrastructure in Iran would constitute war crimes",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5818411-trump-iran-strikes-war-crimes/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "date": "2026-04-06",
+      "fact": "President Trump doubled down on his deadline for Iran to make a deal with the United States or else face destroyed infrastructure",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5818593-trump-iran-deal-deadline/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 561,
+      "date": "2026-04-06",
+      "fact": "President Trump threatened action against Iran during a news conference",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5818675-trump-threatens-iran-action/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 562,
+      "date": "2026-04-06",
+      "fact": "President Trump threatened to bomb Iran's infrastructure as part of his response to Iran's rejection of a US ceasefire plan",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775383/iran-war-updates",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775647/trump-doubles-down-on-threats-to-irans-civilian-infrastructure-unless-theres-a-deal",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/06/nx-s1-5775669/trump-iran-war-deadline-press-conference",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-donald-trump-news-conference-iran/",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/could-the-25th-amendment-be-invoked-against-trump-heres-how-it-works",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5817761-iran-rejects-us-peace-proposal/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5817546-watch-live-donald-trump-news-conference-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 563,
+      "date": "2026-04-06",
+      "fact": "President Trump warned that all of Iran 'could be taken out in one night' as he stuck to a deadline related to the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5816939-trump-iran-press-conference/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 564,
+      "date": "2026-04-06",
+      "fact": "Trump threatened Iran with 'all Hell' and military strikes on power plants if the Strait of Hormuz is not reopened",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5817761-iran-rejects-us-peace-proposal/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "date": "2026-04-07",
+      "fact": "President Trump planned strikes on Iran's bridges, desalination plants and power plants, escalating a devastating and illegal war and threatening massive war crimes and targeting civilian infrastructure in Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "date": "2026-04-07",
+      "fact": "Trump threatened civilian targets in Iran amid a looming deadline.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-administration-news-updates-today",
+          "name": "theguardian.com"
         }
       ]
     }
