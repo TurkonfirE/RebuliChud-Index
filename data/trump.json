@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders, pardons, and grants of clemency. His actions have been characterized as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior has been marked by a lack of accountability, with numerous lawsuits, investigations, and convictions, including felony convictions, yet he continues to defy judges and the courts, and has profited from his presidency through various means, including the use of his hotels and golf courses for political events.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -5904,6 +5904,72 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5820850-trump-budget-cuts-tsa/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 597,
+      "date": "2026-03-14",
+      "fact": "A court ruled in Beatty v. Trump, a case that directly documents Trump's misconduct",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10808868/beatty-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 598,
+      "date": "2026-04-08",
+      "fact": "President Trump threatened to impose a 50 percent tariff on any country that supplies military weapons to Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5821519-trump-iran-military-weapon-tariff/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 599,
+      "date": "2026-04-08",
+      "fact": "President Trump said he is considering a joint venture with Iran to set up tolls in the Strait of Hormuz.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5821343-trump-us-iran-ceasefire-deal-joint-venture-strait-of-hormuz/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "date": "2026-04-08",
+      "fact": "Trump referred to Marjorie Taylor Greene as 'Marjorie Traitor' and said her former seat in Congress was taken over by a Republican candidate who won 'despite the stench left' by Greene.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5822466-trump-boasts-fuller-win-greene-seat-georgia/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "date": "2026-04-08",
+      "fact": "Trump referred to the barrage of attacks in Lebanon as a 'separate skirmish' despite Israel intensifying its attacks on the country",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5821934-trump-lebanon-skirmish-israel-attacks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 602,
+      "date": "2026-04-08",
+      "fact": "Trump's decision to start a war against Iran has resulted in increased gas prices and inflation, as well as a lack of public support for the conflict",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5821063-iran-war-trump-approval/",
           "name": "thehill.com"
         }
       ]
