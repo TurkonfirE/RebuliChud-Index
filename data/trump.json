@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders, pardons, and grants of clemency. His actions have been characterized as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior has been marked by a lack of accountability, with numerous lawsuits, investigations, and convictions, including felony convictions, yet he continues to defy judges and the courts, and has profited from his presidency through various means, including the use of his hotels and golf courses for political events.",
   "initialized": true,
   "entries": [
     {
@@ -5867,6 +5867,43 @@
         },
         {
           "url": "https://thehill.com/homenews/house/5820927-trump-impeachment-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "date": "2026-04-07",
+      "fact": "The State Department warned Americans in the Middle East to evacuate ahead of President Trump's threatened bombings on a wide range of infrastructure in Iran",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5819713-state-department-warning-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 595,
+      "date": "2026-04-08",
+      "fact": "Trump threatened to bolt NATO, which is considered strategic illiteracy and reckless.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/national-security/5819576-trumps-nato-threat-is-strategic-illiteracy/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/08/nx-s1-5775868/nato-chief-to-visit-the-white-house-after-trumps-threats-to-leave-alliance",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "date": "2026-04-08",
+      "fact": "Trump's 2027 budget proposal would cut thousands of Transportation Security Administration (TSA) jobs in a push toward privatizing the agency",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5820850-trump-budget-cuts-tsa/",
           "name": "thehill.com"
         }
       ]
