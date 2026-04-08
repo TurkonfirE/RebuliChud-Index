@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other offenses. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric, targeting minority groups and immigrants, and has implemented policies that harm vulnerable populations, such as his travel ban and family separation policy. Additionally, Trump has shown a tendency to abuse power, as evidenced by his attempts to intimidate and silence his critics, including judges, lawmakers, and the media, and his use of executive authority to advance his personal interests and those of his allies. Overall, Trump's actions and words reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -5694,6 +5694,42 @@
         {
           "url": "https://thehill.com/homenews/house/5818835-ansari-introduces-articles-impeachment-hegseth/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5820701-trump-threat-iran-civilization/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5820723-pope-condemns-trump-iran-threat/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5820531-trump-iran-threat-murkowski-criticism/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5820539-pelosi-urges-25th-amendment/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5820555-trump-iran-threat-republicans/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/5820443-backlash-trump-iran-rhetoric/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/media/5820098-alex-jones-slams-trumps-ominous-iran-threat-that-is-the-definition-of-genocide/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5820204-harris-condemns-trump-iran-threat/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5819676-trump-iran-nuclear-threat-deadline/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5783,6 +5819,52 @@
       "date": "2026-04-08",
       "fact": "Rep. John Larson filed articles of impeachment against Trump for his recent social media post promising to erase a 'whole civilization' if the Strait of Hormuz was not reopened immediately",
       "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5820927-trump-impeachment-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "date": "2026-03-31",
+      "fact": "A court ruled in Public Broadcasting Service v. Donald J. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10830605/public-broadcasting-service-v-donald-j-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 591,
+      "date": "2026-04-08",
+      "fact": "President Trump threatened to destroy Iran's whole civilization before stepping back from the threat after a ceasefire deal was reached",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-news-at-a-glance-latest-updates-today",
+          "name": "theguardian.com"
+        },
+        {
+          "url": "https://www.businessinsider.com/trump-announces-two-week-ceasefire-in-iran-2026-4",
+          "name": "businessinsider.com"
+        },
+        {
+          "url": "https://www.foxnews.com/politics/pope-leo-calls-out-trumps-iran-rhetoric-before-last-minute-ceasefire-emerges",
+          "name": "foxnews.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5820948-cuellar-reverses-war-powers-stance/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5820978-pentagon-briefing-trump-iran/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5820914-murkowski-slams-trump-iran-threat/",
+          "name": "thehill.com"
+        },
         {
           "url": "https://thehill.com/homenews/house/5820927-trump-impeachment-iran-war/",
           "name": "thehill.com"
