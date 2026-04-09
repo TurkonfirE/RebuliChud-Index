@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -5730,6 +5730,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5819676-trump-iran-nuclear-threat-deadline/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/russia-and-china-veto-watered-down-un-resolution-aimed-at-reopening-the-strait-of-hormuz",
+          "name": "pbs.org"
         }
       ]
     },
@@ -5938,6 +5942,10 @@
         {
           "url": "https://thehill.com/policy/international/5821343-trump-us-iran-ceasefire-deal-joint-venture-strait-of-hormuz/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/senate/5821877-van-hollen-iran-tolls-strait-hormuz/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -5970,6 +5978,61 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/white-house/5821063-iran-war-trump-approval/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "date": "2026-04-08",
+      "fact": "The Trump administration initiated a probe that froze data colleges use to boost student voting, affecting their work on campus voter registration and turnout rates",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "date": "2026-04-08",
+      "fact": "President Trump claimed that 'fraudsters' were circulating documents related to negotiations between the U.S. and Iran over the countries' conflict, calling them 'total Fraudsters, Charlatans, and WORSE'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5822675-trump-blasts-cnn-iran-negotiations/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 607,
+      "date": "2026-04-08",
+      "fact": "The Trump administration is accused of stealing the Social Security data of 500 million Americans, living and dead, and sharing it with Elon Musk's Department of Government Efficiency (DOGE) for misuse.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5821106-social-security-data-theft/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "date": "2026-04-08",
+      "fact": "President Trump declared the US military operation against Iran a 'complete and total victory' despite the fragile ceasefire",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5821531-trump-nato-meeting-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "date": "2026-04-09",
+      "fact": "Donald Trump slammed NATO, stating 'NATO WASN'T THERE WHEN WE NEEDED THEM, AND THEY WON'T BE THERE IF WE NEED THEM AGAIN. REMEMBER GREENLAND, THAT BIG, POORLY RUN,…'",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5823232-trump-slams-nato-after-meeting-with-mark-rutte/",
           "name": "thehill.com"
         }
       ]
