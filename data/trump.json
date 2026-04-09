@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, including using his foundation's funds to finance his presidential campaign and profiting from events held at his hotels and golf courses.",
   "initialized": true,
   "entries": [
     {
@@ -6077,6 +6077,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5823453-live-updates-trump-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "date": "2026-04-09",
+      "fact": "A federal judge blocked the Trump administration from ending temporary deportation protections for thousands of Ethiopians, ruling that it likely disregarded the rules Congress set up for the program.",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5823591-court-ruling-trump-administration-immigration-agenda-protections-ethiopians/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 617,
+      "date": "2026-04-09",
+      "fact": "President Donald Trump used government powers to benefit coal plants, potentially leading to higher costs and health risks",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/as-trump-throws-lifeline-to-coal-plants-critics-warn-of-higher-costs-and-health-risks",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 618,
+      "date": "2026-04-09",
+      "fact": "Trump warned of 'bigger,' 'better,' stronger' attacks if Iran deal is not reached, threatening to authorize more substantial strikes on Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5823403-donald-trump-warning-iran-deal/",
           "name": "thehill.com"
         }
       ]
