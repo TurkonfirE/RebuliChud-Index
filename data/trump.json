@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of him defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
   "initialized": true,
   "entries": [
     {
@@ -5750,6 +5750,10 @@
         {
           "url": "https://thehill.com/policy/international/5823403-donald-trump-warning-iran-deal/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5825491-trump-threats-iran-removal-democrats/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6185,6 +6189,50 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5825088-hungary-vote-trump-orban/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 626,
+      "date": "2026-03-24",
+      "fact": "A court ruled on a case, Ebrahimi v. Trump, which directly involves Donald Trump as a defendant.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 627,
+      "date": "2026-04-10",
+      "fact": "The Trump administration admitted to a glaring error in its New York health fraud accusations, prompting questions about the validity of its anti-fraud efforts",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/ap-report-trump-administration-admits-a-glaring-error-in-its-new-york-health-fraud-accusations",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 628,
+      "date": "2026-04-10",
+      "fact": "The Trump administration updated rules for CDC's vaccine advisory panel, allowing inclusion of RFK Jr. allies, who have been known for spreading vaccine misinformation",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/health/the-trump-administration-just-updated-rules-for-cdcs-vaccine-advisory-panel-allowing-inclusion-of-rfk-jr-allies",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 629,
+      "date": "2026-04-10",
+      "fact": "Trump threatened to use the U.S. military to resume strikes on Iran if peace talks in Pakistan are not successful.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5825822-trump-threatens-iran-military-strikes/",
           "name": "thehill.com"
         }
       ]
