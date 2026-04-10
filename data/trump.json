@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including immigrants, women, and the LGBTQ+ community. His actions have been characterized by authoritarian tendencies, including the use of executive orders to bypass congressional authority, the dismissal of independent agencies and officials, and the promotion of conspiracy theories and misinformation. Trump's behavior has been marked by a lack of accountability, with numerous instances of self-dealing, tax evasion, and other forms of corruption, resulting in multiple lawsuits, indictments, and convictions.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -6138,6 +6138,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/epa-proposes-gutting-rules-for-handling-toxic-coal-ash-a-move-that-threatens-groundwater",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5824750-trump-administration-coal-waste-regulations/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6148,6 +6152,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/media/5824607-trump-iran-war-tucker-carlson-megyn-kelly/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "date": "2026-04-10",
+      "fact": "Trump bashed MAGA media figures, including Tucker Carlson, over their criticism of the Iran war",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/donald-trump/president-bashes-maga-media-figures-iran-war-criticism-tucker-carlson-rcna267716",
+          "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 622,
+      "date": "2026-04-10",
+      "fact": "Trump cast doubt on the Iran war ceasefire due to the continued closure of the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/world/live/2026/apr/10/iran-war-live-updates-trump-ceasefire-strait-hormuz-israel-lebanon-hezbollah",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 623,
+      "date": "2026-04-10",
+      "fact": "Trump urged Hungarians to vote for Prime Minister Viktor Orbán, a leader known for his authoritarian tendencies and anti-immigrant policies, in an election",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5825088-hungary-vote-trump-orban/",
           "name": "thehill.com"
         }
       ]
