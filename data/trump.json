@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -6120,6 +6120,10 @@
         {
           "url": "https://www.pbs.org/newshour/nation/as-trump-throws-lifeline-to-coal-plants-critics-warn-of-higher-costs-and-health-risks",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/policy/energy-environment/5824750-trump-administration-coal-waste-regulations/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6233,6 +6237,54 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5825822-trump-threatens-iran-military-strikes/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 632,
+      "date": "2026-04-09",
+      "fact": "Donald Trump made promises that have not been kept, as electric bills in West Virginia now top mortgages",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/why-is-this-so-high-electric-bills-in-west-virginia-now-top-mortgages-despite-trumps-promises",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 633,
+      "date": "2026-04-10",
+      "fact": "Trump falsely claimed that ICE is deporting criminals",
+      "sources": [
+        {
+          "url": "https://www.bostonglobe.com/2026/04/10/newsletters/immigration-unmasked-ice-deportation-not-criminals/",
+          "name": "bostonglobe.com"
+        }
+      ]
+    },
+    {
+      "id": 634,
+      "date": "2026-04-10",
+      "fact": "A federal court heard a new case against Trump's latest global tariffs",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-tariffs-lawsuit-trade-612954e80e705c48c3ef82e87c6078a3",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/economy/federal-court-hears-new-case-against-trumps-latest-global-tariffs",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 635,
+      "date": "2026-04-10",
+      "fact": "President Trump slammed The Wall Street Journal, calling it 'one of the worst' after the editorial board criticized his declaration of victory amid the Iran conflict",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5825588-donald-trump-wall-street-journal-editorial-board-iran-criticism/",
           "name": "thehill.com"
         }
       ]
