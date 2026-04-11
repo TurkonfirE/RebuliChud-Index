@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations and that the 9/11 attacks were a hoax. Greene has also made racist, Islamophobic, and antisemitic statements, and has expressed support for white supremacist views. She has called for violence against her political opponents, including executing prominent Democratic politicians, and has voted against measures to condemn hate groups and promote equality. Greene's behavior has been deemed so extreme that she was removed from committee assignments and expelled from the House Freedom Caucus. Her actions demonstrate a disregard for truth, decency, and the well-being of marginalized communities.",
+  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of behavior that promotes conspiracy theories, bigotry, and violence. She has supported and amplified white supremacist, Islamophobic, and antisemitic views, and has called for the execution of prominent Democratic politicians. Greene has also spread misinformation about mass shootings, COVID-19, and vaccines, and has compared mask requirements to the Holocaust. Her actions have been marked by a disregard for facts, a willingness to intimidate and harass others, and a penchant for inflammatory rhetoric. Greene's behavior has been so extreme that she was removed from committee assignments and expelled from the House Freedom Caucus.",
   "initialized": true,
   "entries": [
     {
@@ -1514,6 +1514,21 @@
         {
           "url": "https://thehill.com/homenews/administration/5819417-greene-25th-amendment-trump-iran-threat/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "date": "2022-11-03",
+      "fact": "Marjorie Taylor Greene was involved in a lawsuit, Marjorie Taylor Greene v. Secretary of State for the State of Georgia, which is a formal institutional consequence that directly documents her misconduct",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/8444399/marjorie-taylor-greene-v-secretary-of-state-for-the-state-of-georgia/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
+          "name": "courtlistener.com"
         }
       ]
     }
