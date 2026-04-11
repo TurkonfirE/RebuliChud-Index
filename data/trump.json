@@ -4104,9 +4104,9 @@
       ]
     },
     {
-      "id": 445,
+      "id": 638,
       "date": "2026-03-24",
-      "fact": "A court ruled against Donald Trump in the case Ebrahimi v. Trump",
+      "fact": "A court ruled in Ebrahimi v. Trump, a case against Donald Trump, on March 24, 2026",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
@@ -5352,6 +5352,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5818411-trump-iran-strikes-war-crimes/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5826156-john-kerry-trump-iran-war/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6062,6 +6066,10 @@
         {
           "url": "https://thehill.com/policy/defense/5823232-trump-slams-nato-after-meeting-with-mark-rutte/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5826163-greenland-nato-trump-response/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6293,6 +6301,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/media/5825588-donald-trump-wall-street-journal-editorial-board-iran-criticism/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 639,
+      "date": "2026-04-11",
+      "fact": "Trump said Virginia 'has lost its Energy, Vitality, and Strength' under Governor Abigail Spanberger",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5827019-trump-slams-virginia-gov-spanberger/",
           "name": "thehill.com"
         }
       ]
