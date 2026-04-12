@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, scandals, and controversies throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, people of color, and LGBTQ individuals. He has also shown a tendency to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of authoritarian and anti-democratic behavior. Overall, Trump's actions and behavior reveal a profound lack of empathy, integrity, and respect for the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
   "initialized": true,
   "entries": [
     {
@@ -6383,6 +6383,73 @@
         {
           "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
           "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 653,
+      "date": "2026-04-11",
+      "fact": "Trump signaled that tankers are headed to the US to load up on oil, saying 'We are waiting for you'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5826953-donald-trump-us-oil-tankers-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 654,
+      "date": "2026-04-12",
+      "fact": "Donald Trump detailed a sweeping 'all or nothing' US blockade of the Strait of Hormuz after failed Iran talks.",
+      "sources": [
+        {
+          "url": "https://www.foxnews.com/media/trump-details-sweeping-all-nothing-us-blockade-strait-hormuz-after-failed-iran-talks",
+          "name": "foxnews.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse",
+          "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5827840-trump-navy-strait-hormuz-blockade/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5827724-trump-iran-strait-hormuz-blockade/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 655,
+      "date": "2026-04-12",
+      "fact": "Trump casually spoke of wiping out a civilization, making threats of annihilation, nuclear or otherwise",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5826130-trump-rhetoric-civilizational-death/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 656,
+      "date": "2026-04-12",
+      "fact": "Trump defended his social media post stating \"a whole civilization\" would die in Iran, arguing it brought the Iranian government to the negotiating table, saying \"I'm fine with it\"",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5827896-trump-defends-iran-threat-civilization/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 657,
+      "date": "2026-04-12",
+      "fact": "Trump's administration claimed that halting construction of the $400 million White House ballroom would amount to a national security threat.",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5826276-trump-white-house-ballroom-security/",
+          "name": "thehill.com"
         }
       ]
     }
