@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders, pardons, and grants of clemency. His actions have been characterized as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior has been marked by a lack of accountability, with numerous lawsuits, investigations, and convictions, including felony convictions, yet he continues to defy judges and the courts, and has been found liable for sexual abuse and defamation.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other crimes. Trump has also demonstrated a willingness to exploit and harm vulnerable groups, including minorities, immigrants, and women, through his rhetoric and policies. His actions have been characterized by a desire for power and control, with a disregard for democratic norms and institutions, as evidenced by his attempts to undermine the judiciary, manipulate elections, and silence his critics. Trump's behavior has been marked by a pattern of dishonesty, corruption, and authoritarianism, with a complete disregard for the consequences of his actions on individuals, communities, and the country as a whole.",
   "initialized": true,
   "entries": [
     {
@@ -6044,6 +6044,10 @@
         {
           "url": "https://thehill.com/video-clips/5821531-trump-nato-meeting-threats/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-hegseths-claims-of-u-s-victory-in-the-iran-war",
+          "name": "pbs.org"
         }
       ]
     },
@@ -6334,6 +6338,28 @@
       "sources": [
         {
           "url": "https://thehill.com/immigration/5827088-green-cards-revoked-iranian-immigrants/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 646,
+      "date": "2026-04-10",
+      "fact": "A new law signed by President Trump authorizes the automatic registration of most young men into the military draft pool.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5826082-military-draft-selective-service-system-automatic-registration/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 647,
+      "date": "2026-04-10",
+      "fact": "Trump made a comment referring to Greenland as 'some piece of ice', prompting a response from Greenland's prime minister",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5826163-greenland-nato-trump-response/",
           "name": "thehill.com"
         }
       ]
