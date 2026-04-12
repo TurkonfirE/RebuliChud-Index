@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other crimes. Trump has also demonstrated a willingness to exploit and harm vulnerable groups, including minorities, immigrants, and women, through his rhetoric and policies. His actions have been characterized by a desire for power and control, with a disregard for democratic norms and institutions, as evidenced by his attempts to undermine the judiciary, manipulate elections, and silence his critics. Trump's behavior has been marked by a pattern of dishonesty, corruption, and authoritarianism, with a complete disregard for the consequences of his actions on individuals, communities, and the country as a whole.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, scandals, and controversies throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, people of color, and LGBTQ individuals. He has also shown a tendency to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has been accused of authoritarian and anti-democratic behavior. Overall, Trump's actions and behavior reveal a profound lack of empathy, integrity, and respect for the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -6361,6 +6361,28 @@
         {
           "url": "https://thehill.com/policy/international/5826163-greenland-nato-trump-response/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 648,
+      "date": "2026-04-10",
+      "fact": "The Trump administration made an unprecedented number of emergency appeals to the Supreme Court, according to Justice Sonia Sotomayor.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5825692-sotomayor-trump-emergency-docket/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 649,
+      "date": "2026-04-12",
+      "fact": "Trump's new budget allocates record sums to the US military while ignoring the needs of dying Americans",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
+          "name": "theguardian.com"
         }
       ]
     }
