@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racism and sexism, as evidenced by his comments on Mexican immigrants, Black applicants, and women. Trump has also demonstrated a willingness to use his power to target his opponents, including through the use of executive orders, pardons, and grants of clemency. His actions have been characterized as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior has been marked by a lack of accountability, with numerous lawsuits, investigations, and convictions, including felony convictions, yet he continues to defy judges and the courts, and has been found liable for sexual abuse and defamation.",
   "initialized": true,
   "entries": [
     {
@@ -4104,9 +4104,9 @@
       ]
     },
     {
-      "id": 638,
+      "id": 463,
       "date": "2026-03-24",
-      "fact": "A court ruled in Ebrahimi v. Trump, a case against Donald Trump, on March 24, 2026",
+      "fact": "A court ruled on Ebrahimi v. Trump, a case involving Donald Trump, on March 24, 2026.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
@@ -4295,17 +4295,6 @@
         {
           "url": "https://thehill.com/policy/international/5808543-iran-strikes-oil-tanker-dubai-middle-east-war/",
           "name": "thehill.com"
-        }
-      ]
-    },
-    {
-      "id": 463,
-      "date": "2026-03-24",
-      "fact": "A court ruled on Ebrahimi v. Trump, a case involving Donald Trump, on March 24, 2026.",
-      "sources": [
-        {
-          "url": "https://www.courtlistener.com/opinion/10814351/ebrahimi-v-trump/",
-          "name": "courtlistener.com"
         }
       ]
     },
@@ -6312,6 +6301,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5827019-trump-slams-virginia-gov-spanberger/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 641,
+      "date": "2026-03-31",
+      "fact": "A court ruled on a case, Public Broadcasting Service v. Donald J. Trump, which directly involves Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10830605/public-broadcasting-service-v-donald-j-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 642,
+      "date": "2026-04-11",
+      "fact": "President Trump agreed to a two-week ceasefire with Iran, which comedian Bill Maher accused was done to 'save face' as war crime concerns mount",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5827112-bill-maher-trump-iran-ceasefire/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 643,
+      "date": "2026-04-11",
+      "fact": "The Trump administration revoked green cards for three Iranian immigrants with alleged ties to the regime",
+      "sources": [
+        {
+          "url": "https://thehill.com/immigration/5827088-green-cards-revoked-iranian-immigrants/",
           "name": "thehill.com"
         }
       ]
