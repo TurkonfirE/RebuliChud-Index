@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evident in his description of Mexican immigrants as 'rapists' and his disparagement of Black people and other minority groups. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has shown a propensity for authoritarianism, as seen in his attacks on critics, his use of executive power to target opponents, and his attempts to dismantle federal agencies and undermine civil society.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -6504,6 +6504,39 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/energy-environment/5826522-noaa-trump-administration-grant-funding-omb/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "date": "2026-04-13",
+      "fact": "A court ruled against Donald Trump in the case National Digital Inclusion Alliance v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10841948/national-digital-inclusion-alliance-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "date": "2026-04-13",
+      "fact": "A federal judge dismissed President Trump's defamation suit against The Wall Street Journal over a story about a letter he allegedly sent to convicted sex offender Jeffrey Epstein",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5828714-judge-dismisses-trump-wall-street-journal-lawsuit/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "date": "2026-04-13",
+      "fact": "Trump posted an AI-generated image portraying himself as Jesus, which was widely criticized and later removed",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5827819-live-updates-trump-iran-pope-leo/",
           "name": "thehill.com"
         }
       ]
