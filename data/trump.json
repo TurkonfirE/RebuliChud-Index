@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to weaponize the FBI and the Justice Department against them. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for $100 million over discrimination charges. Trump has also been involved in numerous scandals, including the Trump University fraud case, which resulted in a $25 million settlement, and the Trump Foundation's self-dealing and tax evasion. His rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evident in his description of Mexican immigrants as 'rapists' and his disparagement of Black people and other minority groups. Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, and has shown a propensity for authoritarianism, as seen in his attacks on critics, his use of executive power to target opponents, and his attempts to dismantle federal agencies and undermine civil society.",
   "initialized": true,
   "entries": [
     {
@@ -6482,6 +6482,28 @@
       "sources": [
         {
           "url": "https://thehill.com/regulation/court-battles/5826176-judges-grapple-trump-tariffs/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 661,
+      "date": "2026-04-12",
+      "fact": "President Trump said that the prices of oil and gas could drop, stay even or go 'maybe a little higher' by this year's midterm elections, following his announcement of a blockade in the Strait of Hormuz.",
+      "sources": [
+        {
+          "url": "https://thehill.com/business/5828159-trump-oil-gas-prices-midterms/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 662,
+      "date": "2026-04-13",
+      "fact": "The Trump administration held up some National Oceanic and Atmospheric Administration (NOAA) grant funding, putting scientists who collect data about the atmosphere at risk for elimination",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/energy-environment/5826522-noaa-trump-administration-grant-funding-omb/",
           "name": "thehill.com"
         }
       ]
