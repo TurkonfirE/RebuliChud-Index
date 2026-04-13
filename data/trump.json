@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and making racist remarks about minority groups. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of accountability, with numerous instances of defying judges and the courts, and a tendency to prioritize his personal interests over the public good.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to weaponize the FBI and the Justice Department against them. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -6449,6 +6449,39 @@
       "sources": [
         {
           "url": "https://thehill.com/regulation/court-battles/5826276-trump-white-house-ballroom-security/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "date": "2026-04-13",
+      "fact": "Trump renewed a threat to target Iranian power plants and bridges after talks failed.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-president-renews-threat-to-iranian-power-plants-and-bridges-after-talks-fail",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 659,
+      "date": "2026-04-13",
+      "fact": "Trump accused Pope Leo of being 'terrible' on foreign policy over the pontiff's anti-war comments",
+      "sources": [
+        {
+          "url": "https://www.foxnews.com/politics/trump-accuses-pope-leo-being-terrible-foreign-policy-over-pontiffs-anti-war-comments",
+          "name": "foxnews.com"
+        }
+      ]
+    },
+    {
+      "id": 660,
+      "date": "2026-04-10",
+      "fact": "Trump imposed new 10 percent global tariffs, which are being challenged in the U.S. Court of International Trade in New York",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5826176-judges-grapple-trump-tariffs/",
           "name": "thehill.com"
         }
       ]
