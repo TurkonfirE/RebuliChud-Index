@@ -6540,6 +6540,39 @@
           "name": "thehill.com"
         }
       ]
+    },
+    {
+      "id": 670,
+      "date": "2026-04-12",
+      "fact": "Trump said the US has 'won' the war with Iran, despite the conflict being ongoing",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5828067-ron-johnson-iran-war-unfinished/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "date": "2026-04-13",
+      "fact": "President Trump refused to apologize to Pope Leo XIV after criticizing the pontiff for his opposition to the war in Iran",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-doesnt-owe-pope-leo-an-apology-after-attacking-him-for-comments-on-iran",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 672,
+      "date": "2026-04-13",
+      "fact": "President Trump falsely claimed that Pope Leo XIV supports Iran having a nuclear weapon",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-claim-that-pope-leo-supports-nuclear-weapons-in-iran",
+          "name": "pbs.org"
+        }
+      ]
     }
   ]
 }
