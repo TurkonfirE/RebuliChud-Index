@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using litigation to evade accountability, as seen in his countersuit against the U.S. government for discrimination charges and his numerous settlements and convictions for fraud and other crimes. Trump has also demonstrated a willingness to use racist and xenophobic rhetoric to further his political goals, and has implemented policies that target marginalized communities, including immigrants, Muslims, and LGBTQ individuals. His actions have been characterized by a desire for power and control, with a disregard for democratic norms and institutions, as evidenced by his attempts to undermine the judiciary, the media, and the electoral process. Trump's behavior has been marked by a pattern of dishonesty, corruption, and abuse of power, with numerous instances of self-dealing, tax evasion, and other forms of malfeasance.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous cases of fraud, including a $40 million civil suit against Trump University for making false statements and defrauding consumers. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including his attempts to intimidate and silence women who have accused him of sexual misconduct. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -6592,6 +6592,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-doesnt-owe-pope-leo-an-apology-after-attacking-him-for-comments-on-iran",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/administration/5827819-live-updates-trump-iran-pope-leo/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6650,6 +6654,39 @@
         },
         {
           "url": "https://thehill.com/homenews/administration/5829501-trump-feud-pope-leo/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 679,
+      "date": "2026-04-14",
+      "fact": "Trump seeks to limit mail voting",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/postal-service-union-launches-ad-campaign-promoting-mail-voting-as-trump-seeks-to-limit-it",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "date": "2026-04-14",
+      "fact": "Trump proposed an executive order that would require banks to collect citizenship information",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5830266-trump-executive-order-banking-system-citizenship/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "date": "2026-04-14",
+      "fact": "President Trump ordered the Navy to block ships as they go to and from Iranian ports, escalating the conflict with Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5829527-iran-trump-us-conflict-navy-blockade/",
           "name": "thehill.com"
         }
       ]
