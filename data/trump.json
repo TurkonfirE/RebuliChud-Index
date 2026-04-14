@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a lack of respect for the judiciary and the rule of law. Additionally, Trump has been found liable for numerous wrongdoing, including inflating the value of his organization, falsifying business records, and committing sexual abuse and defamation, resulting in significant financial penalties and convictions. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -6571,6 +6571,28 @@
         {
           "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-claim-that-pope-leo-supports-nuclear-weapons-in-iran",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 675,
+      "date": "2026-03-31",
+      "fact": "A court case, Public Broadcasting Service v. Donald J. Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10830605/public-broadcasting-service-v-donald-j-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 676,
+      "date": "2026-04-13",
+      "fact": "President Trump made a statement about the blockade, saying 34 ships passed through the Strait of Hormuz on Sunday",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5829020-strait-hormuz-shipping-increase/",
+          "name": "thehill.com"
         }
       ]
     }
