@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by consistent efforts to restrict access to healthcare, voting rights, and social services, while promoting policies that favor conservative and anti-immigrant agendas. He has repeatedly supported legislation that limits LGBTQ+ rights, targets minority groups, and restricts women's reproductive autonomy. DeSantis has also demonstrated a willingness to use divisive rhetoric and take actions that are widely interpreted as racist or discriminatory, such as his comments about \"monkeying up\" the state's economy and his decision to fly asylum seekers to Martha's Vineyard. His actions have been met with numerous court challenges and rulings against him, highlighting the controversial nature of his policies and governance. Overall, DeSantis's behavior suggests a commitment to advancing a far-right ideology at the expense of marginalized communities and democratic norms.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent effort to restrict access to healthcare, particularly for vulnerable populations, as evidenced by his vote to repeal the Affordable Care Act and his signing of abortion ban bills. He has also demonstrated a commitment to limiting voting rights, signing measures that make it harder to launch ballot initiatives and restricting voting by mail. Additionally, DeSantis has shown a willingness to use divisive rhetoric and promote discriminatory policies, such as his support for the Florida Parental Rights in Education Act and his description of critical race theory as 'teaching kids to hate their country'. His actions have been met with numerous court challenges, with several rulings against him and the State of Florida. Overall, DeSantis's actions suggest a prioritization of partisan ideology over the well-being and rights of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -478,6 +478,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10652409/kayle-b-bates-v-state-of-florida-kayle-b-bates-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "date": "2025-11-13",
+      "fact": "Governor Ron DeSantis was named as a defendant in the lawsuit Maurice Jackson W v. Ron Desantis",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10752902/maurice-jackson-w-v-ron-desantis/",
           "name": "courtlistener.com"
         }
       ]
