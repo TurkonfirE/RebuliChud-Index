@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous cases of fraud, including a $40 million civil suit against Trump University for making false statements and defrauding consumers. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including his attempts to intimidate and silence women who have accused him of sexual misconduct. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary and the free press, and has shown a pattern of self-dealing and corruption, including using his presidency to profit from his businesses and promoting his family's interests. Overall, Trump's actions and behavior reveal a profound disregard for the principles of equality, justice, and democracy.",
   "initialized": true,
   "entries": [
     {
@@ -6433,6 +6433,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5829527-iran-trump-us-conflict-navy-blockade/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5830128-chinese-tanker-strait-hormuz-blockade/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6570,6 +6574,10 @@
         {
           "url": "https://thehill.com/homenews/5828705-trump-conservative-jesus-image/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/media/5831380-rogan-trump-ai-jesus-post/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6666,6 +6674,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/postal-service-union-launches-ad-campaign-promoting-mail-voting-as-trump-seeks-to-limit-it",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://apnews.com/article/postal-service-mail-voting-trump-midterms-d0883d8064fd512565e8b07e373a5a66",
+          "name": "apnews.com"
         }
       ]
     },
@@ -6687,6 +6699,50 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5829527-iran-trump-us-conflict-navy-blockade/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 682,
+      "date": "2026-04-14",
+      "fact": "Trump wants to do away with the filibuster in order to pass the Save America Act",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/14/nx-s1-5771526/the-filibuster-has-long-forced-senators-to-compromise-can-it-survive-2026",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "date": "2026-04-14",
+      "fact": "The Trump administration cut legal immigration far more than illegal crossings, with 132,000 fewer people being admitted per month through legal pathways.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/study-finds-trump-administration-cut-legal-immigration-far-more-than-illegal-crossings",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 684,
+      "date": "2026-04-14",
+      "fact": "Trump's move to shutter the Kennedy Center for two years has spurred lawsuits and an outcry that the closure is merely a response to plunging sales as artists canceled performances in droves.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/new-head-of-the-kennedy-center-tries-to-show-that-the-building-really-needs-a-renovation",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 685,
+      "date": "2026-04-14",
+      "fact": "Trump slammed the United Kingdom for not drilling for oil in the North Sea, stating that the country refuses to open one of the greatest fields in the world",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5830435-trump-slams-uk-north-sea/",
           "name": "thehill.com"
         }
       ]
