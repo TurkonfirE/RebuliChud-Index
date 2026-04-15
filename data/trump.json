@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to undermine democratic institutions, including the judiciary, the media, and the electoral process, as seen in his attempts to pressure Ukrainian president Volodymyr Zelenskyy to investigate Joe and Hunter Biden and his baseless allegations of election fraud. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -6759,6 +6759,65 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-live-omb-director-vought-testifies-on-trumps-2027-budget-request-in-house-hearing",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 687,
+      "date": "2026-04-15",
+      "fact": "Trump threatened to fire Federal Reserve Chairman Jerome Powell if he remains with the central bank after his term ends.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 688,
+      "date": "2026-04-15",
+      "fact": "Trump urged extending the foreign surveillance program as some lawmakers push for US privacy protections.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/trump-foreign-surveillance-fisa-intelligence-fc13cfaa521e3380539611065a45f112",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 689,
+      "date": "2026-04-14",
+      "fact": "Trump slammed Italian Prime Minister Giorgia Meloni, saying he was 'shocked by her' in an Italian newspaper interview",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5830561-trump-meloni-pope-dispute/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 690,
+      "date": "2026-04-14",
+      "fact": "Trump suggested that talks with Iran are 'happening' but are running 'a bit slow'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5830594-us-iran-peace-talks-trump-pakistan/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 691,
+      "date": "2026-04-14",
+      "fact": "A court ruling was issued in the case In re: Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10842546/in-re-donald-trump/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10842501/in-re-donald-trump/",
+          "name": "courtlistener.com"
         }
       ]
     }
