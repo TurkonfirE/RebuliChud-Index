@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually challenged. He has repeatedly denigrated childless individuals, suggesting they are sociopathic and should be taxed at a higher rate, and has made derogatory comments about women and immigrants. Vance has also shown a willingness to spread misinformation and create false narratives to further his own agenda, as seen in his claims about Haitian migrants eating pets. Additionally, he has expressed support for extremist policies, including the criminalization of gender-affirming care for minors and the suppression of diversity, equity, and inclusion programs. Vance's actions and statements reveal a character that is intolerant, xenophobic, and dismissive of facts and evidence.",
+  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually inaccurate. He has repeatedly denigrated childless individuals, suggesting they are sociopathic and should be taxed at a higher rate, and has made derogatory comments about women and immigrants. Vance has also spread misinformation, such as claims about Haitian migrants eating pets, and has defended his willingness to create false stories to get attention. Additionally, he has expressed support for extremist policies, including the criminalization of gender-affirming care for minors and the suppression of diversity, equity, and inclusion programs. Vance's actions and statements show a disregard for facts, a lack of empathy, and a willingness to promote hateful and discriminatory ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -368,6 +368,17 @@
         {
           "url": "https://thehill.com/homenews/administration/5819317-vance-praises-orban-budapest/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "date": "2026-04-15",
+      "fact": "Vance warned the Pope to be careful when talking about theology",
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/trump-administration/vance-warns-pope-careful-talking-theology-rcna331881",
+          "name": "nbcnews.com"
         }
       ]
     }
