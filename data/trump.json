@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, investigations, and scandals throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, people of color, and LGBTQ individuals. He has also shown a tendency to defy authority, ignore court orders, and undermine the rule of law, and has been convicted of multiple felonies. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous cases of fraud, including a $40 million civil suit against Trump University for making false statements and defrauding consumers. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'bringing drugs, they're bringing crime, they're rapists' and his reference to African nations as 'shithole countries'. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including the use of violent and authoritarian language. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -6937,6 +6937,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/senate/5831305-gop-divided-iran-conflict-funding/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "date": "2026-04-15",
+      "fact": "The Trump administration effectively closed the Strait of Hormuz, blocking Iran from choosing which ships are allowed to pass through the critical choke point",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5833432-trump-blockade-iran-strait-scarborough/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "date": "2026-04-16",
+      "fact": "Trump's administration is trying to undo 50 years of energy efficiency gains",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/energy-environment/5832183-trump-assaults-energy-efficiency/",
           "name": "thehill.com"
         }
       ]
