@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military and law enforcement against them, and has shown a lack of respect for the judiciary and the rule of law. Additionally, Trump has been found liable for numerous wrongdoing, including inflating the value of his organization, misusing his foundation's funds, and committing sexual abuse and defamation. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -6704,6 +6704,10 @@
         {
           "url": "https://thehill.com/homenews/administration/5829527-iran-trump-us-conflict-navy-blockade/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates",
+          "name": "npr.org"
         }
       ]
     },
@@ -6770,6 +6774,14 @@
         {
           "url": "https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973",
           "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/as-trump-threatened-to-fire-powell-federal-prosecutors-showed-up-unannounced-at-the-federal-reserve-building",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/business/5832243-trump-threatens-fire-powell/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6781,6 +6793,10 @@
         {
           "url": "https://apnews.com/article/trump-foreign-surveillance-fisa-intelligence-fc13cfaa521e3380539611065a45f112",
           "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-urges-extending-fisa-program-as-some-lawmakers-push-for-privacy-protections-for-americans",
+          "name": "pbs.org"
         }
       ]
     },
@@ -6792,6 +6808,14 @@
         {
           "url": "https://thehill.com/homenews/administration/5830561-trump-meloni-pope-dispute/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://apnews.com/article/italy-trump-giorgia-meloni-pope-iran-israel-172094da97513b78a91cd5abc1bdbdc8",
+          "name": "apnews.com"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/world/trump-decries-italys-meloni-for-siding-with-the-pope-and-not-supporting-iran-war",
+          "name": "pbs.org"
         }
       ]
     },
@@ -6850,6 +6874,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5831973-trump-strait-china-iran/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 697,
+      "date": "2026-04-15",
+      "fact": "Trump's attacks on Pope Leo are unprecedented, according to religious experts",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/15/nx-s1-5779690/pope-leo-donald-trump-war-iran-vance-history",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 698,
+      "date": "2026-04-15",
+      "fact": "Trump joked that diet soda 'kills cancer cells' as a defense for his diet soda habit",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/healthcare/5833396-oz-trump-soda-cancer/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "date": "2026-04-15",
+      "fact": "President Trump claimed that Cato Institute research shows his administration's handling of the southern border is 'the best in the History of the U.S.A.', which was disputed by a Cato Institute official",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5832642-cato-institute-trump-immigration/",
           "name": "thehill.com"
         }
       ]
