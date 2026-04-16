@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties had discriminated against Black applicants and tenants. He has also been involved in numerous cases of fraud, including a $40 million civil suit against Trump University for making false statements and defrauding consumers. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'bringing drugs, they're bringing crime, they're rapists' and his reference to African nations as 'shithole countries'. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including the use of violent and authoritarian language. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -6959,6 +6959,72 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/energy-environment/5832183-trump-assaults-energy-efficiency/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "date": "2026-04-16",
+      "fact": "A court case, Dusenbery v. Trump, was filed against Donald Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10844072/dusenbery-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 708,
+      "date": "2026-04-16",
+      "fact": "The Trump administration is accused of undermining work on housing discrimination by HUD workers, who claim they are being blocked from doing their jobs.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/16/nx-s1-5780859/hud-employees-trump-policy-protest-letters-website",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 709,
+      "date": "2026-04-16",
+      "fact": "Trump sparked a mid-decade redistricting battle by calling on Texas Republicans to redraw their districts for partisan advantage",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/states-rush-to-redraw-u-s-house-districts-ahead-of-the-november-midterm-elections",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 710,
+      "date": "2026-04-16",
+      "fact": "President Trump requested a clean, 18-month extension of the nation's warrantless spy powers",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5834182-spy-powers-short-term-extension-gop-leaders/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 711,
+      "date": "2026-04-16",
+      "fact": "The White House's fiscal 2027 budget request includes more funding for Trump's crackdown on immigration",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5834142-watch-live-dhs-officials-testimony-house-budget-shutdown/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 712,
+      "date": "2026-04-16",
+      "fact": "President Trump has taken punitive tariffs, aggressive immigration tactics, and ill-conceived military actions, which Congress has permitted despite potentially violating the Constitution",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/congress-blog/5831053-congress-trump-speaker-johnson/",
           "name": "thehill.com"
         }
       ]
