@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using his power and influence to further his own interests, often at the expense of others, and has been involved in numerous lawsuits, investigations, and scandals throughout his career. Trump has demonstrated a willingness to use racist, sexist, and xenophobic language, and has implemented policies that have harmed marginalized communities, including immigrants, people of color, and LGBTQ individuals. He has also shown a tendency to defy authority, ignore court orders, and undermine the rule of law, and has been convicted of multiple felonies. Overall, Trump's actions and behavior reveal a pattern of authoritarianism, corruption, and disregard for the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -6708,6 +6708,14 @@
         {
           "url": "https://www.npr.org/2026/04/15/nx-s1-5786034/iran-middle-east-updates",
           "name": "npr.org"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5833432-trump-blockade-iran-strait-scarborough/",
+          "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/defense/5831870-us-military-blockade-strait-of-hormuz-iran-port/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -6907,6 +6915,28 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5832642-cato-institute-trump-immigration/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "date": "2026-04-16",
+      "fact": "Trump announced new sanctions on Iran's oil sector",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "date": "2026-04-15",
+      "fact": "President Trump pushed for funding for the military conflict with Iran, causing division among Senate Republicans",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5831305-gop-divided-iran-conflict-funding/",
           "name": "thehill.com"
         }
       ]
