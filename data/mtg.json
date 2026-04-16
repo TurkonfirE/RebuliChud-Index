@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene has consistently demonstrated a pattern of behavior that promotes conspiracy theories, bigotry, and violence. She has supported and amplified white supremacist, Islamophobic, and antisemitic views, and has called for the execution of prominent Democratic politicians. Greene has also spread misinformation about mass shootings, COVID-19, and vaccines, and has compared mask requirements to the Holocaust. Her actions have been marked by a disregard for facts, a willingness to intimidate and harass others, and a penchant for inflammatory rhetoric. Greene's behavior has been so extreme that she was removed from committee assignments and expelled from the House Freedom Caucus.",
+  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by the promotion of conspiracy theories, bigotry, and violence. The facts show that she has consistently spread misinformation, including claims that mass shootings were false flag operations, and has endorsed white supremacist and Islamophobic views. Greene has also made death threats against Democrats, called for the execution of prominent politicians, and compared COVID-19 safety measures to the persecution of Jews during the Holocaust. Her behavior has been characterized by aggression, including confrontations with colleagues and survivors of gun violence, and she has been fined and removed from committee roles for her actions. Overall, Greene's actions demonstrate a disregard for truth, decency, and the well-being of others, and a willingness to use harmful rhetoric to further her own ideology.",
   "initialized": true,
   "entries": [
     {
@@ -1529,6 +1529,28 @@
         {
           "url": "https://www.courtlistener.com/opinion/10726739/equity-prime-mortgage-v-greene-for-congress-inc/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "date": "2026-04-16",
+      "fact": "Marjorie Taylor Greene said President Trump told her that if her son were to get killed, it would be her fault",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5834365-greene-trump-feud-rhetoric-death-threats/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "date": "2026-04-16",
+      "fact": "Marjorie Taylor Greene slammed evangelical leader Franklin Graham for defending President Trump's AI Jesus post",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5834910-marjorie-greene-slams-franklin-graham/",
+          "name": "thehill.com"
         }
       ]
     }
