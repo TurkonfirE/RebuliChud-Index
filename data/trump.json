@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and deception, including making false statements about the 2020 election and inflating the value of his business to gain an advantage with lenders. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning of the dangers of his behavior to the rule of law and civil society.",
   "initialized": true,
   "entries": [
     {
@@ -7025,6 +7025,98 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/congress-blog/5831053-congress-trump-speaker-johnson/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 713,
+      "date": "2026-04-16",
+      "fact": "Trump renewed accusations that Australia hasn't done enough to help in the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 714,
+      "date": "2026-04-16",
+      "fact": "A court ruling was made in the case of Smith v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10844106/smith-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 716,
+      "date": "2026-03-30",
+      "fact": "A court ruling was made in the case of Citizens for Responsibility and Ethics in Washington v. U.S. Department of Justice, which may involve Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10829951/citizens-for-responsibility-and-ethics-in-washington-v-us-department-of/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 717,
+      "date": "2026-04-16",
+      "fact": "The House rejected a resolution requiring President Donald Trump to withdraw U.S. forces from the war with Iran unless Congress authorizes military action, with GOP lawmakers largely supporting Trump's operation.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/house-rejects-effort-to-withdraw-u-s-forces-from-iran-war-as-gop-lawmakers-stick-with-trump",
+          "name": "pbs.org"
+        },
+        {
+          "url": "https://thehill.com/homenews/house/5834485-iran-war-powers-house-2/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 718,
+      "date": "2026-04-17",
+      "fact": "Trump claimed that New York City Mayor Zohran Mamdani is 'destroying' the city with his proposed tax on second homes",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5835790-trump-criticizes-mamdani-tax/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 719,
+      "date": "2026-04-17",
+      "fact": "Trump cast doubt on a recent Labor Department report that showed a 0.9-point hike in inflation last month, referring to it as 'fake inflation'",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5835743-trump-defends-economic-policies/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 720,
+      "date": "2026-04-16",
+      "fact": "A federal judge limited President Trump's White House ballroom project to 'below-ground construction', rejecting the administration's claims that the entire project must proceed for security reasons",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5834551-judge-white-house-ballroom-trump-underground-construction/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 721,
+      "date": "2026-04-16",
+      "fact": "Trump told Marjorie Taylor Greene that if her son were to get killed, it would be her fault",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5834365-greene-trump-feud-rhetoric-death-threats/",
           "name": "thehill.com"
         }
       ]
