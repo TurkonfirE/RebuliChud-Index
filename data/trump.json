@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racial and gender-based discrimination, and has been accused of numerous instances of fraud, corruption, and abuse of power. Trump has also demonstrated a willingness to use violence and intimidation to achieve his goals, including inciting insurrection and promoting authoritarianism. His actions have been characterized by a lack of empathy, a tendency to blame others, and a propensity for lying and dishonesty. Overall, Trump's behavior suggests a profound disregard for the principles of democracy, equality, and justice.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing rhetoric against immigrants and other groups.",
   "initialized": true,
   "entries": [
     {
@@ -6619,6 +6619,10 @@
         {
           "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-claim-that-pope-leo-supports-nuclear-weapons-in-iran",
           "name": "pbs.org"
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-says-the-pope-has-to-understand-that-iran-cannot-have-a-nuclear-weapon",
+          "name": "pbs.org"
         }
       ]
     },
@@ -6953,6 +6957,10 @@
         {
           "url": "https://thehill.com/policy/international/5833432-trump-blockade-iran-strait-scarborough/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/policy/international/5836133-iran-trump-strait-of-hormuz-lebanon-israel-ceasefire/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -7115,6 +7123,10 @@
         {
           "url": "https://thehill.com/regulation/court-battles/5834551-judge-white-house-ballroom-trump-underground-construction/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/17/nx-s1-5788576/trump-rails-against-court-decision-that-once-again-stalls-his-white-house-ballroom-project",
+          "name": "npr.org"
         }
       ]
     },
@@ -7137,6 +7149,17 @@
         {
           "url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 723,
+      "date": "2026-04-16",
+      "fact": "Trump stated he is 'OK' with public hearings for Epstein survivors, but noted the women did not want to testify under oath",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-ok-with-public-epstein-survivor-hearings",
+          "name": "pbs.org"
         }
       ]
     }
