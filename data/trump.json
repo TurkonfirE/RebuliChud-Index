@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and deception, including making false statements about the 2020 election and inflating the value of his business to gain an advantage with lenders. His actions have been described as authoritarian and have contributed to democratic backsliding, with many experts warning of the dangers of his behavior to the rule of law and civil society.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of engaging in discriminatory practices, including racial and gender-based discrimination, and has been accused of numerous instances of fraud, corruption, and abuse of power. Trump has also demonstrated a willingness to use violence and intimidation to achieve his goals, including inciting insurrection and promoting authoritarianism. His actions have been characterized by a lack of empathy, a tendency to blame others, and a propensity for lying and dishonesty. Overall, Trump's behavior suggests a profound disregard for the principles of democracy, equality, and justice.",
   "initialized": true,
   "entries": [
     {
@@ -6437,6 +6437,10 @@
         {
           "url": "https://thehill.com/policy/international/5830128-chinese-tanker-strait-hormuz-blockade/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://thehill.com/video-clips/5833862-watch-live-hegseth-caine-pentagon-press-briefing-iran/",
+          "name": "thehill.com"
         }
       ]
     },
@@ -7004,6 +7008,10 @@
         {
           "url": "https://thehill.com/homenews/house/5834182-spy-powers-short-term-extension-gop-leaders/",
           "name": "thehill.com"
+        },
+        {
+          "url": "https://www.npr.org/2026/04/17/nx-s1-5788573/house-extends-surveillance-powers-for-10-days",
+          "name": "npr.org"
         }
       ]
     },
@@ -7118,6 +7126,17 @@
         {
           "url": "https://thehill.com/homenews/administration/5834365-greene-trump-feud-rhetoric-death-threats/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 722,
+      "date": "2026-04-16",
+      "fact": "President Trump would veto a bill extending protections for Haitian migrants in the U.S. if it passes the Senate",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/04/16/g-s1-117718/house-passes-bill-extending-protections-for-haitian-migrants-in-the-u-s",
+          "name": "npr.org"
         }
       ]
     }
