@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his use of dehumanizing language to describe immigrants and other groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including pressuring the Ukrainian president to investigate Joe Biden and using the FBI and Justice Department to target his political enemies. Additionally, Trump has shown a pattern of dishonesty and corruption, including inflating the value of his organization to gain an advantage with lenders and banks, and profiting from events held at his hotels and golf courses. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7248,6 +7248,50 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/defense/5837883-trump-us-military-iran-linked-vessels-strait-of-hormuz/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 732,
+      "date": "2026-04-13",
+      "fact": "A court ruling was made in the case National Digital Inclusion Alliance v. Trump",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10841948/national-digital-inclusion-alliance-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 733,
+      "date": "2026-04-19",
+      "fact": "Trump accused Iran of violating the two-week ceasefire by firing at ships in the Strait of Hormuz",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5838330-trump-iran-ceasefire-islamabad-talks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 734,
+      "date": "2026-04-19",
+      "fact": "Trump used profane rhetoric, combining it with Christian nationalism and racial and religious insults to signal that the only 'real' Americans are white, Christian and of European descent",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/5836320-trump-war-rhetoric-danger/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 735,
+      "date": "2026-04-19",
+      "fact": "Trump's administration canceled or suspended nearly 1,400 National Science Foundation grants, citing changing policy priorities",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5835619-future-nsf-research-limbo/",
           "name": "thehill.com"
         }
       ]
