@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. The facts show that he has a history of discriminatory practices, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants. He has also been involved in numerous scandals, including the Trump University lawsuit, where he agreed to pay $25 million to settle three cases related to the company's alleged fraud. Trump's rhetoric and policies have been characterized by racism, xenophobia, and misogyny, as evidenced by his description of Mexican immigrants as 'rapists' and his implementation of a travel ban targeting predominantly Muslim countries. Additionally, Trump has demonstrated a willingness to use his power to target his political opponents, critics, and marginalized groups, including his attempts to intimidate and silence women who have accused him of sexual misconduct. Overall, Trump's actions and behavior reveal a profound disregard for the principles of equality, justice, and democracy.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
   "initialized": true,
   "entries": [
     {
@@ -7336,6 +7336,47 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5838681-waltz-defends-trump-iran-strikes/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 741,
+      "date": "2026-04-14",
+      "fact": "Donald Trump was involved in a court case, In re: Donald Trump, which directly documents his misconduct.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10844560/in-re-donald-trump/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10842546/in-re-donald-trump/",
+          "name": "courtlistener.com"
+        },
+        {
+          "url": "https://www.courtlistener.com/opinion/10842501/in-re-donald-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 743,
+      "date": "2026-04-20",
+      "fact": "Trump told PBS News that 'lots of bombs start going off' if Iran ceasefire expires",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-tells-pbs-news-that-lots-of-bombs-start-going-off-if-iran-ceasefire-expires",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 744,
+      "date": "2026-04-18",
+      "fact": "President Trump posted an AI-generated image of what appeared to be him as Jesus Christ on social media, which he later took down",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5837988-megyn-kelly-slams-trump-religion/",
           "name": "thehill.com"
         }
       ]
