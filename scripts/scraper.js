@@ -25,7 +25,7 @@ const { execSync } = require('child_process');
 // CONFIG
 // ============================================================
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const GROQ_MODEL = 'llama-3.3-70b-versatile';
+const GROQ_MODEL = 'llama-3.1-8b-instant';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const FIGURES_PATH = path.join(__dirname, '..', 'figures.json');
 
