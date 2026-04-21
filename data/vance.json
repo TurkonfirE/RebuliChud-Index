@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance has consistently demonstrated a pattern of behavior that is divisive, discriminatory, and factually inaccurate. He has repeatedly denigrated childless individuals, suggesting they are sociopathic and should be taxed at a higher rate, and has made derogatory comments about women and immigrants. Vance has also spread misinformation, such as claims about Haitian migrants eating pets, and has defended his willingness to create false stories to get attention. Additionally, he has expressed support for extremist policies, including the criminalization of gender-affirming care for minors and the suppression of diversity, equity, and inclusion programs. Vance's actions and statements show a disregard for facts, a lack of empathy, and a willingness to promote hateful and discriminatory ideologies.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets childless individuals, labeling them as sociopathic and attempting to stigmatize them. Vance has also demonstrated a willingness to spread misinformation and conspiracy theories, including claims about Haitian migrants eating pets and the 2020 presidential election being rigged by Big Tech. He has shown a disregard for the truth and a willingness to manipulate public opinion for his own purposes. Additionally, Vance has consistently taken a hardline stance on issues such as abortion, gun control, and same-sex marriage, and has proposed extreme policies such as the federal criminalization of gender-affirming care for minors.",
   "initialized": true,
   "entries": [
     {
@@ -379,6 +379,17 @@
         {
           "url": "https://www.nbcnews.com/politics/trump-administration/vance-warns-pope-careful-talking-theology-rcna331881",
           "name": "nbcnews.com"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "date": "2026-04-20",
+      "fact": "Iran's military is threatening to retaliate after the U.S. seized one of its cargo ships traveling through the Gulf of Oman over the weekend.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5838415-live-updates-donald-trump-iran-talks/",
+          "name": "thehill.com"
         }
       ]
     }
