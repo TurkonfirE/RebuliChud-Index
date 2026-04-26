@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets childless individuals, labeling them as sociopathic and attempting to stigmatize them. Vance has also demonstrated a willingness to spread misinformation and conspiracy theories, including claims about Haitian migrants eating pets and the 2020 presidential election being rigged by Big Tech. He has shown a disregard for the truth and a willingness to manipulate public opinion for his own purposes. Additionally, Vance has consistently taken a hardline stance on issues such as abortion, gun control, and same-sex marriage, and has proposed extreme policies such as the federal criminalization of gender-affirming care for minors.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets childless individuals, labeling them as sociopathic and making unsubstantiated claims about their supposed negative impact on society. Vance has also demonstrated a willingness to spread misinformation and conspiracy theories, including allegations about Haitian migrants eating pets and claims of election rigging by Big Tech. His actions and statements often prioritize ideology over fact and empathy, and he has shown a disregard for the rule of law and the principles of democracy.",
   "initialized": true,
   "entries": [
     {
@@ -389,6 +389,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5838415-live-updates-donald-trump-iran-talks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "date": "2026-04-24",
+      "fact": "Vice President Vance will not join the US-Iran talks in Pakistan, but is on standby.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5845928-live-updates-trump-iran/",
           "name": "thehill.com"
         }
       ]
