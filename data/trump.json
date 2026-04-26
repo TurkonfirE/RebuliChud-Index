@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of discriminatory actions, including countersuing the U.S. government for $100 million over charges that his properties discriminated against Black applicants and tenants, and implementing a travel ban targeting predominantly Muslim countries. Trump has also demonstrated a willingness to use his power to target his opponents, including threatening to use the military against Democratic politicians and weaponizing the FBI and Justice Department against his critics. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. Trump's behavior is also characterized by a lack of respect for women, minorities, and other marginalized groups, as evidenced by his boasts about kissing and groping women without their consent, his promotion of racist conspiracy theories, and his imposition of policies that harm these groups.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has demonstrated a willingness to disregard the judiciary, questioning their constitutional authority and disparaging courts and judges he disagrees with. Trump has also shown a pattern of authoritarian behavior, including attempting to overturn the 2020 election, weaponizing the Justice Department and federal agencies against his opponents, and imposing harsh restrictions on immigration and civil liberties. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7378,6 +7378,50 @@
         {
           "url": "https://thehill.com/homenews/administration/5837988-megyn-kelly-slams-trump-religion/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 745,
+      "date": "2026-04-23",
+      "fact": "President Trump halted the Afghan resettlement program more than a year ago, leading to hundreds of Afghans who helped the United States' war effort in Afghanistan being detained in Qatar.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/state-department-proposes-sending-afghans-who-helped-u-s-war-effort-to-congo",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 746,
+      "date": "2026-04-23",
+      "fact": "President Donald Trump said he wouldn't use a nuclear weapon in Iran and that nobody should be allowed to use them.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-wont-use-nuclear-weapons-in-iran",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 747,
+      "date": "2026-04-23",
+      "fact": "The Department of Homeland Security says it has deported more than 675,000 immigrants in the first year of Trump's second term.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/this-is-my-home-says-daca-recipient-deported-then-returned-to-u-s",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 748,
+      "date": "2026-04-23",
+      "fact": "Although the administration claims to be targeting violent criminals, others continue to be caught in the crackdown, including some who are protected from deportation.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/show/this-is-my-home-says-daca-recipient-deported-then-returned-to-u-s",
+          "name": "pbs.org"
         }
       ]
     }
