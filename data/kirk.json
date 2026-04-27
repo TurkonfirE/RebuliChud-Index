@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk's character and pattern of behavior are marked by a consistent dissemination of false information, conspiracy theories, and hateful rhetoric. He has repeatedly spread misinformation about COVID-19, voter fraud, and social issues, and has used his platform to promote anti-LGBTQ, anti-immigrant, and anti-Muslim sentiments. Kirk has also made racist and antisemitic comments, and has called for violence against certain groups, including migrants and doctors who provide gender-affirming care. His actions and statements demonstrate a disregard for facts, a lack of empathy, and a willingness to incite hatred and violence. Kirk's behavior has been consistent over time, with a clear pattern of promoting divisive and harmful ideologies.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk frequently targets marginalized groups, including LGBTQ individuals, Muslims, and immigrants, making derogatory comments and promoting discriminatory policies. He has also shown a willingness to incite violence and undermine democratic institutions. Kirk's actions and statements demonstrate a disregard for fact-based information and a commitment to promoting a far-right ideology.",
   "initialized": true,
   "entries": [
     {
@@ -1024,6 +1024,39 @@
         {
           "url": "https://thehill.com/homenews/campaign/5800012-homan-ice-polling-places/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "date": "2025-08-08",
+      "fact": "Charlie Kirk was not mentioned in the court case State of Texas, the Texas Facilities Commission, the Texas Health and Human Services Commission, Mike Novak, in His Official Capacity as Executive Director of the TFC, and Rolland Niles, in His Official Capacity as Deputy Executive Commissioner for the System Support Services Division of the Texas Health and Human Services Commission v. Broadmoor Austin Associates, a Texas Joint Venture.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "date": "2025-03-25",
+      "fact": "Charlie Kirk was not mentioned in the court case State v. B. Hillious.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10364808/state-v-b-hillious/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "date": "2024-06-26",
+      "fact": "Charlie Kirk was not mentioned in the court case Murthy v. Missouri.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10600056/murthy-v-missouri/",
+          "name": "courtlistener.com"
         }
       ]
     }
