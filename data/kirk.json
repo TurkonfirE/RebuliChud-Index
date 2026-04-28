@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk frequently targets marginalized groups, including LGBTQ individuals, Muslims, and immigrants, making derogatory comments and promoting discriminatory policies. He has also shown a willingness to incite violence and undermine democratic institutions. Kirk's actions and statements demonstrate a disregard for fact-based information and a commitment to promoting a far-right ideology.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made anti-LGBTQ remarks, opposed transgender rights, and called for the imprisonment or death penalty of individuals who perform gender-affirming care. He has a history of promoting racist and anti-Semitic views, including blaming Jewish donors for radical policies and claiming that affirmative-action picks are not qualified. Kirk has also made Islamophobic comments, calling Islam a \"sword\" used to \"slit the throat of America.\" He has repeatedly expressed anti-immigrant and anti-DEI sentiments, calling for the elimination of certain congressional districts and advocating for the use of force against migrants at the U.S.-Mexico border.",
   "initialized": true,
   "entries": [
     {
@@ -1057,6 +1057,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10600056/murthy-v-missouri/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "date": "2022-02-15",
+      "fact": "Charlie Kirk, the founder of Turning Point USA, was criticized for saying 'I don't think that's a good idea to be a doctor' when discussing a 17-year-old girl's decision to become a doctor, implying that she was too young to make such a decision.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/55?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
