@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has demonstrated a willingness to disregard the judiciary, questioning their constitutional authority and disparaging courts and judges he disagrees with. Trump has also shown a pattern of authoritarian behavior, including attempting to overturn the 2020 election, weaponizing the Justice Department and federal agencies against his opponents, and imposing harsh restrictions on immigration and civil liberties. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly disregarded the judiciary's authority, disparaging courts and judges he disagrees with, and has used his power to target his political opponents, critics, and organizations aligned with the Democratic Party. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also demonstrated a disregard for scientific consensus, promoting anti-science and anti-vaccine activism, and has withdrawn the U.S. from several international agreements, including the Paris Agreement on climate change.",
   "initialized": true,
   "entries": [
     {
@@ -7422,6 +7422,83 @@
         {
           "url": "https://www.pbs.org/newshour/show/this-is-my-home-says-daca-recipient-deported-then-returned-to-u-s",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 749,
+      "date": "2026-04-28",
+      "fact": "Trump rejected the monarch title in a CBS News '60 Minutes' interview, despite opponents using the phrase 'No Kings' in protests against his administration.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5854013-white-house-kings-trump-charles/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 750,
+      "date": "2026-04-28",
+      "fact": "Comey responded to a new indictment on two charges of making threats to harm Trump, stating 'This is not who we are as a country' in a video response.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5854125-comeys-response-to-indictment/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 751,
+      "date": "2026-04-28",
+      "fact": "The Trump administration brought a second indictment against former FBI Director James Comey, charging him with two federal crimes.",
+      "sources": [
+        {
+          "url": "https://thehill.com/video-clips/5853344-watch-live-doj-presser-james-comey-indictment/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 752,
+      "date": "2026-04-28",
+      "fact": "Trump was accused of inciting violence after a supporter shot at the White House Correspondents' Association dinner, prompting calls to tone down verbal attacks on him.",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5853093-charlamagne-tha-god-trump-rhetoric/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 753,
+      "date": "2026-04-28",
+      "fact": "President Trump and Melania Trump called for the late-night show host Jimmy Kimmel's firing over a joke he made about the first lady looking like an 'expectant widow'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5852452-jimmy-kimmel-clooney-trump-leavitt-whca-shooting-abc/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 754,
+      "date": "2026-04-28",
+      "fact": "The Trump administration was criticized by King Charles III, who will reportedly acknowledge the current strains between London and the Trump administration.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5852420-king-charles-us-ties/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 755,
+      "date": "2026-04-28",
+      "fact": "The Trump administration reversed its policy on paying for fentanyl detection strips, a move that comes amid its opposition to harm reduction practices.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/healthcare/5853590-trump-reverses-harm-reduction-fentanyl/",
+          "name": "thehill.com"
         }
       ]
     }
