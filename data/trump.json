@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently disregarded scientific consensus, including on climate change, and has taken actions to dismantle environmental regulations and promote fossil fuel extraction. Trump has also been accused of engaging in conflicts of interest, including profiting from events held at his hotels and golf courses, and has taken steps to undermine the independence of the Justice Department and other federal agencies. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a consistent pattern of disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard scientific consensus, including rejecting climate change and promoting anti-vaccine activism. He has engaged in numerous instances of self-dealing and corruption, including using his foundation for personal gain and inflating the value of his properties to gain an advantage with lenders. Trump has also shown a disregard for the rule of law, including defying judges and the courts, and has used his power to target his political opponents and critics. His actions have been described as authoritarian and have contributed to democratic backsliding.",
   "initialized": true,
   "entries": [
     {
@@ -7521,6 +7521,28 @@
         {
           "url": "https://www.theguardian.com/books/2026/may/04/iran-and-the-revolution-by-homa-katouzian-review-how-the-islamic-republic-was-born",
           "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 758,
+      "date": "2026-05-04",
+      "fact": "President Trump declared that the U.S. would 'guide' vessels through the Strait of Hormuz in an effort he called 'Project Freedom', escalating tensions with Iran.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5862669-trump-project-freedom-hormuz-strait-tensions/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 759,
+      "date": "2026-05-04",
+      "fact": "President Trump urged South Korea to join the Iran war after Seoul reported an explosion on a ship traveling in the Strait of Hormuz.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5862570-iran-war-trump-south-korea/",
+          "name": "thehill.com"
         }
       ]
     }
