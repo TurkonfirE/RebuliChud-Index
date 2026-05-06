@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets and stigmatizes childless individuals, labeling them as sociopathic and attempting to justify discriminatory policies against them. Vance has also shown a willingness to spread misinformation and conspiracy theories, including claims about Haitian migrants eating pets and the 2020 presidential election being rigged by Big Tech. His actions and statements often prioritize ideology over fact and empathy, and he has been willing to use his platform to promote discriminatory and punitive policies.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets childless individuals, labeling them as sociopathic and attempting to stigmatize them. Vance has also demonstrated a willingness to spread misinformation, as seen in his claims about Haitian migrants eating pets, and has shown a disregard for fact-checking and accountability. His views on social issues, such as abortion and same-sex marriage, are rigidly conservative, and he has proposed extreme measures, including the federal criminalization of gender-affirming care for minors. As a public official, Vance has used his platform to promote a divisive and often inflammatory agenda, frequently criticizing those who disagree with him and showing a lack of respect for opposing viewpoints.",
   "initialized": true,
   "entries": [
     {
@@ -411,6 +411,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10103034/united-states-v-nelson-a-torres-juarez/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "date": "2022-09-01",
+      "fact": "JD Vance was criticized for his past comments on the opioid crisis, which some saw as insensitive and dismissive of the suffering of those affected.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10022460/in-re-marriage-of-budorick/",
           "name": "courtlistener.com"
         }
       ]
