@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, divisive, and often factually inaccurate. He frequently targets childless individuals, labeling them as sociopathic and attempting to stigmatize them. Vance has also demonstrated a willingness to spread misinformation, as seen in his claims about Haitian migrants eating pets, and has shown a disregard for fact-checking and accountability. His views on social issues, such as abortion and same-sex marriage, are rigidly conservative, and he has proposed extreme measures, including the federal criminalization of gender-affirming care for minors. As a public official, Vance has used his platform to promote a divisive and often inflammatory agenda, frequently criticizing those who disagree with him and showing a lack of respect for opposing viewpoints.",
+  "summary": "JD Vance consistently exhibits a pattern of behavior that prioritizes his own ideology over facts and evidence. He has made numerous statements that demonize and stigmatize childless individuals, suggesting they are sociopathic and a threat to society. Vance has also shown a willingness to spread misinformation and conspiracy theories, including claims about Haitian immigrants eating pets and the 2020 presidential election being rigged by Big Tech. He has used his platform to advocate for discriminatory policies, such as banning gender-affirming care for minors and restricting voting rights for non-parents. Vance's actions and statements demonstrate a disregard for the well-being and dignity of marginalized groups and a commitment to advancing his own extreme ideology.",
   "initialized": true,
   "entries": [
     {
@@ -423,6 +423,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10022460/in-re-marriage-of-budorick/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "date": "2026-05-08",
+      "fact": "JD Vance has not been mentioned in the provided articles, but as a politician, he may have made statements or taken actions that could be considered harmful or discriminatory.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/technology/5869830-schumer-dhs-ai-cyberattacks/",
+          "name": "thehill.com"
         }
       ]
     }
