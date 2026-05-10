@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a consistent pattern of disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard scientific consensus, including rejecting climate change and promoting anti-vaccine activism. He has engaged in numerous instances of self-dealing and corruption, including using his foundation for personal gain and inflating the value of his properties to gain an advantage with lenders. Trump has also shown a disregard for the rule of law, including defying judges and the courts, and has used his power to target his political opponents and critics. His actions have been described as authoritarian and have contributed to democratic backsliding.",
+  "summary": "Donald Trump's character is marked by a consistent pattern of disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard the judiciary, questioning their authority and disparaging judges he disagrees with. He has been found liable for numerous civil and criminal offenses, including inflating the value of his company, falsifying business records, and inciting insurrection. Trump's presidency has been characterized by a disregard for science, including rejecting the scientific consensus on climate change and promoting anti-vaccine activism. He has also implemented policies that target marginalized communities, including LGBTQ+ individuals, immigrants, and people of color. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7542,6 +7542,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5862570-iran-war-trump-south-korea/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 760,
+      "date": "2026-05-09",
+      "fact": "President Trump expressed support for a temporary ceasefire between Russia and Ukraine, hoping for a 'big extension' beyond the announced three days.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/",
           "name": "thehill.com"
         }
       ]
