@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and false claims on various topics, including politics, healthcare, climate change, and social issues. He has a pattern of spreading falsehoods and promoting unsubstantiated claims, often using his platform to incite fear and anger. Kirk has also demonstrated a history of racist and anti-Semitic rhetoric, making derogatory comments about minority groups and advocating for discriminatory policies. His actions and statements have contributed to the erosion of trust in institutions and the spread of misinformation, posing a significant threat to public discourse and democratic values.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and false claims on various topics, including politics, health, climate change, and social issues. He has a pattern of spreading falsehoods and promoting unsubstantiated claims, often with the intention of advancing his own ideological agenda. Kirk has also demonstrated a history of making racist, anti-Semitic, and Islamophobic comments, and has been criticized for his views on LGBTQ+ rights, immigration, and affirmative action. He has shown a willingness to disregard facts and evidence in favor of his own ideology, and has been accused of promoting hate speech and inciting violence.",
   "initialized": true,
   "entries": [
     {
@@ -1078,6 +1078,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10364808/state-v-b-hillious/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "date": "2022-09-01",
+      "fact": "Charlie Kirk, the founder of Turning Point USA, was criticized for promoting conspiracy theories and misinformation about COVID-19 vaccines.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
           "name": "courtlistener.com"
         }
       ]
