@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a consistent pattern of disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard the judiciary, questioning their authority and disparaging judges he disagrees with. He has been found liable for numerous civil and criminal offenses, including inflating the value of his company, falsifying business records, and inciting insurrection. Trump's presidency has been characterized by a disregard for science, including rejecting the scientific consensus on climate change and promoting anti-vaccine activism. He has also implemented policies that target marginalized communities, including LGBTQ+ individuals, immigrants, and people of color. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently disregarded scientific consensus, including on climate change, and has taken actions to dismantle environmental regulations and promote fossil fuel extraction. Trump has also been accused of engaging in authoritarian behavior, including firing thousands of federal employees, dismantling federal agencies, and using the military to target Democratic Party-led cities. His actions have been described by hundreds of legal experts and political scientists as contributing to democratic backsliding and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7553,6 +7553,83 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5870737-trump-hopes-russia-ukraine-ceasefire-extension/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 761,
+      "date": "2026-05-15",
+      "fact": "A Texas town may offer a preview of a Trump plan to force noncitizens from public housing.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/immigration-public-housing-04507b6124efea6ec662cc4f4f98cd57",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 762,
+      "date": "2026-05-14",
+      "fact": "House Republicans narrowly blocked an effort to end Trump's war with Iran, with a vote of 212-212.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5878803-war-powers-resolution-iran-house-2/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "date": "2026-05-14",
+      "fact": "The Trump administration's cuts led to a 10 percent decrease in research funding at MIT, according to the university's president.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/education/5878953-mit-research-funding-cuts-trump-administration/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 764,
+      "date": "2026-05-14",
+      "fact": "President Trump said Chinese President Xi Jinping committed to withholding military equipment from Iran, but this claim has not been independently verified.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5878305-trump-xi-iran-military-equipment/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 765,
+      "date": "2026-05-14",
+      "fact": "The Justice Department sued Washington, D.C., authorities over efforts to discipline Trump allies Jeffrey Clark and Ed Martin.",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/5878260-disciplinary-proceedings-trump-allies-doj/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 766,
+      "date": "2026-05-14",
+      "fact": "President Trump said he is not focused on the financial situations of Americans while negotiating with the Iranian government.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5877694-fetterman-trump-affordability-iran-war/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 767,
+      "date": "2026-05-14",
+      "fact": "President Trump said Chinese President Xi Jinping warned him that the 'entire relationship' between Washington and Beijing would be affected if the US continued to support Taiwan.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5878959-xi-trump-taiwan-leverage/",
           "name": "thehill.com"
         }
       ]
