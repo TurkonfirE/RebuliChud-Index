@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk has also made racist and anti-Semitic comments, promoted anti-LGBTQ+ views, and called for violence against migrants and transgender individuals. He has a history of deleting or retracting false information and has been criticized for his handling of finances and transparency. Kirk's statements often reflect a disregard for facts, science, and human rights, and he has been accused of promoting hate speech and inciting violence.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also demonstrated a history of making racist, anti-Semitic, and Islamophobic comments, as well as promoting anti-LGBTQ+ views. He has called for the imprisonment or death penalty of individuals he disagrees with, including President Joe Biden, and has advocated for the elimination of certain congressional districts based on racial and ethnic demographics. Kirk's behavior is characterized by a disregard for facts, a lack of empathy, and a willingness to incite violence and hatred.",
   "initialized": true,
   "entries": [
     {
@@ -1101,6 +1101,17 @@
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/90?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "date": "2022-01-01",
+      "fact": "Charlie Kirk, the founder of Turning Point USA, was criticized for promoting conspiracy theories and spreading misinformation about the COVID-19 pandemic.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
+          "name": "courtlistener.com"
         }
       ]
     }
