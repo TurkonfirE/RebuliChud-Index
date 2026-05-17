@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has repeatedly made false claims, spread misinformation, and endorsed violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to overturn the results of the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her rhetoric has been marked by hate speech, including attacks on Muslims, LGBTQ+ individuals, and people of color, and she has consistently demonstrated a willingness to use her platform to incite violence and promote extremist ideologies.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, white supremacy, and violent rhetoric. She has a history of spreading misinformation and making false claims, including denying the severity of COVID-19, promoting anti-vaccine views, and falsely accusing individuals of treason. Greene has also shown a disregard for democratic institutions and processes, including her attempts to overturn the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her actions have led to her removal from committee assignments, expulsion from the House Freedom Caucus, and fines for violating House rules.",
   "initialized": true,
   "entries": [
     {
@@ -1562,6 +1562,17 @@
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "date": "2022-01-03",
+      "fact": "Marjorie Taylor Greene was stripped of her committee assignments after facing criticism for promoting conspiracy theories and making racist and anti-Semitic comments.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10705042/shapley-v-lowell/",
+          "name": "courtlistener.com"
         }
       ]
     }
