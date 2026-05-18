@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently exhibits a pattern of behavior that prioritizes his own ideology over facts and evidence. He has made numerous statements that demonize and stigmatize childless individuals, suggesting they are sociopathic and a threat to society. Vance has also shown a willingness to spread misinformation and conspiracy theories, including claims about Haitian immigrants eating pets and the 2020 presidential election being rigged by Big Tech. He has used his platform to advocate for discriminatory policies, such as banning gender-affirming care for minors and restricting voting rights for non-parents. Vance's actions and statements demonstrate a disregard for the well-being and dignity of marginalized groups and a commitment to advancing his own extreme ideology.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ people, and immigrants. He has made numerous public statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition campaigns. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his admission of creating false stories to get media attention. His voting record and legislative proposals have further solidified his reputation as a politician who prioritizes ideology over fact and empathy.",
   "initialized": true,
   "entries": [
     {
@@ -433,6 +433,17 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/technology/5869830-schumer-dhs-ai-cyberattacks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "date": "2026-05-17",
+      "fact": "President Trump backs similar efforts to unseat Rep. Thomas Massie (R-Ky.) for his seat in the upper chamber.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5882068-graham-republicans-against-trump-agenda/",
           "name": "thehill.com"
         }
       ]
