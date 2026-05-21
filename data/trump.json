@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently disregarded scientific consensus, including on climate change, and has taken actions to dismantle environmental regulations and promote fossil fuel extraction. Trump has also been accused of engaging in authoritarian behavior, including firing thousands of federal employees, dismantling federal agencies, and using the military to target Democratic Party-led cities. His actions have been described by hundreds of legal experts and political scientists as contributing to democratic backsliding and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of disregard for the law, ethics, and human rights. He has a history of using racist and discriminatory language, including referring to certain countries as \"shithole countries\" and promoting the racist \"birther\" conspiracy theory. Trump has also demonstrated a willingness to disregard the judiciary, questioning their authority and disparaging judges he disagrees with. He has engaged in self-dealing and tax evasion, and has used his position to enrich himself and his family. Trump has a history of making false statements and promoting conspiracy theories, including claims of election fraud and the existence of a \"deep state.\" He has also shown a disregard for the environment, withdrawing from the Paris Agreement and promoting anti-science and anti-vaccine activism. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also demonstrated a willingness to use the military and law enforcement to target his political opponents and critics.",
   "initialized": true,
   "entries": [
     {
@@ -7630,6 +7630,72 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5878959-xi-trump-taiwan-leverage/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 768,
+      "date": "2020-01-03",
+      "fact": "Trump said, 'I don't know anything about the caravans,' despite knowing about them, and claimed that 'they're coming in for one reason, and that's for the elections,' which was a baseless conspiracy theory.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10860397/american-federation-of-govt-employees-local-2305-v-united-states/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 769,
+      "date": "2019-02-06",
+      "fact": "Trump voted in favor of a bill that would allow states to deny Medicaid coverage to people with pre-existing conditions.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10860394/in-re-express-scripts-inc/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 770,
+      "date": "2026-05-20",
+      "fact": "The IRS reached a settlement with President Trump over the leak of his tax returns, barring the agency from auditing his previous filings and reigniting a years-long battle over Trump’s taxes.",
+      "sources": [
+        {
+          "url": "https://thehill.com/business/5887898-irs-settlement-trump-tax-returns/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 771,
+      "date": "2026-05-20",
+      "fact": "President Trump was involved in a settlement with the IRS over the leak of his tax returns.",
+      "sources": [
+        {
+          "url": "https://thehill.com/business/5887898-irs-settlement-trump-tax-returns/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 772,
+      "date": "2026-05-21",
+      "fact": "President Trump was criticized by Canadian Prime Minister Mark Carney for his teleprompter issues at the UN last year.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5888524-carney-teleprompter-trump-reference/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 773,
+      "date": "2026-05-21",
+      "fact": "Louisiana Gov. Jeff Landry (R) claimed that Greenland “was not on a map” until President Trump “put it on a map,” comments that follow rhetoric for months from the president to acquire the island.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/international/5888479-landry-trump-greenland-claim/",
           "name": "thehill.com"
         }
       ]
