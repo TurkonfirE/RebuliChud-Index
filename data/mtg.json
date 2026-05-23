@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, white supremacy, and violent rhetoric. She has a history of spreading misinformation and making false claims, including denying the severity of COVID-19, promoting anti-vaccine views, and falsely accusing individuals of treason. Greene has also shown a disregard for democratic institutions and processes, including her attempts to overturn the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her actions have led to her removal from committee assignments, expulsion from the House Freedom Caucus, and fines for violating House rules.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, white supremacy, and anti-government sentiment. She has repeatedly made false claims, spread misinformation, and endorsed violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to overturn the results of the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her rhetoric has been marked by hate speech, transphobia, and xenophobia, and she has consistently demonstrated a willingness to disregard facts and evidence in pursuit of her ideological goals.",
   "initialized": true,
   "entries": [
     {
@@ -1573,6 +1573,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10705042/shapley-v-lowell/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "date": "2022-01-21",
+      "fact": "Voted in favor of a resolution to object to the certification of the 2020 presidential election results, which some critics argue was an attempt to overturn the election.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
