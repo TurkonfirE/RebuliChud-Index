@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ people, and immigrants. He has made numerous public statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition campaigns. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his admission of creating false stories to get media attention. His voting record and legislative proposals have further solidified his reputation as a politician who prioritizes ideology over fact and empathy.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, discriminatory, and divisive. He frequently targets childless individuals, labeling them as sociopathic and making unsubstantiated claims about their supposed negative impact on society. Vance has also demonstrated a willingness to spread misinformation and conspiracy theories, including allegations about Haitian immigrants eating pets and claims that the 2020 presidential election was rigged by Big Tech. His stance on various social issues, such as abortion, gun control, and same-sex marriage, is rigidly conservative and often hostile. As a politician, Vance has shown a disregard for facts and a willingness to use inflammatory rhetoric to advance his agenda.",
   "initialized": true,
   "entries": [
     {
@@ -445,6 +445,17 @@
         {
           "url": "https://thehill.com/homenews/senate/5882068-graham-republicans-against-trump-agenda/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "date": "2026-05-26",
+      "fact": "JD Vance hosted an anti-fraud roundtable with FTC chair and state attorneys general, but no specific harmful actions were mentioned.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-vance-hosts-anti-fraud-roundtable-with-ftc-chair-and-state-attorneys-general",
+          "name": "pbs.org"
         }
       ]
     }
