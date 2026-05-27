@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently votes against progressive policies, including the Affordable Care Act and climate change mitigation efforts. He has supported legislation restricting voting rights, immigration, and LGBTQ+ rights, and has signed bills limiting ballot initiatives and restricting teaching of critical race theory in schools. DeSantis has also signed laws restricting abortion access, including a six-week ban with exceptions for rape, incest, or human trafficking, and has vetoed a bill addressing water quality concerns. He has been involved in several high-profile court cases, including those related to election law, immigration, and education policy, with multiple rulings against him.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines healthcare access, restricts voting rights, and discriminates against LGBTQ+ individuals. DeSantis has also shown a willingness to use his office to target and intimidate opponents, including asylum seekers and critics of his policies. His actions have resulted in numerous court rulings against him, highlighting the institutional consequences of his decisions as Governor of Florida.",
   "initialized": true,
   "entries": [
     {
@@ -522,6 +522,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10750927/bryan-fredrick-jennings-v-state-of-florida-bryan-fredrick-jennings-v/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "date": "2026-02-04",
+      "fact": "Ron DeSantis was sued by a voter who alleged that the governor's office had engaged in voter suppression.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10783944/gilberti-v-desantis-governor-biden/",
           "name": "courtlistener.com"
         }
       ]
