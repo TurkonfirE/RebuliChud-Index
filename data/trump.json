@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of disregard for the law, ethics, and human rights. He has a history of using racist and discriminatory language, including referring to certain countries as \"shithole countries\" and promoting the racist \"birther\" conspiracy theory. Trump has also demonstrated a willingness to disregard the judiciary, questioning their authority and disparaging judges he disagrees with. He has engaged in self-dealing and tax evasion, and has used his position to enrich himself and his family. Trump has a history of making false statements and promoting conspiracy theories, including claims of election fraud and the existence of a \"deep state.\" He has also shown a disregard for the environment, withdrawing from the Paris Agreement and promoting anti-science and anti-vaccine activism. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also demonstrated a willingness to use the military and law enforcement to target his political opponents and critics.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing federal employees en masse, and asserting a constitutional right to ignore federal law. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and accountability, including profiting from events held at his hotels and golf courses, launching and promoting cryptocurrency tokens, and engaging in state capitalism by taking direct government equity stakes in multiple U.S. corporations.",
   "initialized": true,
   "entries": [
     {
@@ -7696,6 +7696,39 @@
       "sources": [
         {
           "url": "https://thehill.com/policy/international/5888479-landry-trump-greenland-claim/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 774,
+      "date": "2026-05-27",
+      "fact": "President Trump called a portion of his IRS settlement 'nuts' and congratulated the 'Dumocrat Party' on Rep. Al Green's loss.",
+      "sources": [
+        {
+          "url": "https://thehill.com/media/5897331-joe-rogan-trump-irs-settlement/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 775,
+      "date": "2026-05-27",
+      "fact": "President Trump's settlement with the IRS shields him, his family, and businesses from existing tax audits.",
+      "sources": [
+        {
+          "url": "https://thehill.com/media/5897331-joe-rogan-trump-irs-settlement/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 776,
+      "date": "2026-05-27",
+      "fact": "President Trump has a 'history of discrimination and racism', according to ABC pundit Joy Behar.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/media/5897162-joy-behar-jaxon-dart-donald-trump-support-criticism/",
           "name": "thehill.com"
         }
       ]
