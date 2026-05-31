@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, white supremacy, and anti-government sentiment. She has repeatedly made false claims, spread misinformation, and endorsed violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to overturn the results of the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her rhetoric has been marked by hate speech, transphobia, and xenophobia, and she has consistently demonstrated a willingness to disregard facts and evidence in pursuit of her ideological goals.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has repeatedly made false claims, spread misinformation, and endorsed violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to overturn the results of the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her rhetoric has been marked by hate speech, transphobia, and xenophobia, and she has been removed from committee assignments and expelled from the House Freedom Caucus due to her incendiary remarks.",
   "initialized": true,
   "entries": [
     {
@@ -1583,6 +1583,28 @@
       "sources": [
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "date": "2021-01-03",
+      "fact": "Marjorie Taylor Greene tweeted 'I'm calling on Nancy Pelosi to resign as Speaker of the House and for the 147 Republicans to resign from Congress'.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/81?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "date": "2021-01-06",
+      "fact": "Voted against a resolution condemning QAnon, a conspiracy theory that some critics argue promotes violence and hate.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/140?format=json",
           "name": "api.congress.gov"
         }
       ]
