@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing federal employees en masse, and asserting a constitutional right to ignore federal law. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and accountability, including profiting from events held at his hotels and golf courses, launching and promoting cryptocurrency tokens, and engaging in state capitalism by taking direct government equity stakes in multiple U.S. corporations.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing thousands of federal employees, and dismantling federal agencies. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7729,6 +7729,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/media/5897162-joy-behar-jaxon-dart-donald-trump-support-criticism/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 777,
+      "date": "2026-06-01",
+      "fact": "Trump reportedly yelled at Israeli Prime Minister Benjamin Netanyahu during a phone call, calling him 'crazy' and accusing him of ingratitude.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5904899-trump-netanyahu-lebanon-dispute/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 778,
+      "date": "2026-06-02",
+      "fact": "Trump's administration was found to have illegally banned active transgender troops by a federal appeals court, with Defense Secretary Pete Hegseth indicating a willingness to take the decision to the Supreme Court.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 779,
+      "date": "2026-06-02",
+      "fact": "Senate Democrats introduced legislation to block Trump's 'anti-weaponization' fund, which the Department of Justice scrapped earlier in the day.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5905018-democratic-senators-trump-anti-weaponization-fund/",
           "name": "thehill.com"
         }
       ]
