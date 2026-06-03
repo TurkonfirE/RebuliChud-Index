@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has repeatedly made false claims, spread misinformation, and endorsed violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to overturn the results of the 2020 presidential election and her support for the January 6, 2021, insurrection at the US Capitol. Her rhetoric has been marked by hate speech, transphobia, and xenophobia, and she has been removed from committee assignments and expelled from the House Freedom Caucus due to her incendiary remarks.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and amplifying extremist views. Greene has also shown a disregard for democratic norms and institutions, including the US Capitol, and has made incendiary remarks that have led to her removal from committee assignments and expulsion from the House Freedom Caucus. Her rhetoric often targets marginalized groups, including Muslims, LGBTQ+ individuals, and people of color, and she has been fined multiple times for violating House rules by not wearing a mask.",
   "initialized": true,
   "entries": [
     {
@@ -1606,6 +1606,17 @@
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/140?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "date": "2024-04-15",
+      "fact": "Marjorie Taylor Greene was stripped of her committee assignments due to her history of promoting conspiracy theories and making racist comments.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10705042/shapley-v-lowell/",
+          "name": "courtlistener.com"
         }
       ]
     }
