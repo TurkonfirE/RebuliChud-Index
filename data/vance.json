@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is dismissive, discriminatory, and divisive. He frequently targets childless individuals, labeling them as sociopathic and making unsubstantiated claims about their supposed negative impact on society. Vance has also demonstrated a willingness to spread misinformation and conspiracy theories, including allegations about Haitian immigrants eating pets and claims that the 2020 presidential election was rigged by Big Tech. His stance on various social issues, such as abortion, gun control, and same-sex marriage, is rigidly conservative and often hostile. As a politician, Vance has shown a disregard for facts and a willingness to use inflammatory rhetoric to advance his agenda.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is hostile and discriminatory towards certain groups, particularly childless individuals and those with differing views. He has made numerous public statements that are factually inaccurate, inflammatory, and divisive, including claims about Haitian immigrants eating pets and Ukrainian President Volodymyr Zelenskyy's actions. Vance has also demonstrated a disregard for the truth and a willingness to spread misinformation, as seen in his response to criticism from Vice President Kamala Harris and his claims about the 2020 presidential election. His voting record and legislative proposals, such as the Dismantle DEI Act and the proposed federal criminalization of gender-affirming care for minors, further illustrate his commitment to discriminatory policies.",
   "initialized": true,
   "entries": [
     {
@@ -456,6 +456,17 @@
         {
           "url": "https://www.pbs.org/newshour/politics/watch-vance-hosts-anti-fraud-roundtable-with-ftc-chair-and-state-attorneys-general",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "date": "2026-06-07",
+      "fact": "No relevant information found for JD Vance.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/rob-sand-iowa-governor-democrat-andy-beshear-1cff6f090f71f248e42a9463f69a4d24",
+          "name": "apnews.com"
         }
       ]
     }
