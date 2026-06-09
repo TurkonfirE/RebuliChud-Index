@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting the \"Great Replacement\" theory. He has called for the imprisonment or death penalty of politicians he disagrees with and has advocated for the use of force against migrants at the U.S.-Mexico border. Kirk's organizations have been criticized for making misleading financial claims and enriching their leaders. He has also promoted anti-LGBTQ and anti-transgender views, calling for the elimination of gender-affirming care and the imprisonment of doctors who provide it.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and xenophobic comments, blaming minority groups for societal problems and promoting anti-immigrant and anti-Muslim sentiments. He has called for the use of force against migrants and has made derogatory comments about LGBTQ+ individuals, Muslims, and people of color. Additionally, Kirk has promoted anti-Semitic and anti-Israeli views, and has made false claims about the Israeli government's actions. His rhetoric often encourages violence and extremism, and he has been criticized for promoting conspiracy theories and misinformation.",
   "initialized": true,
   "entries": [
     {
@@ -1028,9 +1028,9 @@
       ]
     },
     {
-      "id": 94,
+      "id": 110,
       "date": "2025-08-08",
-      "fact": "Charlie Kirk was not mentioned in the court case State of Texas, the Texas Facilities Commission, the Texas Health and Human Services Commission, Mike Novak, in His Official Capacity as Executive Director of the TFC, and Rolland Niles, in His Official Capacity as Deputy Executive Commissioner for the System Support Services Division of the Texas Health and Human Services Commission v. Broadmoor Austin Associates, a Texas Joint Venture.",
+      "fact": "Charlie Kirk was not mentioned in the court ruling State of Texas, the Texas Facilities Commission, the Texas Health and Human Services Commission, Mike Novak, in His Official Capacity as Executive Director of the TFC, and Rolland Niles, in His Official Capacity as Deputy Executive Commissioner for the System Support Services Division of the Texas Health and Human Services Commission v. Broadmoor Austin Associates, a Texas Joint Venture.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
@@ -1039,9 +1039,9 @@
       ]
     },
     {
-      "id": 95,
+      "id": 111,
       "date": "2025-03-25",
-      "fact": "Charlie Kirk was not mentioned in the court case State v. B. Hillious.",
+      "fact": "Charlie Kirk was not mentioned in the court ruling State v. B. Hillious.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10364808/state-v-b-hillious/",
@@ -1050,9 +1050,9 @@
       ]
     },
     {
-      "id": 96,
+      "id": 112,
       "date": "2024-06-26",
-      "fact": "Charlie Kirk was not mentioned in the court case Murthy v. Missouri.",
+      "fact": "Charlie Kirk was not mentioned in the court ruling Murthy v. Missouri.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10600056/murthy-v-missouri/",
