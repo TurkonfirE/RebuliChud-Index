@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing thousands of federal employees, and dismantling federal agencies. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his office to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions, including firing thousands of federal employees and dismantling several federal agencies. Trump has also shown a disregard for the environment, withdrawing the U.S. from the Paris Agreement on climate change and promoting anti-science and anti-vaccine activism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -7763,6 +7763,50 @@
         {
           "url": "https://thehill.com/homenews/senate/5905018-democratic-senators-trump-anti-weaponization-fund/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 780,
+      "date": "2026-06-09",
+      "fact": "Trump's renovations to the Lincoln Memorial Reflecting Pool were criticized for their impact on the monument's original design.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/timelapse-lincoln-memorial-reflecting-pool-refills-with-water-after-trump-paint-job",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 781,
+      "date": "2026-06-09",
+      "fact": "Trump's name will be featured on the $8 billion remodel of New York's Penn Station.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/new-yorks-penn-station-to-get-8-billion-remodel-with-columns-sunlight-and-trumps-name",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 782,
+      "date": "2023-01-31",
+      "fact": "Donald Trump was indicted on charges of falsifying business records in connection with a hush money payment to adult film star Stormy Daniels.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/new-yorks-penn-station-to-get-8-billion-remodel-with-columns-sunlight-and-trumps-name",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 783,
+      "date": "2023-08-10",
+      "fact": "Donald Trump was convicted of 34 felony counts of falsifying business records in connection with a hush money payment to adult film star Stormy Daniels.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/new-yorks-penn-station-to-get-8-billion-remodel-with-columns-sunlight-and-trumps-name",
+          "name": "pbs.org"
         }
       ]
     }
