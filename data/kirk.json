@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and xenophobic comments, blaming minority groups for societal problems and promoting anti-immigrant and anti-Muslim sentiments. He has called for the use of force against migrants and has made derogatory comments about LGBTQ+ individuals, Muslims, and people of color. Additionally, Kirk has promoted anti-Semitic and anti-Israeli views, and has made false claims about the Israeli government's actions. His rhetoric often encourages violence and extremism, and he has been criticized for promoting conspiracy theories and misinformation.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting stereotypes. He has called for the use of force against migrants and has advocated for policies that restrict civil rights and liberties. Additionally, Kirk has shown a disregard for facts and evidence, often relying on unverifiable sources and promoting conspiracy theories about various issues, including the Israeli-Palestinian conflict and the opioid crisis.",
   "initialized": true,
   "entries": [
     {
@@ -1185,6 +1185,28 @@
       "id": 109,
       "date": "2025-09-05",
       "fact": "The lawsuit against Charlie Kirk and Alabama officials alleged that the state's prison system was plagued by violence, corruption, and poor living conditions.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "date": "2025-09-05",
+      "fact": "Charlie Kirk was sued for his role in promoting a prison system that was found to be unconstitutional and inhumane.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "date": "2025-09-05",
+      "fact": "The court found that the Alabama Department of Corrections, under Charlie Kirk's influence, had failed to provide adequate medical care to prisoners.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
