@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is hostile and discriminatory towards certain groups, particularly childless individuals and those with differing views. He has made numerous public statements that are factually inaccurate, inflammatory, and divisive, including claims about Haitian immigrants eating pets and Ukrainian President Volodymyr Zelenskyy's actions. Vance has also demonstrated a disregard for the truth and a willingness to spread misinformation, as seen in his response to criticism from Vice President Kamala Harris and his claims about the 2020 presidential election. His voting record and legislative proposals, such as the Dismantle DEI Act and the proposed federal criminalization of gender-affirming care for minors, further illustrate his commitment to discriminatory policies.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, particularly childless individuals and those with differing views. He has made numerous public statements that are derogatory and stigmatizing towards people without children, suggesting they are sociopathic and a threat to society. Vance has also shown a willingness to spread misinformation and conspiracy theories, including claims about Haitian migrants eating pets and rigging the 2020 presidential election. He has taken actions that align with these views, such as introducing legislation to ban gender-affirming care for minors and voting against raising the debt ceiling. Vance's behavior is characterized by a lack of empathy and a disregard for facts, often prioritizing his own ideology and personal interests over the well-being of others.",
   "initialized": true,
   "entries": [
     {
@@ -467,6 +467,17 @@
         {
           "url": "https://apnews.com/article/rob-sand-iowa-governor-democrat-andy-beshear-1cff6f090f71f248e42a9463f69a4d24",
           "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "date": "2026-06-12",
+      "fact": "JD Vance, a former Trump administration official, was mentioned in a report on the White House's efforts to contain the scandal surrounding convicted sex offender Jeffrey Epstein.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
+          "name": "thehill.com"
         }
       ]
     }
