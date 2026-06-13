@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene's character and pattern of behavior are marked by a consistent promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of spreading misinformation and promoting violence against Democrats, including calls for the execution of prominent politicians. Greene has also demonstrated a disregard for public health and safety, opposing mask mandates and vaccine passports, and has made numerous false claims about COVID-19 and its variants. Her rhetoric has been characterized by aggressive and divisive language, including comparisons of Democrats to Nazis and the promotion of transphobic and homophobic views. Greene has also shown a willingness to associate with and promote the views of white supremacists and has been involved in numerous controversies throughout her career.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and inciting violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to undermine the electoral process and her support for extremist ideologies. Her actions and statements have led to her removal from committee assignments, expulsion from the House Freedom Caucus, and numerous fines for violating House rules.",
   "initialized": true,
   "entries": [
     {
@@ -1577,9 +1577,9 @@
       ]
     },
     {
-      "id": 142,
+      "id": 147,
       "date": "2022-01-21",
-      "fact": "Voted in favor of a resolution to object to the certification of the 2020 presidential election results, which some critics argue was an attempt to overturn the election.",
+      "fact": "Voted in favor of a resolution objecting to the certification of the 2020 presidential election results, which some critics argued was an attempt to overturn the election.",
       "sources": [
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json",
