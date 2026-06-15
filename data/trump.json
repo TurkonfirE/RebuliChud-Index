@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his office to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions, including firing thousands of federal employees and dismantling several federal agencies. Trump has also shown a disregard for the environment, withdrawing the U.S. from the Paris Agreement on climate change and promoting anti-science and anti-vaccine activism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation.\n\nThroughout his presidency and second term, Trump has demonstrated a willingness to disregard the rule of law, including defying judges and the courts in roughly one-third of all cases against him. He has also asserted a constitutional right to ignore federal law and has implemented policies that favor his allies and loyalists. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.\n\nTrump's presidency has been marked by a consistent pattern of behavior that prioritizes his own interests and agenda over the well-being of the country and its citizens. He has used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has implemented policies that promote anti-science and anti-vaccine activism, restrict reproductive rights, and target marginalized communities.",
   "initialized": true,
   "entries": [
     {
@@ -7806,6 +7806,28 @@
       "sources": [
         {
           "url": "https://www.pbs.org/newshour/nation/new-yorks-penn-station-to-get-8-billion-remodel-with-columns-sunlight-and-trumps-name",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 784,
+      "date": "2026-06-14",
+      "fact": "Trump has been accused of inciting violence at a campaign event.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 785,
+      "date": "2026-06-13",
+      "fact": "Trump has been accused of corruption by appointing a personal lawyer as U.S. Attorney for the Southern District of New York.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/nation/trump-taps-james-m-mcdonald-as-u-s-attorney-for-the-southern-district-of-new-york",
           "name": "pbs.org"
         }
       ]
