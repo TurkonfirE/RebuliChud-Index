@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines the Affordable Care Act, restricts voting rights, and discriminates against LGBTQ+ individuals. DeSantis has also shown a willingness to use his office to target and intimidate his opponents, including asylum seekers and critics of his policies. His actions have resulted in numerous court rulings against him, documenting formal institutional consequences of his actions as Governor of Florida.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines healthcare access, restricts voting rights, and discriminates against LGBTQ+ individuals. DeSantis has also shown a willingness to use his office to target and intimidate opponents, including asylum seekers and student activists. His actions have been met with numerous court rulings against him, highlighting the institutional consequences of his policies.",
   "initialized": true,
   "entries": [
     {
@@ -566,6 +566,39 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10795138/melvin-trotter-v-state-of-florida-melvin-trotter-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "date": "2025-11-13",
+      "fact": "A federal court ruled against Ron DeSantis in Maurice Jackson W v. Ron Desantis, a case related to the state's 'Stop WOKE Act'.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10752902/maurice-jackson-w-v-ron-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "date": "2025-11-13",
+      "fact": "A federal court ruled against Ron DeSantis in Richard Barry Randolph v. State of Florida & Richard Barry Randolph v. Secretary, Department of Corrections, a case related to the state's 'Stop WOKE Act'.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10750918/richard-barry-randolph-v-state-of-florida-richard-barry-randolph-v/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "date": "2025-11-06",
+      "fact": "A federal court ruled against Ron DeSantis in Bryan Fredrick Jennings v. State of Florida & Bryan Fredrick Jennings v. Secretary, Department of Corrections, a case related to the state's 'Stop WOKE Act'.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10750927/bryan-fredrick-jennings-v-state-of-florida-bryan-fredrick-jennings-v/",
           "name": "courtlistener.com"
         }
       ]
