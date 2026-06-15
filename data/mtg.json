@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and inciting violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to undermine the electoral process and her support for extremist ideologies. Her actions and statements have led to her removal from committee assignments, expulsion from the House Freedom Caucus, and numerous fines for violating House rules.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and inciting violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic norms and institutions, including the House of Representatives, and has been involved in several controversies, including her support for the January 6, 2021, US Capitol attack. Her rhetoric has been marked by aggressive and divisive language, often targeting marginalized communities, including Muslims, LGBTQ+ individuals, and people of color.",
   "initialized": true,
   "entries": [
     {
@@ -1628,6 +1628,17 @@
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/120?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "date": "2026-06-13",
+      "fact": "Marjorie Taylor Greene expressed skepticism about President Trump's plan to celebrate his 80th birthday with a UFC viewing on the White House lawn, stating that UFC fights don't belong there.",
+      "sources": [
+        {
+          "url": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
+          "name": "thehill.com"
         }
       ]
     }
