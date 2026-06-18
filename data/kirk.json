@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for the imprisonment or death penalty of politicians he disagrees with, including Joe Biden, and has advocated for the elimination of certain congressional districts based on their racial composition. Kirk has also promoted anti-LGBTQ+ and anti-transgender views, and has called for the elimination of gender-affirming care for transgender people. His rhetoric often prioritizes white nationalism and Christian supremacy, and he has been criticized for promoting conspiracy theories and misinformation about various topics.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made numerous anti-LGBTQ, anti-immigrant, and anti-Muslim comments, and has promoted racist and xenophobic ideologies. He has called for violence and civil war, and has advocated for the imprisonment or death penalty of individuals he disagrees with. Kirk's organizations have been criticized for making misleading financial claims and enriching their leaders. He has also been accused of promoting anti-Semitic and anti-Christian views.",
   "initialized": true,
   "entries": [
     {
@@ -1207,6 +1207,28 @@
       "id": 114,
       "date": "2025-09-05",
       "fact": "The court found that the Alabama Department of Corrections, under Charlie Kirk's influence, had failed to provide adequate medical care to prisoners.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "date": "2025-09-05",
+      "fact": "Charlie Kirk was sued by five Alabama inmates who alleged that the state's prison conditions were unconstitutional, and Kirk's advocacy had exacerbated the issue.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "date": "2025-09-05",
+      "fact": "The lawsuit alleged that Kirk's advocacy had led to a significant increase in the number of inmates in Alabama's prisons, exacerbating the issue of overcrowding and poor living conditions.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
