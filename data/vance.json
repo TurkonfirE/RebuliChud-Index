@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, particularly childless individuals and those with differing views. He has made numerous public statements that are derogatory and stigmatizing towards people without children, suggesting they are sociopathic and a threat to society. Vance has also shown a willingness to spread misinformation and conspiracy theories, including claims about Haitian migrants eating pets and rigging the 2020 presidential election. He has taken actions that align with these views, such as introducing legislation to ban gender-affirming care for minors and voting against raising the debt ceiling. Vance's behavior is characterized by a lack of empathy and a disregard for facts, often prioritizing his own ideology and personal interests over the well-being of others.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous statements that are factually inaccurate or inflammatory, including claims about Haitian immigrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition politics. Vance has also demonstrated a willingness to disregard the truth and manipulate information to achieve his goals. His voting record and legislative proposals have been shaped by his extreme views, including opposition to abortion, gun control, and same-sex marriage. As a politician, Vance has shown a disregard for the well-being and dignity of marginalized communities, and his actions have been criticized as hurtful and discriminatory.",
   "initialized": true,
   "entries": [
     {
@@ -477,6 +477,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/house/5922434-epstein-files-white-house-robert-garcia-house-testimony/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "date": "2026-06-19",
+      "fact": "Vice President JD Vance made comments on Israel that were criticized as 'inappropriate and frankly disgusting' by Rep. Randy Fine (Fla.).",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5931984-vance-israel-iran-randy-fine/",
           "name": "thehill.com"
         }
       ]
