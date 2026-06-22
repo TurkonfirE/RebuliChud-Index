@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and inciting violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic norms and institutions, including the House of Representatives, and has been involved in several controversies, including her support for the January 6, 2021, US Capitol attack. Her rhetoric has been marked by aggressive and divisive language, often targeting marginalized communities, including Muslims, LGBTQ+ individuals, and people of color.",
+  "summary": "Marjorie Taylor Greene's character is marked by a consistent pattern of promoting conspiracy theories, spreading misinformation, and inciting violence. She has a history of endorsing and engaging with extremist ideologies, including white supremacy, antisemitism, and Islamophobia. Greene has repeatedly made false claims about various topics, including the COVID-19 pandemic, vaccines, and government involvement in mass shootings. Her behavior has been characterized by aggression, hostility, and a disregard for facts and evidence. She has also demonstrated a willingness to use her platform to bully and intimidate others, including her fellow lawmakers.",
   "initialized": true,
   "entries": [
     {
@@ -1639,6 +1639,28 @@
         {
           "url": "https://thehill.com/policy/sports-gaming/5922633-mtg-trump-ufc-white-house/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "date": "2026-06-19",
+      "fact": "Marjorie Taylor Greene accused Donald Trump of lying, stating 'Trump lies. Constantly'.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "date": "2026-06-19",
+      "fact": "Marjorie Taylor Greene expressed support for Italian Prime Minister Giorgia Meloni, who rejected Donald Trump's claim that she 'begged' him for a photo.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
