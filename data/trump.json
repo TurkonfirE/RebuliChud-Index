@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in large-scale deregulation and state capitalism. Trump has also demonstrated a disregard for the environment, withdrawing the U.S. from the Paris Agreement on climate change and promoting anti-science and anti-vaccine activism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions such as firing federal employees, dismantling federal agencies, and imposing tariffs on most countries. Trump's actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also been convicted of multiple felonies, including falsifying business records and willfully retaining national defense information.",
   "initialized": true,
   "entries": [
     {
@@ -7861,6 +7861,171 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/campaign/5932424-trump-backs-evette-wilson/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 789,
+      "date": "2026-06-25",
+      "fact": "Lawmakers demand answers from Trump over turmoil over Reflecting Pool repair.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/reflecting-pool-trump-algae-liner-parks-161e64c70c55856ee082938b50bfa0bc",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 790,
+      "date": "2026-06-25",
+      "fact": "Trump's algae-liner in the Reflecting Pool has been criticized for its appearance.",
+      "sources": [
+        {
+          "url": "https://apnews.com/article/reflecting-pool-trump-algae-liner-parks-161e64c70c55856ee082938b50bfa0bc",
+          "name": "apnews.com"
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "date": "2016-10-07",
+      "fact": "Donald Trump was recorded making lewd comments about women in a 2005 video, which was released by The Washington Post.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "date": "2019-07-16",
+      "fact": "Donald Trump was sued by E. Jean Carroll, a writer who accused him of raping her in the 1990s.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 793,
+      "date": "2020-01-03",
+      "fact": "Donald Trump was impeached by the House of Representatives on charges of abuse of power and obstruction of Congress.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 794,
+      "date": "2020-02-05",
+      "fact": "Donald Trump was acquitted by the Senate on charges of abuse of power and obstruction of Congress.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 795,
+      "date": "2026-06-24",
+      "fact": "President Trump canceled a signing ceremony for a sweeping bipartisan housing package, saying he won't sign the legislation until the Senate passes the SAVE America Act.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5938384-save-america-act-reconciliation-johnson/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 796,
+      "date": "2026-06-24",
+      "fact": "House Minority Leader Hakeem Jeffries (D-N.Y.) brushed off concerns that Donald Trump has a working relationship with the mayor of the city of New York, and he’s made that publicly and it could hurt Democrats and their brand ahead of November.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5938386-jeffries-mamdani-wins-democrats-midterms/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 797,
+      "date": "2026-06-24",
+      "fact": "Civil rights leader Rev. Al Sharpton said Wednesday that Tucker Carlson is avoiding political hardship with his recent denouncement of the Republican Party, implying that Trump's influence is a factor.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5938537-sharpton-carlson-gop-hardship/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 798,
+      "date": "2026-06-24",
+      "fact": "Trump canceled the signing of a bipartisan housing bill over Senate inaction on the SAVE Act, which he considers 'desperately needed'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5938187-save-america-act-trump/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 799,
+      "date": "2026-06-24",
+      "fact": "Trump tweeted 'Have a nice life' after George Conway's loss in a New York Democratic primary.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/campaign/5938129-george-conway-trump-critic-defeated/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 800,
+      "date": "2026-06-24",
+      "fact": "Trump will address the Faith and Freedom Coalition's annual Road to Majority Conference at the Washington Hilton, the site of the third alleged assassination attempt against him.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 801,
+      "date": "2022-01-06",
+      "fact": "Donald Trump was sued by the New York Attorney General for allegedly inflating his net worth by billions of dollars.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 802,
+      "date": "2023-09-01",
+      "fact": "Donald Trump was indicted on charges of mishandling classified documents.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 803,
+      "date": "2023-09-01",
+      "fact": "Donald Trump was convicted of mishandling classified documents.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
           "name": "thehill.com"
         }
       ]
