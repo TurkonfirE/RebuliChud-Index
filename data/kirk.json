@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for the imprisonment or death penalty of politicians he disagrees with, including Joe Biden, and has advocated for the elimination of certain congressional districts based on racial and ethnic demographics. Kirk's behavior is characterized by a disregard for facts, a willingness to spread hate speech, and a commitment to promoting a divisive and extremist ideology.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for violence and civil war, and has advocated for the imprisonment or death penalty of politicians he disagrees with. Kirk's organizations have been criticized for making misleading financial claims and enriching their leaders. He has also promoted anti-LGBTQ and anti-transgender views, and has called for the elimination of certain congressional districts based on their racial composition.",
   "initialized": true,
   "entries": [
     {
@@ -1240,6 +1240,17 @@
       "id": 117,
       "date": "2025-09-05",
       "fact": "Charlie Kirk was sued for his role in the Alabama prison system's alleged mistreatment of inmates, with the court ruling in favor of the plaintiffs.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "date": "2025-09-05",
+      "fact": "Charlie Kirk was sued by Traveka Stanley, Reginald Burrell, Charlie Gray, Jermaine Pringle, and Ranquel Smith for his role in Alabama's prison system, which was found to be unconstitutional.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
