@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous statements that are factually inaccurate or inflammatory, including claims about Haitian immigrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition politics. Vance has also demonstrated a willingness to disregard the truth and manipulate information to achieve his goals. His voting record and legislative proposals have been shaped by his extreme views, including opposition to abortion, gun control, and same-sex marriage. As a politician, Vance has shown a disregard for the well-being and dignity of marginalized communities, and his actions have been criticized as hurtful and discriminatory.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous public statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition campaigns. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his defense of false claims about election fraud and his criticism of the Pope. His actions and statements have been widely criticized by politicians and experts, and he has been accused of promoting harmful and discriminatory ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -488,6 +488,61 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/house/5931984-vance-israel-iran-randy-fine/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "date": "2026-06-28",
+      "fact": "Vice President Vance criticized Pope Leo XIV, prompting a response from Sen. Raphael Warnock, who said, 'My faith is not a weapon'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/senate/5944476-warnock-criticizes-vance-pope-comments/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "date": "2026-06-27",
+      "fact": "Vice President Vance stood by the administration’s Iran strategy, saying the U.S. will come out on top regardless of whether peace negotiations with Tehran produce a deal.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5943855-jd-vance-iran-strategy-strikes-peace-negotiations/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "date": "2026-06-27",
+      "fact": "Comedian Bill Maher challenged Vice President Vance over President Trump’s false claims of election fraud, saying the GOP must stop insisting they were “cheated” by losses and return to a place where candidates concede defeat.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5943740-bill-maher-jd-vance-donald-trump-election-fraud-claims/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "date": "2026-06-27",
+      "fact": "Vice President Vance defended Iran strategy amid peace negotiations: ‘America wins either way’.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5943855-jd-vance-iran-strategy-strikes-peace-negotiations/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "date": "2026-06-27",
+      "fact": "Vice President Vance poked fun at a New York Times article examining the public image of pregnant women in President Trump’s orbit, joking that she did not realize her maternity dress carried so much “political significance.”",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5944051-usha-vance-maternity-dress/",
           "name": "thehill.com"
         }
       ]
