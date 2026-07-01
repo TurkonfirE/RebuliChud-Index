@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also made racist and anti-Semitic comments, and has promoted anti-LGBTQ+ and anti-transgender views. He has called for violence and civil war, and has advocated for the imprisonment or death penalty of individuals he disagrees with, including President Joe Biden. Kirk's organizations have been criticized for making misleading financial claims and enriching their leaders. He has also been accused of promoting hate speech and has been criticized for his views on immigration, affirmative action, and DEI programs.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for violence and intimidation, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's views on LGBTQ+ issues are also discriminatory, and he has repeatedly made anti-LGBTQ+ remarks. His behavior is characterized by a disregard for facts, a willingness to spread hate speech, and a promotion of extremist ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -1265,6 +1265,28 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "date": "2025-08-08",
+      "fact": "Charlie Kirk was involved in a lawsuit against 8317 Cross Park, LLC, related to the Texas Health and Human Services Commission.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651189/state-of-texas-acting-by-and-through-the-texas-facilities-commission-for/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "date": "2025-08-08",
+      "fact": "Charlie Kirk was involved in a lawsuit against Broadmoor Austin Associates, a Texas Joint Venture, related to the Texas Health and Human Services Commission.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
           "name": "courtlistener.com"
         }
       ]
