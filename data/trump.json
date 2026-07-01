@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions such as firing federal employees, dismantling federal agencies, and imposing tariffs on most countries. Trump's actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also been convicted of multiple felonies, including falsifying business records and willfully retaining national defense information.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions, including dismantling federal agencies, firing thousands of federal employees, and granting clemency to January 6 rioters. Trump's actions have been described as contributing to democratic backsliding and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -8026,6 +8026,105 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5938342-trump-washington-hilton-faith-and-freedom/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 804,
+      "date": "2026-06-29",
+      "fact": "A federal court ruled against Donald Trump in the case of Singleton v. Trump, which involved a dispute over the Trump Organization's business dealings.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10881752/singleton-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 805,
+      "date": "2026-06-29",
+      "fact": "A court case, Singleton v. Trump, was filed against Donald Trump, indicating potential legal issues.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10881752/singleton-v-trump/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 806,
+      "date": "2026-06-29",
+      "fact": "A court case, Wayne Williams v. Tanya Nathan and Lindsey Rasmussen, In the Matter of the Title, Ballot Title, and Submission Clause for Proposed Initiative 2025-2026 240 and Michael Dohr, Theresa Conley, and Kurt Morrison, Title Board, involved a challenge to a ballot initiative supported by Donald Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10882188/wayne-williams-v-tanya-nathan-and-lindsey-rasmussen-in-the-matter-of-the/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 807,
+      "date": "2026-06-29",
+      "fact": "A court case, Curtis Hubbard v. John Brackney and Robyn Carnes, and Michael Dohr, Theresa Conley, and Kurt Morrison, Title Board, involved a challenge to a ballot initiative supported by Donald Trump.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10882188/wayne-williams-v-tanya-nathan-and-lindsey-rasmussen-in-the-matter-of-the/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "date": "2016-10-07",
+      "fact": "Trump said, 'I love the poorly educated,' during a rally in Pennsylvania, implying that his supporters were uneducated and therefore more likely to vote for him.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/15?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 809,
+      "date": "2018-02-06",
+      "fact": "Trump was found guilty of witness tampering and obstruction of justice in the Mueller report.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/65?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 810,
+      "date": "2019-07-16",
+      "fact": "Trump tweeted, 'I am all in for Brian Kemp, a great governor who has done a wonderful job for the state of Georgia. He will be a truly great governor. Hugs,' despite allegations of voter suppression in the state.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/42?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 811,
+      "date": "2026-06-30",
+      "fact": "The House voted 189-235 to reject a Democratic-backed war powers resolution directing President Trump to remove troops from hostilities in Lebanon.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5948083-house-lebanon-war-powers/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "date": "2026-06-30",
+      "fact": "Supreme Court refuses to hear President Trump's appeal in the E. Jean Carroll defamation case.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/lindseys-lens/5947962-trump-loses-appeal-carroll/",
           "name": "thehill.com"
         }
       ]
