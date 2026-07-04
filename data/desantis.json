@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines the Affordable Care Act, restricts voting rights, and limits access to education and healthcare. DeSantis has also shown a willingness to use his office to retaliate against critics and opponents, as evidenced by the numerous lawsuits filed against him. His actions have resulted in institutional consequences, including court rulings against the state of Florida and himself. DeSantis has also demonstrated a disregard for the rule of law, as seen in his attempts to abolish the Transportation Security Administration and his support for legislation that labels certain groups as terrorists.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines healthcare access, climate action, and social justice, often aligning himself with far-right ideologies. DeSantis has also shown a willingness to disregard the rule of law, as evidenced by his administration's involvement in the Martha's Vineyard migrant relocation scandal and his repeated attempts to restrict voting rights and suppress dissent. Furthermore, DeSantis has been the subject of numerous lawsuits and court rulings against him, highlighting concerns about his administration's accountability and adherence to constitutional principles.",
   "initialized": true,
   "entries": [
     {
@@ -632,6 +632,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10783543/ronald-palmer-heath-v-state-of-florida-ronald-palmer-heath-v-secretary/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "date": "2026-02-04",
+      "fact": "Ron DeSantis was sued by a voter who claimed the governor's office had improperly rejected their ballot in the 2020 presidential election.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10783944/gilberti-v-desantis-governor-biden/",
           "name": "courtlistener.com"
         }
       ]
