@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for violence and intimidation, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's views on LGBTQ+ issues are also discriminatory, and he has repeatedly made anti-LGBTQ+ remarks. His behavior is characterized by a disregard for facts, a willingness to spread hate speech, and a promotion of extremist ideologies.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for violence and intimidation, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's views on LGBTQ+ issues are also discriminatory, and he has repeatedly made anti-LGBTQ+ remarks. His statements on abortion, immigration, and affirmative action are also rooted in misinformation and prejudice.",
   "initialized": true,
   "entries": [
     {
@@ -1287,6 +1287,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10651188/state-of-texas-the-texas-facilities-commission-the-texas-health-and-human/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "date": "2025-08-08",
+      "fact": "Charlie Kirk was sued for his role in Texas's prison system, which was found to be unconstitutional and inhumane.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10651189/state-of-texas-acting-by-and-through-the-texas-facilities-commission-for/",
           "name": "courtlistener.com"
         }
       ]
