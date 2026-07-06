@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has repeatedly used his power to target his political opponents, critics, and organizations aligned with the Democratic Party, and has engaged in authoritarian actions, including dismantling federal agencies, firing thousands of federal employees, and granting clemency to January 6 rioters. Trump's actions have been described as contributing to democratic backsliding and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard scientific consensus, including rejecting the reality of climate change and promoting anti-vaccine activism. He has engaged in numerous instances of self-dealing and corruption, including using his foundation to finance his presidential campaign and inflating the value of his properties to gain an advantage with lenders. Trump has also shown a disregard for the rule of law, including defying judges and the courts, firing thousands of federal employees, and ordering the suspension of environmental regulations. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -8125,6 +8125,61 @@
       "sources": [
         {
           "url": "https://thehill.com/opinion/lindseys-lens/5947962-trump-loses-appeal-carroll/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 813,
+      "date": "2026-07-04",
+      "fact": "President Trump pardoned 11 people, including nine who were convicted of violating the Clean Air Act, ahead of the 4th of July celebrations.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5953633-trump-grants-clemency-allies/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 814,
+      "date": "2026-07-03",
+      "fact": "President Trump has placed little emphasis on a democratic transition in Venezuela, warning that Venezuela's interim President Delcy Rodríguez must be cut out from accessing robust U.S. assistance to the country.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5950661-venezuela-earthquakes-aid-trump-republicans/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 815,
+      "date": "2026-07-03",
+      "fact": "President Trump has been criticized for his participation in the July Fourth fireworks celebration on the National Mall in Washington, D.C., despite high temperatures and complaints.",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/5953154-what-to-know-about-dcs-fourth-fireworks/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 816,
+      "date": "2026-07-03",
+      "fact": "President Trump read a picture book about U.S. presidents while offering unscripted commentary on his presidential predecessors and life in the White House on Usha Vance's 'Storytime' podcast.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5953051-trump-joins-usha-vances-storytime-podcast-reading-on-presidents-and-sports/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 817,
+      "date": "2025-01-01",
+      "fact": "President Trump made more than $2 billion in 2025, including $1.2 billion in cryptocurrency related income, sparking criticism from Democrats on affordability.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/",
           "name": "thehill.com"
         }
       ]
