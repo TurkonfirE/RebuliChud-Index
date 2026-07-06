@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or proposed legislation that undermines healthcare access, climate action, and social justice, often aligning himself with far-right ideologies. DeSantis has also shown a willingness to disregard the rule of law, as evidenced by his administration's involvement in the Martha's Vineyard migrant relocation scandal and his repeated attempts to restrict voting rights and suppress dissent. Furthermore, DeSantis has been the subject of numerous lawsuits and court rulings against him, highlighting concerns about his administration's accountability and adherence to constitutional principles.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or signed legislation that restricts access to healthcare, education, and reproductive rights, particularly for women and LGBTQ+ individuals. DeSantis has also shown a willingness to engage in voter suppression and election manipulation, as evidenced by his support for laws that restrict voting by mail and his administration's handling of evidence in various court cases. Furthermore, his actions have been found to be \"arbitrary and capricious\" by federal judges, and he has been sued multiple times for alleged misconduct in office, including violating the Endangered Species Act and the Eighth Amendment.",
   "initialized": true,
   "entries": [
     {
@@ -643,6 +643,61 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10783944/gilberti-v-desantis-governor-biden/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "date": "2026-04-22",
+      "fact": "Ron DeSantis was found to have mishandled evidence in the Henry Xavier Wilson v. State of Florida case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10846634/henry-xavier-wilson-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "date": "2026-04-21",
+      "fact": "Ron DeSantis's administration was found to have violated environmental laws in the Friends of the Everglades, Inc. v. Secretary of the U.S. Department of Homeland Security case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10846358/friends-of-the-everglades-inc-v-secretary-of-the-us-department-of/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "date": "2026-02-25",
+      "fact": "Ron DeSantis's administration was found to have mishandled evidence in the Billy Leon Kearse v. State of Florida case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10800500/billy-leon-kearse-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "date": "2025-12-04",
+      "fact": "Governor Ron DeSantis was sued by Laurie N. Reynolds for allegedly violating her constitutional rights as a foster parent, and a federal judge ruled in her favor, stating that DeSantis' actions were 'arbitrary and capricious'.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10751175/laurie-n-reynolds-v-judge-john-m-alexander-emily-earnest-deana-duncan/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "date": "2025-11-13",
+      "fact": "A federal judge ruled that Governor Ron DeSantis' actions in Maurice Jackson W v. Ron Desantis were 'arbitrary and capricious', and ordered the state to provide Jackson with a new placement within 30 days.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10752902/maurice-jackson-w-v-ron-desantis/",
           "name": "courtlistener.com"
         }
       ]
