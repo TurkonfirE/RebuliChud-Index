@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous public statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and Ukrainian President Volodymyr Zelenskyy's alleged involvement in opposition campaigns. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his defense of false claims about election fraud and his criticism of the Pope. His actions and statements have been widely criticized by politicians and experts, and he has been accused of promoting harmful and discriminatory ideologies.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is discriminatory, divisive, and dismissive of opposing viewpoints. He has made derogatory comments about childless individuals, suggesting they are sociopathic and a threat to societal stability. Vance has also advocated for policies that target marginalized groups, including a proposal to tax childless individuals at a higher rate and a bill to ban federal diversity, equity, and inclusion programs. His statements on abortion, gun control, and same-sex marriage reflect a rigid and uncompromising stance on social issues. Vance has also shown a willingness to spread misinformation and engage in inflammatory rhetoric, as seen in his claims about Haitian migrants eating pets and his criticism of Ukrainian President Volodymyr Zelenskyy. His actions as Vice President have been marked by a disregard for fact-checking and a willingness to use his platform to promote divisive and discriminatory ideologies.",
   "initialized": true,
   "entries": [
     {
@@ -543,6 +543,17 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/administration/5944051-usha-vance-maternity-dress/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "date": "2026-07-08",
+      "fact": "JD Vance targeted H-1B visas as part of an anti-fraud tour, announcing investigations into foreigners involved in the program.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5959880-vance-h1b-visa-fraud-wisconsin-speech/",
           "name": "thehill.com"
         }
       ]
