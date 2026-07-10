@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also demonstrated a willingness to disregard scientific consensus, including rejecting the reality of climate change and promoting anti-vaccine activism. He has engaged in numerous instances of self-dealing and corruption, including using his foundation to finance his presidential campaign and inflating the value of his properties to gain an advantage with lenders. Trump has also shown a disregard for the rule of law, including defying judges and the courts, firing thousands of federal employees, and ordering the suspension of environmental regulations. His actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from international agreements on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing federal employees en masse, and asserting a constitutional right to ignore federal law. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and corruption concerns, including profiting from events held at his hotels and golf courses, and launching and promoting his own cryptocurrency tokens.",
   "initialized": true,
   "entries": [
     {
@@ -8181,6 +8181,39 @@
         {
           "url": "https://thehill.com/homenews/administration/5952199-trump-financial-disclosures-criticism/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "date": "2019-07-16",
+      "fact": "Trump tweeted that four Democratic congresswomen should 'go back and help fix the totally broken and crime infested places from which they came'.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/92?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 819,
+      "date": "2017-02-28",
+      "fact": "Trump signed an executive order banning refugees and immigrants from seven predominantly Muslim countries, sparking widespread protests and lawsuits.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/50?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 820,
+      "date": "2019-12-18",
+      "fact": "Trump was impeached by the House of Representatives on charges of abuse of power and obstruction of Congress.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/55?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
