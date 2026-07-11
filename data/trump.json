@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from international agreements on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing federal employees en masse, and asserting a constitutional right to ignore federal law. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and corruption concerns, including profiting from events held at his hotels and golf courses, and launching and promoting his own cryptocurrency tokens.",
+  "summary": "Donald Trump's character is marked by a pattern of disregard for the law, accountability, and ethics. He has a history of using his power to enrich himself and his allies, while targeting his opponents and critics. Trump has repeatedly demonstrated a willingness to disregard the truth, making false claims and spreading misinformation to advance his agenda. He has also shown a disregard for the well-being of marginalized communities, including people of color, women, and LGBTQ individuals. Trump's actions have been characterized by authoritarianism, with a focus on consolidating power and suppressing dissent. His presidency has been marked by a series of scandals, including the use of his foundation for personal gain, the payment of hush money to silence accusers, and the promotion of conspiracy theories. Trump's behavior has been described as \"bigoted,\" \"racist,\" and \"dehumanizing,\" and his policies have had a devastating impact on the environment, public health, and social justice.",
   "initialized": true,
   "entries": [
     {
@@ -8214,6 +8214,50 @@
         {
           "url": "https://api.congress.gov/v3/bill/110/hconres/55?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 821,
+      "date": "2026-07-09",
+      "fact": "President Trump's proposal to build a 250-foot triumphal arch in Virginia across the Potomac River from Washington, D.C. was approved by the National Capital Planning Commission, despite pushback from historic and architectural preservationists.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5961987-trump-arch-proposal-approved/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 822,
+      "date": "2026-07-09",
+      "fact": "House Republican Rep. John McGuire III introduced the Birthright Citizenship Clarification Act to codify President Trump's executive order seeking to limit birthright citizenship.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5961917-house-republican-introduces-birthright-citizenship-clarification-act-to-codify-trump-executive-order/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 823,
+      "date": "2026-07-09",
+      "fact": "President Trump flew part of the way home on an old Air Force One instead of his newly refurbished and gifted plane from Qatar, raising questions about the security of the new Air Force One.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/5961950-trump-air-force-one-security-qatari-plane/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 824,
+      "date": "2026-07-09",
+      "fact": "President Trump's executive order sought to limit birthright citizenship by striking down the jus soli or 'right of the soil' legal principle that grants citizenship to anyone born within a nation's territory.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/house/5961917-house-republican-introduces-birthright-citizenship-clarification-act-to-codify-trump-executive-order/",
+          "name": "thehill.com"
         }
       ]
     }
