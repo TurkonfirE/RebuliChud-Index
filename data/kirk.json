@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting conspiracy theories about Jewish donors and immigration. He has called for violence and intimidation, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's views on LGBTQ+ issues are also deeply problematic, with a history of making anti-LGBTQ+ remarks and advocating for the erasure of transgender individuals. His organization, Turning Point USA, has been criticized for its financial mismanagement and Kirk's own personal enrichment.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk frequently uses inflammatory language and makes derogatory comments about marginalized groups, including LGBTQ individuals, Muslims, and people of color. He has also promoted anti-Semitic and Islamophobic views, and has made baseless claims about the motivations and actions of individuals and groups. Kirk's behavior is characterized by a disregard for facts and a willingness to exploit fear and prejudice for his own purposes.",
   "initialized": true,
   "entries": [
     {
@@ -1331,6 +1331,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10600056/murthy-v-missouri/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "date": "2025-09-05",
+      "fact": "Charlie Kirk, a prominent Trump supporter, was mentioned in a lawsuit filed by five Alabama inmates who alleged that the state's prison system, which Trump had praised, was unconstitutional and inhumane.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
           "name": "courtlistener.com"
         }
       ]
