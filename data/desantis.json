@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly voted against or signed legislation that restricts access to healthcare, education, and reproductive rights, particularly for women and LGBTQ+ individuals. DeSantis has also shown a willingness to engage in voter suppression and election manipulation, as evidenced by his support for laws that restrict voting by mail and his administration's handling of evidence in various court cases. Furthermore, his actions have been found to be \"arbitrary and capricious\" by federal judges, and he has been sued multiple times for alleged misconduct in office, including violating the Endangered Species Act and the Eighth Amendment.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for marginalized communities and a willingness to exploit power for partisan gain. He has repeatedly demonstrated a lack of regard for the rights of LGBTQ+ individuals, immigrants, and people of color, as evidenced by his voting record and policy initiatives. DeSantis has also shown a propensity for using rhetoric that can be interpreted as racist or xenophobic, and has been involved in numerous high-profile lawsuits and controversies related to voter suppression, election law, and human rights. His actions have been repeatedly found to be arbitrary, capricious, and in violation of constitutional rights.",
   "initialized": true,
   "entries": [
     {
@@ -698,6 +698,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10752902/maurice-jackson-w-v-ron-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "date": "2026-06-10",
+      "fact": "A federal court ruled that the policies implemented by Ron DeSantis in Florida, which restricted voting rights and access to healthcare, were discriminatory and unconstitutional.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10873148/earl-m-johnson-jr-v-mayor-city-of-jacksonville/",
           "name": "courtlistener.com"
         }
       ]
