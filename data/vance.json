@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently displays a pattern of behavior that is discriminatory, divisive, and dismissive of opposing viewpoints. He has made derogatory comments about childless individuals, suggesting they are sociopathic and a threat to societal stability. Vance has also advocated for policies that target marginalized groups, including a proposal to tax childless individuals at a higher rate and a bill to ban federal diversity, equity, and inclusion programs. His statements on abortion, gun control, and same-sex marriage reflect a rigid and uncompromising stance on social issues. Vance has also shown a willingness to spread misinformation and engage in inflammatory rhetoric, as seen in his claims about Haitian migrants eating pets and his criticism of Ukrainian President Volodymyr Zelenskyy. His actions as Vice President have been marked by a disregard for fact-checking and a willingness to use his platform to promote divisive and discriminatory ideologies.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ people, and immigrants. He has made numerous statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and accusing Ukrainian President Volodymyr Zelenskyy of showing a \"propaganda tour\" of Ukraine. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his defense of his false claims about Haitian migrants and his criticism of fact-checking during the vice presidential debate. His actions and statements suggest a disregard for the well-being and dignity of marginalized communities and a commitment to advancing a divisive and discriminatory agenda.",
   "initialized": true,
   "entries": [
     {
@@ -555,6 +555,17 @@
         {
           "url": "https://thehill.com/homenews/administration/5959880-vance-h1b-visa-fraud-wisconsin-speech/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "date": "2022-07-19",
+      "fact": "JD Vance, a Republican Senate candidate in Ohio, was criticized for his past comments on the 2016 presidential election, in which he said that 'the left is going to try to take away your guns' and that 'the left is going to try to take away your freedom of speech'",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
