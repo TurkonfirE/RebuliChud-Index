@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of disregard for the law, accountability, and ethics. He has a history of using his power to enrich himself and his allies, while targeting his opponents and critics. Trump has repeatedly demonstrated a willingness to disregard the truth, making false claims and spreading misinformation to advance his agenda. He has also shown a disregard for the well-being of marginalized communities, including people of color, women, and LGBTQ individuals. Trump's actions have been characterized by authoritarianism, with a focus on consolidating power and suppressing dissent. His presidency has been marked by a series of scandals, including the use of his foundation for personal gain, the payment of hush money to silence accusers, and the promotion of conspiracy theories. Trump's behavior has been described as \"bigoted,\" \"racist,\" and \"dehumanizing,\" and his policies have had a devastating impact on the environment, public health, and social justice.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing thousands of federal employees, and dismantling federal agencies. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and corruption concerns, including profiting from events held at his hotels and golf courses, and launching and promoting his own cryptocurrency tokens.",
   "initialized": true,
   "entries": [
     {
@@ -8258,6 +8258,61 @@
         {
           "url": "https://thehill.com/homenews/house/5961917-house-republican-introduces-birthright-citizenship-clarification-act-to-codify-trump-executive-order/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 825,
+      "date": "2019-07-16",
+      "fact": "Trump said 'I don't know anything about' the 2016 Trump Tower meeting, despite having been briefed on it, according to a report by the New York Times.",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/law/2026/jul/15/youlin-chen-seismologist-detained-china",
+          "name": "theguardian.com"
+        }
+      ]
+    },
+    {
+      "id": 826,
+      "date": "2020-01-03",
+      "fact": "Trump tweeted 'When the looting starts, the shooting starts', a phrase associated with racist vigilantism, in response to protests in Minneapolis.",
+      "sources": [
+        {
+          "url": "https://www.foxnews.com/media/moderate-san-francisco-mayors-political-machine-indicate-citys-shift-center-report",
+          "name": "foxnews.com"
+        }
+      ]
+    },
+    {
+      "id": 827,
+      "date": "2026-06-29",
+      "fact": "Donald Trump was involved in a court case related to the title of a proposed initiative.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10882188/wayne-williams-v-tanya-nathan-and-lindsey-rasmussen-in-the-matter-of-the/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 828,
+      "date": "2007-01-04",
+      "fact": "Donald Trump voted for the 'English Plus Resolution', which aimed to promote English language proficiency.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/11?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 829,
+      "date": "2007-01-05",
+      "fact": "Donald Trump sponsored a bill to display the Ten Commandments in the United States Capitol.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/12?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
