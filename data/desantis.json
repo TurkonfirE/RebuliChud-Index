@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for marginalized communities and a willingness to exploit power for partisan gain. He has repeatedly demonstrated a lack of regard for the rights of LGBTQ+ individuals, immigrants, and people of color, as evidenced by his voting record and policy initiatives. DeSantis has also shown a propensity for using rhetoric that can be interpreted as racist or xenophobic, and has been involved in numerous high-profile lawsuits and controversies related to voter suppression, election law, and human rights. His actions have been repeatedly found to be arbitrary, capricious, and in violation of constitutional rights.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly shown a willingness to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also been found liable for violating constitutional rights, mishandling evidence, and engaging in discriminatory practices. His actions have been deemed \"arbitrary and capricious\" by federal judges, and he has been sued numerous times for alleged misconduct in office.",
   "initialized": true,
   "entries": [
     {
@@ -709,6 +709,28 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10873148/earl-m-johnson-jr-v-mayor-city-of-jacksonville/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "date": "2026-07-02",
+      "fact": "Ron DeSantis was found liable for violating the First Amendment rights of a former data scientist who was fired after refusing to edit voting data to support Donald Trump's 2020 presidential campaign.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10884011/sansone-v-desantis-uthmeier/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "date": "2026-06-16",
+      "fact": "A federal appeals court ruled that Florida's prison system, overseen by Governor Ron DeSantis, was responsible for the death of a prisoner who died after being denied medical treatment.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
           "name": "courtlistener.com"
         }
       ]
