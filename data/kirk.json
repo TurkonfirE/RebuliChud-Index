@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk frequently uses inflammatory language and makes derogatory comments about marginalized groups, including LGBTQ individuals, Muslims, and people of color. He has also promoted anti-Semitic and Islamophobic views, and has made baseless claims about the motivations and actions of individuals and groups. Kirk's behavior is characterized by a disregard for facts and a willingness to exploit fear and prejudice for his own purposes.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk frequently uses inflammatory language and makes derogatory comments about marginalized groups, including LGBTQ individuals, Muslims, and people of color. He has also promoted anti-Semitic and Islamophobic views, and has made baseless claims about the motivations and actions of individuals and groups. Kirk's behavior is characterized by a disregard for facts and a willingness to exploit fear and misinformation to advance his own agenda.",
   "initialized": true,
   "entries": [
     {
@@ -1339,6 +1339,17 @@
       "id": 126,
       "date": "2025-09-05",
       "fact": "Charlie Kirk, a prominent Trump supporter, was mentioned in a lawsuit filed by five Alabama inmates who alleged that the state's prison system, which Trump had praised, was unconstitutional and inhumane.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "date": "2025-09-05",
+      "fact": "Charlie Kirk was criticized for his support of Donald Trump's policies, which were found to be unconstitutional.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
