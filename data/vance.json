@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ people, and immigrants. He has made numerous statements that are factually inaccurate or inflammatory, including claims about Haitian migrants eating pets and accusing Ukrainian President Volodymyr Zelenskyy of showing a \"propaganda tour\" of Ukraine. Vance has also shown a willingness to disregard the truth and manipulate information to achieve his goals, as evidenced by his defense of his false claims about Haitian migrants and his criticism of fact-checking during the vice presidential debate. His actions and statements suggest a disregard for the well-being and dignity of marginalized communities and a commitment to advancing a divisive and discriminatory agenda.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous statements that are factually inaccurate and inflammatory, including claims that childless people are sociopathic and that Haitian migrants are eating pets. Vance has also shown a disregard for the rule of law and the principles of democracy, as evidenced by his opposition to certifying the results of the 2020 presidential election and his support for Trump's false claims of election fraud. His actions and statements have been widely criticized as insensitive, dismissive, and discriminatory, and have contributed to a toxic and divisive political environment.",
   "initialized": true,
   "entries": [
     {
@@ -562,6 +562,28 @@
       "id": 51,
       "date": "2022-07-19",
       "fact": "JD Vance, a Republican Senate candidate in Ohio, was criticized for his past comments on the 2016 presidential election, in which he said that 'the left is going to try to take away your guns' and that 'the left is going to try to take away your freedom of speech'",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "date": "2026-07-23",
+      "fact": "Vance Boelter, 59, was sentenced to two consecutive life terms, plus 40 years in prison, for killing former Minnesota state House Speaker Melissa Hortman (D) and her husband, Mark Hortman.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/5987044-melissa-horton-killer-vance-boelter-life-sentence/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "date": "2020-10-15",
+      "fact": "JD Vance, a Republican Senate candidate, was criticized for his comments on the 2020 election, which some deemed as promoting conspiracy theories.",
       "sources": [
         {
           "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
