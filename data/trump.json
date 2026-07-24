@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently disregarded scientific consensus, including on climate change, and has taken actions to undermine environmental and public health protections. Trump has also demonstrated a willingness to use the military and law enforcement to target his political opponents and critics, and has engaged in large-scale deregulation and state capitalism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes personal and political gain over accountability, ethics, and the well-being of others. He has a history of using discriminatory and racist language, including referring to certain countries as \"shithole countries\" and making derogatory comments about women. Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently demonstrated a disregard for the rule of law, including defying judges and the courts, and has used his power to target his political opponents and critics. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also shown a willingness to use violence and intimidation to achieve his goals, including calling for the election to be overturned and urging his supporters to \"fight like hell\" and \"take back our country.\"",
   "initialized": true,
   "entries": [
     {
@@ -8478,6 +8478,39 @@
         {
           "url": "https://thehill.com/regulation/court-battles/5976171-appeals-court-trump-administration-usps-mail-in-ballots/",
           "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 845,
+      "date": "2026-07-23",
+      "fact": "Trump allies are poised to weaken protections for historic sites, which critics say could help him build his D.C. arch faster and endanger important sites across the country.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 846,
+      "date": "2026-07-23",
+      "fact": "The House approved a resolution to end the war in Iran in a rebuke to Trump, with four Republicans joining Democrats to approve the measure.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/07/23/nx-s1-5904515/congress-iran-war-powers-vote",
+          "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 847,
+      "date": "2026-07-23",
+      "fact": "Republicans urged the Justice Department to investigate former prosecutor Jack Smith, who led two criminal investigations of President Trump.",
+      "sources": [
+        {
+          "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+          "name": "npr.org"
         }
       ]
     }
