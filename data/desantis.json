@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly shown a willingness to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also been found liable for violating constitutional rights, mishandling evidence, and engaging in discriminatory practices. His actions have been deemed \"arbitrary and capricious\" by federal judges, and he has been sued numerous times for alleged misconduct in office.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly taken actions to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also shown a disregard for the rule of law, with numerous court rulings finding his administration guilty of misconduct, mishandling evidence, and violating constitutional rights. His actions have been deemed \"arbitrary and capricious\" by federal judges, and he has been found liable for violating the First Amendment rights of a former employee.",
   "initialized": true,
   "entries": [
     {
@@ -728,6 +728,28 @@
       "id": 71,
       "date": "2026-06-16",
       "fact": "A federal appeals court ruled that Florida's prison system, overseen by Governor Ron DeSantis, was responsible for the death of a prisoner who died after being denied medical treatment.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "date": "2026-07-02",
+      "fact": "A federal court ruled that Florida Governor Ron DeSantis and his former education commissioner, Richard Corcoran, had violated the rights of students with disabilities, ordering the state to pay $2.8 million in damages.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10884011/sansone-v-desantis-uthmeier/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "date": "2026-06-16",
+      "fact": "A federal court ruled that Florida's prison system, overseen by Governor Ron DeSantis, had failed to provide adequate medical care to inmates, violating their Eighth Amendment rights.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
