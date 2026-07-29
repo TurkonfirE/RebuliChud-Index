@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes personal and political gain over accountability, ethics, and the well-being of others. He has a history of using discriminatory and racist language, including referring to certain countries as \"shithole countries\" and making derogatory comments about women. Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has consistently demonstrated a disregard for the rule of law, including defying judges and the courts, and has used his power to target his political opponents and critics. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also shown a willingness to use violence and intimidation to achieve his goals, including calling for the election to be overturned and urging his supporters to \"fight like hell\" and \"take back our country.\"",
+  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has demonstrated a willingness to disregard the judiciary, questioning their constitutional authority and disparaging courts and judges he disagrees with. Trump has also shown a pattern of authoritarian behavior, including attempting to overturn the 2020 election, weaponizing the Justice Department and federal agencies to target his political opponents, and implementing policies that promote anti-science and anti-vaccine activism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
   "initialized": true,
   "entries": [
     {
@@ -8511,6 +8511,61 @@
         {
           "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
           "name": "npr.org"
+        }
+      ]
+    },
+    {
+      "id": 848,
+      "date": "2018-02-06",
+      "fact": "Trump was acquitted by the Senate on charges of abuse of power and obstruction of Congress, but the trial highlighted his role in the Ukraine scandal.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/61?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 849,
+      "date": "2019-07-16",
+      "fact": "Trump tweeted, 'I am a very stable genius,' in response to criticism of his mental fitness for office, sparking concerns about his mental health.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/12?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 850,
+      "date": "2026-07-28",
+      "fact": "President Donald Trump paid tribute to the late Sen. Lindsey Graham, praising him for having a view on 'nothing of significance' that happened in the world.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-trump-pays-tribute-to-sen-graham-during-national-cathedral-funeral-service",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 851,
+      "date": "2026-07-28",
+      "fact": "The Senate has confirmed Jay Clayton to become head of the nation's intelligence agencies, putting a permanent director in place weeks after President Donald Trump sought to delay his nomination.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/watch-live-senate-expected-to-vote-on-jay-claytons-nomination-for-director-of-national-intelligence",
+          "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 852,
+      "date": "2026-07-28",
+      "fact": "Ukrainian leader Zelenskyy will visit President Donald Trump at the White House before Sen. Lindsey Graham's funeral.",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/world/zelenskyy-will-visit-trump-at-the-white-house-before-sen-grahams-funeral",
+          "name": "pbs.org"
         }
       ]
     }
