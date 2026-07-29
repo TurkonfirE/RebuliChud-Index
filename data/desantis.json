@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly taken actions to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also shown a disregard for the rule of law, with numerous court rulings finding his administration guilty of misconduct, mishandling evidence, and violating constitutional rights. His actions have been deemed \"arbitrary and capricious\" by federal judges, and he has been found liable for violating the First Amendment rights of a former employee.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly shown a willingness to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also been found liable for violating constitutional rights, including the First Amendment, Eighth Amendment, and Fourteenth Amendment. His administration has been repeatedly ruled against in court for mishandling evidence, violating environmental laws, and engaging in discriminatory practices. DeSantis's actions have resulted in significant financial penalties, including a $2.8 million damages award, and have been deemed \"arbitrary and capricious\" by federal judges.",
   "initialized": true,
   "entries": [
     {
@@ -750,6 +750,17 @@
       "id": 73,
       "date": "2026-06-16",
       "fact": "A federal court ruled that Florida's prison system, overseen by Governor Ron DeSantis, had failed to provide adequate medical care to inmates, violating their Eighth Amendment rights.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "date": "2026-06-16",
+      "fact": "A federal appeals court ruled that Florida's 'Stop WOKE Act' is unconstitutional, a law that was signed into effect by Governor Ron DeSantis.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
