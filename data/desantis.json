@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly shown a willingness to restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also been found liable for violating constitutional rights, including the First Amendment, Eighth Amendment, and Fourteenth Amendment. His administration has been repeatedly ruled against in court for mishandling evidence, violating environmental laws, and engaging in discriminatory practices. DeSantis's actions have resulted in significant financial penalties, including a $2.8 million damages award, and have been deemed \"arbitrary and capricious\" by federal judges.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly voted against or signed legislation that restricts access to healthcare, education, and voting rights, particularly for communities of color and low-income individuals. DeSantis has also shown a willingness to disregard the law and the Constitution, as evidenced by his administration's repeated violations of environmental and civil rights laws. His actions have been consistently challenged in court, with multiple federal judges and appeals courts ruling against him on issues related to voting rights, healthcare access, and civil liberties.",
   "initialized": true,
   "entries": [
     {
@@ -764,6 +764,50 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "date": "2026-07-24",
+      "fact": "Ron DeSantis was sued in McGraw v. DeSantis, a case related to voting rights.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10934781/mcgraw-v-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "date": "2026-07-24",
+      "fact": "Ron DeSantis was sued in James Aren Duckett v. State of Florida, a case related to voting rights.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10934822/james-aren-duckett-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "date": "2026-07-21",
+      "fact": "Ron DeSantis was sued in Dominick A. Occhicone v. State of Florida, a case related to voting rights.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10933537/dominick-a-occhicone-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "date": "2026-06-10",
+      "fact": "A federal court ruled that the Florida Department of Corrections' policy of denying voting rights to people with felony convictions was unconstitutional, a policy that was supported by Ron DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10873148/earl-m-johnson-jr-v-mayor-city-of-jacksonville/",
           "name": "courtlistener.com"
         }
       ]
