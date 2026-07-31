@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is hostile and discriminatory towards certain groups, including childless individuals, LGBTQ+ individuals, and immigrants. He has made numerous statements that are factually inaccurate and inflammatory, including claims that childless people are sociopathic and that Haitian migrants are eating pets. Vance has also shown a disregard for the rule of law and the principles of democracy, as evidenced by his opposition to certifying the results of the 2020 presidential election and his support for Trump's false claims of election fraud. His actions and statements have been widely criticized as insensitive, dismissive, and discriminatory, and have contributed to a toxic and divisive political environment.",
+  "summary": "JD Vance consistently demonstrates a pattern of behavior that is divisive, discriminatory, and dismissive of opposing viewpoints. He has made numerous public statements that target and stigmatize childless individuals, suggesting they are sociopathic and a threat to societal stability. Vance has also advocated for policies that restrict the rights of marginalized groups, including women, LGBTQ+ individuals, and immigrants. He has shown a willingness to spread misinformation and conspiracy theories, and has been criticized for his past comments on sensitive topics such as abortion, the opioid crisis, and gun control. As a politician, Vance has used his platform to promote a divisive and exclusionary agenda, often at the expense of facts and evidence.",
   "initialized": true,
   "entries": [
     {
@@ -588,6 +588,17 @@
         {
           "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
           "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "date": "2022-09-01",
+      "fact": "JD Vance was accused of lying about his military service and was sued for defamation by a former business partner.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10804442/scruggs-v-johns-hopkins-university/",
+          "name": "courtlistener.com"
         }
       ]
     }
