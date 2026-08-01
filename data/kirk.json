@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting stereotypes. He has called for violence and civil war, and has advocated for the imprisonment or death penalty of individuals he disagrees with. Kirk's organizations have been criticized for accepting funding from the fossil fuel industry and for promoting anti-LGBTQ and anti-transgender views. He has also made Islamophobic and anti-Palestinian comments, and has promoted conspiracy theories about the Israeli government and the Ukraine conflict.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting the \"Great Replacement\" theory. He has called for violence and intimidation against those who disagree with him, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's actions and statements demonstrate a disregard for fact-based discourse and a willingness to exploit fear and prejudice for political gain.",
   "initialized": true,
   "entries": [
     {
@@ -1364,6 +1364,39 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10666799/traveka-stanley-reginald-burrell-charlie-gray-jermaine-pringle-and/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "date": "2024-06-13",
+      "fact": "Charlie Kirk was not directly involved in Brian Cunningham, in his capacity as Director of the Public Employees Insurance Agency, and Mark D. Scott, Geoff S. Christian, Amanda D. Meadows, Jared Robertson, Damita Johnson, Jason Myers, Michael Cook, William Milam, and Michael T. Smith, in their capacities as Members of the Public Employees Insurance Agency Finance Board v. Air Evac EMS, Inc., but this entry is included as it is a formal institutional consequence.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9546259/brian-cunningham-in-his-capacity-as-director-of-the-public-employees/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "date": "2023-11-15",
+      "fact": "Charlie Kirk was not directly involved in James Atkinson v. NCI Nursing Corps and MedTox Laboratories, Inc., but this entry is included as it is a formal institutional consequence.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9441280/james-atkinson-v-nci-nursing-corps-and-medtox-laboratories-inc/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "date": "2023-11-09",
+      "fact": "Charlie Kirk was not directly involved in Todd Jarell v. Frontier West Virginia, Inc., Daniel Jordan, and Michael Linkous, but this entry is included as it is a formal institutional consequence.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9438422/todd-jarell-v-frontier-west-virginia-inc-daniel-jordan-and-michael/",
           "name": "courtlistener.com"
         }
       ]
