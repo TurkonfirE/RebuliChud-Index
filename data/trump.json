@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character and pattern of behavior are marked by a consistent disregard for the law, ethics, and human rights. He has a history of using racist and xenophobic rhetoric, including referring to certain countries as \"shithole countries\" and describing Mexican immigrants as \"rapists.\" Trump has also been accused of inflating the value of his properties to gain an advantage with lenders and banks, and has been found liable for sexual abuse and defamation. He has demonstrated a willingness to disregard the judiciary, questioning their constitutional authority and disparaging courts and judges he disagrees with. Trump has also shown a pattern of authoritarian behavior, including attempting to overturn the 2020 election, weaponizing the Justice Department and federal agencies to target his political opponents, and implementing policies that promote anti-science and anti-vaccine activism. His actions have been described by hundreds of legal experts and political scientists as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law.",
+  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric, as well as making false and inflammatory statements to advance his own interests. Trump has consistently demonstrated a disregard for the law, including violating federal regulations, ignoring court orders, and engaging in large-scale deregulation. He has also shown a willingness to use the military and law enforcement to target his political opponents and critics, and has implemented policies that promote anti-science and anti-vaccine activism. Trump's actions have been described as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. He has also been found liable for numerous civil and criminal offenses, including tax evasion, defamation, and falsifying business records.",
   "initialized": true,
   "entries": [
     {
@@ -8566,6 +8566,17 @@
         {
           "url": "https://www.pbs.org/newshour/world/zelenskyy-will-visit-trump-at-the-white-house-before-sen-grahams-funeral",
           "name": "pbs.org"
+        }
+      ]
+    },
+    {
+      "id": 853,
+      "date": "2026-08-02",
+      "fact": "Trump threatened to launch a massive attack on Iran, but held off after receiving a request from Iran and Middle East countries.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/6003957-live-updates-trump-cancels-iran-strike/",
+          "name": "thehill.com"
         }
       ]
     }
