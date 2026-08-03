@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and elections. Kirk has also made racist and anti-Semitic comments, blaming minority groups for societal problems and promoting the \"Great Replacement\" theory. He has called for violence and intimidation against those who disagree with him, including advocating for the imprisonment or death penalty of politicians and the use of force against migrants. Kirk's actions and statements demonstrate a disregard for fact-based discourse and a willingness to exploit fear and prejudice for political gain.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and discriminatory ideologies. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election results. Kirk frequently uses divisive rhetoric, making anti-LGBTQ, anti-Muslim, anti-immigrant, and anti-Semitic comments. He has also promoted anti-vaxxer and climate change denialism, and has been criticized for his handling of COVID-19 misinformation. Additionally, Kirk has a history of making inflammatory statements about marginalized groups, including African Americans, Muslims, and LGBTQ individuals. His actions and words demonstrate a disregard for fact-based information and a willingness to exploit fear and prejudice for his own gain.",
   "initialized": true,
   "entries": [
     {
@@ -1397,6 +1397,39 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/9438422/todd-jarell-v-frontier-west-virginia-inc-daniel-jordan-and-michael/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "date": "2023-11-15",
+      "fact": "Charlie Kirk was not mentioned in the James Atkinson v. NCI Nursing Corps and MedTox Laboratories, Inc. court case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9441280/james-atkinson-v-nci-nursing-corps-and-medtox-laboratories-inc/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "date": "2023-11-09",
+      "fact": "Charlie Kirk was not mentioned in the Todd Jarell v. Frontier West Virginia, Inc., Daniel Jordan, and Michael Linkous court case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9438422/todd-jarell-v-frontier-west-virginia-inc-daniel-jordan-and-michael/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "date": "2024-06-13",
+      "fact": "Charlie Kirk was not mentioned in the Brian Cunningham v. Air Evac EMS, Inc. court case.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/9546259/brian-cunningham-in-his-capacity-as-director-of-the-public-employees/",
           "name": "courtlistener.com"
         }
       ]
