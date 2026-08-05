@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being and rights of marginalized communities. He has repeatedly voted against or signed legislation that restricts access to healthcare, education, and voting rights, particularly for communities of color and low-income individuals. DeSantis has also shown a willingness to disregard the law and the Constitution, as evidenced by his administration's repeated violations of environmental and civil rights laws. His actions have been consistently challenged in court, with multiple federal judges and appeals courts ruling against him on issues related to voting rights, healthcare access, and civil liberties.",
+  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly taken actions that restrict voting rights, limit access to healthcare, and promote discriminatory policies, often in the face of court rulings and legal challenges. DeSantis has also shown a willingness to disregard the rule of law and due process, as evidenced by his administration's mishandling of evidence and failure to provide adequate medical care to inmates. His actions have resulted in numerous lawsuits and court rulings against him, with many finding his policies and actions to be unconstitutional and arbitrary.",
   "initialized": true,
   "entries": [
     {
@@ -808,6 +808,39 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10873148/earl-m-johnson-jr-v-mayor-city-of-jacksonville/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "date": "2026-04-30",
+      "fact": "Ron DeSantis was not mentioned in the court ruling James Aren Duckett v. State of Florida.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10851061/james-aren-duckett-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "date": "2026-04-22",
+      "fact": "Ron DeSantis was not mentioned in the court ruling Henry Xavier Wilson v. State of Florida.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10846634/henry-xavier-wilson-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "date": "2026-04-21",
+      "fact": "Ron DeSantis was not mentioned in the court ruling Friends of the Everglades, Inc. v. Secretary of the U.S. Department of Homeland Security.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10846358/friends-of-the-everglades-inc-v-secretary-of-the-us-department-of/",
           "name": "courtlistener.com"
         }
       ]
