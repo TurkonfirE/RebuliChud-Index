@@ -1,7 +1,7 @@
 {
   "name": "JD Vance",
   "slug": "vance",
-  "summary": "JD Vance consistently demonstrates a pattern of behavior that is divisive, discriminatory, and dismissive of opposing viewpoints. He has made numerous public statements that target and stigmatize childless individuals, suggesting they are sociopathic and a threat to societal stability. Vance has also advocated for policies that restrict the rights of marginalized groups, including women, LGBTQ+ individuals, and immigrants. He has shown a willingness to spread misinformation and conspiracy theories, and has been criticized for his past comments on sensitive topics such as abortion, the opioid crisis, and gun control. As a politician, Vance has used his platform to promote a divisive and exclusionary agenda, often at the expense of facts and evidence.",
+  "summary": "JD Vance consistently displays a pattern of behavior that is hostile and discriminatory towards certain groups, particularly those who are childless, LGBTQ+, and immigrants. He has made numerous statements that are factually inaccurate, inflammatory, and divisive, including claims that childless people are sociopathic and that Haitian migrants are eating pets. Vance has also demonstrated a willingness to disregard the truth and manipulate information to achieve his goals, as seen in his comments about Ukrainian President Volodymyr Zelenskyy and his claims about the 2020 presidential election. His actions and statements have been criticized by various individuals and groups, and he has been accused of promoting conspiracy theories and lying about his military service.",
   "initialized": true,
   "entries": [
     {
@@ -599,6 +599,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/10804442/scruggs-v-johns-hopkins-university/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "date": "2026-08-06",
+      "fact": "Vance said progressive Senate candidate Abdul El-Sayed has no 'constituency among the working class'.",
+      "sources": [
+        {
+          "url": "https://thehill.com/homenews/administration/6012719-vance-criticizes-el-sayed-michigan/",
+          "name": "thehill.com"
         }
       ]
     }
