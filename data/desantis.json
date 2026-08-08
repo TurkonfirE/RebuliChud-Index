@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis consistently demonstrates a pattern of behavior that prioritizes partisan politics and ideological agendas over the well-being of marginalized communities and the environment. He has repeatedly taken actions that restrict voting rights, limit access to healthcare, and suppress dissenting voices. DeSantis has also shown a disregard for the rule of law, with numerous court rulings finding his administration guilty of violating constitutional rights, mishandling evidence, and engaging in voter suppression. His actions have been deemed \"arbitrary and capricious\" by federal judges, and he has been found liable for violating the First Amendment rights of a former data scientist. DeSantis's policies have been consistently found to be discriminatory and unconstitutional, and he has been sued multiple times for inciting violence against individuals and violating environmental laws.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for democratic norms and institutions. He has repeatedly demonstrated a willingness to undermine the rights of marginalized communities, including racial and ethnic minorities, women, and LGBTQ+ individuals. DeSantis has also shown a pattern of hostility towards the judiciary, with numerous court rulings finding his actions and policies to be arbitrary, capricious, and unconstitutional. His administration has been found liable for violating the rights of students with disabilities, prisoners, and voters, and has been sued for allegedly inciting violence against individuals and violating environmental laws. DeSantis's actions have been characterized by a consistent pursuit of power and control, often at the expense of the well-being and rights of others.",
   "initialized": true,
   "entries": [
     {
@@ -874,6 +874,17 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10846358/friends-of-the-everglades-inc-v-secretary-of-the-us-department-of/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "date": "2026-07-24",
+      "fact": "Ron DeSantis was found liable for violating the Florida Constitution in McGraw v. DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10934822/james-aren-duckett-v-state-of-florida/",
           "name": "courtlistener.com"
         }
       ]
