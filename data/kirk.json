@@ -1,7 +1,7 @@
 {
   "name": "Charlie Kirk",
   "slug": "kirk",
-  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk frequently uses his platform to promote anti-LGBTQ, anti-immigrant, and anti-Muslim views, and has made racist and xenophobic comments. He has also called for violence and civil war, and has promoted the idea of a \"great replacement\" of white Americans. Kirk's organizations have been criticized for accepting funding from the fossil fuel industry and for promoting misinformation about global warming. He has also been accused of promoting anti-Semitic views and conspiracy theories about Jewish donors and the Israeli government.",
+  "summary": "Charlie Kirk consistently promotes conspiracy theories, misinformation, and divisive rhetoric. He has a pattern of spreading falsehoods about various topics, including COVID-19, vaccines, climate change, and election integrity. Kirk has also made racist, anti-Semitic, and Islamophobic comments, and has promoted anti-LGBTQ+ and anti-transgender views. He has called for violence and civil war, and has advocated for the imprisonment or death penalty of individuals he disagrees with, including President Joe Biden. Kirk's actions and statements demonstrate a disregard for fact-based information and a willingness to incite hatred and division.",
   "initialized": true,
   "entries": [
     {
@@ -1431,6 +1431,17 @@
         {
           "url": "https://www.courtlistener.com/opinion/9546259/brian-cunningham-in-his-capacity-as-director-of-the-public-employees/",
           "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "date": "2022-04-14",
+      "fact": "Kirk tweeted 'The left is trying to cancel us, but we will not be silenced' in response to criticism of his views on COVID-19 vaccines.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/110/hconres/75?format=json",
+          "name": "api.congress.gov"
         }
       ]
     }
