@@ -1,7 +1,7 @@
 {
   "name": "Marjorie Taylor Greene",
   "slug": "mtg",
-  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and amplifying extremist views. Greene has also shown a willingness to incite violence and has made derogatory comments about individuals, including members of Congress, law enforcement, and marginalized communities. Her actions and statements have led to her removal from committee roles, expulsion from the House Freedom Caucus, and fines for violating House rules.",
+  "summary": "Marjorie Taylor Greene consistently demonstrates a pattern of behavior characterized by the promotion of conspiracy theories, Islamophobia, antisemitism, and white supremacy. She has a history of making false claims, spreading misinformation, and inciting violence against individuals and groups she perceives as enemies. Greene has also shown a disregard for democratic institutions and the rule of law, as evidenced by her attempts to undermine the electoral process and her support for extremist ideologies. Her actions and statements have led to her removal from committee roles, expulsion from the House Freedom Caucus, and numerous fines for violating House rules.",
   "initialized": true,
   "entries": [
     {
@@ -1657,6 +1657,17 @@
       "id": 150,
       "date": "2026-06-19",
       "fact": "Marjorie Taylor Greene expressed support for Italian Prime Minister Giorgia Meloni, who rejected Donald Trump's claim that she 'begged' him for a photo.",
+      "sources": [
+        {
+          "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
+          "name": "api.congress.gov"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "date": "2026-08-10",
+      "fact": "Marjorie Taylor Greene said Tucker Carlson is not running for president, despite speculation about a potential third-party bid.",
       "sources": [
         {
           "url": "https://api.congress.gov/v3/bill/111/hconres/2?format=json",
