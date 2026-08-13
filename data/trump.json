@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump",
   "slug": "trump",
-  "summary": "Donald Trump's character is marked by a pattern of behavior that prioritizes self-interest and authoritarianism over accountability and the rule of law. He has a history of using racist and xenophobic rhetoric to demonize marginalized groups, including immigrants, Muslims, and people of color. Trump has consistently disregarded scientific consensus and evidence-based policy, instead promoting anti-science and anti-vaccine activism, and withdrawing from critical international agreements such as the Paris Agreement on climate change. He has also demonstrated a willingness to disregard federal law and constitutional norms, including ignoring court orders, firing thousands of federal employees, and dismantling federal agencies. Trump's actions have been characterized as authoritarian, contributing to democratic backsliding, and negatively impacting the rule of law. His presidency has been marked by a consistent disregard for ethics and accountability, including profiting from events held at his hotels and golf courses, and launching and promoting his own cryptocurrency tokens.",
+  "summary": "Donald Trump's character is marked by a pattern of disregard for the law, accountability, and ethics. He has a history of using his power to enrich himself and his allies, while targeting his opponents and critics. Trump has repeatedly demonstrated a willingness to disregard the truth, often using racist and xenophobic rhetoric to divide and incite his base. He has also shown a disregard for the rule of law, ignoring court orders and constitutional norms to achieve his goals. Trump's actions have contributed to democratic backsliding, undermining the independence of the Justice Department, and promoting authoritarianism. His presidency has been marked by a consistent disregard for the well-being of marginalized communities, including immigrants, people of color, and LGBTQ individuals.",
   "initialized": true,
   "entries": [
     {
@@ -8587,6 +8587,39 @@
       "sources": [
         {
           "url": "https://thehill.com/homenews/campaign/5999917-ogles-defeat-tennessee-house-primary/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 855,
+      "date": "2026-08-12",
+      "fact": "Human rights groups sue Trump administration over ICC sanctions, arguing that sanctions against judges, prosecutors, and others are unlawfully interfering with their international criminal justice work.",
+      "sources": [
+        {
+          "url": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 856,
+      "date": "2026-08-12",
+      "fact": "Rosie O'Donnell says 'horrible' Trump is reason she's 'refamous', reigniting public interest in her due to their decades-long public feud.",
+      "sources": [
+        {
+          "url": "https://thehill.com/blogs/in-the-know/6024884-rosie-odonnell-trump-feud/",
+          "name": "thehill.com"
+        }
+      ]
+    },
+    {
+      "id": 857,
+      "date": "2026-08-12",
+      "fact": "Rep. Raja Krishnamoorthi called for Postmaster General David Steiner's removal or resignation due to his refusal to ensure the U.S. Postal Service complies with federal court orders regarding the Trump administration's challenged mail-in voting rules.",
+      "sources": [
+        {
+          "url": "https://thehill.com/opinion/white-house/6023961-trump-mail-ballot-court-battle/",
           "name": "thehill.com"
         }
       ]
