@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for democratic norms and institutions. He has repeatedly demonstrated a willingness to undermine the rights of marginalized communities, including racial and ethnic minorities, women, and LGBTQ+ individuals. DeSantis has also shown a pattern of hostility towards the judiciary, with numerous court rulings finding his actions and policies to be arbitrary, capricious, and unconstitutional. His administration has been found liable for violating the rights of students with disabilities, prisoners, and voters, and has been sued for allegedly inciting violence against individuals and violating environmental laws. DeSantis's actions have been characterized by a consistent pursuit of power and control, often at the expense of the well-being and rights of others.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for democratic norms and institutions. He has repeatedly demonstrated a willingness to restrict voting rights, suppress dissent, and undermine the rule of law. DeSantis has also shown a pattern of hostility towards marginalized communities, including people of color, LGBTQ+ individuals, and immigrants. His actions have been repeatedly found to be unconstitutional and arbitrary, with multiple court rulings holding him liable for violating the rights of citizens and perpetuating systemic injustices.",
   "initialized": true,
   "entries": [
     {
@@ -882,6 +882,39 @@
       "id": 85,
       "date": "2026-07-24",
       "fact": "Ron DeSantis was found liable for violating the Florida Constitution in McGraw v. DeSantis.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10934822/james-aren-duckett-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "date": "2026-08-04",
+      "fact": "Ron DeSantis's administration was found liable for conspiracy to defraud the state of Florida in the case of HM Florida-ORL, LLC v. Secretary of the Florida Department of Business.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10939401/hm-florida-orl-llc-v-secretary-of-the-florida-department-of-business/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "date": "2026-08-03",
+      "fact": "Ron DeSantis's administration was found liable for conspiracy to defraud the state of Florida in the case of Liccione v. Equal Ground Education Fund, Inc., Vilar.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10938797/liccione-v-equal-ground-education-fund-inc-vilar/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "date": "2026-07-24",
+      "fact": "Ron DeSantis's appointee, James Aren Duckett, was found guilty of a crime in the case of James Aren Duckett v. State of Florida.",
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10934822/james-aren-duckett-v-state-of-florida/",
