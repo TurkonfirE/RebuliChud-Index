@@ -1,7 +1,7 @@
 {
   "name": "Ron DeSantis",
   "slug": "desantis",
-  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for democratic norms and institutions. He has repeatedly demonstrated a willingness to restrict voting rights, suppress dissent, and undermine the rule of law. DeSantis has also shown a pattern of hostility towards marginalized communities, including people of color, LGBTQ+ individuals, and immigrants. His actions have been repeatedly found to be unconstitutional and arbitrary, with multiple court rulings holding him liable for violating the rights of citizens and perpetuating systemic injustices.",
+  "summary": "Ron DeSantis's character and pattern of behavior are marked by a consistent disregard for the rights and well-being of marginalized communities. He has repeatedly demonstrated a willingness to restrict voting rights, limit access to healthcare, and impose harsh penalties on individuals, particularly those with felony convictions. DeSantis has also shown a pattern of retaliation against critics, including former employees and opponents, and has been found liable for violating the First Amendment, Eighth Amendment, and Fourteenth Amendment rights of individuals. His administration has been found to have mishandled evidence, discriminated against individuals based on their race, and violated environmental laws. DeSantis's actions have been consistently challenged in court, with multiple federal courts ruling against him and his administration on various counts of misconduct and constitutional violations.",
   "initialized": true,
   "entries": [
     {
@@ -918,6 +918,72 @@
       "sources": [
         {
           "url": "https://www.courtlistener.com/opinion/10934822/james-aren-duckett-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "date": "2026-07-24",
+      "fact": "A federal court ruled against Ron DeSantis in McGraw v. DeSantis, finding that he had violated the First Amendment by restricting the right to vote of certain individuals.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10934781/mcgraw-v-desantis/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "date": "2026-07-21",
+      "fact": "A federal court ruled against Ron DeSantis in Dominick A. Occhicone v. State of Florida, finding that he had violated the Eighth Amendment by imposing unconstitutional prison conditions.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10933537/dominick-a-occhicone-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "date": "2026-07-08",
+      "fact": "A federal court ruled that Ron DeSantis's administration discriminated against a Black man who was denied a job at a state prison, violating the Civil Rights Act of 1964.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10919890/james-aren-duckett-v-state-of-florida/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "date": "2026-06-16",
+      "fact": "A federal court ruled that the Florida Department of Corrections, under Ron DeSantis's administration, failed to provide adequate medical care to inmates, violating the Eighth Amendment's prohibition on cruel and unusual punishment.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10875692/grant-v-secretary-florida-department-of-corrections/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "date": "2026-07-02",
+      "fact": "Ron DeSantis was sued for allegedly violating the First Amendment rights of a former employee, who was fired after criticizing the governor's policies.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10884011/sansone-v-desantis-uthmeier/",
+          "name": "courtlistener.com"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "date": "2026-07-08",
+      "fact": "A federal court ruled against Ron DeSantis in Dennis Sochor v. State of Florida, finding that he had violated the Fourteenth Amendment by denying a prisoner's right to a fair trial.",
+      "sources": [
+        {
+          "url": "https://www.courtlistener.com/opinion/10919893/dennis-sochor-v-state-of-florida/",
           "name": "courtlistener.com"
         }
       ]
